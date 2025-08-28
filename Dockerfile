@@ -6,6 +6,8 @@ RUN apk add --no-cache bash
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
+RUN pip install requests
+
 ADD src /src
 
 ENTRYPOINT ["/entrypoint.sh"]
