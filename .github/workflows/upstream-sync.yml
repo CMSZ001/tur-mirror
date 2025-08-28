@@ -1,0 +1,49 @@
+name: Upstream Sync
+
+permissions:
+  contents: write
+  actions: write
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 每天 03:00 UTC 自动执行
+  workflow_dispatch:       # 保留手动触发，无参数
+
+jobs:
+  sync_latest_from_upstream:
+    name: Sync latest commits from upstream repo
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sync upstream changes (only dists and pool)
+        id: sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 克隆上游仓库
+          git clone https://github.com/termux-user-repository/dists.git /tmp/latest
+
+          # 仅覆盖 dists/ 和 pool/
+          rm -rf dists pool
+          cp -r /tmp/latest/dists /tmp/latest/pool ./ || true
+
+          # 提交并推送
+          git add dists pool
+          if git diff --cached --quiet; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Sync upstream dists/ and pool/ directories"
+            git push
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger deployment
+        if: steps.sync.outputs.no_changes == 'false'
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: pages.yml

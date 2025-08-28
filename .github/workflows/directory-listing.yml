@@ -1,0 +1,40 @@
+name: Directory Listing
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1. 创建一个空目录作为合并根
+      - name: Prepare merge dir
+        run: mkdir -p public
+
+      # 2. 把要跟踪的两个文件夹复制进来
+      - name: Copy tracked folders
+        run: |
+          cp -r dists public/dists
+          cp -r pool public/pool
+
+      # 3. 生成索引（对合并后的 public 目录）
+      - name: Generate index
+        uses: CMSZ001/tur-mirror@directory-listing
+        with:
+          FOLDER: public
+
+      # 4. 上传并部署
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy ./public --project-name=tur-mirror --branch=main --commit-dirty=true
