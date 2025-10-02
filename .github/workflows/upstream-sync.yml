@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # 每天 03:00 UTC 自动执行
+    - cron: '0 0 * * *'   # 每天 00:00 UTC 自动执行
   workflow_dispatch:       # 保留手动触发，无参数
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # 克隆上游仓库
-          git clone https://github.com/termux-user-repository/dists.git /tmp/latest
+          git clone --depth=1 https://github.com/termux-user-repository/dists.git /tmp/latest
 
           # 仅覆盖 dists/ 和 pool/
           rm -rf dists pool
