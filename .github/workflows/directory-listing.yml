@@ -24,7 +24,7 @@ jobs:
       # 2. 把要跟踪的两个文件夹复制进来
       - name: Copy tracked folders
         run: |
-          cp -r dists public/turdists
+          cp -r dists public/tur/dists
           cp -r pool public/tur/pool
 
       # 3. 生成索引
