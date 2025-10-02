@@ -17,15 +17,17 @@ jobs:
 
       # 1. 创建一个空目录作为合并根
       - name: Prepare merge dir
-        run: mkdir -p public
+        run: |
+          mkdir -p public
+          mkdir -p public/tur
 
       # 2. 把要跟踪的两个文件夹复制进来
       - name: Copy tracked folders
         run: |
-          cp -r dists public/dists
-          cp -r pool public/pool
+          cp -r dists public/turdists
+          cp -r pool public/tur/pool
 
-      # 3. 生成索引（对合并后的 public 目录）
+      # 3. 生成索引
       - name: Generate index
         uses: CMSZ001/tur-mirror@directory-listing
         with:
@@ -37,4 +39,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./public --project-name=tur-mirror --branch=main --commit-dirty=true
+          command: pages deploy ./public/tur --project-name=tur-mirror --branch=master --commit-dirty=true
