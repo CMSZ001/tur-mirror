@@ -46,4 +46,4 @@ jobs:
         if: steps.sync.outputs.no_changes == 'false'
         uses: benc-uk/workflow-dispatch@v1
         with:
-          workflow: pages.yml
+          workflow: directory-listing.yml
