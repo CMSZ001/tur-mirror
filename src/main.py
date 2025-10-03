@@ -16,7 +16,7 @@ with open('/src/icons.json', encoding="utf-8") as json_file:
 
 GITHUB_REPO = "termux-user-repository/dists"
 GITHUB_API = "https://api.github.com/repos/" + GITHUB_REPO
-RELEASE_TAG = "0.1"
+DEFAULT_RELEASE_TAG = "0.1"
 
 # debug json cache (overwritten every run)
 COMMITS_JSON = "dists_commits.json"
@@ -24,9 +24,11 @@ RELEASE_JSON = "pool_release.json"
 
 _commits_cache = None
 _release_cache = None
+_all_releases = None
 
 
 def main():
+    global _all_releases
     if len(sys.argv) > 1:
         print("changing directory to " + sys.argv[1])
         try:
@@ -37,6 +39,9 @@ def main():
     else:
         print("no directory specified")
         sys.exit()
+
+    # 预先获取所有 release 列表
+    _all_releases = fetch_all_releases()
 
     for dirname, dirnames, filenames in os.walk('.'):
         abs_dir = os.path.abspath(dirname)
@@ -118,21 +123,61 @@ def fetch_commits_cache():
     print("Saved commits cache (this run)")
 
 
+def fetch_all_releases():
+    """Fetch all releases in the repo once per run"""
+    print("Fetching all releases from GitHub...")
+    releases = []
+    page = 1
+    while True:
+        r = requests.get(f"{GITHUB_API}/releases?per_page=100&page={page}")
+        if r.status_code != 200:
+            break
+        batch = r.json()
+        if not batch:
+            break
+        releases.extend(batch)
+        page += 1
+    print(f"Fetched {len(releases)} releases")
+    return releases
+
+
 def fetch_release_cache():
-    """Fetch release assets (pool) once per run"""
-    global _release_cache
-    print("Fetching release assets from GitHub...")
-    url = f"{GITHUB_API}/releases/tags/{RELEASE_TAG}"
-    r = requests.get(url)
-    if r.status_code == 200:
-        assets = {a["name"]: {"size": a["size"], "updated_at": a["updated_at"]}
-                  for a in r.json().get("assets", [])}
-        _release_cache = assets
-        with open(RELEASE_JSON, "w", encoding="utf-8") as f:
-            json.dump(_release_cache, f, indent=2)
-        print("Saved release cache (this run)")
-    else:
-        _release_cache = {}
+    """Prepare pool release cache by matching files to tag, fallback to DEFAULT_RELEASE_TAG"""
+    global _release_cache, _all_releases
+    print("Building release cache for pool...")
+    release_cache = {}
+
+    # 找到默认 release
+    default_release = next((r for r in _all_releases if r["tag_name"] == DEFAULT_RELEASE_TAG), None)
+    default_assets = {a["name"]: a for a in default_release.get("assets", [])} if default_release else {}
+
+    # 遍历所有 assets，按文件名取最新对应 tag
+    for release in _all_releases:
+        tag = release["tag_name"]
+        for asset in release.get("assets", []):
+            name = asset["name"]
+            # 如果文件已经存在，则跳过，优先使用最新 tag
+            if name in release_cache:
+                continue
+            release_cache[name] = {
+                "size": asset["size"],
+                "updated_at": asset["updated_at"],
+                "tag": tag
+            }
+
+    # 回退默认 tag
+    for name, asset in default_assets.items():
+        if name not in release_cache:
+            release_cache[name] = {
+                "size": asset["size"],
+                "updated_at": asset["updated_at"],
+                "tag": DEFAULT_RELEASE_TAG
+            }
+
+    _release_cache = release_cache
+    with open(RELEASE_JSON, "w", encoding="utf-8") as f:
+        json.dump(_release_cache, f, indent=2)
+    print("Saved release cache (this run)")
 
 
 # ---------- HELPERS ----------
