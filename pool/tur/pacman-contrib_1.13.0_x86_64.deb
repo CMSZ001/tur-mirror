@@ -1,0 +1,16 @@
+Package: pacman-contrib
+Version: 1.13.0
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 328
+Depends: pacman
+Recommends: diffutils, bsdtar
+Suggests: vim, mlocate, perl
+Filename: pool/tur/pacman-contrib_1.13.0_x86_64.deb
+Size: 40172
+MD5sum: 8f7a62149d0f53d454f1205ff7d3c65d
+SHA1: 437b34ebec03e76f60b3d85c69d1f3839b37afe4
+SHA256: 751b09ad29fdfcec35adb0f3f1c4237ee83527036730be470aa089bd49117996
+Homepage: https://gitlab.archlinux.org/pacman/pacman-contrib
+Description: Additional libalpm utilities contributed by Arch community
+
