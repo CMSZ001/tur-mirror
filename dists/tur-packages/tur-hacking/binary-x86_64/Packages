@@ -26,16 +26,16 @@ Homepage: https://www.aircrack-ng.org/
 Description: WiFi security auditing tools suite
 
 Package: bettercap
-Version: 2.41.0
+Version: 2.41.1
 Architecture: x86_64
 Maintainer: 1q23lyc45
-Installed-Size: 68820
+Installed-Size: 68948
 Depends: libusb, libpcap, root-repo, libnetfilter-queue
-Filename: pool/tur-hacking/bettercap_2.41.0_x86_64.deb
-Size: 11984844
-MD5sum: 7effd959af59fb8168f2f827e8177795
-SHA1: 4cabfb0c01e2f47fa81d7235a356562424707520
-SHA256: 9a711407ff19426933919ac3fa1426c14d843d5866793b001600b426db123a3c
+Filename: pool/tur-hacking/bettercap_2.41.1_x86_64.deb
+Size: 11992904
+MD5sum: 33f3b28d09b3477f8e1561a56ec50120
+SHA1: f59bf04f1afc107fde4ba9d195ed319b7e729b3f
+SHA256: d766a8dd12e5f8d25572ff119760ed8365fb743c21b1bc0a4108ef19407ec64f
 Homepage: https://www.bettercap.org/
 Description: The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 
@@ -94,16 +94,16 @@ Homepage: https://github.com/shadow1ng/fscan
 Description: A comprehensive intranet scanning tool
 
 Package: hashcat
-Version: 6.2.6-5
+Version: 7.1.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 176252
-Depends: opencl-vendor-driver, libiconv
-Filename: pool/tur-hacking/hashcat_6.2.6-5_x86_64.deb
-Size: 12644352
-MD5sum: 429b70a437b56ba91fc6306c6a12db59
-SHA1: 0484d85a7de638f94a8259f92c316fa8eb749e7e
-SHA256: 0957f8ba588239853695af71c34a080eab8f5ce3d22c41f2cb37d37f04dd2ad1
+Installed-Size: 234764
+Depends: libc++, libiconv, opencl-vendor-driver
+Filename: pool/tur-hacking/hashcat_7.1.2_x86_64.deb
+Size: 14301028
+MD5sum: 5fe673ca7f20dacab927c1632c5df6ca
+SHA1: 6c6025fecb5acd82dd3ebcc3028103626cfdc076
+SHA256: f02434dad1a89b81c4717213042c25d2a16574ca97c13a208c601843d757f945
 Homepage: https://hashcat.net/hashcat/
 Description: World's fastest and most advanced password recovery utility
 

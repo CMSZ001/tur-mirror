@@ -569,15 +569,15 @@ Homepage: https://github.com/stsp/dj64dev
 Description: development suite that allows to cross-build 64-bit programs for DOS
 
 Package: djstub
-Version: 0.3-1
+Version: 0.7
 Architecture: arm
 Maintainer: @stsp
-Installed-Size: 80
-Filename: pool/tur/djstub_0.3-1_arm.deb
-Size: 13180
-MD5sum: 6ada16f59120922ab3ee650dee1de7bb
-SHA1: 05c0ed9a6e181fa6ff01c3ab6a4e257a9eeed906
-SHA256: c2204d3b6edf1ca3b7afce8ce6e2795b6e9a7e1801cc9bc6154d44cb8f04ce9c
+Installed-Size: 84
+Filename: pool/tur/djstub_0.7_arm.deb
+Size: 14264
+MD5sum: a09930f3516653c2b63ad03bca0d8105
+SHA1: 9b90ca75a5daa21a7144a90f00e6c8bef8b6fac6
+SHA256: 4514da389113634cf17eaed4770bae52e4235c1ff79becd3a24091e68dfb6eef
 Homepage: https://github.com/stsp/djstub
 Description: go32-compatible stub that supports COFF, PE and ELF payloads
 
@@ -1034,47 +1034,47 @@ Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-12
-Version: 12.4.0
+Version: 12.5.0
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 143424
-Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 26b-3)
+Installed-Size: 143452
+Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (<< 29)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-12_12.4.0_arm.deb
-Size: 47326040
-MD5sum: e1d43244f2bf0293a992746435305d61
-SHA1: 76aaf643f5291daef74973e1937127969a973211
-SHA256: 9803eccf6d6de06e917e1310805579fd65d9f94a889ee6158328d2658f91b2cb
+Filename: pool/tur/gcc-12_12.5.0_arm.deb
+Size: 47353120
+MD5sum: 4ed8dfaee5fe86c0c5439b23a55496fd
+SHA1: 861147751b20c372815cd7d912a8e9067ca2fed7
+SHA256: b47c1631fec3bc0b168f0ca987e37e1d2d043e01193d6010cea5a619bf1be8c6
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-13
-Version: 13.3.0-1
+Version: 13.4.0
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 153204
+Installed-Size: 153312
 Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 26b-3)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-13_13.3.0-1_arm.deb
-Size: 50133100
-MD5sum: 53063bed01fe4a7fd3c2d455a433fdfd
-SHA1: 99596268cccf3652506102e023345efa5c94bd51
-SHA256: e01e76b6f697eb5a8035c4782a0b5fb51b3fa9c3aa6aad82f9a0ca9334c76bd3
+Filename: pool/tur/gcc-13_13.4.0_arm.deb
+Size: 50208836
+MD5sum: 0b36d7427f967b73717bb1ce2ad1dd51
+SHA1: c55fbeb5b7f02a32778de370caf6157fa8a82f11
+SHA256: 73359f170c1d813bbe9dd9c092d5f29cf1df960f1046d48a80e20e722dc150c2
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-14
-Version: 14.2.0
+Version: 14.3.0
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 165464
+Installed-Size: 165496
 Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 26b-3)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-14_14.2.0_arm.deb
-Size: 54932584
-MD5sum: ebcc05a58345319600a395bc245dbd2c
-SHA1: 698f9134f210a2d343bedc29d6ab2a6172eb59be
-SHA256: ac3486b647088d2e6ae3af66d44aeb925aa0a54d3f877e6d07450755d61b993d
+Filename: pool/tur/gcc-14_14.3.0_arm.deb
+Size: 54940692
+MD5sum: 74f824906b6e26f98c4fabbb98b2879d
+SHA1: 7c40fc9f22a173bc261cafde222da5cfe8a3d7ca
+SHA256: 48ec5cd9b2718543729d0a543e79ac15eee4836637e3ef9a2020eaed09a1121f
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
@@ -3822,16 +3822,16 @@ Homepage: https://github.com/FlorianREGAZ/Python-Tls-Client
 Description: Advanced HTTP Library
 
 Package: python-tokenizers
-Version: 0.21.2
+Version: 0.22.1
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 4728
+Installed-Size: 4960
 Depends: libc++, python, python-pip
-Filename: pool/tur/python-tokenizers_0.21.2_arm.deb
-Size: 1543812
-MD5sum: 8e495a33cd485e4e56d34ab132f81a5a
-SHA1: ca3a50e15bf3097d8bbd50fa27f525ee2fd2612a
-SHA256: 283a8815c4bbf9f4dd5eeca4d1d75f7e0ca1c2413ecd7c9f83e27cd6565f2cbd
+Filename: pool/tur/python-tokenizers_0.22.1_arm.deb
+Size: 1620168
+MD5sum: 0cfb317610f29b243986d68edb57eb2f
+SHA1: 8e0d590bd2d4e9c3c23082b8041ed0bd6bf7a428
+SHA256: bcfdfad13f8db5423625c9e2959cb9ff67b60da34c981d7e6366a0034d576e60
 Homepage: https://github.com/huggingface/tokenizers
 Description: Fast State-of-the-Art Tokenizers optimized for Research and Production
 
@@ -4508,15 +4508,15 @@ Homepage: https://github.com/stern/stern
 Description: Multi pod and container log tailing for Kubernetes - Fork of https://github.com/wercker/stern
 
 Package: sttr
-Version: 0.2.27
+Version: 0.2.28
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 7364
-Filename: pool/tur/sttr_0.2.27_arm.deb
-Size: 2102640
-MD5sum: 23a7b82a0ffb1b4c44683ac6f3726e7a
-SHA1: 18aa0d8fc98eb86317013539abdaf2a915284a2a
-SHA256: bad6cb7a3a1ad43c69f36916aa158c7d5733d2ec79e6a42d3432d5fa697b399b
+Installed-Size: 7384
+Filename: pool/tur/sttr_0.2.28_arm.deb
+Size: 2103020
+MD5sum: a784d7f3e9c620e8c56b27eb36ea5d64
+SHA1: d822eedb134495b7fb9b54e002cacb2a5c751451
+SHA256: 2cb6c3dd68799166de895f438e9c32af4e30710a56a54dc75ce4dcfcb3b1a2cd
 Homepage: https://github.com/abhimanyu003/sttr
 Description: Cli app to perform various operations on string
 
@@ -4651,16 +4651,16 @@ Homepage: https://termux.dev/
 Description: Basic system tools for Termux
 
 Package: thunk-gen
-Version: 1.6-2
+Version: 1.8
 Architecture: arm
 Maintainer: @stsp
 Installed-Size: 100
 Depends: bash, autoconf, pkg-config
-Filename: pool/tur/thunk-gen_1.6-2_arm.deb
-Size: 13140
-MD5sum: e0fa17d7b2f6f776cbbb3671866663a5
-SHA1: 5e0fd1f34fff729c9d8c6de526bc04923dc204a0
-SHA256: 482dcb51042ad0f2597975a522271d965da90c946ef27f6e587cf6250e880141
+Filename: pool/tur/thunk-gen_1.8_arm.deb
+Size: 13232
+MD5sum: e54fb3a7be51c1c34601406d192d0b16
+SHA1: 1daca3e0f21ad0aca738ba38acf914dc42bcd9e8
+SHA256: e4ae9345667b6ad332b174971511ff7df3efa4620585a7c47417b1589ffc5554
 Homepage: https://github.com/stsp/thunk_gen
 Description: thunk generator for C and assembler
 
@@ -5171,16 +5171,16 @@ Homepage: https://repo.dgbaodev.com
 Description: Community repository maintained by Dichvucoder
 
 Package: djstub-cross
-Version: 0.3-1
+Version: 0.7
 Architecture: all
 Maintainer: @stsp
-Installed-Size: 120
-Depends: djstub (= 0.3-1)
-Filename: pool/tur/djstub-cross_0.3-1_all.deb
-Size: 25192
-MD5sum: 1b0149064b17f0b7e31b46a550dd66ef
-SHA1: b83bb5aff30f21595f21ab77c0b6697ccfea2a4e
-SHA256: a7239ce300c306b14f686321c32dc494ad49d18cb4eb999203c8eb55feb4f8f3
+Installed-Size: 124
+Depends: djstub (= 0.7)
+Filename: pool/tur/djstub-cross_0.7_all.deb
+Size: 27136
+MD5sum: 9303f0db4baec0576ec5a62cb4b40242
+SHA1: 82850cd990b60ec6e36b5de0fbdd8e54d6961215
+SHA256: 042e55601069ff3cca6436a8bc9b48cc09b24abce1bf7fe30566d1f426035175
 Homepage: https://github.com/stsp/djstub
 Description: djstub for host (NOT for Termux)
 
@@ -5789,16 +5789,16 @@ Homepage: https://github.com/KrutosVIP/TermuxInstall
 Description: Install Termux to chroot from Termux
 
 Package: thunk-gen-cross
-Version: 1.6-2
+Version: 1.8
 Architecture: all
 Maintainer: @stsp
 Installed-Size: 152
-Depends: thunk-gen (= 1.6-2)
-Filename: pool/tur/thunk-gen-cross_1.6-2_all.deb
-Size: 28660
-MD5sum: 5f9336a07a754c2f8b673e2600622225
-SHA1: 92e6a66f9f3aefe57d4a30ee6469c3208d6174d2
-SHA256: 9c2d451234b1aad959ae01f4c9be4923d9c929ebf8cda4b196db7899ef57ce7a
+Depends: thunk-gen (= 1.8)
+Filename: pool/tur/thunk-gen-cross_1.8_all.deb
+Size: 28784
+MD5sum: 83c6a918db98f76d470baa447a0e6bfe
+SHA1: 36185f6a5e5f848d2f396bb78ce048d3467f4c7b
+SHA256: aebd94894f38c63b5d28a55847e638852b90275da87fa7c0c1b86cc408854bba
 Homepage: https://github.com/stsp/thunk_gen
 Description: thunk-gen for host (NOT for Termux)
 
