@@ -1,14 +1,14 @@
 Package: gnome-chess
-Version: 48.0
+Version: 49.2
 Architecture: arm
 Maintainer: @lunsokhasovan, @termux-user-repository
-Installed-Size: 1808
+Installed-Size: 1812
 Depends: glib, gtk4, gnuchess, libadwaita, libcairo, librsvg, opengl, pango
-Filename: pool/tur-on-device/gnome-chess_48.0_arm.deb
-Size: 431488
-MD5sum: 6c6f753d3eba311c872aa8f60505e48a
-SHA1: 24e662d5313b7f1f9b73f204183d02de3dc4f4e7
-SHA256: 893f5dd5f477b5d389a41f14144ef6ed7e07e8d8455426e1c3fc20eeff8c5369
+Filename: pool/tur-on-device/gnome-chess_49.2_arm.deb
+Size: 432288
+MD5sum: 356d97741e542e7a234f63cf98908c30
+SHA1: d89f9efd762cf1d7a16d893fb94a63e7ea7cfc5a
+SHA256: ac38743340db654445fd229b92cceb20a2337fb8a6d3529a12b68712a1b63792
 Homepage: https://wiki.gnome.org/Apps(2f)Chess.html
 Description: GNOME Chess game
 
@@ -27,16 +27,16 @@ Homepage: https://wiki.gnome.org/Apps/Mahjogg
 Description: GNOME Mahjongg game
 
 Package: gnome-sudoku
-Version: 48.1
+Version: 49.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 1828
+Installed-Size: 1848
 Depends: glib, gtk4, json-glib, libadwaita, libcairo, libgee, opengl, qqwing
-Filename: pool/tur-on-device/gnome-sudoku_48.1_arm.deb
-Size: 218564
-MD5sum: 7253ebdfe97c12583f4340592b1baa51
-SHA1: b28877a93afed250d08ac23c963ac3bf71b4b1f3
-SHA256: 2ca7c371d5d9d7658b2ac8e88d2f7c77f10d6b183b40229ab02fa028eaca0b44
+Filename: pool/tur-on-device/gnome-sudoku_49.0_arm.deb
+Size: 224676
+MD5sum: dbd3d760f7939af5e5dbbd29a83563a7
+SHA1: f9e569d652a71066f4edc8c50f40a09fc5983618
+SHA256: 3fefd9ea12a74187faf7948d7f6f1ccae16694bdae35c39cf744667206dee4bc
 Homepage: https://wiki.gnome.org/Apps(2f)Sudoku.html
 Description: GNOME Sudoku game
 

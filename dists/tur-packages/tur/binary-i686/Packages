@@ -953,17 +953,17 @@ Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-15
-Version: 15.1.0
+Version: 15.2.0
 Architecture: i686
 Maintainer: @licy183
-Installed-Size: 288916
+Installed-Size: 289776
 Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 27b-3)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-15_15.1.0_i686.deb
-Size: 81059752
-MD5sum: c8a6cfa5503af7a4f011127b6fdf28d2
-SHA1: 0b7f4a331ff1daef44e834ff6a585d1b622cafbb
-SHA256: 2d0a01e20f796983074ba02d1ec95b4f85f53a39011316033ec413db8c79eef2
+Filename: pool/tur/gcc-15_15.2.0_i686.deb
+Size: 81159036
+MD5sum: 01d406ec7bd504d9331828c5f10c79e1
+SHA1: 62cc94023752ee112ac06d3e8d5ab812b0469746
+SHA256: f5a8626d037fcb938af1a218747004264fc897d7964aa0383d2bf2aff58a956f
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
@@ -3662,16 +3662,16 @@ Homepage: https://scipy.org/
 Description: Static libraries for python-scipy
 
 Package: python-scipy
-Version: 1:1.16.2
+Version: 1:1.16.2-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 120968
+Installed-Size: 120996
 Depends: libc++, libopenblas, python, python-numpy
-Filename: pool/tur/python-scipy_1:1.16.2_i686.deb
-Size: 24685344
-MD5sum: d18350ea2b06ca028e300fbf5bbb2a89
-SHA1: 594375333c75777648ee0e42b8f9b9cfbf8e6f98
-SHA256: 9d5d60b0151ddfa1c01a7a90b403f1f0b860347a59a09bf5470a3f957dcd3a27
+Filename: pool/tur/python-scipy_1:1.16.2-1_i686.deb
+Size: 24708296
+MD5sum: 2e82676f2b5e3d653bc0032a70e846e7
+SHA1: 462f71c67471ddf0b1ae4814d6c062ef2049c056
+SHA256: 3877a39edbbecb756f9af5a4727e96f7dbdebfec72cea98cd6db65ecd36aa07b
 Homepage: https://scipy.org/
 Description: Fundamental algorithms for scientific computing in Python
 
