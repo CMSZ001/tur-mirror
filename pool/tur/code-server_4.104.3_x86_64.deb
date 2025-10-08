@@ -1,0 +1,14 @@
+Package: code-server
+Version: 4.104.3
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 343720
+Depends: libandroid-spawn, libsecret, krb5, nodejs-22, ripgrep
+Filename: pool/tur/code-server_4.104.3_x86_64.deb
+Size: 45244016
+MD5sum: 1abbb0f88ab35bc20ee0639bc9941701
+SHA1: d7d17348b58a56f8e629878460fd2a2adf47a392
+SHA256: 315ac3ddf9f38cd116a6fe5aad086ec439a37a994d0056bee8f7e8b6af18938e
+Homepage: https://github.com/coder/code-server
+Description: Run VS Code on any machine anywhere and access it in the browser
+
