@@ -770,16 +770,16 @@ Homepage: http://dlib.net/
 Description: a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems
 
 Package: dosemu2
-Version: 2.0pre9-git-7
+Version: 2.0pre9-git-8
 Architecture: aarch64
 Maintainer: @stsp
 Installed-Size: 4556
 Depends: comcom64, instfd, libandroid-posix-semaphore, libandroid-glob, slang, libao, fluidsynth, ladspa-sdk, libslirp, libbsd, readline, json-c, libseccomp, libsearpc, sdl3, sdl3-ttf, fontconfig, fdpp, dj64dev
-Filename: pool/tur/dosemu2_2.0pre9-git-7_aarch64.deb
-Size: 1003456
-MD5sum: bcae44dc44737c39286f0f0368060abf
-SHA1: c30dce8221c6ee2ae117543399b92961f8841aa0
-SHA256: 9876d8a882c140d55f3627c43dc7c42d238dbd7ae4ccb47eefcdc2a2a5928152
+Filename: pool/tur/dosemu2_2.0pre9-git-8_aarch64.deb
+Size: 1003464
+MD5sum: 7684b778131bd1519802123b9949b6c3
+SHA1: a6366ed54548cfe16703f236734953b56446e990
+SHA256: 9d1453834317c72326280d771df15d1ee6caacae49b8196cf495c30c929d5e1a
 Homepage: https://github.com/dosemu2/dosemu2
 Description: Run DOS programs under linux.
 
@@ -1091,6 +1091,19 @@ SHA1: 88bcfc750c766abecc8d452877fd3701b6f0a223
 SHA256: 91f10cfbd38740a90ec3ef4599bc1ac05f881796ab13afac31ab3d0b66d74e0b
 Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
+
+Package: flow
+Version: 1.1.1
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 21140
+Filename: pool/tur/flow_1.1.1_aarch64.deb
+Size: 5083396
+MD5sum: 978cc8bdd3d0ec01967681243f42954b
+SHA1: 405c0c20de49cc9e672987bbb649223bf5d57c97
+SHA256: b13123c25b0453bc7a0f82d796fcf2fe3823bae6bd79f6bf88a1e38e6af8df12
+Homepage: https://github.com/flowexec/flow
+Description: Local developer automation platform that flows with you.
 
 Package: fscan
 Version: 1.8.1
