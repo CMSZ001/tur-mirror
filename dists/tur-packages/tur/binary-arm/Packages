@@ -367,16 +367,16 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: code-server
-Version: 4.105.0
+Version: 4.105.1
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 345124
 Depends: libandroid-spawn, libsecret, krb5, nodejs-22, ripgrep
-Filename: pool/tur/code-server_4.105.0_arm.deb
-Size: 45653620
-MD5sum: 13bd80d3960afdebbb9b1f95efd638e3
-SHA1: 1a6250097df87f92bffa9551afda200f2edfb823
-SHA256: e3271311248c3f16bfb121c1b54b938421016e041c29a1d35a557602f1ed8823
+Filename: pool/tur/code-server_4.105.1_arm.deb
+Size: 45652868
+MD5sum: eab4c996508913376612d2e5a80f51b8
+SHA1: f58adfe4421e7b1d143baf78f90e3f33590b180a
+SHA256: 3af376e77dc07dca7390e71b7b3a0936dcf9ddfb4e8c69d844f69b1c5edb93b5
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -4508,15 +4508,15 @@ Homepage: https://sortix.org/rw/
 Description: A lightweight dd(1) alternative that doesn't resemble IBM JCL
 
 Package: stash
-Version: 0.28.1
+Version: 0.29.0
 Architecture: arm
 Maintainer: @termux
-Installed-Size: 54064
-Filename: pool/tur/stash_0.28.1_arm.deb
-Size: 17842972
-MD5sum: fe775bfacef2bcd3d65e29e88a508663
-SHA1: fc314075b4e5340a33e17a4bb5080caa01205b73
-SHA256: 3571455cdbd51dd0b29f41e800726b96402346d66d5162f35bacdd9e444d8583
+Installed-Size: 55160
+Filename: pool/tur/stash_0.29.0_arm.deb
+Size: 18163432
+MD5sum: ced5a929a3651f0bb1e92647e352f979
+SHA1: 1ddb51dad0739eb13f64242b86f42ed2952b41e9
+SHA256: cf789ca98153d4acb76e4d2465c26cd9746ba1318dce65f37b29f2bf0f7e5d81
 Homepage: https://stashapp.cc
 Description: Locally hosted web-based app written in Go which organizes and serves your Adult Video
 
