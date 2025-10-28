@@ -1,0 +1,17 @@
+Package: ffmpeg5.1
+Version: 5.1.7
+Architecture: arm
+Maintainer: @termux-user-repository
+Installed-Size: 28948
+Depends: freetype, game-music-emu, libaom, libandroid-glob, libass, libbluray, libbz2, libdav1d, libgnutls, libiconv, liblzma, libmp3lame, libopus, librav1e, libsoxr, libtheora, libvorbis, libvpx, libvidstab, libwebp, libx264, libx265, libxml2, xvidcore, zlib
+Conflicts: libav
+Breaks: ffmpeg-dev
+Replaces: ffmpeg-dev
+Filename: pool/tur/ffmpeg5.1_5.1.7_arm.deb
+Size: 7627744
+MD5sum: 7362d745a22d75be42e8c7789961d09f
+SHA1: e944abea90a0eb14b8922fbdfa0e3a1441ea88af
+SHA256: 171812b4c9cafff261695c581bfdb4e89286f92ea473501ee15c048522fbc50a
+Homepage: https://ffmpeg.org
+Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
+
