@@ -1,13 +1,13 @@
 Package: afrog
-Version: 3.2.2
+Version: 3.2.5
 Architecture: i686
 Maintainer: @UtermuxBlog
-Installed-Size: 35780
-Filename: pool/tur-hacking/afrog_3.2.2_i686.deb
-Size: 9360268
-MD5sum: 9ce11e6b2008d5c4ea1c6a612ca7a305
-SHA1: cc0cf0c7ec1c558bf7c4de4470bf92b5b9285c67
-SHA256: 3929f258825860dea9aff7bf9c33e033a65ddf8fefcef7c00f015cb0b0cc9a05
+Installed-Size: 34956
+Filename: pool/tur-hacking/afrog_3.2.5_i686.deb
+Size: 9376068
+MD5sum: 6af0a99810ba0ec46dc16344c80ea6f7
+SHA1: 364d6513cb8c4aa4cfb2b01b0eff38d3276d7073
+SHA256: 9347d1f5119dfcf2a735bf3a61840baa70b48bc49657e632bb3b2a64957d5da2
 Homepage: https://github.com/zan8in/afrog
 Description: A tool for finding vulnerabilities
 
