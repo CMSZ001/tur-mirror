@@ -1,0 +1,15 @@
+Package: libbson
+Version: 1.30.3-3
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 624
+Conflicts: libmongoc (<< 1.30.3)
+Breaks: libmongoc (<< 1.30.3)
+Filename: pool/tur/libbson_1.30.3-3_aarch64.deb
+Size: 110036
+MD5sum: f94ba3829caa2e507463560758258e69
+SHA1: 4179dc3bca07ec427860a8dc83ef49d914cbb7a7
+SHA256: bc5ed433663c8776554db3887de6b1dcf607a78266f333aa66a3fa211778315c
+Homepage: https://github.com/mongodb/mongo-c-driver
+Description: A library providing useful routines related to building, parsing, and iterating BSON documents
+
