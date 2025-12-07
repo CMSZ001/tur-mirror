@@ -1,0 +1,14 @@
+Package: wine-devel
+Version: 11.0~rc1
+Architecture: i686
+Maintainer: @termux-user-repository
+Installed-Size: 2614656
+Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2, vulkan-loader, xorg-xrandr
+Filename: pool/tur/wine-devel_11.0.rc1_i686.deb
+Size: 78099648
+MD5sum: 39b1cf4fd1bba2dfd898190ac726f9bc
+SHA1: 2d5a2620d21e6af99d4cb097d984dc55f3ec7cce
+SHA256: 421ecb8c5676f8166faed0eba2c86c2fa3c6c67241b1ff846af37726606f2554
+Homepage: https://www.winehq.org/
+Description: A compatibility layer for running Windows programs
+
