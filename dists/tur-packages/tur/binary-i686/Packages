@@ -326,6 +326,20 @@ SHA256: e41bac13446b69aa16743fe72b0ca8ad09a1b72f60be399ba67d4642008abcf6
 Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
+Package: chromium-bsu
+Version: 0.9.16.1
+Architecture: i686
+Maintainer: @IntinteDAO
+Installed-Size: 1964
+Depends: libftgl2, sdl2, sdl2-mixer, sdl2-image, glu, fontconfig, libvorbis, libpng, libglvnd
+Filename: pool/tur/chromium-bsu_0.9.16.1_i686.deb
+Size: 1237532
+MD5sum: 36a4e7a23083af85f83303caea8a6a13
+SHA1: 2777b5980e37ebcef89830c9954c7142ca989290
+SHA256: febbec0f7e3efcc486d9f541049a0f731e9d1d20364406de164e32b46681b860
+Homepage: https://chromium-bsu.sourceforge.io/
+Description: Fast paced, arcade-style, top-scrolling space shooter
+
 Package: cksfv
 Version: 1.3.15
 Architecture: i686
@@ -395,16 +409,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.65.0
+Version: 0.66.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 41084
+Installed-Size: 41616
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.65.0_i686.deb
-Size: 11615332
-MD5sum: 04ecb8df19505533d3e79683b754ac77
-SHA1: 5c0abc14fbf0fcffb815ada868e96242f3e3570e
-SHA256: b405c97a29ba9f6420f9f8aae3ef45adb4df9daa105562a10dfa247296916a34
+Filename: pool/tur/codex_0.66.0_i686.deb
+Size: 11765860
+MD5sum: 580e7e64e36d5a596a7874c10614e300
+SHA1: 43eb28a2e0956e93d76c0c9b1ae6b58ddd808379
+SHA256: d0f2b8df8cab713ffce9edb34031c0aa8826da763d7fec27bb6ab852f827bc9d
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -450,15 +464,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crush
-Version: 0.21.0
+Version: 0.22.1
 Architecture: i686
 Maintainer: @ancientcatz
-Installed-Size: 55456
-Filename: pool/tur/crush_0.21.0_i686.deb
-Size: 13770868
-MD5sum: dd6d9ed5172f9a79e6c72895760088f1
-SHA1: 0cfc301f533579271e05a6640833bd3b911d4427
-SHA256: 2bd30cf036fadde94e08222abad5d7beec60ed24c363eb8ea921a53639029f66
+Installed-Size: 55536
+Filename: pool/tur/crush_0.22.1_i686.deb
+Size: 13779856
+MD5sum: bbb2fbad2adf3bd4b6c6c732d752cd41
+SHA1: c3fd10edbe1d7bd51b7f935a1b839bdbd543cf38
+SHA256: 931cda7123887b11538095a027a218bd945ab4ea3363eb5cb353635f4624d4e0
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
@@ -4996,16 +5010,17 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vhs
-Version: 0.2.0
+Version: 0.10.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 23620
-Depends: ttyd
-Filename: pool/tur/vhs_0.2.0_i686.deb
-Size: 7416564
-MD5sum: 20810e1775e90f08b0b24f16887169a5
-SHA1: 2704e2872ff94e76b88bf9041c5ebd725a5053d3
-SHA256: b8e054e41675be56ac41376911aa89f6d67b1683c9e697e7eeb06650f0aa3bf0
+Installed-Size: 23668
+Depends: ttyd, ffmpeg
+Suggests: chromium
+Filename: pool/tur/vhs_0.10.0_i686.deb
+Size: 7790428
+MD5sum: 31ab404f189d43b5aa2e3851a3ca4fdd
+SHA1: 47915122009f333138fd09d9374d3574bf41fec8
+SHA256: 58c8eee43b6b6e00dfbe4db0b8485990d1796de468d102511967175e8739f181
 Homepage: https://github.com/charmbracelet/vhs
 Description: Your CLI home video recorder
 
