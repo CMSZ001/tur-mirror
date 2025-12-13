@@ -409,16 +409,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.69.0
+Version: 0.71.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 42428
+Installed-Size: 45220
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.69.0_i686.deb
-Size: 11914636
-MD5sum: e1e0d3e7b835312176863faeda266c13
-SHA1: 0031bd92fc7c3f4f10a5edda445815c77c888431
-SHA256: 09315097227222a56fca9b7207c9666eb6d05d1701284a0d49eb4940d001960c
+Filename: pool/tur/codex_0.71.0_i686.deb
+Size: 12202892
+MD5sum: 064523d8d8947d104073a1504a4f8a85
+SHA1: c00669dadd4226ea777c170feacc16ce3279a72e
+SHA256: 63ed8cfb00f16d9f3754781f64f08df1ceabd6da02624b578a1b9263a446bed2
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -2780,15 +2780,15 @@ Homepage: https://llvm.org/
 Description: LLVM Development Tools
 
 Package: mdds
-Version: 3.1.0
+Version: 3.2.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 1308
-Filename: pool/tur/mdds_3.1.0_i686.deb
-Size: 124836
-MD5sum: ea4058fa3499c1fd518639b50c071353
-SHA1: 936ccab61a378f1c172652fde0d4c0b58e1dc388
-SHA256: 418fcbbc918b906f4a7a05214ba1771ded0e219d1e2150d0a64ea1f65aaab47a
+Installed-Size: 1268
+Filename: pool/tur/mdds_3.2.0_i686.deb
+Size: 126284
+MD5sum: f4320cb86a44f658ceb6dd443037af5c
+SHA1: a25e9908ef39df7e6d370c6c3b48e710bda965cf
+SHA256: c3c21528da2373f7d6de6e624e7b16f1b2fed36f98faa0aabc9722a2bb84ad04
 Homepage: https://gitlab.com/mdds/mdds
 Description: A collection of multi-dimensional data structures and indexing algorithms
 
@@ -3348,18 +3348,18 @@ Homepage: https://www.mesa3d.org
 Description: Mesa Off-screen Rendering Library
 
 Package: pacman-contrib
-Version: 1.13.0
+Version: 1.13.1
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 324
 Depends: pacman
 Recommends: diffutils, bsdtar
 Suggests: vim, mlocate, perl
-Filename: pool/tur/pacman-contrib_1.13.0_i686.deb
-Size: 39792
-MD5sum: 8629ba5252551d294d3d4909be0bd5ee
-SHA1: 988e4b493fb5dd39d497c583e4092fc7b301921b
-SHA256: eca47d490062df11c81e68702d411ae243e142f23ec03b1bd87ee82a4049a849
+Filename: pool/tur/pacman-contrib_1.13.1_i686.deb
+Size: 39768
+MD5sum: 7ef09ce2f09f9bc69dcba153124e61d0
+SHA1: 70d43827c18226f27441f4672fa0dc59a84d0173
+SHA256: abd94d6e40907f5d81ef24be5eeece7ac3c675a28580d5e5c5c0a094a363a577
 Homepage: https://gitlab.archlinux.org/pacman/pacman-contrib
 Description: Additional libalpm utilities contributed by Arch community
 
@@ -4572,15 +4572,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.0.193
+Version: 0.0.194
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 6968
-Filename: pool/tur/rumdl_0.0.193_i686.deb
-Size: 2406672
-MD5sum: 793cb5f7f22544e6881da8bcb20f5417
-SHA1: 9bb1bb4d73e6adbacd2b311dc390889d51c517db
-SHA256: 9a7176981b2341e1012ac0f5de4957996a37cc8837bb60c14adfa8e2e023734a
+Installed-Size: 7016
+Filename: pool/tur/rumdl_0.0.194_i686.deb
+Size: 2420724
+MD5sum: 00b5f03666d4583404c82dc40b4547e2
+SHA1: 101d342320b02879c941e402391e529c5e53b427
+SHA256: f194a5afa11e43f48cf03a7edd3ce8ea8c86a0aa26f6d296716146e223b4abd9
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 

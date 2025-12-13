@@ -221,31 +221,31 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 7)
 
 Package: bazel8
-Version: 8.4.2
+Version: 8.5.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 75480
+Installed-Size: 71628
 Depends: libarchive, openjdk-21, patch, unzip, zip
-Filename: pool/tur/bazel8_8.4.2_aarch64.deb
-Size: 38213896
-MD5sum: bbae91d8afce9f8bfa033427110040e8
-SHA1: 302e4c0063d93da99de3f7fc26a7486f473ece6e
-SHA256: ddddfa1cbcc58cfbabb09904a3b9200efce5695c24b2a44fc8f515af647a3863
+Filename: pool/tur/bazel8_8.5.0_aarch64.deb
+Size: 37839940
+MD5sum: 75a5703ec96409562dfcbc73a4ca29fe
+SHA1: 9ce9410e680c22af54f87a528c4060fe92db90d8
+SHA256: e817e77b80817d0b0127d1ef97f322c895ecff121959f649da4d41b0f18a8ce8
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 8)
 
 Package: bazel
-Version: 8.4.2
+Version: 8.5.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 75504
+Installed-Size: 71652
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel_8.4.2_aarch64.deb
-Size: 38215072
-MD5sum: 7a18fb08fa3cc343f04f8135b7547420
-SHA1: 841b7ad1af24024431e3175375df6c4220de3ede
-SHA256: 2693490ef02ff5c4732bfafe5724cd2f9cd0c8d7051acfd9945f68374b638f49
+Filename: pool/tur/bazel_8.5.0_aarch64.deb
+Size: 37840400
+MD5sum: 231b8d101142d183c2a5d96275b07c9f
+SHA1: 5df9f1af75c17e72565bcd6444e64e4fdb4432e4
+SHA256: d102e7a1bf29ed081eee110c441621e3b7685d00da09990214535faaec3c4f9e
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone
 
@@ -568,16 +568,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.69.0
+Version: 0.71.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 38156
+Installed-Size: 40540
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.69.0_aarch64.deb
-Size: 10106844
-MD5sum: 0397441f8f197d8df93d3a56a246f0c4
-SHA1: 953d976ecbc21bc483c0acf21d01cb995a13a27a
-SHA256: 4ed83daf4246abb718cf7170aae0ea34635df1b2781bce8b20d414d4c920b6eb
+Filename: pool/tur/codex_0.71.0_aarch64.deb
+Size: 10378476
+MD5sum: 855de2a58e548205f23eb3fa646ac0f1
+SHA1: 8668d3b013e1be85ecb59520d7b7b0562f34c032
+SHA256: ba995a4e627f1dc78c0bab74d22aebd2bae1978f9c7be7bd8b97bb91b8088b57
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -3231,15 +3231,15 @@ Homepage: https://llvm.org/
 Description: LLVM Development Tools
 
 Package: mdds
-Version: 3.1.0
+Version: 3.2.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1308
-Filename: pool/tur/mdds_3.1.0_aarch64.deb
-Size: 124836
-MD5sum: f27dba7831121fd5df4bc43a2fc02b48
-SHA1: 39cca8f6e85f0bd0d101673866f482f721e1799d
-SHA256: 818163e2581570bd346e4ce2990063204b65d1493aa8ad758f637b3a6ffddb3d
+Installed-Size: 1268
+Filename: pool/tur/mdds_3.2.0_aarch64.deb
+Size: 126284
+MD5sum: 9ed9af633ec3f99440087c87151fc45f
+SHA1: c26219085c4100da5522c2c04579d3f693f8eaec
+SHA256: 2a929e312aaae170566d4131ad48c7f7b0f7aa1c9cdbadc8d08387887de35377
 Homepage: https://gitlab.com/mdds/mdds
 Description: A collection of multi-dimensional data structures and indexing algorithms
 
@@ -3827,18 +3827,18 @@ Homepage: https://www.mesa3d.org
 Description: Mesa Off-screen Rendering Library
 
 Package: pacman-contrib
-Version: 1.13.0
+Version: 1.13.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 328
 Depends: pacman
 Recommends: diffutils, bsdtar
 Suggests: vim, mlocate, perl
-Filename: pool/tur/pacman-contrib_1.13.0_aarch64.deb
-Size: 39892
-MD5sum: 5661cffcf7eca32f7ac2fbc2bcfc92ee
-SHA1: 85a55a3a190d1d54f184745d4a62e3cf9a0a7cf7
-SHA256: d94aabc2eeb031278af252163eca6258c41369a64065da4a882cb3b902af3519
+Filename: pool/tur/pacman-contrib_1.13.1_aarch64.deb
+Size: 39912
+MD5sum: 297f6dad5f67541553f2e52979141942
+SHA1: 09de7a1697782abe7c1d6c014189f1192e1363fd
+SHA256: e83eb1ded35a12faedacd86dcc8d70086c451f47e8aa5934b64aef62565a207f
 Homepage: https://gitlab.archlinux.org/pacman/pacman-contrib
 Description: Additional libalpm utilities contributed by Arch community
 
@@ -4998,15 +4998,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.0.193
+Version: 0.0.194
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 6412
-Filename: pool/tur/rumdl_0.0.193_aarch64.deb
-Size: 2170184
-MD5sum: b37f0aca10ab40ca7f84eb9429cb5904
-SHA1: 01ed577fc40ba670777cbdd16330bbe692c02fc0
-SHA256: f2bd47d0b889fc5e3629e9bb40b570151a63d785208fe10153536d1e142a00de
+Installed-Size: 6456
+Filename: pool/tur/rumdl_0.0.194_aarch64.deb
+Size: 2186772
+MD5sum: 7c97e243672cfaefa2ba91cb860f6ff1
+SHA1: e4aa22a2520b911a66fb6bbcbbd290298b9836db
+SHA256: c57dbae82a26021e169e5c508f81997e07dcf273e1e822041dd25bce06fe285c
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
