@@ -1,0 +1,14 @@
+Package: chromium-beta-host-tools
+Version: 144.0.7559.31
+Architecture: arm
+Maintainer: @licy183
+Installed-Size: 356656
+Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
+Filename: pool/tur/chromium-beta-host-tools_144.0.7559.31_arm.deb
+Size: 48139152
+MD5sum: 1d16b17680d33c53cd94d69c9581b195
+SHA1: b6b45532623c46c9938d6398ff64edb528e149ff
+SHA256: 5fd3d8413743519cdd9572881eaeb52025ed38174ceecda0a3ec4393c546b7ed
+Homepage: https://www.chromium.org/Home
+Description: Chromium web browser (Host tools)
+
