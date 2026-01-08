@@ -1,0 +1,14 @@
+Package: openvdb
+Version: 13.0.0-1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 74908
+Depends: boost, imath, libblosc, libtbb, zlib
+Filename: pool/tur-on-device/openvdb_13.0.0-1_x86_64.deb
+Size: 5945444
+MD5sum: 2e327950e5e4227990fdd12c3a962b25
+SHA1: af3be398b215ca4ba329f1db4cda2ed729496052
+SHA256: d75bdeefe0f00c6a4a7a5c224054711b1d23af2614370b1c987411f0a50a7a19
+Homepage: https://www.openvdb.org/
+Description: Sparse volume data structure and tools
+

@@ -1,0 +1,14 @@
+Package: openimageio
+Version: 3.1.9.0-1
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 13844
+Depends: boost, dcmtk, ffmpeg, fmt, freetype, glew, imath, libc++, libhdf5, libheif, libjpeg-turbo, libjxl, libpng, libraw, libtbb, libtiff, libwebp, libyaml-cpp, opencolorio, opencv, openexr, openjpeg, openvdb, ptex, pybind11, python, qt6-qtbase
+Filename: pool/tur-on-device/openimageio_3.1.9.0-1_aarch64.deb
+Size: 3225316
+MD5sum: 03d35372f86107c0102af660a44d3a76
+SHA1: b767363327c1b465824827e46a36f1a2cc7f17e9
+SHA256: 1ef909357d44c20cfd9647df48430d840e3d08c50f3f07d4d820f25ee34db526
+Homepage: http://www.openimageio.org/
+Description: A library for reading and writing images, including classes, utilities, and applications
+
