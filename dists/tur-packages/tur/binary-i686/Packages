@@ -147,31 +147,31 @@ Homepage: http://data.astrometry.net/
 Description: astrometry.net index data file 4115-4119, suitable for astro photos taken by phone main camera (AOV ~ 70 degrees)
 
 Package: astrometry.net-static
-Version: 0.97
+Version: 0.97-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 10792
-Depends: astrometry.net (= 0.97)
-Filename: pool/tur/astrometry.net-static_0.97_i686.deb
-Size: 2747732
-MD5sum: 508ef84b7533eaef513d58917e49f5b4
-SHA1: 4f9e503d52a14d9397cdef39af14c24ae53523b3
-SHA256: 32bad268728af891ad4d93302aa6348293063899f92f671e0e06c744d01232ff
+Installed-Size: 8756
+Depends: astrometry.net (= 0.97-1)
+Filename: pool/tur/astrometry.net-static_0.97-1_i686.deb
+Size: 2310284
+MD5sum: c1a762c56b40d0e23e87e3ef480e37c3
+SHA1: 152da0784fca3706ac9220b4ce504f726d080d8e
+SHA256: 66815b1b942b0ef3c12de6f8e8913564c1262c85908a40f0fdf25a3b8225258c
 Homepage: https://astrometry.net/
 Description: Static libraries for astrometry.net
 
 Package: astrometry.net
-Version: 0.97
+Version: 0.97-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 51904
+Installed-Size: 37152
 Depends: cfitsio, curl, file, libandroid-glob, libbz2, libcairo, libjpeg-turbo, libpng, netpbm, python, python-numpy, python-fitsio, swig, wcslib, zlib
 Suggests: astrometry.net-data-basic
-Filename: pool/tur/astrometry.net_0.97_i686.deb
-Size: 7418924
-MD5sum: edc543cb473f3ecab4c2f7dceb6e65ee
-SHA1: 4767b6735bbabe808fd04e396ae0507a91d5a9bb
-SHA256: 71b250590ef04b2ff82908ab7009efbfd8665229405f9044181bd6c5e3e75165
+Filename: pool/tur/astrometry.net_0.97-1_i686.deb
+Size: 7056516
+MD5sum: f60477b42d7cc5cc40d77316171c044c
+SHA1: 962a844f528469bee18eaa1de0457cf8db9b915b
+SHA256: 6d6986d2a142ade59149c92e9aa39efb522cc96423168cbeed4b6fb244ca29e9
 Homepage: https://astrometry.net/
 Description: automatic recognition of astronomical images
 
@@ -464,15 +464,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crush
-Version: 0.32.1
+Version: 0.33.3
 Architecture: i686
 Maintainer: @ancientcatz
-Installed-Size: 56704
-Filename: pool/tur/crush_0.32.1_i686.deb
-Size: 14316404
-MD5sum: 167a8b2ab86a786c5a6596c52257422c
-SHA1: eaf17e5fb881d376774611bcdfe23b717d4fb2c5
-SHA256: daf559b8c086c41d8d12f0380af11128606c8ffddc0f679103da61df95dec529
+Installed-Size: 57812
+Filename: pool/tur/crush_0.33.3_i686.deb
+Size: 14583140
+MD5sum: d4783fb2d0893bde316bde49348230d8
+SHA1: e81d198561daec6f02036845ff75a1a5d20beb89
+SHA256: 604474a849688f31a35a7b0fdf743e0f06714a0cb9666a2b0c654290b5ee9466
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
@@ -625,16 +625,16 @@ Homepage: https://github.com/stsp/djstub
 Description: go32-compatible stub that supports COFF, PE and ELF payloads
 
 Package: dlib
-Version: 20.0
+Version: 20.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 11544
-Depends: libx11, libxcb, libopenblas, python
-Filename: pool/tur/dlib_20.0_i686.deb
-Size: 2750408
-MD5sum: 80cfda2278370cb927538aa56ce75679
-SHA1: a0c10b1647929d827249d00ebe7f214c248004b7
-SHA256: ddf9b1c53f4de53515d96720933bf56d9d14a93a9d61443b25fec79195b6ec8a
+Installed-Size: 11264
+Depends: libx11, libxcb, libopenblas, libpng, libjpeg-turbo, libjxl, libwebp, python
+Filename: pool/tur/dlib_20.0-1_i686.deb
+Size: 2554688
+MD5sum: cf4cd6a2033bc2202a4bd14d10429e88
+SHA1: 171cb1523562c3765ae18af28345256b1cfcae45
+SHA256: 12b74272c91ab81111aeee97ccc77de9f6a9a0d885d4fb0d5f8aadca39083cc0
 Homepage: http://dlib.net/
 Description: a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems
 
@@ -1303,16 +1303,16 @@ Homepage: https://ice-wm.org/
 Description: Wonderful Win95-OS/2-Motif-like window manager
 
 Package: instfd
-Version: 0.4
+Version: 0.4-1
 Architecture: i686
 Maintainer: @stsp
 Installed-Size: 104
-Depends: python
-Filename: pool/tur/instfd_0.4_i686.deb
-Size: 6560
-MD5sum: e9d553627ce260c5f97a2504cbe7993a
-SHA1: 9f138d86864ab1eb12d0b3946c67ea84fcd70434
-SHA256: 06859be476f1f2b335179d4b0dd18a86d3e22b1b6f1fd196c4c6703d0972fc96
+Depends: python, python-pip
+Filename: pool/tur/instfd_0.4-1_i686.deb
+Size: 6644
+MD5sum: 07289362a4242068e6ea71dfadb28ee7
+SHA1: f2a9174d49bc5efdd5adb4379d8f9d787e849f7e
+SHA256: ed7c4778cdc69ad87430d0e13f498aac8055d4f407a34ed355cde4a58061d580
 Homepage: https://github.com/dosemu2/install-freedos
 Description: FreeDOS installed for dosemu2
 
@@ -3592,16 +3592,16 @@ Homepage: https://github.com/google/brotli
 Description: lossless compression algorithm and format (Python bindings)
 
 Package: python-cairo
-Version: 1.26.1-1
+Version: 1.26.1-2
 Architecture: i686
 Maintainer: @fervi
 Installed-Size: 560
 Depends: python, libcairo
-Filename: pool/tur/python-cairo_1.26.1-1_i686.deb
-Size: 103936
-MD5sum: 3546b0168d7c12a38f4f002780b045a4
-SHA1: 55b2110afd42158a0b09e29d246b7c56f0374f9d
-SHA256: 46cf6e479af85c0f8b12b60e672426c37c72234e54ed3b4aea52adbb53a6e1d4
+Filename: pool/tur/python-cairo_1.26.1-2_i686.deb
+Size: 105448
+MD5sum: 4e75d6fdf3ee219ef2ade3be4190b114
+SHA1: 1202acfc5103c1b3bad4a68d0e79d009c16a3903
+SHA256: 5651d640645cc3521c2679bac080bd9d4ad8237c0480bebe4e99f7eb74e7a25c
 Homepage: https://cairographics.org/pycairo
 Description: This package contains modules that allow you to use the Cairo vector graphics library in Python3 programs.
 
@@ -3620,16 +3620,16 @@ Homepage: https://cryptography.io/
 Description: cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 
 Package: python-fitsio
-Version: 1.3.0
+Version: 1.3.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 1304
-Depends: cfitsio, python, python-numpy
-Filename: pool/tur/python-fitsio_1.3.0_i686.deb
-Size: 227392
-MD5sum: bf24f7855511235ccb92ed6122e4b489
-SHA1: fe65f6099de05912c7a8bc47e514390f42662c9d
-SHA256: 47f96e4029e7d9d9fb4718f3514f611c9ecede96ec5cc18831af383d98808faa
+Installed-Size: 796
+Depends: cfitsio, python, python-pip, python-numpy
+Filename: pool/tur/python-fitsio_1.3.0-1_i686.deb
+Size: 118184
+MD5sum: 2a93b5e7bcc8e97e8f0817b4ba26658f
+SHA1: 225caa88768d27368b9f594f375007895aebe078
+SHA256: 15a7ff9eaeff2f0fc0eeb898a184ae353e618b6f38ecbe640e6443d9ecf84c2a
 Homepage: https://github.com/esheldon/fitsio
 Description: A python package for FITS input/output wrapping cfitsio
 
@@ -3714,30 +3714,30 @@ Homepage: https://python.org/
 Description: Symlinks python(3) to python3.9
 
 Package: python-kivy
-Version: 2.3.0
+Version: 2.3.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 27900
-Depends: mesa, mtdev, python, sdl2, sdl2-image, sdl2-mixer, sdl2-ttf, python-pillow
-Filename: pool/tur/python-kivy_2.3.0_i686.deb
-Size: 12139484
-MD5sum: eb66c3d00618402f611fd898465a3093
-SHA1: bb3ba498d49cbcb718f6ab582c5e2cd82a752af6
-SHA256: 86d9a3579500ca730d69c043e7f5b9c93ed692574fb77cfc07210c4a72138e59
+Installed-Size: 22556
+Depends: mesa, mtdev, python, sdl2, sdl2-image, sdl2-mixer, sdl2-ttf, python-pillow, python-pip
+Filename: pool/tur/python-kivy_2.3.0-1_i686.deb
+Size: 11249832
+MD5sum: a61d3a910b8a5807c7c342c2f899d166
+SHA1: 6b4b6b4d1c9b9c223ecf20c0ecf9a952bde43b19
+SHA256: 448dd24a29589b7116f7acba52e1fb90a184f5750119531fb92545059bb50e4c
 Homepage: https://kivy.org/
 Description: Open source UI framework written in Python
 
 Package: python-mitmproxy-wireguard
-Version: 0.1.23-2
+Version: 0.1.23-3
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 1712
+Installed-Size: 1672
 Depends: libc++, openssl, python
-Filename: pool/tur/python-mitmproxy-wireguard_0.1.23-2_i686.deb
-Size: 616292
-MD5sum: 11f04de534031b53cd3e52f53ceb63c8
-SHA1: 99ceae1a554a729b41a75f3ede3db49ff57ba119
-SHA256: f8a3c5a83e148b21b9463ebe3f86ba2be2a77ec489eaf4cc74f96860b5f93f6e
+Filename: pool/tur/python-mitmproxy-wireguard_0.1.23-3_i686.deb
+Size: 609580
+MD5sum: 49014caa4bf53f0c125b3dd06780119b
+SHA1: 2c208f41b8dcea7cc4661097326f56c42cc53d7a
+SHA256: 2d143d59d993151fef293080cd013d2f0a61e9453dc6de78563be6c8fbd6131e
 Homepage: https://github.com/decathorpe/mitmproxy_wireguard
 Description: WireGuard frontend for mitmproxy
 
@@ -3771,16 +3771,16 @@ Homepage: https://numpy.org/
 Description: The fundamental package for scientific computing with Python
 
 Package: python-pandas
-Version: 2.3.3
+Version: 2.3.3-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 71416
+Installed-Size: 40284
 Depends: libc++, python, python-numpy, python-pip
-Filename: pool/tur/python-pandas_2.3.3_i686.deb
-Size: 12074568
-MD5sum: 412156d7c35529c920fc3d314eb8508d
-SHA1: 546071da3089d16f459b43944bed0ea80cdc6e04
-SHA256: 6848eb9db31fc535f3dca8b6fa1162295854ebfa7ab614f0405c2d8805277faf
+Filename: pool/tur/python-pandas_2.3.3-1_i686.deb
+Size: 6054672
+MD5sum: 84e5aa6e63f892a43de92f25ecba579e
+SHA1: 9a1c7a84796b6e590c97b8d1ccf86e552eec20c4
+SHA256: 242cc81f1be916760a80a8b1d798dfcc6559dbb779290a2d2f0c00c55b6da18c
 Homepage: https://pandas.pydata.org/
 Description: Powerful Python data analysis toolkit
 
@@ -3813,44 +3813,44 @@ Homepage: https://www.pycryptodome.org/
 Description: A self-contained Python package of low-level cryptographic primitives
 
 Package: python-pygame
-Version: 2.6.1-1
+Version: 2.6.1-2
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 11376
+Installed-Size: 7824
 Depends: x11-repo, freetype, portmidi, python, sdl2, sdl2-image, sdl2-mixer, sdl2-ttf
-Filename: pool/tur/python-pygame_2.6.1-1_i686.deb
-Size: 2463344
-MD5sum: 1c962fd93559c4299b7a0b052177c00e
-SHA1: 16c0bdfd37dbb52de7d64ee67b7fc9944511ea8d
-SHA256: fd8022aa08051a1fdd4fe3909a4a7cc135576ed1833fa9f0a8de60adefa51801
+Filename: pool/tur/python-pygame_2.6.1-2_i686.deb
+Size: 1864940
+MD5sum: 05b0eb5c8868e7dc9ceb0a2e46c8bea3
+SHA1: e0e86d47dcb07efb96d82cf205879e255aef0aa2
+SHA256: 1a5f092957b390ac60a47f5bef6262b3babff2118d95b02b4ce80d19d88cdcd9
 Homepage: https://pygame.org/
 Description: pygame is a python game library
 
 Package: python-pywavelets
-Version: 1.9.0
+Version: 1.9.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 8584
+Installed-Size: 7980
 Depends: libc++, python, python-pip, python-numpy
-Filename: pool/tur/python-pywavelets_1.9.0_i686.deb
-Size: 3424848
-MD5sum: 357e0c12ed5eac1515ef6a7bb28599ec
-SHA1: b213ec635ebd3e65558ab6fe0a2640ca3a09cba9
-SHA256: a41c719f336cdadcc712979dc2b9bacda2cdb7b719146547a7a387a582f7cec0
+Filename: pool/tur/python-pywavelets_1.9.0-1_i686.deb
+Size: 3320028
+MD5sum: 4a777abcba01cd1333f538aee2d43a1f
+SHA1: 9129b3d6b8619d31a7c9c2ac1dab774cae6a3e4b
+SHA256: 7686cdb3c793a6269765c90a573434b02779658a7d21bca5170792d57373dabe
 Homepage: https://github.com/PyWavelets/pywt
 Description: Wavelet Transforms in Python
 
 Package: python-scikit-image
-Version: 0.26.0
+Version: 0.26.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 22252
+Installed-Size: 21332
 Depends: libandroid-complex-math, libc++, python, python-pip, python-numpy, python-pillow, python-pywavelets, python-scipy
-Filename: pool/tur/python-scikit-image_0.26.0_i686.deb
-Size: 8642952
-MD5sum: 87c8be8778775737b22e3f8587d8855b
-SHA1: 21b7ab10c2204d69e971fb5aed205c1290128bba
-SHA256: 2bbf923a64fcd2f03a544caf61bacf2def212ba4032bd1ccc7914e56250d9c94
+Filename: pool/tur/python-scikit-image_0.26.0-1_i686.deb
+Size: 8527360
+MD5sum: 778021e68a794c7a6da7695159192f2b
+SHA1: 0e7565aa265fb81503c30088ad01428fd04bdd3d
+SHA256: 6a42aec6be26768abbbc1bcb6b5f4786e4b2e4d30759d954f711dea60b273688
 Homepage: https://github.com/scikit-image/scikit-image
 Description: Image processing in Python
 
@@ -3886,86 +3886,86 @@ Homepage: https://scipy.org/
 Description: Static libraries for python-scipy
 
 Package: python-scipy
-Version: 1:1.17.0
+Version: 1:1.17.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 112032
-Depends: libc++ (>= 29), libopenblas, python, python-numpy
-Filename: pool/tur/python-scipy_1:1.17.0_i686.deb
-Size: 23837208
-MD5sum: cc3294111bed60f6a2c329f0f053b362
-SHA1: e661bf55702d7f9de49ad15e0466aebd44680341
-SHA256: de4771349088813934224a28b190e69f9dea9cecefb66ab497fbb2c14ef26a61
+Installed-Size: 92648
+Depends: libc++ (>= 29), libopenblas, python, python-numpy, python-pip
+Filename: pool/tur/python-scipy_1:1.17.0-1_i686.deb
+Size: 19507540
+MD5sum: 2b630cb8d71aa3afc4447e2311316c01
+SHA1: 2ef7a60767cdb8cf6f094518a1fcb02b698ecff4
+SHA256: fc1d6c90c07f3384f6bdd44464e0964b2f4fbc2f9b494c3421fd47017c416451
 Homepage: https://scipy.org/
 Description: Fundamental algorithms for scientific computing in Python
 
 Package: python-seledroid
-Version: 1.1.0-2
+Version: 1.1.0-3
 Architecture: i686
 Maintainer: @nacho00112
-Installed-Size: 288
+Installed-Size: 168
 Depends: python, seledroid-app
-Filename: pool/tur/python-seledroid_1.1.0-2_i686.deb
-Size: 25228
-MD5sum: 3ecc682bc4c54a06e1d4ab8e90a303b1
-SHA1: eb7396c2426692f4307900dedf84b712185915a8
-SHA256: 38fc898f47b2f92070d039bf83144f62c8c0e1f782612838103d862f0e6e84d7
+Filename: pool/tur/python-seledroid_1.1.0-3_i686.deb
+Size: 9468
+MD5sum: 890730145357e9cf5ea7c07c63040cef
+SHA1: 7e78210ef183058ce0cca72f8b5c68fc873c2757
+SHA256: c4e7d4e80957c0a8ecfca011f2585d42470f2388ecce9003950017dd9add53ce
 Homepage: https://github.com/luanon404/seledroid
 Description: Python library to control android webdriver.
 
 Package: python-selenium-is-seledroid
-Version: 4.10.0-1
+Version: 4.10.0-2
 Architecture: i686
 Maintainer: @nacho00112
 Installed-Size: 88
 Depends: python, python-seledroid
-Filename: pool/tur/python-selenium-is-seledroid_4.10.0-1_i686.deb
-Size: 4092
-MD5sum: a394b35e5371919da57ab8a3f4ec1024
-SHA1: 3e197438989a636784d422c14435015205bc4cc6
-SHA256: 85530796fbda9202e962c32b8ca86f11751a2f4c0bff4cae78f4cf1b24dc08d0
+Filename: pool/tur/python-selenium-is-seledroid_4.10.0-2_i686.deb
+Size: 2720
+MD5sum: 5ec9343f401154ba4e058b177f8559db
+SHA1: e846b479062a8456c34b0243bd2e1c407751b76b
+SHA256: 675e8bfa3e0b4970dd4d410295ea936775521d057746d254efdc6432c4d4f2dc
 Homepage: https://github.com/nacho00112/tur
 Description: A browser automation framework and ecosystem. This dummy selenium uses seledroid as his backend.
 
 Package: python-tiktoken
-Version: 0.12.0
+Version: 0.12.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 2724
-Depends: libc++, python
-Filename: pool/tur/python-tiktoken_0.12.0_i686.deb
-Size: 804464
-MD5sum: 6afc12c18919eb8cc540514c31ddd92a
-SHA1: d142ed4d97d6411c31238a5978e6dd1e99a1bbf2
-SHA256: 459f5e2f743bbab059e3b33dc17dd80148435e4df16658ada20c751803969e24
+Installed-Size: 2580
+Depends: libc++, python, python-pip
+Filename: pool/tur/python-tiktoken_0.12.0-1_i686.deb
+Size: 774384
+MD5sum: 76f1f511f8070402bf10029c08d61f87
+SHA1: 36a0bde432343d5ade99e212377ca1ff090bdd7b
+SHA256: 6b9e2fd80091a89de7d7b7f5370598ed518777e8e617cdf006a5a40c030f36c4
 Homepage: https://github.com/openai/tiktoken
 Description: A fast BPE tokeniser for use with OpenAI's models
 
 Package: python-tls-client
-Version: 1.0.1-1
+Version: 1.0.1-2
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 240
+Installed-Size: 172
 Depends: libc++, python, lib-tls-client
-Filename: pool/tur/python-tls-client_1.0.1-1_i686.deb
-Size: 27936
-MD5sum: 6d6e2109045f4416f07bacbce1cd8912
-SHA1: 968aea60c86ae7d93dfaa83ab117cb06e77f8809
-SHA256: 7b384b3eba299703afdfffe9a8ef0ce2a79c50c3cdf26647cfdc295e0d72ae52
+Filename: pool/tur/python-tls-client_1.0.1-2_i686.deb
+Size: 14080
+MD5sum: fa06ae369980bbca1c21746973d141b2
+SHA1: c0af14e81b7e273e092bf17ee932b28ef57d0dbc
+SHA256: fc2e99a33a40b20ac8fdd13ef5f06640b11b2b4556b579b59f66a0b3e4748410
 Homepage: https://github.com/FlorianREGAZ/Python-Tls-Client
 Description: Advanced HTTP Library
 
 Package: python-tokenizers
-Version: 0.22.2
+Version: 0.22.2-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 8044
+Installed-Size: 7856
 Depends: libc++, python, python-pip
-Filename: pool/tur/python-tokenizers_0.22.2_i686.deb
-Size: 2054148
-MD5sum: 144c66175e4e35ff7e1c795f7867238b
-SHA1: b8ab19fa5eec72565394cf6329e48b7ec924afab
-SHA256: c76459d840b07ea62c4088145a1cea06d8b896bb8c8035ca68c2a6b8e2008fea
+Filename: pool/tur/python-tokenizers_0.22.2-1_i686.deb
+Size: 2033568
+MD5sum: 5ff5f6c0ee24be22a610c62cd9db51a4
+SHA1: 5266b84ad34d2091d915e357c98ec2092f6add0d
+SHA256: 30d149628972bcaf8602dc876e7a92b2fa0f0bc98792cc69edd3d1b549867a36
 Homepage: https://github.com/huggingface/tokenizers
 Description: Fast State-of-the-Art Tokenizers optimized for Research and Production
 
@@ -4641,94 +4641,94 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.0.220
+Version: 0.0.221
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 7412
-Filename: pool/tur/rumdl_0.0.220_i686.deb
-Size: 2547924
-MD5sum: 711de598d64c3a33238c13a7d522b225
-SHA1: e7289d72ed776cbcf160af6a4afd47228a074348
-SHA256: dfaa8dbbf73c519ec5b00689508505bea770952f4812ce1529b068b21836122d
+Installed-Size: 7424
+Filename: pool/tur/rumdl_0.0.221_i686.deb
+Size: 2552560
+MD5sum: 8c43f592fc1b6f8bb74ff7f01499fed4
+SHA1: d2a58ebcaad9040a15fb38640fd1bf9b46bab644
+SHA256: b06b283ea2a4ddfb1731001255af492ccde2a2460df151a1325e05f721d97aa3
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
 Package: rust-nightly-std-aarch64-linux-android
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 16208
-Filename: pool/tur/rust-nightly-std-aarch64-linux-android_1.94.0-2026.01.18-nightly-0_i686.deb
-Size: 3113948
-MD5sum: 09d96bb5c0712e4c87d86dc5439324c5
-SHA1: 2dfa77ac50af7332ffc433bb171e811c96e299ff
-SHA256: 146ef8839ea518ffe3054066dc646dfcefd886cde2396cdf1dba605092400741
+Installed-Size: 16200
+Filename: pool/tur/rust-nightly-std-aarch64-linux-android_1.95.0-2026.01.19-nightly-0_i686.deb
+Size: 3113552
+MD5sum: c9dfc2c2393bc1202ce21a08a98bbf96
+SHA1: f8bbbd414a0ad5d434332783a1a307c093a131e9
+SHA256: 2f5410ea429d2355a683becc62c2584d334c6941272597cde2ff9e1b0e3ce095
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target aarch64-linux-android (nightly version)
 
 Package: rust-nightly-std-armv7-linux-androideabi
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 15120
-Filename: pool/tur/rust-nightly-std-armv7-linux-androideabi_1.94.0-2026.01.18-nightly-0_i686.deb
-Size: 3216000
-MD5sum: d3617a9f8863755869c575daa86a2901
-SHA1: fd1c6488740ee913911a25f201e2c71a69d01745
-SHA256: 79eafa106c41257f92090f5422ff09c35a3bd8b438384f1c3f050818e2aa2d76
+Installed-Size: 15116
+Filename: pool/tur/rust-nightly-std-armv7-linux-androideabi_1.95.0-2026.01.19-nightly-0_i686.deb
+Size: 3223140
+MD5sum: fa32315b13125298bb8b70a8ca82e226
+SHA1: 1a570a33bd8a151c36f1391da61f6975ac9fbcb6
+SHA256: ef0a89da9d2d69d6fdd67c7f5719b20cd55d8627f478efd1110251413463a8dd
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target armv7-linux-androideabi (nightly version)
 
 Package: rust-nightly-std-i686-linux-android
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 21700
-Filename: pool/tur/rust-nightly-std-i686-linux-android_1.94.0-2026.01.18-nightly-0_i686.deb
-Size: 4774564
-MD5sum: 7be4bef2db8075a8efe087d0f2c5a2b7
-SHA1: f84ed18f03e11344c564ba3e8e885687ac5b0d57
-SHA256: 82169ab5786e3f8bb7d323793c6ccc898420c27fd8eb98ee0699d85becbb3ad3
+Filename: pool/tur/rust-nightly-std-i686-linux-android_1.95.0-2026.01.19-nightly-0_i686.deb
+Size: 4790120
+MD5sum: 132b192edde2e4e33dc2b186f8574746
+SHA1: 2d24de3778ccb55da7a31b72256cd0841afbf531
+SHA256: 8c2cee779e0b7b6c034db60393428d6b9a4119f46367487f9bc974cdef0569cb
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target i686-linux-android (nightly version)
 
 Package: rust-nightly-std-x86-64-linux-android
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 15888
-Filename: pool/tur/rust-nightly-std-x86-64-linux-android_1.94.0-2026.01.18-nightly-0_i686.deb
-Size: 3162532
-MD5sum: c8159ac7ed0f5498b9877a32fa830630
-SHA1: 1b86e224dd3ecd8a402e1b30cea914d4e680c683
-SHA256: f7020ff8ce6c3dc29fd929d61fa2266b80129ade68a6f79155f628cc54da16d6
+Installed-Size: 15872
+Filename: pool/tur/rust-nightly-std-x86-64-linux-android_1.95.0-2026.01.19-nightly-0_i686.deb
+Size: 3164416
+MD5sum: a55b29caa4c283101da509ba55a3478d
+SHA1: f57dad62c3ec23c836575e9c20943b5f8f0229db
+SHA256: 7fca4b066e0df8d3e1c31da80ce5a75d43bba23b51e92b560c498526e486cf3f
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target x86_64-linux-android (nightly version)
 
 Package: rustc-dev-nightly
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 288888
-Filename: pool/tur/rustc-dev-nightly_1.94.0-2026.01.18-nightly-0_i686.deb
-Size: 71953000
-MD5sum: da63d663e3f8c044dd1289c9e7e75150
-SHA1: 3b10aefded1d7c1792c6ce1522b7dc0db21075d3
-SHA256: 427e891e3551d4738c10c5e497688ee432e8df0c5443b35a68be282579f069c6
+Installed-Size: 288980
+Filename: pool/tur/rustc-dev-nightly_1.95.0-2026.01.19-nightly-0_i686.deb
+Size: 71912744
+MD5sum: 1fe69b8efe287f844aab22153863f3f6
+SHA1: b9e9164cbdc2d97eb4a6308b94bbef251cb23ede
+SHA256: 4fa72d09518fd1cb9943b8b7d482ec29ef67b10d3d4f8cf56a2328953782f26c
 Homepage: https://www.rust-lang.org/
 Description: Rust compiler development libs (nightly version)
 
 Package: rustc-nightly
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 662172
+Installed-Size: 661856
 Depends: clang, libandroid-execinfo, libc++, libllvm (<< 22), lld, openssl, zlib, rust-nightly-std-i686-linux-android
-Filename: pool/tur/rustc-nightly_1.94.0-2026.01.18-nightly-0_i686.deb
-Size: 137996736
-MD5sum: 92700cd2513412a74c0fe7f72030ff27
-SHA1: 5a6616b015b9a211da60262bab4f5cbed586bc1f
-SHA256: ed1cec67069e0f8386794cf7fc41f22b640c898213cd9120ca8ae58b876642c1
+Filename: pool/tur/rustc-nightly_1.95.0-2026.01.19-nightly-0_i686.deb
+Size: 138007512
+MD5sum: ec79e99fad3ee326c6b61a4db06962c0
+SHA1: 2341e88e2f9bb223592eface4f3c6ad7491ed818
+SHA256: cde28c9dd86af54612de5258e1eb83e849310c450a8b4c1e997b0dbf1f1ae697
 Homepage: https://www.rust-lang.org/
 Description: Rust compiler and utilities (nightly version)
 
@@ -5447,16 +5447,16 @@ Homepage: https://github.com/REAndroid/APKEditor
 Description: Android binary resource files editor
 
 Package: ardentryst
-Version: 20230615
+Version: 20230615-1
 Architecture: all
 Maintainer: @fervi
 Installed-Size: 31236
 Depends: python, python-pygame, python-future
-Filename: pool/tur/ardentryst_20230615_all.deb
-Size: 24743620
-MD5sum: c87dfd0768505de424cd27220e8e7282
-SHA1: fc7f4fc036e2c8e8e969e054e7929195178e41dd
-SHA256: 5a56e69ddcd7d3c3ea3946ddabbe8724f05e69f3ad15fc10eb118e847c02d878
+Filename: pool/tur/ardentryst_20230615-1_all.deb
+Size: 24731052
+MD5sum: aab3df177067fa81f79f3bc203f6d907
+SHA1: 05c48331459c7fc4f3db68693c11108e213c34e1
+SHA256: 3bed9cd56890ac88c0cd4f1c993afd06969e113f5be1823fecd69ab2bcdd05af
 Homepage: https://github.com/ardentryst/ardentryst
 Description: Ardentryst is an action/RPG sidescoller, focused not just on fighting, but on story, and character development.
 
@@ -5782,16 +5782,16 @@ Homepage: https://github.com/AndreRH/hangover
 Description: Hangover runs simple Win64 and Win32 applications on arm64 Linux
 
 Package: itstool
-Version: 2.0.7-1
+Version: 2.0.7-2
 Architecture: all
 Maintainer: @termux-user-repository
 Installed-Size: 172
 Depends: libxml2-python
-Filename: pool/tur/itstool_2.0.7-1_all.deb
-Size: 17552
-MD5sum: a0e16bf436e2b6e2da23757b57786ebe
-SHA1: 5d2a417f7581729962eac3067d72aebc7fd92679
-SHA256: 9e4bc3bcdd1954bded765d1ae3f18f08a6e99c927b206a09d7f1ebb3c27deef4
+Filename: pool/tur/itstool_2.0.7-2_all.deb
+Size: 17548
+MD5sum: 02a6e2859b37075af1754e72c2c0e51f
+SHA1: dbbe9adae36ae339f9580fadbc6cc5da3f5da41d
+SHA256: e6530818d6aa8e4b6419df451d6ec13ed4a1077b34ef069e4319d698d7ec41bd
 Homepage: https://itstool.org/
 Description: Translate XML with PO files using W3C Internationalization Tag Set rules
 
@@ -5840,30 +5840,30 @@ Homepage: https://openjdk.java.net
 Description: Source files for openjdk-11
 
 Package: python-future
-Version: 0.18.2-2
+Version: 0.18.2-3
 Architecture: all
 Maintainer: @fervi
-Installed-Size: 4564
+Installed-Size: 2280
 Depends: python
-Filename: pool/tur/python-future_0.18.2-2_all.deb
-Size: 764472
-MD5sum: 0af7a1aa8733af2598775e3a4edfcdf3
-SHA1: af38e143733d2788f1b08707ee37d630157fe9d1
-SHA256: 41a61a43d6f5339999dfebf88e93a4a5b75c4eb42725bfa74c506654b5a39943
+Filename: pool/tur/python-future_0.18.2-3_all.deb
+Size: 336296
+MD5sum: 67120a016b52b262fa41b71d8149131e
+SHA1: baa30242cf9f3017426fe7a25fee780068434374
+SHA256: 1422a452363e7905abe47f289aa7ebe049cc60a82df0a97bd8b855c798371a86
 Homepage: https://python-future.org
 Description: Clean single-source support for Python 3 and 2
 
 Package: python-opengl
-Version: 3.1.6-2
+Version: 3.1.6-3
 Architecture: all
 Maintainer: @fervi
-Installed-Size: 30396
+Installed-Size: 14960
 Depends: python, mesa
-Filename: pool/tur/python-opengl_3.1.6-2_all.deb
-Size: 1292676
-MD5sum: 55565ed9a63cc943a25c5894e9203102
-SHA1: fd47023c035161430a2a9229173c407c020c89af
-SHA256: a5172ef5649a28e0ba3ad51ea4624912706261db6e99403d0f93d0dfbc4e452f
+Filename: pool/tur/python-opengl_3.1.6-3_all.deb
+Size: 668620
+MD5sum: d5d0a76e593b0c03b3298f640cda9f82
+SHA1: ef9bf18984ec0d80a49807eb295aee76edb7c106
+SHA256: dd06896884faf99de31b57f61587cd59668a176c812f5795fe523bc8431b8492
 Homepage: http://pyopengl.sourceforge.net
 Description: A cross-platform open source Python binding to the standard OpenGL API providing 2D and 3D graphic drawing
 
@@ -5896,28 +5896,28 @@ Homepage: https://www.ruby-lang.org/
 Description: Ruby documentation index
 
 Package: rust-nightly-docs
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
-Installed-Size: 770628
-Filename: pool/tur/rust-nightly-docs_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 31118924
-MD5sum: 46af67b8d64998143e316d4e3ac2c50c
-SHA1: 7ef72f6eb0bdb80235b87d97900385ed8a95b82b
-SHA256: fae55905b795d238cdd46f270f10fd4631d80495c7120219b8191e55de123fb3
+Installed-Size: 770704
+Filename: pool/tur/rust-nightly-docs_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 31122596
+MD5sum: 311dc2443630c54d9b0a586216ec31d1
+SHA1: af2100114c5cd2b64982c470518eb4eadf0f2521
+SHA256: 407ed579908b2631b6d96f0aca7b3b01e36bd818e6ee2bb007e297a06100823a
 Homepage: https://www.rust-lang.org/
 Description: Rust documentation (nightly version)
 
 Package: rust-nightly-std-wasm32-unknown-unknown
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
-Installed-Size: 82816
-Filename: pool/tur/rust-nightly-std-wasm32-unknown-unknown_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 19742304
-MD5sum: 90815ca2b60cf1cab038a96543cfcd2e
-SHA1: 3f5ae00e46f5af84f31208e7d553ba893d0bb5d3
-SHA256: 11d19f699a1bce8e821244b1885ff15f5b09f710f5ecfa1e65b1b1bbdc31b398
+Installed-Size: 82836
+Filename: pool/tur/rust-nightly-std-wasm32-unknown-unknown_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 19765476
+MD5sum: f7030ce94b98b58f40248f1a73d8e9c9
+SHA1: 2dbe8c55ec8b9eccee0e98809bbc8ba7124fb046
+SHA256: 185080e472c128661ed5f359c69d90b4b5dc02314078253d8e9824b51d4e5df9
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target wasm32-unknown-unknown (nightly version)
 
@@ -5935,41 +5935,41 @@ Homepage: https://www.rust-lang.org
 Description: Rust std for target wasm32-wasi (nightly version)
 
 Package: rust-nightly-std-wasm32-wasip1
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
-Installed-Size: 87072
-Filename: pool/tur/rust-nightly-std-wasm32-wasip1_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 20813792
-MD5sum: 9d1857b6bba5be114ff7afbe29d58d1a
-SHA1: b9ed57f8a5dea2a7a23244722caf826c05d806fa
-SHA256: d57fa4f13d2bc620c4812ff0e7957d4e2e0993372f91d3346ab065dd0c13ee2b
+Installed-Size: 87080
+Filename: pool/tur/rust-nightly-std-wasm32-wasip1_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 20810792
+MD5sum: a87f6c7ae4558ce9256783cb8a0ec14c
+SHA1: ebe15ea9493a6f3d30eb984674211ed4b93300c1
+SHA256: 58bcdf50c1c1be9c817291351d3c64c0b4cc0ae6c5ce937f2cbd4a224363d420
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target wasm32-wasip1 (nightly version)
 
 Package: rust-nightly-std-wasm32-wasip2
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
 Installed-Size: 89020
-Filename: pool/tur/rust-nightly-std-wasm32-wasip2_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 21225140
-MD5sum: 5eea58a602a68ac42b86bb83c5a9662d
-SHA1: 95f47ed329bcb79d9f905abae4b452b78fd3f823
-SHA256: ed8bb9f111e294724ed9771f169911dc70f9fc31fd1d2af8f775f8bea8aeebd2
+Filename: pool/tur/rust-nightly-std-wasm32-wasip2_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 21237128
+MD5sum: e4c1398650081752126a0884785c6ba0
+SHA1: 36bfdf1b943b371f9e235248e892559977fc727b
+SHA256: 5e69752126d8afad5f7d74ee73998f713a4612e7e4d169588e4696f2a1c8277c
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target wasm32-wasip2 (nightly version)
 
 Package: rust-nightly-std-wasm32-wasip3
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
 Installed-Size: 89024
-Filename: pool/tur/rust-nightly-std-wasm32-wasip3_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 21225220
-MD5sum: 76c3d5132dff50ab24f6cace40417859
-SHA1: 3785f12fbe077510badbe262eae009895a2497fc
-SHA256: 92ace62f48151c12874cc0d086ca390bcc0b1fabd15cda46bbb38c56d88afc51
+Filename: pool/tur/rust-nightly-std-wasm32-wasip3_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 21219940
+MD5sum: 8527a3b562cc7dac54d325b6e9addb3e
+SHA1: 8135895dfa3d3f0bb7680471fef4707352ad6718
+SHA256: 4d6aebe918d31c01fc64f8494d3346841d1c557cf83cb22b236f72f19793ee58
 Homepage: https://www.rust-lang.org/
 Description: Rust std for target wasm32-wasip3 (nightly version)
 
@@ -5988,28 +5988,28 @@ Homepage: https://www.rust-lang.org
 Description: rust std for wasm32-unknown-unknown target
 
 Package: rust-src-nightly
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
-Installed-Size: 52248
-Filename: pool/tur/rust-src-nightly_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 3923828
-MD5sum: dcb6cfc83ac951bd7e56e1964b291311
-SHA1: bb5c3d903ebc7ee538f56df3f2d49cc9ed98a3bb
-SHA256: 45f45687a968c5c80ffc4fc9827c62ebadec2aeb7dc033d4729c5b3964061477
+Installed-Size: 52260
+Filename: pool/tur/rust-src-nightly_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 3924468
+MD5sum: 3e98090a2284aae4c141a88aa172b92f
+SHA1: 37dfa385c288e0c34c26a452a64ea39eb27b1d0d
+SHA256: fc3ffd45bbc23f0f7834dae19db5fdfb7e062cdd468ef8653e40b784e85f5b43
 Homepage: https://www.rust-lang.org/
 Description: Rust source code files (nightly version)
 
 Package: rustc-src-nightly
-Version: 1.94.0-2026.01.18-nightly-0
+Version: 1.95.0-2026.01.19-nightly-0
 Architecture: all
 Maintainer: @termux-user-repository
-Installed-Size: 41612
-Filename: pool/tur/rustc-src-nightly_1.94.0-2026.01.18-nightly-0_all.deb
-Size: 5296728
-MD5sum: 0d3e3e779d5e6e1d5b38b7f093394ad6
-SHA1: a152d21225e81d146c24aaf7b5687a98eba44f63
-SHA256: e05cbf8c58ca6e4eb32944f3b5a849b00cea1218a658b63bd71b072590b6bacd
+Installed-Size: 41624
+Filename: pool/tur/rustc-src-nightly_1.95.0-2026.01.19-nightly-0_all.deb
+Size: 5297920
+MD5sum: 10482a21be27ed7f1f4718e0be864881
+SHA1: 01edc8c6b72bfd6ea14b4b88ef126509ec742a3b
+SHA256: 6178b4461dd808812243609fa64b99b2733c174c7073ae409ec8dc5582625c13
 Homepage: https://www.rust-lang.org/
 Description: Rust compiler source code files (nightly version)
 
@@ -6109,16 +6109,16 @@ Homepage: https://supertuxkart.net
 Description: Data files for supertuxkart (metapackage)
 
 Package: termux-install
-Version: 1.1.1
+Version: 1.1.1-1
 Architecture: all
 Maintainer: @KrutosVIP
-Installed-Size: 104
+Installed-Size: 112
 Depends: python, wget, proot
-Filename: pool/tur/termux-install_1.1.1_all.deb
-Size: 5884
-MD5sum: be212a221381a7211210fddb7ac454e3
-SHA1: 6d403fd4e572176562581cf9da3430e5eed95ea7
-SHA256: 38279bac08df9064aba84d88ea7dc50e22e4084a12cd0d5b6a1e0eff90d78075
+Filename: pool/tur/termux-install_1.1.1-1_all.deb
+Size: 5840
+MD5sum: 009f744f3f208ea2035129fb7516fa80
+SHA1: 8c509c615342f600874fdfbea0aa5cf702804849
+SHA256: 3592aad70f9b0bbb930d09242073d6de0cc03915f03ce39f6d4ebd7798490d68
 Homepage: https://github.com/KrutosVIP/TermuxInstall
 Description: Install Termux to chroot from Termux
 
