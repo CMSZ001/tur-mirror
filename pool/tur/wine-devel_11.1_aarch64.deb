@@ -1,0 +1,14 @@
+Package: wine-devel
+Version: 11.1
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 3170156
+Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2, vulkan-loader, xorg-xrandr
+Filename: pool/tur/wine-devel_11.1_aarch64.deb
+Size: 78904760
+MD5sum: 8312578e2e725c7d78d7a1ad1b96f994
+SHA1: fba0d9945d635b07c0e6badf16c8cde1b7bd543e
+SHA256: 5f39333ff59d5b3e554cd0596d1ee0fdb61c13330a1540713d7f04cedd6ef332
+Homepage: https://www.winehq.org/
+Description: A compatibility layer for running Windows programs
+

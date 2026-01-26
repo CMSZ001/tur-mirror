@@ -1,0 +1,15 @@
+Package: partialzip
+Version: 6.0.0
+Architecture: i686
+Maintainer: @termux-user-repository
+Installed-Size: 3060
+Depends: openssl, libcurl
+Recommends: bzip2, zstd
+Filename: pool/tur/partialzip_6.0.0_i686.deb
+Size: 1042764
+MD5sum: a71cd75b9314371f95896b741ccd7059
+SHA1: d78088e13a6ec753e76acee656dbcc5b0e9303f7
+SHA256: 8085564bb1a3906e04726a7960ce4943a57f43db713cf5bed99a78095fcb643b
+Homepage: https://github.com/marcograss/partialzip
+Description: A CLI utility to download file within ZIP archive, without the need to download entire ZIP archive
+
