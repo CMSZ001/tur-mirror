@@ -1,0 +1,14 @@
+Package: code-server
+Version: 4.108.2
+Architecture: arm
+Maintainer: @termux-user-repository
+Installed-Size: 355920
+Depends: libandroid-spawn, libsecret, krb5, nodejs-22, ripgrep
+Filename: pool/tur/code-server_4.108.2_arm.deb
+Size: 48009544
+MD5sum: b674b824ed250d876be7b17d2d339669
+SHA1: 7d6306b252574b254a7cbd95534aa5f162d234f4
+SHA256: 994710e03e5f4df34e6c3fcdd6b5989c2b478e9374a6e4f14a753e35075a1d99
+Homepage: https://github.com/coder/code-server
+Description: Run VS Code on any machine anywhere and access it in the browser
+
