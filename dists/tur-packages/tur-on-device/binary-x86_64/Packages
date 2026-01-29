@@ -209,16 +209,16 @@ Homepage: https://materialx.org/
 Description: Open standard for the exchange of rich material and look-development content in computer graphics
 
 Package: nqp
-Version: 2025.03
+Version: 2026.01
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 4404
+Installed-Size: 4396
 Depends: moarvm
-Filename: pool/tur-on-device/nqp_2025.03_x86_64.deb
-Size: 575092
-MD5sum: fc037c1ea0c6bf54f562a9718e585d1d
-SHA1: 0fcf1b813f7b25ec74cbffd18871915c64fc8645
-SHA256: 356af02b04c3e82bab78c002cfb1e0748c3c0bf0ee316d12a00add34a373004c
+Filename: pool/tur-on-device/nqp_2026.01_x86_64.deb
+Size: 575028
+MD5sum: 24341eb972d67e2173c84422ff6bf0ec
+SHA1: 4ac2e60d8c44823649f305d85dd4abcdc55bcb2b
+SHA256: 03fceb1c295d55faab40eb0060695eac836a5983697555ac1184f3b7501bd37c
 Homepage: https://github.com/Raku/nqp
 Description: Lightweight Raku-like environment for virtual machines
 
@@ -405,16 +405,16 @@ Homepage: https://www.r-project.org/
 Description: A free software environment for statistical computing and graphics
 
 Package: rakudo
-Version: 2025.03
+Version: 2026.01
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 62120
+Installed-Size: 60016
 Depends: libc++, moarvm, nqp
-Filename: pool/tur-on-device/rakudo_2025.03_x86_64.deb
-Size: 6689496
-MD5sum: cc1cf4564c73fc4c73b4c57d81d493a7
-SHA1: 785a90a1e429039039e8af422054c34bbc9560de
-SHA256: 2b4523b45526935e76ed5de15e7e054dc92d192a7a9af22e61f03de61e7f207d
+Filename: pool/tur-on-device/rakudo_2026.01_x86_64.deb
+Size: 6581892
+MD5sum: da506319d7b3d678a06bc38189f7bcfb
+SHA1: f10caadc666f83bae5bd76184f7b3d61b6287fb5
+SHA256: 30ca02d005419544c946f03bdbaffe95b4437378fe20694e7ff3f502fbb42682
 Homepage: https://rakudo.org
 Description: Mature, production-ready implementation of the Raku language
 
