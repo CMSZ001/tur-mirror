@@ -1,0 +1,14 @@
+Package: chromium-beta
+Version: 145.0.7632.26
+Architecture: aarch64
+Maintainer: @licy183
+Installed-Size: 1263464
+Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
+Filename: pool/tur/chromium-beta_145.0.7632.26_aarch64.deb
+Size: 190329096
+MD5sum: 7a83f0a5fa1514f399981d4a4ff5786d
+SHA1: 8a5d87d12e812488d07f15bf34326e8e4e10493c
+SHA256: e493884d42286f0b024a3833eb429b8c2c97f4ee853e2aa30a1ee5bb5e50ba22
+Homepage: https://www.chromium.org/Home
+Description: Chromium web browser
+
