@@ -651,15 +651,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crush
-Version: 0.36.0
+Version: 0.39.1
 Architecture: aarch64
 Maintainer: @ancientcatz
-Installed-Size: 64512
-Filename: pool/tur/crush_0.36.0_aarch64.deb
-Size: 12879644
-MD5sum: 5bf0d97448e19aa804a297021da0750e
-SHA1: f2fccd9dbfdd74e81b9b6d7c6ab98f8f2a27e54b
-SHA256: 923ec6ea43812e4b3bef7f0d56bd506f2f885356b4d6dd22343de8605ede438b
+Installed-Size: 64996
+Filename: pool/tur/crush_0.39.1_aarch64.deb
+Size: 12940812
+MD5sum: 5fd3e3e9d1a66f17b7d01ef25681e4b8
+SHA1: 0c5c5e9e293e4507d978ae82fa40dfb80e169da5
+SHA256: 9ffe613271848aa8f9c119e113b6c0fe13c7fbf55bd23f5373c3005ed7bf24dd
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
@@ -690,16 +690,16 @@ Homepage: https://www.jwz.org/dadadodo
 Description: A program that analyses texts for word probabilities, and then generates random sentences based on that
 
 Package: darktable
-Version: 5.4.0-2
+Version: 5.4.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 22584
+Installed-Size: 22592
 Depends: exiv2, gdk-pixbuf, glib, graphicsmagick, gtk3, imath, json-glib, lensfun, libandroid-glob, libc++, libcairo, libcurl, libheif, libicu, libjpeg-turbo, libjxl, libllvm, libpng, libpugixml, librsvg, libsqlite, libtiff, libwebp, libxml2, littlecms, ltrace, lua54, openexr, openjpeg, pango, portmidi, zlib
-Filename: pool/tur/darktable_5.4.0-2_aarch64.deb
-Size: 4321984
-MD5sum: 2754aea7cbdf2c6623ecbcfd0cd14013
-SHA1: 82cbcfa0e194c3ad9a6f54d26fad7a23bace2d7a
-SHA256: 55e66063f404765519df772c2d5db453f858c0f0546baaaad019fb816254be15
+Filename: pool/tur/darktable_5.4.1_aarch64.deb
+Size: 4326932
+MD5sum: bfa548ec7ef5dfcea1c2f4764be2e139
+SHA1: 9a4995d069c9a2ed037f1e1c2d9e412a5e6485ce
+SHA256: 36afeea01c345434e7abf2209ba8194a61c80ced480e8d9ff8c9436c3d0095d4
 Homepage: https://www.darktable.org/
 Description: Virtual lighttable and darkroom for photographers
 
@@ -1092,33 +1092,33 @@ Homepage: https://github.com/Necoro/feed2imap-go
 Description: feed2imap(1) reimplemented in Go that aggregating RSS/Atom/jsonfeed into folders of your IMAP mailbox
 
 Package: ffmpeg5.1
-Version: 5.1.7
+Version: 5.1.7-1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 34300
+Installed-Size: 34268
 Depends: freetype, game-music-emu, libaom, libandroid-glob, libass, libbluray, libbz2, libdav1d, libgnutls, libiconv, liblzma, libmp3lame, libopus, librav1e, libsoxr, libtheora, libvorbis, libvpx, libvidstab, libwebp, libx264, libx265, libxml2, xvidcore, zlib
 Conflicts: libav
 Breaks: ffmpeg-dev
 Replaces: ffmpeg-dev
-Filename: pool/tur/ffmpeg5.1_5.1.7_aarch64.deb
-Size: 7860344
-MD5sum: b138bceb86199657e30985c375636b30
-SHA1: f0d713ba6f863a90c714f410a4f4696c69bd01e8
-SHA256: acad1713c1bcf549431a184b2971715d3e53ff08a24ce42ec65a3253b31467d3
+Filename: pool/tur/ffmpeg5.1_5.1.7-1_aarch64.deb
+Size: 7841804
+MD5sum: 00d2ebb5183faae3d349a34626e77222
+SHA1: 1919c27fd7131a3df9c807fa38f43d7d4f5a062f
+SHA256: 7544c678b53f1a84cc1920e3ca21caf7320aed094ca9782fc9d09d788ee93306
 Homepage: https://ffmpeg.org
 Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
 
 Package: ffmpeg7
-Version: 7.1.2
+Version: 7.1.3
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 37788
+Installed-Size: 37784
 Depends: freetype, game-music-emu, libaom, libandroid-glob, libass, libbluray, libbz2, libdav1d, libgnutls, libiconv, liblzma, libmp3lame, libopus, librav1e, libsoxr, libtheora, libvorbis, libvpx, libvidstab, libwebp, libx264, libx265, libxml2, xvidcore, zlib
-Filename: pool/tur/ffmpeg7_7.1.2_aarch64.deb
-Size: 8579448
-MD5sum: fcdc565177e791a09478fa7a0fa099b2
-SHA1: f05f9a58a7c635391003e34dfda0d7dfbd9cafa4
-SHA256: dcb86e42503e424595ac8a4603de4c7619aabdbaaa5acd7d77e46cad6a44b900
+Filename: pool/tur/ffmpeg7_7.1.3_aarch64.deb
+Size: 8566552
+MD5sum: 045bbc04ce005773f7caa4b428de76ab
+SHA1: b6d4a5781ad36fdacdbdeba00d0fc19ee9430e0c
+SHA256: a93a214f98d2818d43bcaa82608cbefadf18f3adcfea5fb5fc9069de2ef5fe6a
 Homepage: https://ffmpeg.org
 Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
 
@@ -1466,15 +1466,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.2
+Version: 0.2.2-1
 Architecture: aarch64
 Maintainer: @ancientcatz
 Installed-Size: 19264
-Filename: pool/tur/goat_0.2.2_aarch64.deb
-Size: 4954960
-MD5sum: 18f2add1d8d60d03e36e4224b0dc5626
-SHA1: 5f1b3614f54ceca4a2c7d42b3189158f039a3f1d
-SHA256: 018dcfa6784c499ec2fc37e6722b0864bd962ab393b35acb7620386c965432cd
+Filename: pool/tur/goat_0.2.2-1_aarch64.deb
+Size: 4956216
+MD5sum: ca8e6ff8fa6650e61413ec672aa162f2
+SHA1: 19b8d480a42ed2b21d5d8913ad55235a0e4f7780
+SHA256: d13deff7ade1ea12b68716a53293f34b55a7c7eb3b01d74077bdffc86f52346b
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -1865,15 +1865,15 @@ Homepage: https://lfortran.org/
 Description: A modern open-source interactive Fortran compiler
 
 Package: lib-tls-client
-Version: 1.13.1
+Version: 1.14.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 10160
-Filename: pool/tur/lib-tls-client_1.13.1_aarch64.deb
-Size: 2655784
-MD5sum: 29b8718acfb0e1e54d1869d284341c11
-SHA1: 75f77d16de340400715130928de77b22f63a603c
-SHA256: 50a2ed8a9cbfa58ac12abc823a8a692ccc0f45335a1976dd4f54d90a84687acf
+Installed-Size: 10336
+Filename: pool/tur/lib-tls-client_1.14.0_aarch64.deb
+Size: 2723696
+MD5sum: d9b95f3761027cdf9f9e36ed10102db1
+SHA1: 32714f3674a09779475a5bd9f88414e5e367281d
+SHA256: 2a8c00e709e657ca48bbc1587e7ce0825ad937dd3944dcde356c04b91b973d97
 Homepage: https://github.com/bogdanfinn/tls-client/
 Description: A net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests
 
@@ -5137,15 +5137,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.10
+Version: 0.1.13
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 6960
-Filename: pool/tur/rumdl_0.1.10_aarch64.deb
-Size: 2367572
-MD5sum: 2d91f5cb1e9a09bf8a21dc9811ea8c2c
-SHA1: bc78e4a6b26165302eb92b9f01f7ba5158bd5cba
-SHA256: b443e0575ea97a2898135236c53abfd0db45a50168d23fd4845351b754dba856
+Installed-Size: 7276
+Filename: pool/tur/rumdl_0.1.13_aarch64.deb
+Size: 2493488
+MD5sum: 8e01366a6c04bd89d1fbb0c78bbce366
+SHA1: 23dc2d80ef803c4dba2677a77a1a9538ecd749ec
+SHA256: be4615968b54cc2cbcd6080cb7cb6d7863027d191a2afa5d618a2832e25ca36a
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
