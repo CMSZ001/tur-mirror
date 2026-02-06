@@ -6,8 +6,8 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天 00:00 UTC 自动执行
-  workflow_dispatch:       # 保留手动触发，无参数
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   sync_latest_from_upstream:
@@ -47,3 +47,10 @@ jobs:
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: directory-listing.yml
+
+      - name: Delete workflow runs
+        uses: GitRML/delete-workflow-runs@main
+        continue-on-error: true
+        with:
+          retain_days: '1'
+          keep_minimum_runs: '0'
