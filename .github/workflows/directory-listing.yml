@@ -37,18 +37,15 @@ jobs:
         run: |
           npm install -g html-minifier-terser
 
-      - name: Set permissions for HTML files
-        run: |
-          chmod -R u+w public
-
       - name: Minify HTML content
         run: |
-          find public -name "*.html" -exec html-minifier-terser --collapse-whitespace --remove-comments --minify-js true --minify-css false -o {} {} \;
+          cp -r public/ dist/
+          find dist -name "*.html" -exec html-minifier-terser --collapse-whitespace --remove-comments --minify-js true --minify-css false -o {} {} \;
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public/**/*.html
+          path: public/tur
 
       - name: Deploy to GitHub Pages
         id: deployment
