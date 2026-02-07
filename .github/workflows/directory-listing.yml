@@ -19,40 +19,37 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 1. 创建目录
       - name: Prepare merge dir
         run: |
           mkdir -p public/tur
 
-      # 2. 复制要发布的内容
       - name: Copy tracked folders
         run: |
           cp -r dists public/tur/dists
           cp -r pool public/tur/pool
 
-      # 3. 生成目录索引
       - name: Generate index
         uses: CMSZ001/tur-mirror@directory-listing
         with:
           FOLDER: public
 
-      # 4. 安装 HTML 压缩工具
       - name: Install html-minifier
         run: |
           npm install -g html-minifier-terser
 
-      # 5. 压缩 HTML 文件内容
+      - name: Set permissions for HTML files
+        run: |
+          chmod -R u+w public
+
       - name: Minify HTML content
         run: |
           find public -name "*.html" -exec html-minifier-terser --collapse-whitespace --remove-comments --minify-js true --minify-css false -o {} {} \;
 
-      # 6. 上传只包含 HTML 文件的 Pages 构建产物
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public/**/*.html
 
-      # 7. 部署到 GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
