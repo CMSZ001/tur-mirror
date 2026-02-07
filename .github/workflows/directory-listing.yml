@@ -36,13 +36,23 @@ jobs:
         with:
           FOLDER: public
 
-      # 4. 上传 Pages 构建产物
+      # 4. 安装 HTML 压缩工具
+      - name: Install html-minifier
+        run: |
+          npm install -g html-minifier-terser
+
+      # 5. 压缩 HTML 文件内容
+      - name: Minify HTML content
+        run: |
+          find public -name "*.html" -exec html-minifier-terser --collapse-whitespace --remove-comments --minify-js true --minify-css false -o {} {} \;
+
+      # 6. 上传只包含 HTML 文件的 Pages 构建产物
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public/tur
+          path: public/**/*.html
 
-      # 5. 部署到 GitHub Pages
+      # 7. 部署到 GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
