@@ -5818,30 +5818,30 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-stable
-Version: 11.0
+Version: 11.0-1
 Architecture: aarch64
 Maintainer: @termux
 Installed-Size: 3166736
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-stable_11.0_aarch64.deb
-Size: 78335472
-MD5sum: adc7737390d71d7dd67928554239f1b1
-SHA1: c259f3eee79ca176d46165d892e6121bed00e7eb
-SHA256: 2c54bbf26dc3baea412562a4fcea69fce5259a4f8edcce4141d2591a8b3d00bd
+Filename: pool/tur/wine-stable_11.0-1_aarch64.deb
+Size: 78343292
+MD5sum: 8dc8a5d69c291c8acab597e2964dfcb1
+SHA1: 3c47da53c5f2dbd87086d90969ce7be03c077fe7
+SHA256: db4ec41afd6b1e0ca9666a6954d5effeb3cb0b35ff64617ec239b3d1aefd1cd5
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.2
+Version: 11.2-1
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 3180244
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.2_aarch64.deb
-Size: 81078312
-MD5sum: ca920a100a8793d79458b124dc6cb433
-SHA1: 18552c85534157ba32a06b87c3f8148a2e0211a2
-SHA256: cf6730c2be0403ac667e91596ca71f82b5a6638e24a4868ec42e2e79581a8c04
+Filename: pool/tur/wine-staging_11.2-1_aarch64.deb
+Size: 81055320
+MD5sum: 7fdf6e12c8f0566b9ea64cb5cd8a98b0
+SHA1: 81f12834c674067f5a3c78702b3e121b6c404f5f
+SHA256: 5cfe7ee1b88a895a17ec5aa50c1e6eb2b300b4723a68bedb831870d2404d3ca6
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
