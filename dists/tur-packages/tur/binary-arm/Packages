@@ -410,16 +410,16 @@ Homepage: https://llvm.org/
 Description: C language frontend for LLVM
 
 Package: clucene
-Version: 2.3.3.4-5
+Version: 2.3.3.4-6
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 3776
 Depends: boost, zlib
-Filename: pool/tur/clucene_2.3.3.4-5_arm.deb
-Size: 679164
-MD5sum: df2fb055c851762430687865750e9615
-SHA1: 3ed1392e42934f13799b1b72ad5be8d9a7d28c3d
-SHA256: 9202a7f7e6f1a0e044d80d1e12a0089023afed03a7b8f88b13bc923d527eb6bf
+Filename: pool/tur/clucene_2.3.3.4-6_arm.deb
+Size: 679108
+MD5sum: bb36b2797e5461b8131617afbd13b5ea
+SHA1: dc0d7fc2e162b16cf090bf1ab1b80839594c808c
+SHA256: c4d2688fb68e9b5b9e9a63d9fb01743c1d261564165323387d4395256e77775c
 Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
@@ -4845,15 +4845,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.26
+Version: 0.1.27
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 7340
-Filename: pool/tur/rumdl_0.1.26_arm.deb
-Size: 3272328
-MD5sum: 435586480dc3b1396cad0c46fe5bcdb3
-SHA1: 18f14079cd017c63907469266e398a7c316b720b
-SHA256: d20bd54e1a4e877bed4fa884e0499ef539ae0c9dd32f52f9b996ab475c3985d7
+Installed-Size: 7344
+Filename: pool/tur/rumdl_0.1.27_arm.deb
+Size: 3276816
+MD5sum: 4d1cbb43b70e007255e28c27e4046589
+SHA1: 4f28819393108368c4f37efae7669b5abdd8232f
+SHA256: f7fe3d5171bf7d0db6e7fd35a6260095e9f93aed106c1b1ac964b6816d5d2c1b
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
