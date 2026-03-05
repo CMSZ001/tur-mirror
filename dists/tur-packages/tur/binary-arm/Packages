@@ -464,16 +464,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.107.0
+Version: 0.110.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 53444
+Installed-Size: 52900
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.107.0_arm.deb
-Size: 21632936
-MD5sum: c4667771dea3211ad4851705c13c0439
-SHA1: c4b8f730490e39cca6e552400d643aec727d4864
-SHA256: b915f31ded0229095428f19b3bfc6a4cfddaacc9feaf0ecc1075a74a2f0fcb59
+Filename: pool/tur/codex_0.110.0_arm.deb
+Size: 21584708
+MD5sum: 5dc76cf3f53bc0a616311539201f79c5
+SHA1: f476c4777db34582053d8901b7a36b3e3702fd0d
+SHA256: 629a04369659076c11d86c6e5b781624f222e70c1880180bd84bdcdeb5cbf62c
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -4858,15 +4858,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.39
+Version: 0.1.40
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 7448
-Filename: pool/tur/rumdl_0.1.39_arm.deb
-Size: 3322232
-MD5sum: 165943175f3c1929fbb19b97ffcd45b7
-SHA1: 62fa1addae0815470ce499ef139bc7d698584fb6
-SHA256: b9598c09751e6b89f67612df0c677db162c24e0a1b73b7d8143460290e11bd71
+Installed-Size: 7460
+Filename: pool/tur/rumdl_0.1.40_arm.deb
+Size: 3328480
+MD5sum: 7130b19b1722f4aa3a11c8c7b3581f37
+SHA1: cbe2ffa36b11cc95c5165b8aac3aa2c12d817323
+SHA256: 9fc92adc419c8fbf66668ddf6893369d3bfd920333f4674242e4225a4e628917
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
