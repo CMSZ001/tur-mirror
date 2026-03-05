@@ -977,15 +977,15 @@ Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
 Package: filebrowser
-Version: 2.61.0
+Version: 2.61.1
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 27440
-Filename: pool/tur/filebrowser_2.61.0_arm.deb
-Size: 10259404
-MD5sum: b18ae38384b9ac2f6b858d8be53f44d7
-SHA1: 1b9599bc1030d935087eb10f4f2f29c3bf4730ca
-SHA256: 6a9f7f7cc47b181ed81b9cff1c2dcc6c92030b62e7e8f1da459cb56727b5a7c6
+Filename: pool/tur/filebrowser_2.61.1_arm.deb
+Size: 10259332
+MD5sum: 9c49bea03030e2b3a6ab40bcfdf53081
+SHA1: d2424d9f5f6b2b22d4ae5151fcfde0d1226d04c5
+SHA256: b8700d74a510673d0539e4c79e3ceee65d8fd97e32eabdce71f326d10d5432e1
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
@@ -1221,16 +1221,16 @@ Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: genext2fs
-Version: 1.5.0
+Version: 1.6.2
 Architecture: arm
 Maintainer: @flosnvjx, @termux-user-repository
-Installed-Size: 88
+Installed-Size: 92
 Depends: libarchive
-Filename: pool/tur/genext2fs_1.5.0_arm.deb
-Size: 21312
-MD5sum: ed940aa056b5c0d31ce5ee13265b00fe
-SHA1: 461f6b6ed6bd9cfff84b912c22780448c6aefaec
-SHA256: 0fd23af68177af1501e10e6ec5fcde8671cf6a9607c8d076f535274f91c904cd
+Filename: pool/tur/genext2fs_1.6.2_arm.deb
+Size: 23788
+MD5sum: 1176cb1295dd16de072733849f89ca3e
+SHA1: 01b038c6f2707ba6b9469b43f2d6662d01a635fc
+SHA256: 6432f4ba72cef7e6464ffce94a055d546c75aeabbacadb8861a0cce77f1e0015
 Homepage: https://github.com/bestouff/genext2fs
 Description: Build ext2 filesystem image without mounting for copying files (like mkfs.fat + mcopy in one go)
 
@@ -4858,15 +4858,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.36
+Version: 0.1.39
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 7424
-Filename: pool/tur/rumdl_0.1.36_arm.deb
-Size: 3315916
-MD5sum: b880dfa3f04e8d049799cafc40b12dda
-SHA1: 323f5c647671f7e4aa62f224021bbbb94a8a44c9
-SHA256: 7b8b2e4a5179dbfd93f68c54634f85a24a60beca236b10ddf474c90d5f5139d2
+Installed-Size: 7448
+Filename: pool/tur/rumdl_0.1.39_arm.deb
+Size: 3322232
+MD5sum: 165943175f3c1929fbb19b97ffcd45b7
+SHA1: 62fa1addae0815470ce499ef139bc7d698584fb6
+SHA256: b9598c09751e6b89f67612df0c677db162c24e0a1b73b7d8143460290e11bd71
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
