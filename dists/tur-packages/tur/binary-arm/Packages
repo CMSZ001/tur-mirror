@@ -353,16 +353,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 145.0.7632.45
+Version: 145.0.7632.45-1
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 1046840
+Installed-Size: 1046748
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_145.0.7632.45_arm.deb
-Size: 185561320
-MD5sum: e971b7d2c18c3a324e3aa362c64a6b2d
-SHA1: 6ca2ec09c05f106cacdf5129674d49804a7588b9
-SHA256: 0535e214701642c5039efdd4504b4b32048ae5a120f8f8443debac3371c635c5
+Filename: pool/tur/chromium-beta_145.0.7632.45-1_arm.deb
+Size: 185557368
+MD5sum: 9313924a8f3521027d10a54770b4af1c
+SHA1: bfe6c0b75ad1ebbc6f2409465a643a1aad6338af
+SHA256: 3e7e7818b849b6f71efa2aeeb1bc66db3d2e4481e97f79497323286d2a0946f4
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -1348,15 +1348,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.2-1
+Version: 0.2.3
 Architecture: arm
 Maintainer: @ancientcatz
-Installed-Size: 18708
-Filename: pool/tur/goat_0.2.2-1_arm.deb
-Size: 5131096
-MD5sum: 274fa01ae0a66160f6f6490ff3bd83c7
-SHA1: 339a0955c99bcf89504193fe17be58cb66859d4c
-SHA256: 4c47133acc556ea674283ac6a4818cf1dca55fffb67a7ffe2b6184265ddd27e9
+Installed-Size: 19020
+Filename: pool/tur/goat_0.2.3_arm.deb
+Size: 5270352
+MD5sum: 25259197fd6b5ee529f4903928bf5f31
+SHA1: 369631a222878766a4edc7b98cce45a6aa3a488d
+SHA256: 26cee5156f82af6ae4a12bdebc13446522dd997c3280ccc03b67c098d321e937
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -5579,16 +5579,16 @@ Homepage: https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/
 Description: a C library that implements the 'World Coordinate System' (WCS) standard in FITS
 
 Package: wine-devel
-Version: 11.3
+Version: 11.4
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 2594700
+Installed-Size: 543720
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.3_arm.deb
-Size: 76840216
-MD5sum: e0640daeab9a1a35f6065be3f3739571
-SHA1: 0ee9aa846cf15dd382af8c14bbe9ee374d055be4
-SHA256: 8aaf8684509b824a75aa08bb4fff4d51fd24624e36c150041f4ad835e5e074f0
+Filename: pool/tur/wine-devel_11.4_arm.deb
+Size: 76656364
+MD5sum: 0053dc139fe99548665335319979b6de
+SHA1: 42d72836ca81f38c04d57df84d83597b1a4ba137
+SHA256: 427fd05f6e18aa73c859217c700230f5b031680b54b24506478df42d30940847
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -5607,16 +5607,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.3
+Version: 11.4
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 2600840
+Installed-Size: 549728
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.3_arm.deb
-Size: 78768452
-MD5sum: 69def8329911b3dbc809e6e366486cfb
-SHA1: 0557054ab477af8342b9372f1ba6568fb4597b31
-SHA256: ec231ad3a49f18816c9efcc06c40c868c9cadeabcd45496ad0f4c37a21675588
+Filename: pool/tur/wine-staging_11.4_arm.deb
+Size: 78536836
+MD5sum: c956109626fa69f08896c72a030b39de
+SHA1: c6ff929d2bfe25e42921a6e4bc5cebb48c9263bb
+SHA256: 37ebc6c2857b55f859264a4c45a4c7399c3c839cd006e0f039249940e60131fd
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 

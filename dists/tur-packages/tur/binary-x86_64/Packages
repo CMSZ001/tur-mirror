@@ -470,16 +470,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 145.0.7632.45
+Version: 145.0.7632.45-1
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 1131364
+Installed-Size: 1132160
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_145.0.7632.45_x86_64.deb
-Size: 191108060
-MD5sum: 46094559e10406ebbfaccb883ed63466
-SHA1: 39ba621f1ba8f16f20dcac3742bb1e4a08a75ba6
-SHA256: 61f6503a2ad6cb737df502d260c6d3735297c485f6a61d395b709d82cb6cdd29
+Filename: pool/tur/chromium-beta_145.0.7632.45-1_x86_64.deb
+Size: 191197268
+MD5sum: 29669ac64bbc87d891e5b02bc686a151
+SHA1: 091baa6df88461b10adea781cf30ad26fc70e3d1
+SHA256: bff66c4392cde0007473d70f5c289ceb41ab2b0a58119a4b7132e36239b4822b
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -717,16 +717,16 @@ Homepage: https://www.jwz.org/dadadodo
 Description: A program that analyses texts for word probabilities, and then generates random sentences based on that
 
 Package: darktable
-Version: 5.4.1
+Version: 5.4.1-1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 23348
-Depends: exiv2, gdk-pixbuf, glib, graphicsmagick, gtk3, imath, json-glib, lensfun, libandroid-glob, libc++, libcairo, libcurl, libheif, libicu, libjpeg-turbo, libjxl, libllvm, libpng, libpugixml, librsvg, libsqlite, libtiff, libwebp, libxml2, littlecms, ltrace, lua54, openexr, openjpeg, pango, portmidi, zlib
-Filename: pool/tur/darktable_5.4.1_x86_64.deb
-Size: 4728180
-MD5sum: a4dc31c7b0ccdbd4449f90811b7c0e44
-SHA1: e515cc0d18295d11b30665c6d3f085eb5e902648
-SHA256: b5923531ab0cb6a48454f7b77453b200f5987361bdf3077adad214ca69961813
+Installed-Size: 23384
+Depends: exiv2, gdk-pixbuf, glib, graphicsmagick, gtk3, imath, json-glib, lensfun, libandroid-glob, libavif, libc++, libcairo, libcurl, libheif, libicu, libjpeg-turbo, libjxl, libllvm, libpng, libpugixml, librsvg, libsqlite, libtiff, libwebp, libxml2, littlecms, ltrace, lua54, openexr, openjpeg, pango, portmidi, zlib
+Filename: pool/tur/darktable_5.4.1-1_x86_64.deb
+Size: 4734328
+MD5sum: 167abdb8874290d9aff12c7fcf35aa17
+SHA1: 9eb1e9704dbe7dd03833714e52f388dd34d1228d
+SHA256: 5037f1e2fb5c004484e35947d85924aa2b2d5f3f0fa77d9507a2f2353cf87a8e
 Homepage: https://www.darktable.org/
 Description: Virtual lighttable and darkroom for photographers
 
@@ -1521,15 +1521,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.2-1
+Version: 0.2.3
 Architecture: x86_64
 Maintainer: @ancientcatz
-Installed-Size: 20600
-Filename: pool/tur/goat_0.2.2-1_x86_64.deb
-Size: 5659244
-MD5sum: c1c06d569d0903cf1d938aa6c7d4f433
-SHA1: aa72ccc14568a8c8ded08f672d0b8a73319bc182
-SHA256: 6bfcb0e8f23317798db883c16d6b289cf68822cc50ca3be275afd48edfc70bbd
+Installed-Size: 20996
+Filename: pool/tur/goat_0.2.3_x86_64.deb
+Size: 5766716
+MD5sum: fbb05238a3e99b7ae8e2ef1846237c2d
+SHA1: f9b2ad27dcf35905d5f6cb8125d9b66b95ad7d19
+SHA256: c71b87c55e768c5473f413cfdbba4e82cc53abd87f845d4fceee41df88376d19
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -5872,16 +5872,16 @@ Homepage: https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/
 Description: a C library that implements the 'World Coordinate System' (WCS) standard in FITS
 
 Package: wine-devel
-Version: 11.3
+Version: 11.4
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 3120624
+Installed-Size: 1072244
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.3_x86_64.deb
-Size: 148334588
-MD5sum: b2dc0290cd465d07364d265d028e4e7c
-SHA1: d48fbaccf67220947137c619bced1fd16c0c2e9d
-SHA256: c679e2e1005ff1e6b390bdaa1df9873a1d27933ac0253129c924c5b2bff94c37
+Filename: pool/tur/wine-devel_11.4_x86_64.deb
+Size: 148282204
+MD5sum: cb59ee7d47b8daf857eb958c06c6c926
+SHA1: 18dbbbac6d98860886441e4816c0b891b26d7dad
+SHA256: 7c5b05d3c55759dc0d566e85b648a3192e904be0efd1adb93486604ba9ec793c
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -5900,16 +5900,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.3
+Version: 11.4
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 3128168
+Installed-Size: 1079532
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.3_x86_64.deb
-Size: 150564448
-MD5sum: e64785518f06aad13bce57d838aa883d
-SHA1: b8a3400d484d135ce5ce3a33a77fa68d305c6db3
-SHA256: a9a8192109d955c0b0f5f061aef455c243ddd4503daab6828e037ad591f6dbba
+Filename: pool/tur/wine-staging_11.4_x86_64.deb
+Size: 150426532
+MD5sum: 1e5f7b8b1e392757fe0f546bf6d72dfc
+SHA1: 5d31bd766958583ef9f313180b39a4fab792c75a
+SHA256: 880e6d604a91b651932ddf4f2feeb9829fc18669acd526d7fe1c69260db7949b
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 

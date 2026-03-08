@@ -1208,15 +1208,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.2-1
+Version: 0.2.3
 Architecture: i686
 Maintainer: @ancientcatz
-Installed-Size: 18980
-Filename: pool/tur/goat_0.2.2-1_i686.deb
-Size: 5911920
-MD5sum: c78af0598df9ee7adc421b6a6b8b268d
-SHA1: afcba5adddaea30a24cf60b8904346ce07ba5497
-SHA256: aeedca73ff26c6f576762abd0976c3f9924d4c9387b4f4c06dd809a4b5debca4
+Installed-Size: 19324
+Filename: pool/tur/goat_0.2.3_i686.deb
+Size: 6054740
+MD5sum: 056bc4374094d9436941193b8fd48476
+SHA1: a1f50d221515eb54a364dea45e5f1c6e0c73a225
+SHA256: 69ae7517cac3e96b8ee41879edfffcb2a035c6937e9e63eb4d9d3fed67cf66af
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -5385,16 +5385,16 @@ Homepage: https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/
 Description: a C library that implements the 'World Coordinate System' (WCS) standard in FITS
 
 Package: wine-devel
-Version: 11.3
+Version: 11.4
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 2615548
+Installed-Size: 568600
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.3_i686.deb
-Size: 78329624
-MD5sum: 22e8ef1c5980d2f1c6be04e3096b7bbe
-SHA1: 66e3a76e89d47e3e7a9165044e486056a9adad73
-SHA256: f5e2bdd2002fed261194bdc067f80d5b951691e84a8fe06da4fda0149482b3af
+Filename: pool/tur/wine-devel_11.4_i686.deb
+Size: 78116752
+MD5sum: f6bc22d1b5e522a0276c639044aed348
+SHA1: 6cb160bc918129106ff25be6187168e736e114bf
+SHA256: 6d972058c1f16b738641bc0a4973582d9ba7f02a054826fb43388d05d7a697d2
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -5413,16 +5413,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.3
+Version: 11.4
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 2621728
+Installed-Size: 574620
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.3_i686.deb
-Size: 80232256
-MD5sum: 0782d2a89b93139c7c7fad35fc1322c0
-SHA1: 052814f077cd664aee98a87f5312acfcdacfe6dd
-SHA256: 2a7fba7a3fe5aa8f7dcccb42a4c21fe55cf06e3013fb553a68c98a9d695cf6dd
+Filename: pool/tur/wine-staging_11.4_i686.deb
+Size: 80006540
+MD5sum: d993d0884504b3cf43d260c431e91e69
+SHA1: afcba6eb5dc7f24ea97c1a7ded96c9ec4489a586
+SHA256: 81b159d2458329e9735494e04a31f556b630b79f5c0868be8f410c880c5b0cc5
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
