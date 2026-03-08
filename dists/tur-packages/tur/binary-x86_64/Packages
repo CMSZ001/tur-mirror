@@ -456,16 +456,16 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 145.0.7632.45
+Version: 145.0.7632.45-1
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 386112
+Installed-Size: 386256
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_145.0.7632.45_x86_64.deb
-Size: 46540680
-MD5sum: 37c0746819544a97025f7ab87e5b44f1
-SHA1: c10c8003efd35e34a91c975c38c452dd83ebd415
-SHA256: 46c8337308b0b852c27412c12d8931edf3f4c099857e34b618c197efb890df35
+Filename: pool/tur/chromium-beta-host-tools_145.0.7632.45-1_x86_64.deb
+Size: 46563084
+MD5sum: 8d5b3204ee04cfaac684622420f4a769
+SHA1: 1fd109320d54512ff9466581107445610a35208b
+SHA256: 13c435d4a2521f12839747836dbebfd3f2de5e668cda8b977e53565b407298ad
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -1752,16 +1752,16 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: juice-shop
-Version: 19.1.1
+Version: 19.2.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 925984
+Installed-Size: 947496
 Depends: nodejs-lts
-Filename: pool/tur/juice-shop_19.1.1_x86_64.deb
-Size: 169661016
-MD5sum: 5cb840c8c4281bfe4629bdbb8cf58c93
-SHA1: 28e201c8f31b23de9b0cb09b87adc0b9b02830e4
-SHA256: c2883a5a47455d0908240fcb0c01d7bed9266fd2ea86b2a9a05eea969ccf7951
+Filename: pool/tur/juice-shop_19.2.1_x86_64.deb
+Size: 187458748
+MD5sum: b637fb99605498ffb32de50bc04de509
+SHA1: 145ca49e111065aea9a21be8380f9ca70471247d
+SHA256: f181ee42c55310ee6ea896113ec47534f9ddf6d77d54e53a21ca85e1a7aaeffd
 Homepage: https://owasp.org/www-project-juice-shop/
 Description: A modern and sophisticated insecure web application
 

@@ -456,16 +456,16 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 145.0.7632.45
+Version: 145.0.7632.45-1
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 446736
+Installed-Size: 446876
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_145.0.7632.45_aarch64.deb
-Size: 50049392
-MD5sum: feb5959ecb63476eddf2454a2f8ac4bd
-SHA1: c5b32e2409c0d3249106007d66d6e3cd83d929b9
-SHA256: 26c0deaca0e6f5689d58f8a6642d487a947c2b1a6f5ccffdaab18c9a8b020b5e
+Filename: pool/tur/chromium-beta-host-tools_145.0.7632.45-1_aarch64.deb
+Size: 50065460
+MD5sum: d093a6e761e7270f423c517b69254d0e
+SHA1: 55d32a6ebbb51fe7dee801f5d25522866435e1ee
+SHA256: b06f07bcf023c693c8638d75ab82bd36863e33e5fbe9247abe857a8e97f2c370
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -1792,16 +1792,16 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: juice-shop
-Version: 19.1.1
+Version: 19.2.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 927596
+Installed-Size: 948596
 Depends: nodejs-lts
-Filename: pool/tur/juice-shop_19.1.1_aarch64.deb
-Size: 169657240
-MD5sum: 22d48ba541e90a62d42b45d1487a4e2a
-SHA1: 497d6c14a042ef0d220b30ef05d54ef5e27a92ef
-SHA256: cc6bef6580be4c1109a99fbfe811687f9f609117d7b908ea5f168d095793fea6
+Filename: pool/tur/juice-shop_19.2.1_aarch64.deb
+Size: 187436032
+MD5sum: 157ce03f01d586f88b12f01e80bb5adc
+SHA1: 669fe7d839f8c5149a2edd019f21e94a97675665
+SHA256: 8811273cf503660a33419b1826cc905a27818e9c6abbac151fad0c88041b9b25
 Homepage: https://owasp.org/www-project-juice-shop/
 Description: A modern and sophisticated insecure web application
 
