@@ -609,16 +609,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.111.0
+Version: 0.112.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 74188
+Installed-Size: 74304
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.111.0_aarch64.deb
-Size: 21095696
-MD5sum: 412b6024f0abad96e9256155fe9c9cb6
-SHA1: 37f8bc3a96e9101736741ef1ef40fbc87b664e83
-SHA256: 17c14987a9b0802ec9caa2782df92d02668cc58e3dd94d9a8bda155158eefa91
+Filename: pool/tur/codex_0.112.0_aarch64.deb
+Size: 21125732
+MD5sum: 0636ecea5354964217e589c544723327
+SHA1: 91c787d0f5d3634b377b712a74d19e9f53b4db26
+SHA256: 3cc9e9bfd1e9c6f593f3fe08328dafb36ebdea0804103773d7de2eda725c9007
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -5822,15 +5822,15 @@ Homepage: https://github.com/bloznelis/typioca
 Description: Cozy typing speed tester
 
 Package: uutils-coreutils
-Version: 0.6.0
+Version: 0.7.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 12820
-Filename: pool/tur/uutils-coreutils_0.6.0_aarch64.deb
-Size: 3596964
-MD5sum: 905fdf24ae025efa642cbb0cbab114c8
-SHA1: c34bee2fe494e8578c7ec8bd77488f7744c3f748
-SHA256: b7772e68365979dd9746ab3144e8d42cda00047018f885fd0b6c2fc9462256f7
+Installed-Size: 12668
+Filename: pool/tur/uutils-coreutils_0.7.0_aarch64.deb
+Size: 3541116
+MD5sum: 9c0f97a3e13d30e39df6d823e21c51c5
+SHA1: 821988c030232926efdfc16ebd4823583cd4f7c7
+SHA256: 23b57c9cbbe179fff4c85309515616991bbf51033e7a8229effbc1f854fe8778
 Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
@@ -6626,16 +6626,16 @@ Homepage: https://python-future.org
 Description: Clean single-source support for Python 3 and 2
 
 Package: python-opengl
-Version: 3.1.6-3
+Version: 3.1.6-4
 Architecture: all
 Maintainer: @fervi
 Installed-Size: 14960
 Depends: python, mesa
-Filename: pool/tur/python-opengl_3.1.6-3_all.deb
-Size: 668620
-MD5sum: d5d0a76e593b0c03b3298f640cda9f82
-SHA1: ef9bf18984ec0d80a49807eb295aee76edb7c106
-SHA256: dd06896884faf99de31b57f61587cd59668a176c812f5795fe523bc8431b8492
+Filename: pool/tur/python-opengl_3.1.6-4_all.deb
+Size: 668628
+MD5sum: 34f2aeccdb65ee4630b1b48dd67e2e45
+SHA1: a7b9d73d09df3d8e3591f0c3e722067b2ac8cbbe
+SHA256: ace3b67103c634af424c057a79304f2b80dd2f6a82387ab1302ed54b1ce748ef
 Homepage: http://pyopengl.sourceforge.net
 Description: A cross-platform open source Python binding to the standard OpenGL API providing 2D and 3D graphic drawing
 
