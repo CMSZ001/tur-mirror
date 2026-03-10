@@ -456,16 +456,16 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 145.0.7632.45-1
+Version: 146.0.7680.65
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 446876
+Installed-Size: 449732
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_145.0.7632.45-1_aarch64.deb
-Size: 50065460
-MD5sum: d093a6e761e7270f423c517b69254d0e
-SHA1: 55d32a6ebbb51fe7dee801f5d25522866435e1ee
-SHA256: b06f07bcf023c693c8638d75ab82bd36863e33e5fbe9247abe857a8e97f2c370
+Filename: pool/tur/chromium-beta-host-tools_146.0.7680.65_aarch64.deb
+Size: 50382956
+MD5sum: 6c092b60181e39b70961d4e0ae2a99f9
+SHA1: 0ba2c924aded7b15fddf259c5327f79f8625988d
+SHA256: 49ee8410d712a7524ffa92acc43a05c289136b7176c43f2c16c64d1edacd446b
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -1150,16 +1150,16 @@ Homepage: https://ffmpeg.org
 Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
 
 Package: ffplayout
-Version: 0.25.7
+Version: 1.0.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 23400
+Installed-Size: 22828
 Depends: ffmpeg
-Filename: pool/tur/ffplayout_0.25.7_aarch64.deb
-Size: 6922672
-MD5sum: df7687beeb3799f929554f4ae509d720
-SHA1: c9575be0a184f942fe4311b866f9efd38d7da7fa
-SHA256: dd02ac8408a14a2d3fc484b9c4ac2e96ea8be2e01d746eeaca2757c029f6cdbd
+Filename: pool/tur/ffplayout_1.0.0_aarch64.deb
+Size: 6785984
+MD5sum: 22dfdf2108928abff34c401264a68de7
+SHA1: f3aa3c2f1a7a506ef452463872e51a53aaafa294
+SHA256: 39cbd62a35355f75e39e385fc014c8d9cbd5d7f2379cfc583399ca99e02ed248
 Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
@@ -5285,15 +5285,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.43
+Version: 0.1.44
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 10388
-Filename: pool/tur/rumdl_0.1.43_aarch64.deb
-Size: 3134880
-MD5sum: 6748cf61249f86ca224883ce4c0450fc
-SHA1: 433248499dccfde2a77cf4e8c66f625cdcac77e5
-SHA256: ed7e9cb17386f75aa1c7301db8cc82d53d11fded00b43b8f3c96b8afb6170001
+Installed-Size: 10396
+Filename: pool/tur/rumdl_0.1.44_aarch64.deb
+Size: 3138092
+MD5sum: a6dd04b6f26c107947de101adc9a23be
+SHA1: fee79443eb301efb2b1aee85ebfb2603e9c7707e
+SHA256: 77e759932d0a0ef82992c81e534fd870d24e10117db68298bbd51185fac2f4ea
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
