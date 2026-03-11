@@ -436,16 +436,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.113.0
+Version: 0.114.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 100956
+Installed-Size: 102672
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.113.0_i686.deb
-Size: 29442416
-MD5sum: a84b74a06120a108bd2af00d72b5c2fe
-SHA1: 6dbd394eccbdfb4b230c1701546caceeaa5fdee9
-SHA256: 3670d97d6ca707a6b98269dba811a029b6429d59dd45f273dbe35d75fd4d7006
+Filename: pool/tur/codex_0.114.0_i686.deb
+Size: 29882880
+MD5sum: 1ba4e1393dec57abcbec74a1d40730f7
+SHA1: 35083232f088d4e2ace3bb6a946855cd789cf91d
+SHA256: ddeb8179f6e23bffe9a873fc0eb92ca4832ba576df515236fdd6fc2950a84952
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -3110,17 +3110,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
 Package: nodejs-22
-Version: 22.21.1
+Version: 22.22.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 156672
+Installed-Size: 157940
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-22_22.21.1_i686.deb
-Size: 25724448
-MD5sum: a7dfa7edb2c736736b98d489891eebf1
-SHA1: 31103d1992dece21a79886a54a3e0877272e87c9
-SHA256: 4ff36177e5d956f852e248bca0af52c8dd4bdcfa6749c291c1b20a385470a69b
+Filename: pool/tur/nodejs-22_22.22.1_i686.deb
+Size: 26020712
+MD5sum: fe89f73a957b87f77b37c37d0d344534
+SHA1: fc21e588b14cb5972b95650a5c857574ab3482c9
+SHA256: 8d3ea52942ed3549a966033703a22bdf59ccae981139adbee85a96fded19dd89
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
@@ -5283,17 +5283,17 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vhs
-Version: 0.10.0
+Version: 0.11.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 23668
+Installed-Size: 23036
 Depends: ttyd, ffmpeg
 Suggests: chromium
-Filename: pool/tur/vhs_0.10.0_i686.deb
-Size: 7790428
-MD5sum: 31ab404f189d43b5aa2e3851a3ca4fdd
-SHA1: 47915122009f333138fd09d9374d3574bf41fec8
-SHA256: 58c8eee43b6b6e00dfbe4db0b8485990d1796de468d102511967175e8739f181
+Filename: pool/tur/vhs_0.11.0_i686.deb
+Size: 7726740
+MD5sum: ab354e34346487f753971f3b9b02a0f6
+SHA1: e2658d17f71341c8afc8c5e3bad506d7861a34ca
+SHA256: 89be73fa1f59602c4cdf623d2757ffb4239c680b55e9f7a7ae40d2e55d9cac1e
 Homepage: https://github.com/charmbracelet/vhs
 Description: Your CLI home video recorder
 

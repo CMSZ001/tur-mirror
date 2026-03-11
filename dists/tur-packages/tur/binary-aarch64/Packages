@@ -470,16 +470,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 145.0.7632.45-1
+Version: 146.0.7680.65
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 1264380
+Installed-Size: 1280236
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_145.0.7632.45-1_aarch64.deb
-Size: 190555944
-MD5sum: 278d61b22f66ee96518d5ab0d2d2df96
-SHA1: 35d237e6deb7d7a8af8d47593e91bc3e5c6f6fea
-SHA256: c75d4ce4b14a44a058b2be0a2b0e23ed872b6ec6b37aaa58d61301696dac2b67
+Filename: pool/tur/chromium-beta_146.0.7680.65_aarch64.deb
+Size: 197867260
+MD5sum: bdb371a6a6e37165b71068b59bcfd7ca
+SHA1: c4118f5c6b531f9210c70c6dbdbcdc3eb3002297
+SHA256: fdfd60907be36e10928cd9101d86029aca801e2e3b8f96066572c2560fbedf64
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -582,16 +582,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.109.5
+Version: 4.110.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 379364
+Installed-Size: 380820
 Depends: libandroid-spawn, libsecret, krb5, nodejs-22, ripgrep
-Filename: pool/tur/code-server_4.109.5_aarch64.deb
-Size: 49946664
-MD5sum: 05c3231545b852787bdefd3a3ec550a9
-SHA1: 0594bb9a88aeb73233adce5f505f554196c25239
-SHA256: bdd4c13c662e8065893a5d3f8247648947445f28b1e3fa07be41d7360551421d
+Filename: pool/tur/code-server_4.110.0_aarch64.deb
+Size: 49632900
+MD5sum: a1ade46341dddc4ef920d0f61ad92489
+SHA1: 32fe51689cd85c956f90c6cec55ed2e6b9b2f4f9
+SHA256: eb0879cfa586fb8cc85cf3fcdea4a7a577a442cfc71fc463024890aae3dba012
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -609,16 +609,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.113.0
+Version: 0.114.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 88412
+Installed-Size: 89980
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.113.0_aarch64.deb
-Size: 24646916
-MD5sum: 9ae7d36b7f88a4eb977b2f6947328c5f
-SHA1: 0d6ee71e192f1d1de0f1a89837e3a4838b211e06
-SHA256: 6cedf9419fd2bc61710a5704c43c5c9d65fb5ad260b2dae69c4d0e3bfbd796db
+Filename: pool/tur/codex_0.114.0_aarch64.deb
+Size: 25038720
+MD5sum: 318b017ae7837cc52977dedd644d9fe0
+SHA1: 1957398ce978c9d7287504bcb0a08f0802804ad6
+SHA256: 5170ffb7847cb56bcd08ef68b6f470e7d931c4eb932ebc30ce93bad22194ac8c
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -3645,17 +3645,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
 Package: nodejs-22
-Version: 22.21.1
+Version: 22.22.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 160768
+Installed-Size: 162008
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-22_22.21.1_aarch64.deb
-Size: 24947072
-MD5sum: d8ec1d3654ea73ef2adb32eaf9918810
-SHA1: 2906cdaac5a7c051143a3f1088f030d28276f832
-SHA256: 437282e6f3f4f87244dba55f6878b3f779c1453d0d211601a59829a21de4f82b
+Filename: pool/tur/nodejs-22_22.22.1_aarch64.deb
+Size: 25206508
+MD5sum: 06429732dd96ee3c23cda07ba67740dc
+SHA1: ad271fe66ee1615b7b0394d4ec65c606141619a0
+SHA256: 835c2d9a6dd2e9f6053b9df133d6ebbcc7fd0ff0741b2f8c411eef9cec36f9f2
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
@@ -5835,17 +5835,17 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vhs
-Version: 0.10.0
+Version: 0.11.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 24236
+Installed-Size: 23720
 Depends: ttyd, ffmpeg
 Suggests: chromium
-Filename: pool/tur/vhs_0.10.0_aarch64.deb
-Size: 6841560
-MD5sum: f6a926fb9b28dada01753f2fbad096eb
-SHA1: 4bd7c47676b62aa97d172867a7a984036591cc07
-SHA256: 899799c9343d2eca5c1f6e5924cfc3595929e69eda7d41f090c18c349a0d49a2
+Filename: pool/tur/vhs_0.11.0_aarch64.deb
+Size: 6852504
+MD5sum: 637e8f4c1e54ae432b0bf65dfad5bda7
+SHA1: 6d64db851ee75b12e9bc01de29f6a16cdf8f0454
+SHA256: 02b65d329848f980fd9bd4f477ca6020aec792a2f584c0a472900359e1ef8b00
 Homepage: https://github.com/charmbracelet/vhs
 Description: Your CLI home video recorder
 

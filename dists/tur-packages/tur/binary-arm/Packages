@@ -353,16 +353,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 145.0.7632.45-1
+Version: 146.0.7680.65
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 1046748
+Installed-Size: 1061428
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_145.0.7632.45-1_arm.deb
-Size: 185557368
-MD5sum: 9313924a8f3521027d10a54770b4af1c
-SHA1: bfe6c0b75ad1ebbc6f2409465a643a1aad6338af
-SHA256: 3e7e7818b849b6f71efa2aeeb1bc66db3d2e4481e97f79497323286d2a0946f4
+Filename: pool/tur/chromium-beta_146.0.7680.65_arm.deb
+Size: 192817932
+MD5sum: 94d860ae3c6944c046fb0d1210cbb7d2
+SHA1: dfd60137754b99c580610ab7352924e9fd6235df
+SHA256: 4220a41d2d433c83915199f4572de4769ec7c8646b1a40b0b013ffd0bacb6f23
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -451,16 +451,16 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: code-server
-Version: 4.109.5
+Version: 4.110.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 378468
+Installed-Size: 379920
 Depends: libandroid-spawn, libsecret, krb5, nodejs-22, ripgrep
-Filename: pool/tur/code-server_4.109.5_arm.deb
-Size: 49980204
-MD5sum: 734cebdf71a700ca6b6a37b11915ba26
-SHA1: b59d4d4d1da0a51672e53a4ad362da9ba0171b4f
-SHA256: e501ac3c25a447b4acd0c377ff7eddfc8660421c7617e36ba810c7b835358558
+Filename: pool/tur/code-server_4.110.0_arm.deb
+Size: 49669960
+MD5sum: 3c3f4e016ede0c36ca809a117532148a
+SHA1: 5246fdb86b4516871e0b9a594cc41945ac9d9871
+SHA256: 79820188110fecd8da09f76bca69c689398c9ea74489377ac6bf9aa4f869e11a
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -478,16 +478,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.113.0
+Version: 0.114.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 63892
+Installed-Size: 64988
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.113.0_arm.deb
-Size: 25422716
-MD5sum: 228fbaba173932ac30daf7b557676c0e
-SHA1: 02be957a0675800467298a797fb0dcd635760e95
-SHA256: c04c9d490eb53fa936cd32456aca456f8b4265026d877495eb750b3f03852fc3
+Filename: pool/tur/codex_0.114.0_arm.deb
+Size: 25860172
+MD5sum: f961005bdb770f42ff2344aab003841c
+SHA1: 9c6bb2e0476933bf174a757e0ebcc62956f6e322
+SHA256: 36bce53943cfe10a366c58dac6fa4222accddbcbdc7eb8e7e93c41ccb7f0b96c
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -3318,17 +3318,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
 Package: nodejs-22
-Version: 22.21.1
+Version: 22.22.1
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 131856
+Installed-Size: 133124
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-22_22.21.1_arm.deb
-Size: 23153680
-MD5sum: 5058a6e1531a55d61705400f7a27be85
-SHA1: 39a21fa38f87a2af48270abd3cea0ddb3b3c4105
-SHA256: df50b8c35400bc463202b38d6e4e601ec0f5bef7410a85dd2ab83ac9a8aec366
+Filename: pool/tur/nodejs-22_22.22.1_arm.deb
+Size: 23417788
+MD5sum: 6b6b736c84609cc784ad08b2bd8d67c0
+SHA1: c626aca08ad0d83339b732361f20b83075fe8def
+SHA256: ce2c2cb735171713676843350062f39bf4b7087dbf0b80608b4675932eff1801
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
@@ -5462,17 +5462,17 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vhs
-Version: 0.10.0
+Version: 0.11.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 23684
+Installed-Size: 22872
 Depends: ttyd, ffmpeg
 Suggests: chromium
-Filename: pool/tur/vhs_0.10.0_arm.deb
-Size: 7042452
-MD5sum: 820990a3f7aa77d054378b685aa0a32b
-SHA1: 5ffbb98f55a89323891c50a79a5b47fb62780a19
-SHA256: d9e5aef379b0e37f8a2b416b795b135268dd7281b1c51efdfc861e0c9153a1b3
+Filename: pool/tur/vhs_0.11.0_arm.deb
+Size: 7016888
+MD5sum: f132d67e5917874c1e8122249df66043
+SHA1: a1ebd78f99ef81646a7ccd7a5b1abc15aa88d050
+SHA256: ee749b946c33d2742139fdabde17c0d6845fd9b1d5cfbfa57b062c1fb4923c2a
 Homepage: https://github.com/charmbracelet/vhs
 Description: Your CLI home video recorder
 
