@@ -1320,6 +1320,48 @@ SHA256: da23ade722a6ffcbcf94b6a3afbb0373bb5fd84b1ef32ccd1e4187e4969944d8
 Homepage: https://camaya.net/gloox/
 Description: A rock-solid, full-featured XMPP client library
 
+Package: gnome-chess
+Version: 50.0
+Architecture: arm
+Maintainer: @lunsokhasovan, @termux-user-repository
+Installed-Size: 1872
+Depends: glib, gtk4, gnuchess, libadwaita, libcairo, librsvg, opengl, pango
+Filename: pool/tur/gnome-chess_50.0_arm.deb
+Size: 435772
+MD5sum: 1a3469043828b7df184b37dbdc06039c
+SHA1: 92b53f4898879dcde2adcb061912f12db21fdb10
+SHA256: 583ba80675425ab4924a5ace2c7aa68b752c43cadb4a4117835d45e5e835f6b4
+Homepage: https://wiki.gnome.org/Apps(2f)Chess.html
+Description: GNOME Chess game
+
+Package: gnome-mahjongg
+Version: 49.1.1
+Architecture: arm
+Maintainer: @lunsokhasovan, @termux-user-repository
+Installed-Size: 2660
+Depends: glib, gtk4, libadwaita, libcairo, librsvg, opengl
+Filename: pool/tur/gnome-mahjongg_49.1.1_arm.deb
+Size: 2471028
+MD5sum: 7fb12c255ad0878779052a7fe2faad60
+SHA1: 745ffc7968ad20452e7850cc1f73e9cf56b7717d
+SHA256: 33d57b65d9fb02ba83673519c9478395dee94757859fa8f091dc465da555d966
+Homepage: https://wiki.gnome.org/Apps/Mahjogg
+Description: GNOME Mahjongg game
+
+Package: gnome-sudoku
+Version: 50.0
+Architecture: arm
+Maintainer: @termux-user-repository
+Installed-Size: 1860
+Depends: glib, gtk4, json-glib, libadwaita, libcairo, libgee, opengl, qqwing
+Filename: pool/tur/gnome-sudoku_50.0_arm.deb
+Size: 231444
+MD5sum: 5cc103520d2fcb657d9de9f970e69b46
+SHA1: 8233dc4b4d35ffe976546c66f1b108a4cc50c4a4
+SHA256: 07730f028cdf6bf6675e04bd147c43e4cab830fc5ac0295ef3e6b1c85dd73079
+Homepage: https://wiki.gnome.org/Apps(2f)Sudoku.html
+Description: GNOME Sudoku game
+
 Package: go-cqhttp
 Version: 1.2.0
 Architecture: arm
@@ -3879,16 +3921,16 @@ Homepage: https://cryptography.io/
 Description: cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 
 Package: python-fitsio
-Version: 1.3.0-1
+Version: 1.3.0-2
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 784
+Installed-Size: 780
 Depends: cfitsio, python, python-pip, python-numpy
-Filename: pool/tur/python-fitsio_1.3.0-1_arm.deb
-Size: 115904
-MD5sum: b1452aac3460ac7bf817db3c1f711aa0
-SHA1: e25cbb55f36ca6ad8fbf4457d8a2623bd35c25e5
-SHA256: 1afdc85beac19cc42492e92a58b799401637f9e30b00e8e64913623b9b433e9a
+Filename: pool/tur/python-fitsio_1.3.0-2_arm.deb
+Size: 115732
+MD5sum: f5a9544acdb369d814f0eb9d5a28bcee
+SHA1: 424a2e9d9fc2e3312fe133a30777a17fc52b2b56
+SHA256: 3fc8e9795f2937f5e9361a594f5105bdb54872757c856ae9b7dc3b54b9c1275a
 Homepage: https://github.com/esheldon/fitsio
 Description: A python package for FITS input/output wrapping cfitsio
 
@@ -4949,15 +4991,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.56
+Version: 0.1.57
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 7344
-Filename: pool/tur/rumdl_0.1.56_arm.deb
-Size: 3298380
-MD5sum: 9c779069828843c0424d82540a45ed0f
-SHA1: 130c4b1ecc8c0cb5e57bdc2bd15596d13ffcfa7c
-SHA256: 593671e725baee9effec57943ba44034640e882062e1e36366d7ddec3d83269f
+Filename: pool/tur/rumdl_0.1.57_arm.deb
+Size: 3300156
+MD5sum: 18d33c57107ead1e821227d558024c8a
+SHA1: 71a28f61a72ef48f5ce4088fbe244738594e5682
+SHA256: 949fd14be585aca80b1599b071b7a83cc139a5adbb123d4de0f371a379bc2968
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
