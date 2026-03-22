@@ -950,6 +950,21 @@ SHA256: e9a6e381405c77d9c5ee9a91eb4ce2b6e651d69f49f3a3ebee2bae3e37bd2910
 Homepage: http://sourceforge.net/projects/efte
 Description: Advanced lightweight configurable editor
 
+Package: eigen5
+Version: 5.0.1
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 23008
+Breaks: eigen-dev
+Replaces: eigen-dev
+Filename: pool/tur/eigen5_5.0.1_x86_64.deb
+Size: 2169088
+MD5sum: 2e0002465f9968f87a96df4ba566d1fa
+SHA1: 8631635c15cba25a6582775f3d3992cea0594e4e
+SHA256: 5949c6740977a6f85c1450fb612861afb01f237b0c9f60cdcbac100cdf1be00e
+Homepage: http://eigen.tuxfamily.org
+Description: Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms (Version 5)
+
 Package: electron-jumbo-host-tools
 Version: 34.5.1
 Architecture: x86_64
@@ -6122,16 +6137,16 @@ Homepage: https://github.com/fcambus/ansiweather
 Description: Weather in terminal, with ANSI colors and Unicode symbols
 
 Package: apkeditor
-Version: 1.4.7
+Version: 1.4.8
 Architecture: all
 Maintainer: @Veha0001
-Installed-Size: 7552
+Installed-Size: 7604
 Depends: openjdk-21
-Filename: pool/tur/apkeditor_1.4.7_all.deb
-Size: 7197492
-MD5sum: 0472f7ae2da882a240892f5ed712ac5c
-SHA1: c909a496f70e78a3e854b8bbbd8ae1c072d0bcef
-SHA256: eb72507826d318b7d3dd6b40564e3f303ae9d76fb15e852fddcfb6d37e01842c
+Filename: pool/tur/apkeditor_1.4.8_all.deb
+Size: 7249412
+MD5sum: 2d1d138f325d91ec17a9c541e0116a2c
+SHA1: f40d3d010f8a1c60531b723836ea0dbf9f49290c
+SHA256: 45d1c465b5d1c08d45a98f9fcc27708c8a1df40fb6ab1fee532281600b11adcb
 Homepage: https://github.com/REAndroid/APKEditor
 Description: Android binary resource files editor
 
