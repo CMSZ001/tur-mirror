@@ -292,17 +292,17 @@ Homepage: https://github.com/hr3lxphr6j/bililive-go
 Description: A live streaming recording tool
 
 Package: biome2
-Version: 2.3.8
+Version: 2.4.9
 Architecture: aarch64
 Maintainer: @AhmadNaruto
-Installed-Size: 42968
+Installed-Size: 49752
 Conflicts: biome
 Replaces: biome
-Filename: pool/tur/biome2_2.3.8_aarch64.deb
-Size: 9471256
-MD5sum: 95411679cc4defe51556ef56d43239b7
-SHA1: 27e0109a575774ca7cac6a2ec82a5de47c018334
-SHA256: b86e5ce8e1123e5303c3524877475eb605ee41a4abee076f4dd0905e60ba11a7
+Filename: pool/tur/biome2_2.4.9_aarch64.deb
+Size: 10571036
+MD5sum: 6ca31825e06b0f7ceb8d2c79ff7d7af5
+SHA1: a47ce2a4bb3177e9c2a3ed25c4c1097b34b361f4
+SHA256: ea489bed0d404ba39919281a75b07f3e2c51ac4d50ac7c4cab6007c166410d1e
 Homepage: https://github.com/biomejs/biome
 Description: A toolchain for web projects with a formatter and linter, usable via CLI and LSP
 
@@ -5342,15 +5342,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.60
+Version: 0.1.61
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 10460
-Filename: pool/tur/rumdl_0.1.60_aarch64.deb
-Size: 3159320
-MD5sum: 7f2540f72263e55f3f01345fbf4a1d49
-SHA1: 2a40f21f7d8a5a01ace2b09c8813fe636143ca11
-SHA256: a9ad766f1be455e3daee7782868e2f75705ba6effe1a13057dcf268d9f237c27
+Filename: pool/tur/rumdl_0.1.61_aarch64.deb
+Size: 3161876
+MD5sum: 81f539e9024791230376a725342e75d5
+SHA1: 9dc1ea9ab9d9f74f2421ea90222b951604bb5aae
+SHA256: faede0b6e7473f0d14e016bdc56fc424062de7d6b48a640e02019e0c23990780
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
