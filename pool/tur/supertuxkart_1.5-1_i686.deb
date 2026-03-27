@@ -1,0 +1,14 @@
+Package: supertuxkart
+Version: 1.5-1
+Architecture: i686
+Maintainer: @termux
+Installed-Size: 14028
+Depends: freetype, harfbuzz, hicolor-icon-theme, libc++, libcurl, libjpeg-turbo, libpng, libsqlite, libvorbis, openal-soft, openssl, sdl2, shaderc, supertuxkart-data, zlib
+Filename: pool/tur/supertuxkart_1.5-1_i686.deb
+Size: 4270364
+MD5sum: ea13014e0258baff49327ef770ee0fcd
+SHA1: 097550aa0274572841d2fc105c6b595e3c6e1f82
+SHA256: 20793cb4eb918bc11dc54aa1660250347901cf1ec19a240d3644ac8dfe777ff6
+Homepage: https://supertuxkart.net
+Description: Kart racing game featuring Tux and his friends
+
