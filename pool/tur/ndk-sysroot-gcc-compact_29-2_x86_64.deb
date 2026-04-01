@@ -1,16 +1,16 @@
 Package: ndk-sysroot-gcc-compact
-Version: 29
+Version: 29-2
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 31284
+Installed-Size: 31288
 Conflicts: libutil-dev, libandroid-support-dev, ndk-sysroot
 Replaces: libutil-dev, libandroid-support-dev, ndk-stl, ndk-sysroot
 Provides: ndk-sysroot
-Filename: pool/tur/ndk-sysroot-gcc-compact_29_x86_64.deb
-Size: 1954228
-MD5sum: 16049bafca04da485f1540ce77c55ad3
-SHA1: 5e30d53c94b3c84dbe35fe417fa38910b6009900
-SHA256: ddead6ad0c7934eb53910e6888550dc9622d8bac067c0b27a35edeb9fe95373b
+Filename: pool/tur/ndk-sysroot-gcc-compact_29-2_x86_64.deb
+Size: 1955276
+MD5sum: 9fa433c7905a165f1d8af6477b2d614b
+SHA1: 53f7fe306a374c5bd6003bd869af0de1b1ccd8d4
+SHA256: 21324da68206f50346f30a38d98bf9243bca9d9ba86006190c63036d23626008
 Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 Description: System header and library files from the Android NDK needed for compiling C programs, compact with GNU Compiler Collection
 

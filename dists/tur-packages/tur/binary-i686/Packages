@@ -1036,17 +1036,17 @@ Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-13
-Version: 13.4.0
+Version: 13.4.0-1
 Architecture: i686
 Maintainer: @licy183
-Installed-Size: 238516
+Installed-Size: 238476
 Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 26b-3)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-13_13.4.0_i686.deb
-Size: 68220428
-MD5sum: e74210417cf999880663ef1466fb484c
-SHA1: 61b78955a7c64fffbdfc4b3f8aabc51ae16cf0a8
-SHA256: 4bf85012aa17da706d7aaf978c0d6a3ae347dedc865f9d73a135866855835f25
+Filename: pool/tur/gcc-13_13.4.0-1_i686.deb
+Size: 68180520
+MD5sum: ddfdd743a626fdd17f9d407b5790d538
+SHA1: af14b8453f6a76c2bdc5f79c7d6c57c8319afcb7
+SHA256: 82adb412e0618af4c3908d9ec3cfaff0cdc8355ce09b05b0cfa827f183af2862
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
@@ -3077,18 +3077,18 @@ Homepage: https://github.com/stsp/nasm-segelf
 Description: nasm fork with segelf patches
 
 Package: ndk-sysroot-gcc-compact
-Version: 29
+Version: 29-2
 Architecture: i686
 Maintainer: @licy183
-Installed-Size: 31248
+Installed-Size: 31252
 Conflicts: libutil-dev, libandroid-support-dev, ndk-sysroot
 Replaces: libutil-dev, libandroid-support-dev, ndk-stl, ndk-sysroot
 Provides: ndk-sysroot
-Filename: pool/tur/ndk-sysroot-gcc-compact_29_i686.deb
-Size: 1951164
-MD5sum: cac0f0145aa84daf03cb2314a76c0f58
-SHA1: b54ba02d31d5665e60248786d1253525e3385161
-SHA256: a47acef83ce3b8fb33393d2a9595f548b79c4954d4e85409c193f767727a9d12
+Filename: pool/tur/ndk-sysroot-gcc-compact_29-2_i686.deb
+Size: 1952200
+MD5sum: 8edf7cf0782b4bf0058341de861cc6fb
+SHA1: e634d4ff24fcd9e2ff7785b090934afb91f593b9
+SHA256: 8befce7d6d2d61b832ce7e207c2c26ea4c1e96064303b648cd438a6de3504234
 Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 Description: System header and library files from the Android NDK needed for compiling C programs, compact with GNU Compiler Collection
 
