@@ -1537,16 +1537,16 @@ Homepage: https://wiki.gnome.org/Apps/Mahjogg
 Description: GNOME Mahjongg game
 
 Package: gnome-sudoku
-Version: 50.0
+Version: 50.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1948
+Installed-Size: 2108
 Depends: glib, gtk4, json-glib, libadwaita, libcairo, libgee, opengl, qqwing
-Filename: pool/tur/gnome-sudoku_50.0_x86_64.deb
-Size: 251320
-MD5sum: d2155144bd5314351eabd6bf503fad07
-SHA1: 94543d3068a99def36564dbdece66aa79e03759a
-SHA256: c845faea55479854b0349009316590e1e81a44bba71ed3ef757cbb4ac0f90329
+Filename: pool/tur/gnome-sudoku_50.1_x86_64.deb
+Size: 260608
+MD5sum: 41db36002c9b9b18f85925bedbf4a0c6
+SHA1: 312c5a3409030c27687a3e0eed22d6b733eecd29
+SHA256: 1e7325c7e1bd254c205b999bbd92fc6aad513f3ffd835009cd75d587fa94659b
 Homepage: https://wiki.gnome.org/Apps(2f)Sudoku.html
 Description: GNOME Sudoku game
 
@@ -5121,6 +5121,20 @@ SHA256: f278f7a395ed8fd1a228a0c2302a735e8c57dc9ea3c17f2493b33d975e54fe7f
 Homepage: https://github.com/mars9/ramfs
 Description: 9P2000 server and client as a in-memory filesystem for long standing shell scripts
 
+Package: ratpoison
+Version: 1.4.9
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 440
+Depends: libx11, libxext, libxft, libxrandr, libxtst, libxi, libxrender
+Filename: pool/tur/ratpoison_1.4.9_x86_64.deb
+Size: 115140
+MD5sum: b27eeef4840a4747574af5cb1c432895
+SHA1: 5d985cd01e46f7640434b3e7427e39c5912aaba3
+SHA256: 2c77f034db207fda399eb9d5cde5fd1477600aa95c2c7716d6858a6ba7c96afb
+Homepage: https://www.nongnu.org/ratpoison/
+Description: Ratpoison is a keyboard-driven tiling window manager for X11, inspired by GNU Screen
+
 Package: rawtherapee
 Version: 5.12-1
 Architecture: x86_64
@@ -5299,15 +5313,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.68
+Version: 0.1.69
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 12248
-Filename: pool/tur/rumdl_0.1.68_x86_64.deb
-Size: 3710740
-MD5sum: 46c6456e265a94b34dc85c3f67feef36
-SHA1: ea65afc31ef97e5dc5048e33c8455b326a8f17d6
-SHA256: e7e4e88f25c5bf889248d79f499ffcf1ffd1a46544049045e16e89c2b7261205
+Installed-Size: 12216
+Filename: pool/tur/rumdl_0.1.69_x86_64.deb
+Size: 3699804
+MD5sum: 6021e9410a880e993ef22d9add4bf606
+SHA1: fa96d71624a24394862abd026b4261841134dcd5
+SHA256: 04cde687ab436cffb42609d353f95a50433e8da8d4d6e7653db35d907a53a557
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
