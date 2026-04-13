@@ -609,16 +609,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.118.0
+Version: 0.119.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 140808
+Installed-Size: 147352
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.118.0_x86_64.deb
-Size: 37910716
-MD5sum: de63bd2269a986d072296ce789c375b7
-SHA1: 4040fe5bf157133761ced8c613a958b59de8ace9
-SHA256: d98a6415a9605bde7363338ca7fd8253b565f2dc05924156d64248ee15971623
+Filename: pool/tur/codex_0.119.0_x86_64.deb
+Size: 39878228
+MD5sum: de34cb314a160af07b952a0976bdbe45
+SHA1: 48d4292a8fcfde7c62b783f8c8c01e6c999bcd9a
+SHA256: 6e0b9c19c8ca1fa510c07ae7575b7cd231a5e9153317ec7668eb6d7629de0d0d
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -5680,6 +5680,19 @@ SHA1: 7e8d85e163ed23e933895ee2be81ad10087c4e69
 SHA256: c32d2039d3ce71ad16b21ca919c9c9e255cf46bb4b1664f71bafe9766f900921
 Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
+
+Package: surge-cli
+Version: 0.8.0
+Architecture: x86_64
+Maintainer: @LukeGTH
+Installed-Size: 21068
+Filename: pool/tur/surge-cli_0.8.0_x86_64.deb
+Size: 5798284
+MD5sum: 2a69e3971d3c7427ba007e0deaefb725
+SHA1: be00e7d83aa9de1752802dc879dc528b36adf8cd
+SHA256: f1866cec271d72125508adb914aae8ed7cc15b23c3f702b0f9ac4b12b50da2d6
+Homepage: https://github.com/SurgeDM/Surge
+Description: Blazing	fast TUI download manager built	in Go for power	users
 
 Package: surreal
 Version: 2.6.2
