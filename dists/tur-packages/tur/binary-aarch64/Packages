@@ -264,16 +264,16 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone
 
 Package: beets
-Version: 2.9.0
+Version: 2.10.0
 Architecture: aarch64
 Maintainer: @mrtnvgr
-Installed-Size: 2460
+Installed-Size: 2496
 Depends: cmake, python, python-pip, python-numpy, rust
-Filename: pool/tur/beets_2.9.0_aarch64.deb
-Size: 418416
-MD5sum: 3b2ab3761f34a99b8c8d9712ab0596e6
-SHA1: c36ba24a2e59cda01a6de3d235a38d6f62180743
-SHA256: 20b9b77d5379448f006fb0015657e9c03af5732b0bbf44235966399074dba142
+Filename: pool/tur/beets_2.10.0_aarch64.deb
+Size: 423592
+MD5sum: 93137674796f6ee27a26b22fa5b82b38
+SHA1: 37d6f29d34f4cd11d23dc78b78600d9627f8b9e5
+SHA256: b10c3f3c84294c2fdd84694ed92abca1d93443a08c82ab99483d196fca983c45
 Homepage: https://beets.io
 Description: The music geek's media organizer
 
@@ -5796,15 +5796,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.8.1
+Version: 0.8.2
 Architecture: aarch64
 Maintainer: @LukeGTH
-Installed-Size: 20000
-Filename: pool/tur/surge-cli_0.8.1_aarch64.deb
-Size: 5107484
-MD5sum: 8b38a86a6922a6ff584d00a6ec302c5c
-SHA1: d76b8c74040aedc4ce39597c622c33faac8d61e2
-SHA256: cb7327efd3608e2115d510b46d43773a62e1490981515b11c9f27c5e3a5d9be2
+Installed-Size: 20204
+Filename: pool/tur/surge-cli_0.8.2_aarch64.deb
+Size: 5185344
+MD5sum: 7a716b857cd7b50725ba310c9b21cd42
+SHA1: 923ed7d54d5b928e0ae0e6674e2ff0b3e5a9260d
+SHA256: db8c8fd6a6d63f8652f589f5bde13c24c7b9a88c1727ec2f89723ee9e8d83cd3
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
