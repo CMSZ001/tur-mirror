@@ -624,16 +624,16 @@ Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
 Package: codex
-Version: 0.121.0
+Version: 0.122.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 142912
+Installed-Size: 146128
 Depends: libc++, openssl
-Filename: pool/tur/codex_0.121.0_aarch64.deb
-Size: 38150280
-MD5sum: 298cba9ec99c07b743aeffb7b9b427e5
-SHA1: 7db4feb4f253f6acecd8f6ef72cc3258696c75aa
-SHA256: 0777a8b0d8c3d74c4eaaacb44c956821c322f8723f8aaca6fd3a716f0e593625
+Filename: pool/tur/codex_0.122.0_aarch64.deb
+Size: 38938768
+MD5sum: fec59c48e4c1f4c4eee21c4d5071e847
+SHA1: b4bb48ca1977b398c1941e05018e51bc8cccf606
+SHA256: 68aada20ed86ce2d15de50ebccccb94c5ade1b27850b5d0989729f6c0731a80f
 Homepage: https://github.com/openai/codex
 Description: Lightweight coding agent that runs in your terminal
 
@@ -786,16 +786,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.16.9
+Version: 6.16.10
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 11708
+Installed-Size: 11712
 Depends: libc++
-Filename: pool/tur/ddns-go_6.16.9_aarch64.deb
-Size: 3180644
-MD5sum: b9a20253c1d1fb4f0cac0cd8690fee72
-SHA1: 757e1530a260357749403e026d33d7867027745d
-SHA256: 8ab8c574652325951bd4832176cdbd70731b15474cfe18a0e9df2b908ef6c89c
+Filename: pool/tur/ddns-go_6.16.10_aarch64.deb
+Size: 3177180
+MD5sum: a5540289d4b8a6cea73cd837d23c9c00
+SHA1: df88adff400705efd823e42d90f5177855e55a8d
+SHA256: e48ab6e5d949874df3d8cc3293adb85e0f5b46165de0bf609865857053d98ba4
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
