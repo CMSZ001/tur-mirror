@@ -571,16 +571,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.16.10
+Version: 6.16.12
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 11604
 Depends: libc++
-Filename: pool/tur/ddns-go_6.16.10_i686.deb
-Size: 3804092
-MD5sum: 90fd6e706002b94494f58d10881dcb71
-SHA1: 203bd4487b2180de48c4bf309577a4749d462e13
-SHA256: 016ce05b1d73b28816eabff94897e7850dae92963e4994dc860f0d6db4b05341
+Filename: pool/tur/ddns-go_6.16.12_i686.deb
+Size: 3803420
+MD5sum: 258e06979cc6ec5af205adb8655887a1
+SHA1: 31935dc3018f9caf4cf3033a5f382f0d98992c84
+SHA256: daaa24d2ab373bced6931fc1c082f386aa619d46d6427380c5e80f3fc59d7a36
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
@@ -4889,15 +4889,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.82
+Version: 0.1.83
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 12856
-Filename: pool/tur/rumdl_0.1.82_i686.deb
-Size: 4079396
-MD5sum: 713af92ca88b9c9e3c72446336443d47
-SHA1: 0b4b1301b3b872f098729b806686b7b2ce33c57f
-SHA256: 88a40504d381e83cdf66ef31667d48cb979bba42cb5be9387ff4c4f7d2637bf9
+Filename: pool/tur/rumdl_0.1.83_i686.deb
+Size: 4081192
+MD5sum: 1fb3102666d16c329575a000a808fdbc
+SHA1: 252a17537eb979e0f3554bcbdac68e0d73fbe42b
+SHA256: d348975afb16254ed7e5be7681959d51a36e4436b03fade1153c4a509dcb00b8
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
