@@ -786,16 +786,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.16.12
+Version: 6.16.13
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 11712
 Depends: libc++
-Filename: pool/tur/ddns-go_6.16.12_aarch64.deb
-Size: 3180320
-MD5sum: eb3f7e19819ca81229d18b8099656f69
-SHA1: 6d365c26cec5c06c1773cac3e4c1420870306e7a
-SHA256: 258b7e13e7051d50cecf8ea3834f4e60ca30e1300c69de824676895a613b419a
+Filename: pool/tur/ddns-go_6.16.13_aarch64.deb
+Size: 3178732
+MD5sum: 434f389bc03a2acddbb125bb9f0e04f4
+SHA1: 73580f7607b859ff8cebde00bdb7ddfb7e98ac14
+SHA256: 6583feb36b6c56eb89cdee63965f9ac9806b4dec4fc5c5e75f77de53658d7ab1
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
@@ -1797,15 +1797,15 @@ Homepage: https://github.com/termux-user-repository/tur
 Description: Dummy test for TUR
 
 Package: hurl
-Version: 8.0.0
+Version: 8.0.1
 Architecture: aarch64
 Maintainer: @SunPodder
-Installed-Size: 7052
-Filename: pool/tur/hurl_8.0.0_aarch64.deb
-Size: 1805176
-MD5sum: 91b22bfeb5427822e8e2156d7266f9c3
-SHA1: 0da36ccf885f7c5e829ef3e1b4a1213039bf9461
-SHA256: 3cbd9e7276687192e79c74df87037262578e525bf4b08a125275eca7597c58de
+Installed-Size: 7020
+Filename: pool/tur/hurl_8.0.1_aarch64.deb
+Size: 1803532
+MD5sum: 392fbcc55029f6925f4f262a78fbeddf
+SHA1: b139c0b83359518f9cc42423da3a5a0902258dab
+SHA256: 7e514a4b3e6c190c0d4a38e7406efd9f2f67eb6945f4f813b3d0fc258a1b5dd3
 Homepage: https://github.com/Orange-OpenSource/hurl
 Description: Hurl, run and test HTTP requests with plain text
 
@@ -3601,16 +3601,16 @@ Homepage: https://llvm.org/
 Description: A Multi-Level Intermediate Representation for compilers from LLVM
 
 Package: moarvm
-Version: 2026.03
+Version: 2026.04
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 11380
 Depends: libc++, libffi, libuv, zstd
-Filename: pool/tur/moarvm_2026.03_aarch64.deb
-Size: 1596532
-MD5sum: f37fc261537a3297f1e0fec7bf3c3bd3
-SHA1: 1e6455ceedb3c847a942d47a9d2b8fdbc7ef20ec
-SHA256: 26d1a622b1d93db466d1f20240036ab969b1c62348d72eb6a9b009d8355b8fba
+Filename: pool/tur/moarvm_2026.04_aarch64.deb
+Size: 1603480
+MD5sum: 60afac878a4e31837f16c4668dedfe9f
+SHA1: 9d9aa0f49a72f8e0f4b59347af7edb1ce0a063d4
+SHA256: f4bfeae0cbe5dc3d2f6d56f24b7ee7780a8f259bb9161e61bd606b188e2d4d3e
 Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
