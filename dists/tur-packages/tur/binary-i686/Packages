@@ -120,16 +120,16 @@ Homepage: https://wiki.debian.org/Aptitude
 Description: terminal-based package manager
 
 Package: archisteamfarm
-Version: 6.3.4.2
+Version: 6.3.5.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 21508
+Installed-Size: 21476
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/archisteamfarm_6.3.4.2_i686.deb
-Size: 5496152
-MD5sum: de1462e55ff56111a12b4a00b8c2b8a9
-SHA1: 3813a51242d2bb4570503ef1d13e9b650510e0e7
-SHA256: 7c9cb954d86c3167b8928896c08d45f463e762a07a0846c6ae8101cb09c4bd42
+Filename: pool/tur/archisteamfarm_6.3.5.1_i686.deb
+Size: 5455640
+MD5sum: a656bbcd71c4ee60f5171e8815063e60
+SHA1: 4ade1430671f666522d737cbd64b2dcb4b99af84
+SHA256: 2301ce9f9e15792a5e9f350a08f1a7e93d3d10f175d81ba4aa14b41dc8568b34
 Homepage: https://github.com/JustArchiNET/ArchiSteamFarm
 Description: C# application that allows you to farm steam cards using multiple steam accounts simultaneously
 
@@ -4889,15 +4889,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.85
+Version: 0.1.86
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 12996
-Filename: pool/tur/rumdl_0.1.85_i686.deb
-Size: 4131864
-MD5sum: e3bd1bfa586a1c50f564de52e6838aee
-SHA1: 624ce75210f38362def33c040c2914cf9c94e9e7
-SHA256: 93c0ecceaf69b175b0d5fe2e70f11d783a0845f7f41fe07ccfd65c8d485f104f
+Installed-Size: 13064
+Filename: pool/tur/rumdl_0.1.86_i686.deb
+Size: 4150004
+MD5sum: 753b211406e48467112fa7105b19585c
+SHA1: 419c617c9eb208a637ef7872e21958b12654f447
+SHA256: dda5087777efb9c05fa68a9d83727c9994666e2ffac0f31ab737f2df04185e64
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
