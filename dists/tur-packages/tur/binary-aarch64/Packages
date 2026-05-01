@@ -786,16 +786,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.16.13
+Version: 6.17.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 11712
+Installed-Size: 11728
 Depends: libc++
-Filename: pool/tur/ddns-go_6.16.13_aarch64.deb
-Size: 3178732
-MD5sum: 434f389bc03a2acddbb125bb9f0e04f4
-SHA1: 73580f7607b859ff8cebde00bdb7ddfb7e98ac14
-SHA256: 6583feb36b6c56eb89cdee63965f9ac9806b4dec4fc5c5e75f77de53658d7ab1
+Filename: pool/tur/ddns-go_6.17.0_aarch64.deb
+Size: 3180416
+MD5sum: cc53b03b9748523dcade1f95b41060e6
+SHA1: cbc5349896d2548fd2f4a670959682b964a46c1a
+SHA256: 3739acf3a35927717509791b905156c56b211e6bc4d6ae913378d4a79b40c8ac
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
@@ -938,16 +938,16 @@ Homepage: https://dpp.dev
 Description: D++ is a lightweight and simple library for Discord written in modern C++.
 
 Package: dumbversion
-Version: 1.2.1
+Version: 1.2.2
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 212
 Depends: dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/dumbversion_1.2.1_aarch64.deb
-Size: 73624
-MD5sum: 89133094bb962a73aa4502882df0ac6d
-SHA1: 55251dd5299f40c3e343aa30ffa5cace4fb11410
-SHA256: db7db2a484dbc5836cb0bc5e6c8d117623ced02504691530e5a326d24225cb81
+Filename: pool/tur/dumbversion_1.2.2_aarch64.deb
+Size: 73580
+MD5sum: be5b1983040bde4b90ee5f06fc2073b3
+SHA1: 9c912376f6f4a1b6c2581dc6c591e5746aed5e54
+SHA256: f9f3c49100ab081291fab353699ce5e97c50ae41a615526e86987d55867cb042
 Homepage: https://github.com/thecatontheceiling/DumbVersion
 Description: A high-performance binary diffing and patching engine for massive files
 
@@ -1235,15 +1235,15 @@ Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
 
 Package: flow
-Version: 1.1.3
+Version: 2.0.0
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 21356
-Filename: pool/tur/flow_1.1.3_aarch64.deb
-Size: 5117216
-MD5sum: 33b2ebd57a4d618d92009435e5d2bd31
-SHA1: 7622694fbed8bc085926c505ec65403c980a467b
-SHA256: 0009ec9589a5d78bf8c8bbe632ab0a1875a2dd593ebf70dbd202a7a5f4a2b5ef
+Installed-Size: 24424
+Filename: pool/tur/flow_2.0.0_aarch64.deb
+Size: 5816520
+MD5sum: 289d236c69f8aae1641a89667bddc457
+SHA1: 43ad112a872867335f20dd790ab53e6e243047c4
+SHA256: f182f5bf6c5fa21d7ee003435cebbeb0d1867c4c5f51a578b39d470ce2e12666
 Homepage: https://github.com/flowexec/flow
 Description: Local developer automation platform that flows with you.
 
@@ -5796,15 +5796,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.8.3
+Version: 0.8.4
 Architecture: aarch64
 Maintainer: @LukeGTH
-Installed-Size: 20380
-Filename: pool/tur/surge-cli_0.8.3_aarch64.deb
-Size: 5205048
-MD5sum: 07d06b6aa83dfb188456d94f693e6fea
-SHA1: f1e065bf95110a3e78766a82d5fbfb912d15f8e0
-SHA256: 48bbdbad2d0535b717b193e47c4097e1e9779285615274b11888cdc6811fd4cf
+Installed-Size: 20792
+Filename: pool/tur/surge-cli_0.8.4_aarch64.deb
+Size: 5247792
+MD5sum: 3a2ff8f0ba56000148dd2eb14c382475
+SHA1: 353fa39b5091b8fbe21780a8fa17c9f455fa853b
+SHA256: d802aa551fcf6d82de8e5f41f4c1460d03fab5823f1e3e2e3b2d25ed04cafdbc
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
