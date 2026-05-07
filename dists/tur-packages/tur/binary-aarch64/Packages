@@ -471,16 +471,16 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 147.0.7727.116-1
+Version: 148.0.7778.96
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 453100
+Installed-Size: 458836
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_147.0.7727.116-1_aarch64.deb
-Size: 50726812
-MD5sum: 905831f6da3142b667b2aedfd9452fff
-SHA1: 8c3cec6464ed2c73dae6afd677ad362efb8bff65
-SHA256: 61139fa87c39b7d10c98fc83d2b69d40f40a398034d5d34d05a0468e4320568b
+Filename: pool/tur/chromium-beta-host-tools_148.0.7778.96_aarch64.deb
+Size: 51304960
+MD5sum: 1080108a4288fe9cc321868a6846dd03
+SHA1: a2f9ab90409ee383c6665ba7573cd1f7b9315359
+SHA256: b758739f490a08b77a5f6e3506a71983e6a8dd4df24c4694b2a0d980cbe0c37b
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -693,15 +693,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crush
-Version: 0.58.0
+Version: 0.66.0
 Architecture: aarch64
 Maintainer: @ancientcatz
-Installed-Size: 77696
-Filename: pool/tur/crush_0.58.0_aarch64.deb
-Size: 15013936
-MD5sum: b1fa1f10ebd144a007ac7503a817d24c
-SHA1: 6f05a314ab0342e360777922459bb1b3d5e44ddf
-SHA256: 58a51ec936715acb81560b1e938d18aa10009b0dff01e0abca91048711d6ca26
+Installed-Size: 80048
+Filename: pool/tur/crush_0.66.0_aarch64.deb
+Size: 15370628
+MD5sum: f237839f40c92f1dd4987547039baa1d
+SHA1: 0704496b38a6f94492b7d9ccf04e58dd1c77f27c
+SHA256: 5db08e0cbc93a2f9e06d7b0adf90b9839f8d51a4411a2cf659a56bde96c0369a
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
