@@ -1208,16 +1208,16 @@ Homepage: https://ffmpeg.org
 Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
 
 Package: ffplayout
-Version: 1.0.0
+Version: 1.1.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 24796
+Installed-Size: 23920
 Depends: ffmpeg
-Filename: pool/tur/ffplayout_1.0.0_x86_64.deb
-Size: 7546080
-MD5sum: a7df87ae61187593fe4d49ff9bc9bc69
-SHA1: 8deac9c556a840b8168dad87dde26cc9164cc4a5
-SHA256: 3e0f216014df71499923ac4ce83e86ea9d2406f08eb7469e22cc87cb21e2d8eb
+Filename: pool/tur/ffplayout_1.1.0_x86_64.deb
+Size: 7272672
+MD5sum: 3d5f8b19e22be9834a86006b45102f4e
+SHA1: 35370d37e07d9fd668e9717270e8a3c762973062
+SHA256: 1a11ae000e70775fa21e0048c224103a6c57ed7224e833a185e18b52f3fe6ccd
 Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
@@ -5356,15 +5356,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.89
+Version: 0.1.90
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 12572
-Filename: pool/tur/rumdl_0.1.89_x86_64.deb
-Size: 3810096
-MD5sum: d5e4fca652a84d7b64fe5b51d2179155
-SHA1: 50b30b111e1e20ab0d1210c98145d59925332ef2
-SHA256: a93928e7ec62be772da089d24238c30580fa875fce04abeff00680433b7a2a20
+Installed-Size: 12596
+Filename: pool/tur/rumdl_0.1.90_x86_64.deb
+Size: 3814980
+MD5sum: 425186f02447760dd6c02cac5079c157
+SHA1: 1e79055a2c820f92e45f8f621c2706d86fd3bcbc
+SHA256: 511bc86275cfd6a16114b43360449523ebbc6a46d6af4ac03f59e3b9192513eb
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
