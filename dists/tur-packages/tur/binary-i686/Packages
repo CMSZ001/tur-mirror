@@ -836,16 +836,16 @@ Homepage: https://github.com/Necoro/feed2imap-go
 Description: feed2imap(1) reimplemented in Go that aggregating RSS/Atom/jsonfeed into folders of your IMAP mailbox
 
 Package: feedr
-Version: 0.7.0
+Version: 0.8.0
 Architecture: i686
 Maintainer: @everywhereless
-Installed-Size: 6360
+Installed-Size: 7708
 Depends: openssl
-Filename: pool/tur/feedr_0.7.0_i686.deb
-Size: 2305664
-MD5sum: d478b8f172b6a23c7b9c6c8044ff0106
-SHA1: 9ee7e7c0754566ae4c0cf31961ccc84b55672295
-SHA256: 2b08007f6ff53c1c5af2445e4f7fa0b85d63e61dfc40eecd5ccb0f04f8846cb2
+Filename: pool/tur/feedr_0.8.0_i686.deb
+Size: 2717484
+MD5sum: 1378eae761ef7265787f475bcdd9ec7a
+SHA1: 10d6a997a212b9e7493cea758a07c0ae55d1eeb1
+SHA256: eade5ca62ea2d39d363759baa7302322d4d21dd103e9804b1d47f90fa6d5758e
 Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
 
@@ -3764,15 +3764,15 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: playit
-Version: 0.17.1
+Version: 1.0.2
 Architecture: i686
 Maintainer: @nisheri-ascar
-Installed-Size: 4316
-Filename: pool/tur/playit_0.17.1_i686.deb
-Size: 1707192
-MD5sum: 3f579b2c4695f5a15d1fc7b599868190
-SHA1: 69ab72760ea4ad72415e8aa8883fe595e4f6f1c4
-SHA256: dc3bc93cb32510c6704c36be1a9b37ae80f83a45f24b443b93f11b96d91b3755
+Installed-Size: 4200
+Filename: pool/tur/playit_1.0.2_i686.deb
+Size: 1746152
+MD5sum: bb229ad361e3c2f00b73e69e07d26d37
+SHA1: da891e60223fb8597ff6f3a5d17b47f97baf97a2
+SHA256: c6acbdaa75311a10a2484b7fbc7d3b1420dfe90ae107c655ea568dcf6ca4113e
 Homepage: https://playit.gg
 Description: playit is a global proxy that allows anyone to host a server without port forwarding.
 
