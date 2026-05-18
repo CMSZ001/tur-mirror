@@ -485,16 +485,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 148.0.7778.96
+Version: 149.0.7827.14
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 1301312
-Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_148.0.7778.96_aarch64.deb
-Size: 197094856
-MD5sum: 6fa7797124527967792f0300c8ac1bd2
-SHA1: 3d94b0b7ab3fedf033f737ead9af896dabcbb100
-SHA256: dd91340549455cf551ea517b5f2079e921bf7eeb0aa4f18c9d014f3a0d23c9e4
+Installed-Size: 1310684
+Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
+Filename: pool/tur/chromium-beta_149.0.7827.14_aarch64.deb
+Size: 198808188
+MD5sum: 93c4f77922d6485dfde75a404712cc6b
+SHA1: df675103619ee6301ce3cde1dbf33cc946b03bb4
+SHA256: d79deed011418624a8718daebe2edde56aff100a856501258c8201bf8f4b6053
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -5470,15 +5470,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.93
+Version: 0.1.94
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 10780
-Filename: pool/tur/rumdl_0.1.93_aarch64.deb
-Size: 3256084
-MD5sum: 2736342286757d851f796b5566a846c2
-SHA1: ba3e83c1716c7cd33a5332a7759febc494aafe9f
-SHA256: bf0a9d9ca5b9abe3d4aa0e2a6297b27a014daf30099dbbe7090f2073132636f6
+Installed-Size: 10800
+Filename: pool/tur/rumdl_0.1.94_aarch64.deb
+Size: 3261648
+MD5sum: c9760acf48af872395f191c72a93c29f
+SHA1: 66ce6f6958466f21f64e4c69f384c86c5ba76470
+SHA256: fed4c5312f018c59723ad14f5cb9c0ccb0fa8259c9caa4627a24c25c54726450
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -5713,6 +5713,20 @@ SHA1: 2c7d43b64586f04b37f69ffbdc1eea5d1fb7cf0e
 SHA256: b276030f5c9a755315037425591338123eea898cf398569199db55c15b5bdd0f
 Homepage: https://github.com/pymumu/smartdns
 Description: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH
+
+Package: solana
+Version: 3.1.14
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 140392
+Depends: libandroid-shmem, openssl, protobuf, zlib
+Filename: pool/tur/solana_3.1.14_aarch64.deb
+Size: 38387112
+MD5sum: 607f312e08849225414c2e4f96e5a744
+SHA1: 8ba99bfe8e8c2ce2305aee625b3dc84b386cb5b4
+SHA256: ff54f941e4a9c8a064398cc38e5815ddb07dd2f81d38e4260656f448576099ff
+Homepage: https://github.com/anza-xyz/agave
+Description: Solana CLI binaries package provides the essential tools to interact with the Solana blockchain, including solana-cli, spl-token, agave-validator etc.
 
 Package: sortix-rw
 Version: 1.0
