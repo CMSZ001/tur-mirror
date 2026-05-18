@@ -1021,15 +1021,15 @@ Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
 Package: filebrowser
-Version: 2.63.3
+Version: 2.63.4
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 34792
-Filename: pool/tur/filebrowser_2.63.3_arm.deb
-Size: 11520812
-MD5sum: c67a5b9e798e601eea974551e271a41b
-SHA1: 5250a90c2f881443093a639ada280827eaf03e5f
-SHA256: 9d30ca02fdd32dbdc73c5f2cd922d20b7f6d968d509e9e160ff6eab99f5332ba
+Installed-Size: 34812
+Filename: pool/tur/filebrowser_2.63.4_arm.deb
+Size: 11527016
+MD5sum: 2de6ecd099344ba786883f4f7dc7b7cc
+SHA1: d36b7f032781b852cdb517b350e84f6da6a4191e
+SHA256: 7a345fc61a94033960434fd1a2ee3257e3ac5a1b1262a5d4a554d185a30f04f1
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
@@ -3911,15 +3911,15 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: playit
-Version: 1.0.2
+Version: 1.0.3
 Architecture: arm
 Maintainer: @nisheri-ascar
 Installed-Size: 2704
-Filename: pool/tur/playit_1.0.2_arm.deb
-Size: 1446036
-MD5sum: 2020e5f46550a46db89b1e4d4de56d33
-SHA1: 3c8b98694e371a6a609168cb917267989b476857
-SHA256: fafa6b4592dd0b56c04937a4265b1d71b487e08cc3a4924f9f6ec49c77a4e6e1
+Filename: pool/tur/playit_1.0.3_arm.deb
+Size: 1442836
+MD5sum: 8851f2ef55c2668139072530d2491088
+SHA1: d27e9d9b5bce9505f70b38046e1bf9e4463b3b02
+SHA256: 822450582e9f7fcd182f6d559a5f29a79978ef11483b3fcbe815160570c0182a
 Homepage: https://playit.gg
 Description: playit is a global proxy that allows anyone to host a server without port forwarding.
 
