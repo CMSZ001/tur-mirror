@@ -850,33 +850,33 @@ Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
 
 Package: ffmpeg5.1
-Version: 5.1.7-1
+Version: 5.1.9
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 36424
+Installed-Size: 36432
 Depends: freetype, game-music-emu, libaom, libandroid-glob, libass, libbluray, libbz2, libdav1d, libgnutls, libiconv, liblzma, libmp3lame, libopus, librav1e, libsoxr, libtheora, libvorbis, libvpx, libvidstab, libwebp, libx264, libx265, libxml2, xvidcore, zlib
 Conflicts: libav
 Breaks: ffmpeg-dev
 Replaces: ffmpeg-dev
-Filename: pool/tur/ffmpeg5.1_5.1.7-1_i686.deb
-Size: 8480252
-MD5sum: d8557209352288675fefef4ec78bb871
-SHA1: cbf7ef7689c1fe538ca38ef1925bc95eb04f5a89
-SHA256: 4c00ca7c9ae6de6139f1d6a4ec909ced593178e893ba9f01e51ad79d291f354b
+Filename: pool/tur/ffmpeg5.1_5.1.9_i686.deb
+Size: 8483060
+MD5sum: d343303c64b7f113dee47bf9f870de9b
+SHA1: f4f4a8049f5c8ec14b8c321f1276250e83701781
+SHA256: 2d1b590b93ba236c7693bd829c2ae60c09e90b17e28947205e1b3dd34463535b
 Homepage: https://ffmpeg.org
 Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
 
 Package: ffmpeg7
-Version: 7.1.3
+Version: 7.1.4
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 40000
+Installed-Size: 40008
 Depends: freetype, game-music-emu, libaom, libandroid-glob, libass, libbluray, libbz2, libdav1d, libgnutls, libiconv, liblzma, libmp3lame, libopus, librav1e, libsoxr, libtheora, libvorbis, libvpx, libvidstab, libwebp, libx264, libx265, libxml2, xvidcore, zlib
-Filename: pool/tur/ffmpeg7_7.1.3_i686.deb
-Size: 9216096
-MD5sum: a69cf2755ed34277b2e30983ac6e686a
-SHA1: b91af42ea844fe94b875d78957f178279ad25135
-SHA256: 4e82292ed73e3d0ed2f7065167267cf97aa1bc1d08dbfd324c98083cc17d943b
+Filename: pool/tur/ffmpeg7_7.1.4_i686.deb
+Size: 9219800
+MD5sum: a20db08b93d3d7764aef9fcf892f7fde
+SHA1: 317677050e8870f8202353f2642ce5068d6a683b
+SHA256: c71dc47a9a9e9620c1103247bee53a58583bc6fcd397fa8092825624ab856e78
 Homepage: https://ffmpeg.org
 Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
 
@@ -5819,16 +5819,16 @@ Homepage: https://github.com/fcambus/ansiweather
 Description: Weather in terminal, with ANSI colors and Unicode symbols
 
 Package: apkeditor
-Version: 1.4.8
+Version: 1.4.9
 Architecture: all
 Maintainer: @Veha0001
 Installed-Size: 7604
 Depends: openjdk-21
-Filename: pool/tur/apkeditor_1.4.8_all.deb
-Size: 7249412
-MD5sum: 2d1d138f325d91ec17a9c541e0116a2c
-SHA1: f40d3d010f8a1c60531b723836ea0dbf9f49290c
-SHA256: 45d1c465b5d1c08d45a98f9fcc27708c8a1df40fb6ab1fee532281600b11adcb
+Filename: pool/tur/apkeditor_1.4.9_all.deb
+Size: 7250628
+MD5sum: 56b1e6213cf38e47aacf7795ae15be00
+SHA1: 894d1d2edb5e9f0c2bffba59fb4d6e09757b383f
+SHA256: 4d2e9e5bbeb6d8bd8f199b0c1abce77c311ac6ae669924d1910b9c9fbcd9bbc4
 Homepage: https://github.com/REAndroid/APKEditor
 Description: Android binary resource files editor
 
