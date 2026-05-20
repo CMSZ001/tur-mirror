@@ -3779,15 +3779,15 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: playit
-Version: 1.0.3
+Version: 1.0.4
 Architecture: i686
 Maintainer: @nisheri-ascar
 Installed-Size: 4200
-Filename: pool/tur/playit_1.0.3_i686.deb
-Size: 1746864
-MD5sum: c0d077d1aeec1095b28a27e0ebd4c38f
-SHA1: f33ea2acce0d391021e265d15499a640379a8070
-SHA256: f8e701c129b83f5e2b5a628e8c43e6a75c13bab96fccf13af94b670915b5e4c6
+Filename: pool/tur/playit_1.0.4_i686.deb
+Size: 1747208
+MD5sum: 9e4664b7bc7b094357f7f9baa4f08864
+SHA1: 4fcea64116e225714fafa0d280204bd65082ce84
+SHA256: 9ac0f3c7583f1536cb952a97e01a1301814214e5f70a4e8daeac582b7d0c0820
 Homepage: https://playit.gg
 Description: playit is a global proxy that allows anyone to host a server without port forwarding.
 
@@ -4932,15 +4932,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.1.94
+Version: 0.1.95
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 13236
-Filename: pool/tur/rumdl_0.1.94_i686.deb
-Size: 4196924
-MD5sum: a248fc32234c34d4edcf4fe0e2b328c2
-SHA1: 0cee2d0bf44452d5e8846fd520e81378adaff88f
-SHA256: 740332a176b1a41c046e7ca584a9e0e7315cfcea9615e7af97701dc32eb3bba1
+Filename: pool/tur/rumdl_0.1.95_i686.deb
+Size: 4196268
+MD5sum: 8cf98980d7bf741072e1d503d525d754
+SHA1: a75a04e80f4eb6673a09b4f147052d453f548046
+SHA256: 773c7c1c360d916258a4627ba846623b6583bad1ad4ef51a4faa09381e7b2659
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
