@@ -209,16 +209,16 @@ Homepage: https://materialx.org/
 Description: Open standard for the exchange of rich material and look-development content in computer graphics
 
 Package: nqp
-Version: 2026.04
+Version: 2026.05
 Architecture: x86_64
 Maintainer: @termux-user-repository
 Installed-Size: 4396
 Depends: moarvm
-Filename: pool/tur-on-device/nqp_2026.04_x86_64.deb
-Size: 575008
-MD5sum: 5e175b08db7e53fa3f567ad49e462f58
-SHA1: f376de99dfbacc9032878b6f7714b48438c9827f
-SHA256: e1ed096ce639ea48bb106018320f85d8a8afc3eafc74a611f4fa5f3309ecf729
+Filename: pool/tur-on-device/nqp_2026.05_x86_64.deb
+Size: 576120
+MD5sum: 8601912a8fc5a7edee9752910e3109d9
+SHA1: 1305c1f317ca1fc03dcecfed91e77c804621b063
+SHA256: e7d7d698f7bf144a0733b813a13d4750002a74d30ed614363034118fcf388670
 Homepage: https://github.com/Raku/nqp
 Description: Lightweight Raku-like environment for virtual machines
 
@@ -421,16 +421,16 @@ Homepage: https://www.r-project.org/
 Description: A free software environment for statistical computing and graphics
 
 Package: rakudo
-Version: 2026.04
+Version: 2026.05
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 63800
+Installed-Size: 63740
 Depends: libc++, moarvm, nqp
-Filename: pool/tur-on-device/rakudo_2026.04_x86_64.deb
-Size: 7047400
-MD5sum: 60f2d48fa798afc4d5aec5983fb86015
-SHA1: 032507aeaebfa26a02b1b9cc1bed6160439f8c3e
-SHA256: fc83d873836584edbd7e04969d3c283f01423d8daaa6a5d29aa285cb6dc3472d
+Filename: pool/tur-on-device/rakudo_2026.05_x86_64.deb
+Size: 7075408
+MD5sum: 73fdd4785155c8e8a3e26cda5328724a
+SHA1: 8934e7fccf3ee036532895a9666a4df8868c76d1
+SHA256: 86db00a7060799b428b46039bbdf0935ec5de887481a1e5e418fa7ef1d5c68f6
 Homepage: https://rakudo.org
 Description: Mature, production-ready implementation of the Raku language
 
@@ -588,16 +588,16 @@ Homepage: https://codeberg.org/schilytools/schilytools
 Description: Tartest reads a tar archive from stdin and checks this archive for compliance with POSIX.1-1990
 
 Package: thc-hydra
-Version: 9.6-1
+Version: 9.7
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1644
+Installed-Size: 1636
 Depends: libidn, libgcrypt, libssh, libssh2, openssl, openssl-1.1, pcre, pcre2, zlib
-Filename: pool/tur-on-device/thc-hydra_9.6-1_x86_64.deb
-Size: 432656
-MD5sum: d796c2637ccc1f4b8301726741db69e4
-SHA1: c3f19dd0379ffe7a5fe05b3f9d8fa639591832dc
-SHA256: 0b16dd55bf081eeac7a2ffe6dd8200b7040b522e512161655085998448615c9e
+Filename: pool/tur-on-device/thc-hydra_9.7_x86_64.deb
+Size: 435380
+MD5sum: cc33ac6c3791dd184215dd7dae363221
+SHA1: 9e9ac10a6117eb85452d88f3a4b8846d188df11b
+SHA256: 56b7e40dc8a97e991d79adb5f2b35064e8c57eb7d8bcf06fe23259f7a7074a7d
 Homepage: https://github.com/vanhauser-thc/thc-hydra
 Description: hydra
 

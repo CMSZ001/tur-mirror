@@ -3644,16 +3644,16 @@ Homepage: https://llvm.org/
 Description: A Multi-Level Intermediate Representation for compilers from LLVM
 
 Package: moarvm
-Version: 2026.04
+Version: 2026.05
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 11380
+Installed-Size: 11388
 Depends: libc++, libffi, libuv, zstd
-Filename: pool/tur/moarvm_2026.04_aarch64.deb
-Size: 1603480
-MD5sum: 60afac878a4e31837f16c4668dedfe9f
-SHA1: 9d9aa0f49a72f8e0f4b59347af7edb1ce0a063d4
-SHA256: f4bfeae0cbe5dc3d2f6d56f24b7ee7780a8f259bb9161e61bd606b188e2d4d3e
+Filename: pool/tur/moarvm_2026.05_aarch64.deb
+Size: 1601500
+MD5sum: 6f54464f674332a191137c8ee9397913
+SHA1: 7201646523f87a22e4cf192799d24c6fccf44a68
+SHA256: eb1f97cc50e7a472af1550caa446ffac4f4899070ad213867cf5fd899b175d14
 Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
@@ -5470,15 +5470,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.0
+Version: 0.2.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 10844
-Filename: pool/tur/rumdl_0.2.0_aarch64.deb
-Size: 3278920
-MD5sum: 58f2e47d2940aa3ff26aa68852da37b3
-SHA1: c9ca15197691e1d885703bf82d03ac92627e99fb
-SHA256: ce601fed447ef76002ab40c0c7c07d4654084748a97c0b83a0d5c2b3158e6740
+Installed-Size: 10868
+Filename: pool/tur/rumdl_0.2.1_aarch64.deb
+Size: 3285080
+MD5sum: f63c17676e99ecfe747b1e5daeff2a80
+SHA1: 262491b19766a638d64ac7ba44898786e3085613
+SHA256: 1b4a37ff67a8f2816158e37862acd18e175caccd1774035b2d0e294d972901cd
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -6219,16 +6219,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.8
+Version: 11.9
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1216980
+Installed-Size: 1226040
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.8_aarch64.deb
-Size: 95095600
-MD5sum: 6146a527db25816f5252896217461c01
-SHA1: 796b2642bcfa76a4dad381a4c37847c78359f318
-SHA256: bb56c70234d860a28a653105c9a4e1b7a8fe57b25bfeb623efdf637f18fdb027
+Filename: pool/tur/wine-devel_11.9_aarch64.deb
+Size: 97274876
+MD5sum: 9e725e0792bad6f702166ceb4a205832
+SHA1: fccad078f3959e5dfa387def6ac651abaefefddf
+SHA256: c0b10e84d24863633217598e1265f20522dd3bfde1a5a8b1b1ae0977158e14dd
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6247,16 +6247,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.8
+Version: 11.9
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1227228
+Installed-Size: 1236360
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.8_aarch64.deb
-Size: 97322820
-MD5sum: 7ab10e5c4f31209e100d981cc664e720
-SHA1: 49c206154b4e666d38b081fef9813a0e23bc9d22
-SHA256: 8416fad6533de7076ec4061f99627df9ce3c38a8472102deb15f491a6a0e1e80
+Filename: pool/tur/wine-staging_11.9_aarch64.deb
+Size: 99500080
+MD5sum: 39747213bbae04a5ad3331ce0b1a88c7
+SHA1: 7c872b475bdc2a0860a91a0070b7882b3a3ac5c3
+SHA256: 629a641f552df82b01b089e74cfe6d65b6e109018d43f17a7ac499a34c122d4f
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
