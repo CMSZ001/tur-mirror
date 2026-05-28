@@ -471,16 +471,16 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 149.0.7827.14
+Version: 149.0.7827.22
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 459484
+Installed-Size: 459504
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_149.0.7827.14_aarch64.deb
-Size: 51288364
-MD5sum: 9ec48f1e3299743374db75e309991b8d
-SHA1: 036788774987ff2cc3a622fa767c5f06f69b779c
-SHA256: 0e4572039ac8c322c873b3858bd6758452e837e786a2981916ca4ad3a719785d
+Filename: pool/tur/chromium-beta-host-tools_149.0.7827.22_aarch64.deb
+Size: 51303668
+MD5sum: ae2d177d00a269408769ab2a18861926
+SHA1: 1dc637b4ec18220b4e60d0965c4f4185ebbdd846
+SHA256: ce08276f4fd3f027d7307e9dc7b63e6feb25ac621e0e46efd7351dd37c287aa2
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -5470,15 +5470,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.2
+Version: 0.2.3
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 10868
-Filename: pool/tur/rumdl_0.2.2_aarch64.deb
-Size: 3286148
-MD5sum: 5766c9480ff8637acda2d564f8fc2b8e
-SHA1: b2073d685c57b7fe2b1f81825c0210515efc434a
-SHA256: bc674baf826ae9f6c244eda380fad1aac6e2c9a1416450209d8ab02aefba1bbb
+Filename: pool/tur/rumdl_0.2.3_aarch64.deb
+Size: 3285480
+MD5sum: b0a7e46dd3fbdfa0032999c5d0eba62c
+SHA1: c7d5fc43e9ea570aafe2a0b81816e03a1345e287
+SHA256: 7ad6298fa178d741711f29412ebb77e4b8b2049e2b6e4d7c49d894945c4919c3
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
