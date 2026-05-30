@@ -693,15 +693,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crush
-Version: 0.66.0
+Version: 0.74.1
 Architecture: x86_64
 Maintainer: @ancientcatz
-Installed-Size: 84468
-Filename: pool/tur/crush_0.66.0_x86_64.deb
-Size: 17265400
-MD5sum: 10022e205f498a7d165ff0e8c56eac64
-SHA1: b5add640a2720adef28aa584ce719107d550c051
-SHA256: 861286aa69645876cf51bdec48e4357bfbfa0535eebee254796a5f3cf371db58
+Installed-Size: 85280
+Filename: pool/tur/crush_0.74.1_x86_64.deb
+Size: 17434896
+MD5sum: 1015772202d1bc7e1576b06528541366
+SHA1: ff0e2a066f7082ef32f259722ec479a18ab351d0
+SHA256: 3bfc434c200777541ac8cb59f9b2e0c41d77b619e91bf848dc548e9af61e3c43
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
@@ -3129,6 +3129,23 @@ SHA1: 47d2f4b8be9b4a9a129ae77b31b28ae37d6a93a0
 SHA256: 80d1c8f4751f7f80e1f9e78f1dadac2b1b5bc0a9a628f44cc05ae2a51a052d71
 Homepage: https://sf.net/p/libwpd/librevenge/
 Description: library for REVerses ENGineered formats filters
+
+Package: librime-with-lua
+Version: 1.16.1
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 3604
+Depends: boost, google-glog, leveldb, libc++, libopencc, libyaml-cpp, marisa, lua54
+Conflicts: librime
+Replaces: librime
+Provides: librime
+Filename: pool/tur/librime-with-lua_1.16.1_x86_64.deb
+Size: 855368
+MD5sum: d91509f5b96ff94991d2ba4ddd83c455
+SHA1: b0dc2b07b8f6cbef468e466223d24f5b4a6ebb5d
+SHA256: 3c4c90f95c7f1d1d50cbae8e6e0456f6d8b0bb73a000b414c2b9227aa0a569d1
+Homepage: https://rime.im/
+Description: Rime input method engine with the Lua plugin built in
 
 Package: libspnav-static
 Version: 1.2
