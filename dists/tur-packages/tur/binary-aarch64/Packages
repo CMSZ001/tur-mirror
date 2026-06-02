@@ -120,16 +120,16 @@ Homepage: https://wiki.debian.org/Aptitude
 Description: terminal-based package manager
 
 Package: archisteamfarm
-Version: 6.3.5.1
+Version: 6.3.6.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 21476
+Installed-Size: 21460
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/archisteamfarm_6.3.5.1_aarch64.deb
-Size: 5462016
-MD5sum: 74a968ce7356a789092612457e228119
-SHA1: 5c76a1a33f2082b6898cba82063afd5e0911997d
-SHA256: 22739961222c64b6c378722f2bb79fca3777577f5dfefea129eab2aefb500e69
+Filename: pool/tur/archisteamfarm_6.3.6.1_aarch64.deb
+Size: 5431408
+MD5sum: a68160511be728a133c847c57694fc3f
+SHA1: 647c48d0833109bd239fe00adff9ac6338acefc6
+SHA256: 66dda47fa56afd87dbbe182330baa3f4cfdb9f74b136b91921629e53896c0c26
 Homepage: https://github.com/JustArchiNET/ArchiSteamFarm
 Description: C# application that allows you to farm steam cards using multiple steam accounts simultaneously
 
@@ -4388,15 +4388,15 @@ Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
 
 Package: playit
-Version: 1.0.5-1
+Version: 1.0.6
 Architecture: aarch64
 Maintainer: @nisheri-ascar
-Installed-Size: 8024
-Filename: pool/tur/playit_1.0.5-1_aarch64.deb
-Size: 2324692
-MD5sum: 735e5e91f005a842cd8fb91ee8c1a9f6
-SHA1: b2744aae190e514344ea373c6b032d3cd4e2c1fd
-SHA256: 1bed7b677b32e55e417084cfc40fdf2bd4b0f116de228c5625c58241f450f52a
+Installed-Size: 8020
+Filename: pool/tur/playit_1.0.6_aarch64.deb
+Size: 2326544
+MD5sum: a81fb214e38c6d57868997880f6ce5a2
+SHA1: bfa32552a296ba9039c7557e265663339d7d5c4e
+SHA256: 05d18f80dc5b13b7dc58306bea02d62a0bb4deda2e2eef1d7612c538e3e7b2d5
 Homepage: https://playit.gg
 Description: playit is a global proxy that allows anyone to host a server without port forwarding.
 
