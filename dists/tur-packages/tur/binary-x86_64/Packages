@@ -1222,15 +1222,15 @@ Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
 Package: filebrowser
-Version: 2.63.10
+Version: 2.63.11
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 37260
-Filename: pool/tur/filebrowser_2.63.10_x86_64.deb
-Size: 12188528
-MD5sum: f81b2587f60c5905805029c68f29a8b6
-SHA1: b0d66f8d7c155f5e8ff591da29d946caaf1c44ba
-SHA256: 3f0294d4c895751d43a474fe9c0c8b9a953528b127da7744c036eecbec9879e1
+Installed-Size: 37264
+Filename: pool/tur/filebrowser_2.63.11_x86_64.deb
+Size: 12191996
+MD5sum: d8b532bf6a8fcb7bc84a93beb92aa407
+SHA1: bfad005aa036723303c9271017cdaea3a5fa9f04
+SHA256: e3fc6ef705e8e9ed7f2e4459a6e7067f7a57b4e387b26e8f93daea970472a190
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
@@ -5799,15 +5799,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.8.6
+Version: 0.8.7
 Architecture: x86_64
 Maintainer: @LukeGTH
-Installed-Size: 21944
-Filename: pool/tur/surge-cli_0.8.6_x86_64.deb
-Size: 5937560
-MD5sum: f975733818ec25199cd0da20606eaaac
-SHA1: 2b118d193c9a128c1c4cf694bdadf9213e093bf5
-SHA256: 1ae140db836b046835f4888e08717156ef4c6a835612948aeab043f61c14506a
+Installed-Size: 21896
+Filename: pool/tur/surge-cli_0.8.7_x86_64.deb
+Size: 5960592
+MD5sum: 70605cb70954e4fcc091efd5e0b44499
+SHA1: a8004677eb42edf1ca991aa326a83bb0ae36ac28
+SHA256: a6c4d2e485fa7668fc0b2e24c82aee5b6f77a201c26b9fdebbf7d93bf51c2ab9
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
