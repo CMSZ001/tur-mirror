@@ -2049,15 +2049,15 @@ Homepage: https://lfortran.org/
 Description: A modern open-source interactive Fortran compiler
 
 Package: lib-tls-client
-Version: 1.15.0
+Version: 1.15.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 11432
-Filename: pool/tur/lib-tls-client_1.15.0_aarch64.deb
-Size: 3048176
-MD5sum: f02340cb891c136e4e8249a93713144f
-SHA1: 09c987c1f093d26c5c9ee8f66a9625598cf615aa
-SHA256: 9d859f2ba00db46ebc4ac52ceacd9bfc6f3b815c16b24dc93fed162a2ad8157b
+Filename: pool/tur/lib-tls-client_1.15.1_aarch64.deb
+Size: 3046872
+MD5sum: 33fd6179943a62a158a3bef9bd23fdbd
+SHA1: e32192acb75fd1e9a4a3a6d9f3decf06634868ad
+SHA256: fed86124aa6fea05f133b02011e0f8e16ad876e143b1ba5abbc495dff8321d1f
 Homepage: https://github.com/bogdanfinn/tls-client/
 Description: A net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests
 
@@ -5487,15 +5487,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.9
+Version: 0.2.10
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 10940
-Filename: pool/tur/rumdl_0.2.9_aarch64.deb
-Size: 3305468
-MD5sum: a888052545ecaf98e6cfb40ca9dcbeea
-SHA1: b793c596d473db5e2d934c9a2d617ce5f58eea7d
-SHA256: 0adf979cd9297e4389fb7abddadb05defb96b57d9ef4acedbafa16c7a3336e0e
+Installed-Size: 10952
+Filename: pool/tur/rumdl_0.2.10_aarch64.deb
+Size: 3311292
+MD5sum: 568fed00387d5c1b5ea0e9a0066b92f2
+SHA1: ca9e1514050ccbe469928790986382f3a49c96c4
+SHA256: c63ca0854df539cf1f4d7f46cf901aacdee4beea5ece176b8deb2e40fb5bad95
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 

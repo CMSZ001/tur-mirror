@@ -1596,15 +1596,15 @@ Homepage: https://lensfun.github.io/
 Description: Lensfun
 
 Package: lib-tls-client
-Version: 1.15.0
+Version: 1.15.1
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 11312
-Filename: pool/tur/lib-tls-client_1.15.0_i686.deb
-Size: 3649520
-MD5sum: 0c9f2d5c236216eb730b4de07c6b9561
-SHA1: f84edb52c9bc6b5b73f85baaa42956c72ae47584
-SHA256: f0519cdaa4ebf987b01b5091abc46e1b3a5ffa35b79449b8c65becdc15e297c2
+Filename: pool/tur/lib-tls-client_1.15.1_i686.deb
+Size: 3650500
+MD5sum: 8dbb6e3c44afdda50af7eb02581c421e
+SHA1: a15cd086efd8750f45f97c0802b63c6343ef6804
+SHA256: 7bf1c1c82fdc22af8477d386cc7e0cfafeb5d57dba4f736de15e24c72344ed85
 Homepage: https://github.com/bogdanfinn/tls-client/
 Description: A net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests
 
@@ -4949,15 +4949,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.9
+Version: 0.2.10
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 13428
-Filename: pool/tur/rumdl_0.2.9_i686.deb
-Size: 4263736
-MD5sum: 6387b945827c90827229dbb1519de79c
-SHA1: 09161846ce9c0763ea9cfecbc8e1a28be14963d4
-SHA256: a754d8887f2056e4057f59a1c5fcb0985191c941a1c22bac7ae493edbcea807c
+Installed-Size: 13444
+Filename: pool/tur/rumdl_0.2.10_i686.deb
+Size: 4269320
+MD5sum: 2bbf071b2d62762ce81723070480037b
+SHA1: ff924e030b4fe5927238c89134c9e6ebde82ec4e
+SHA256: f7a5d0ad0962feb2d17323d641ef3c8d130340e76264ca91589e7831db779dad
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
