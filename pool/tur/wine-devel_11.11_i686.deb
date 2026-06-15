@@ -1,14 +1,14 @@
 Package: wine-devel
-Version: 11.10
-Architecture: x86_64
+Version: 11.11
+Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 1232660
+Installed-Size: 667768
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.10_x86_64.deb
-Size: 184204640
-MD5sum: 7101a88f3746eb5819b22256619813c5
-SHA1: 1434b29252980991fc08d73b8b1886278a624d97
-SHA256: 99ff3247c568a8b245981d8a87d6daa6d04a88c28b59526213d84b997005218a
+Filename: pool/tur/wine-devel_11.11_i686.deb
+Size: 100369516
+MD5sum: 4d9dcba5893f27622ef5fa035bb494be
+SHA1: d1aba618a84c27bc035623f86556bdb8f3270a89
+SHA256: 41ff696c04d60e3038749d1e2a657016743425aa8e9c2cc2ac8213f662329fd5
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 

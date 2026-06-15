@@ -5613,16 +5613,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.10
+Version: 11.11
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 665404
+Installed-Size: 667768
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.10_i686.deb
-Size: 99933744
-MD5sum: ed50d019aad5cdd4033ef160fc45bcfa
-SHA1: cb0380740be8cc427efd95cdd920cb77c8323989
-SHA256: 3dd6da928ca8e914ff7f75e9985e46b445c64dc2cece5680491362ec76a00d60
+Filename: pool/tur/wine-devel_11.11_i686.deb
+Size: 100369516
+MD5sum: 4d9dcba5893f27622ef5fa035bb494be
+SHA1: d1aba618a84c27bc035623f86556bdb8f3270a89
+SHA256: 41ff696c04d60e3038749d1e2a657016743425aa8e9c2cc2ac8213f662329fd5
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -5641,16 +5641,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.10
+Version: 11.11
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 673804
+Installed-Size: 676192
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.10_i686.deb
-Size: 102180764
-MD5sum: 80d32159c6c5e5686df567c5e714da37
-SHA1: 0a127e8ae0284f3c57c291886e399d7e953b5e38
-SHA256: 6ab63c6e8aa9670fff428ddcc6dd7a8de5259ab8e02ccf2715b6d8a49557c3f0
+Filename: pool/tur/wine-staging_11.11_i686.deb
+Size: 102602068
+MD5sum: 32ca6dc5a68cd7755e9de63f16fcf062
+SHA1: e3f70e454eda0902840c21adeab5b7c69093d875
+SHA256: c05092bb156ca8ab6427a84a298d271a0e673ccadcfead79333d66a8df150220
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
