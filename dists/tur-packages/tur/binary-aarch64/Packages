@@ -5517,15 +5517,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.16
+Version: 0.2.17
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 10936
-Filename: pool/tur/rumdl_0.2.16_aarch64.deb
-Size: 3306092
-MD5sum: 6caef781f30976d6978d72912c6013d4
-SHA1: a1d2cc19229d321aa43e34aab677b0bb52b124b5
-SHA256: 7642ccd1bd4cd372030823a7af8ed2fc7e1993994b69edb3753349689bedbd7f
+Installed-Size: 10932
+Filename: pool/tur/rumdl_0.2.17_aarch64.deb
+Size: 3307212
+MD5sum: 329f1dab3349dcd73a38720f94bf7d8d
+SHA1: 5cfda4dec6e3d60aaffd9871aff02cc5293aa549
+SHA256: 234e77c4a932cfc8dd7ae6a6f44c89b58258421ed4d22a3485250dbf10bf0f0e
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -5914,15 +5914,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.8.7
+Version: 0.9.0
 Architecture: aarch64
 Maintainer: @LukeGTH
-Installed-Size: 20772
-Filename: pool/tur/surge-cli_0.8.7_aarch64.deb
-Size: 5254216
-MD5sum: 29ee71ed9ba4d719ab10deb47b9ab136
-SHA1: 9253ad97c27256a947a94068819822ad744d9040
-SHA256: 09bdc845beb5481711053ce8d92380d05a24cb200a4b93a33eae51e879f0412c
+Installed-Size: 21480
+Filename: pool/tur/surge-cli_0.9.0_aarch64.deb
+Size: 5346708
+MD5sum: 4d771541dfee1ca50fa4f9b1813dde2b
+SHA1: b5b1a8c8b0cf67fe682d07a1a346d7c39389f95e
+SHA256: a1a5d872eb8af90f01f11b958eaa09ef91a0f72ec080324aad3aeb16d0464f50
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
