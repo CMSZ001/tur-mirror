@@ -457,16 +457,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: cfitsio
-Version: 4.6.2
+Version: 4.6.4
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 2100
+Installed-Size: 2068
 Depends: curl, zlib
-Filename: pool/tur/cfitsio_4.6.2_x86_64.deb
-Size: 553092
-MD5sum: f8383fd36208f041d913f048cf2ec2b9
-SHA1: 54be46d06cc839fa32eea858c3541dc175ce5f3d
-SHA256: 5fe6d193d4aa9a68c0e2c09128f18cc366eb6499976ea204357e5835f25671ed
+Filename: pool/tur/cfitsio_4.6.4_x86_64.deb
+Size: 551456
+MD5sum: 328fd837fcdc3b30d51a6c5a3a5d69fa
+SHA1: 5ae4f8e704e4bd896c2617862b30d7b7b9a0c45f
+SHA256: 0b1ac6995cbcf4532e067a27bf78bea2923c813555e62b1294daac8901d8f026
 Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
@@ -4581,58 +4581,58 @@ Homepage: https://github.com/python-pillow/Pillow
 Description: The friendly PIL fork (Python Imaging Library)
 
 Package: python-polars-runtime-32
-Version: 1.39.3-1
+Version: 1.41.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 185020
+Installed-Size: 213108
 Depends: python, python-pip
-Filename: pool/tur/python-polars-runtime-32_1.39.3-1_x86_64.deb
-Size: 29976584
-MD5sum: 557829743124bb7ad5826d1ef7142c54
-SHA1: fe0b262c3d8a8b68fced8ef37bad0a5fdde155c0
-SHA256: 526995421e836b7dec32228f5dc0a86c945f49cce93ba9139435788e4220696c
+Filename: pool/tur/python-polars-runtime-32_1.41.2_x86_64.deb
+Size: 33533016
+MD5sum: 876c21e5d549110203e612addc1d789a
+SHA1: 22f02a2e3940d3d4de0113a149af0353fb7c2490
+SHA256: d7c74ea4fb80cbe734da7a2f347db2fcb7f8931e0861b4a6a4feaf0eaf33b6fe
 Homepage: https://github.com/pola-rs/polars
 Description: Extremely fast Query Engine for DataFrames (runtime 32)
 
 Package: python-polars-runtime-64
-Version: 1.39.3-1
+Version: 1.41.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 180404
+Installed-Size: 211156
 Depends: python, python-pip
-Filename: pool/tur/python-polars-runtime-64_1.39.3-1_x86_64.deb
-Size: 29587940
-MD5sum: 50d85728a961e9f22954557f1fbfc374
-SHA1: be53e9e8e071c5f1ce59a94033c8a941f4f918a9
-SHA256: ab44ce9f590191f70e5ee973f5a325121a108dfb29dc13c4953d36ff46dfb980
+Filename: pool/tur/python-polars-runtime-64_1.41.2_x86_64.deb
+Size: 33372604
+MD5sum: 72872c04ac04efc6d33f675564993979
+SHA1: 3a817b5bdeac160cf00926b75956645d33f458be
+SHA256: fe9fcd82dc32c0b1cbc900f9b0cab15cb803fbb9663fd77c768cdd65da73535d
 Homepage: https://github.com/pola-rs/polars
 Description: Extremely fast Query Engine for DataFrames (runtime 64 for large dataset support)
 
 Package: python-polars-runtime-compat
-Version: 1.39.3-1
+Version: 1.41.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 180404
+Installed-Size: 211160
 Depends: python, python-pip
-Filename: pool/tur/python-polars-runtime-compat_1.39.3-1_x86_64.deb
-Size: 29591088
-MD5sum: 9069bab798d214ddd2820bd7a6e2e9f1
-SHA1: 447a339377731242f3d6295a8ecafc8f2c754213
-SHA256: 6e0961202a1db2f7809fc7e3c5228a43ec6b2131ced42e3754a68f0c195168b8
+Filename: pool/tur/python-polars-runtime-compat_1.41.2_x86_64.deb
+Size: 33380952
+MD5sum: 7755c8e26b52609b90e2f914f7be3fe3
+SHA1: 1c31010f828f8ac99186445505f47b4dc0b987bd
+SHA256: ad617852b970ae134f1f516dcd4e975f001e903e224c62c1de5ce5040ea883c7
 Homepage: https://github.com/pola-rs/polars
 Description: Extremely fast Query Engine for DataFrames (runtime compat for older CPU compatibility)
 
 Package: python-polars
-Version: 1.39.3-1
+Version: 1.41.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 4712
+Installed-Size: 4760
 Depends: libc++, python, python-pip, python-polars-runtime-32 | python-polars-runtime-64 | python-polars-runtime-compat
-Filename: pool/tur/python-polars_1.39.3-1_x86_64.deb
-Size: 471612
-MD5sum: 96fadacb003f73d28e9c4bfd3af84b58
-SHA1: 669df56108f4a6f2bf1b65ef5832471e26ba51c0
-SHA256: 41f3e2aadfdf69ba9ae55ce07df401724c760154929e9bf733fdf0b68711ff69
+Filename: pool/tur/python-polars_1.41.2_x86_64.deb
+Size: 477096
+MD5sum: 0d3eead6cec7139c4564046c0f1318c2
+SHA1: 7b229c108d07712f7ce6859aeca5c6af126d7e1d
+SHA256: ad1eb1ee048ceed05b043c3f76c656c37e03a78c12b080ee53516f3fc23a8982
 Homepage: https://github.com/pola-rs/polars
 Description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
@@ -5432,15 +5432,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.17
+Version: 0.2.18
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 12832
-Filename: pool/tur/rumdl_0.2.17_x86_64.deb
-Size: 3882840
-MD5sum: b17bad7d77df8b8bde144f7aaf66a814
-SHA1: 09039a056dda475f5bfcfd889052bb6d2ff84bbf
-SHA256: 3106f7b2b5d40af83db5e04b981d6e0c6838bb4ba260ec5724846cab0110893b
+Installed-Size: 15172
+Filename: pool/tur/rumdl_0.2.18_x86_64.deb
+Size: 4076560
+MD5sum: c382390dc5ffdf1c3012858b0a4510aa
+SHA1: aa1e8cfb05edea718cb3eeacc58d4974dd782129
+SHA256: 006ff69e942ec55789c45d49e8cbed0d1165f3c9f84f5ed50ba11d6dc0fc1ad5
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 

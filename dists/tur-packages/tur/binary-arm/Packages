@@ -340,16 +340,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: cfitsio
-Version: 4.6.2
+Version: 4.6.4
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 1404
+Installed-Size: 1420
 Depends: curl, zlib
-Filename: pool/tur/cfitsio_4.6.2_arm.deb
-Size: 487088
-MD5sum: fc679b0ce6411cb704ea6a367cfc76a3
-SHA1: d9d136774267be9e1e434b01133331c69a7361a8
-SHA256: 7921516f57fb0ad65102959141f796e47ca2e8839ec4c8581928768fdd65e458
+Filename: pool/tur/cfitsio_4.6.4_arm.deb
+Size: 490108
+MD5sum: 8e5866bf31a50f4b279df52917a25fe1
+SHA1: af345c66755880e49b3c5c7783fb91dbf68df94e
+SHA256: 2396f4a5fce57bf7160e5cfc7a6fe27954bed586d3f1d92d96df0afdc0280d5d
 Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
@@ -5111,15 +5111,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.17
+Version: 0.2.18
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 7664
-Filename: pool/tur/rumdl_0.2.17_arm.deb
-Size: 3455500
-MD5sum: 8a93bd598a035865226f2d042292137f
-SHA1: ca25259f088d55d674231c1c7f05d21a2846fba5
-SHA256: b5483ffa90d345d100acd6d7d45187f1e1c14c6e67560ab2808c777011ca288c
+Installed-Size: 8856
+Filename: pool/tur/rumdl_0.2.18_arm.deb
+Size: 3539440
+MD5sum: 2ddf6ffc6ab4aac32c099ed87de14588
+SHA1: 51a48c89c18ca0d83973cc9913fad2d5a8c425f6
+SHA256: 464ac7785ce7cd7858511c73df9a60097ffaec7363e3bd8df0b8669cc8119731
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
