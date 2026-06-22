@@ -3766,17 +3766,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
 Package: nodejs-24
-Version: 24.17.0
+Version: 24.17.0-1
 Architecture: x86_64
 Maintainer: @termux-user-repository
 Installed-Size: 131240
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-24_24.17.0_x86_64.deb
-Size: 23843688
-MD5sum: 7d87b9cee14b6baf12d1caf9c0a40cbd
-SHA1: 9db61e50d72699c708cc0f1fd27c7ea54520462f
-SHA256: 3abfaebe9c2f304c80639be545503487857c563b2557ab018c950f3139b9f1a6
+Filename: pool/tur/nodejs-24_24.17.0-1_x86_64.deb
+Size: 23840804
+MD5sum: 8e96c30d71d78e8e034cae23d5c30f6a
+SHA1: 48bc7dbb2d75947b143ffb37ad183ab8e987e88d
+SHA256: 685ef2d12c8872990dc52ebab126699c47f0d9c8067410fa43d400e5fedfdea0
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
@@ -5844,15 +5844,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.9.0
+Version: 0.10.0
 Architecture: x86_64
 Maintainer: @LukeGTH
-Installed-Size: 22512
-Filename: pool/tur/surge-cli_0.9.0_x86_64.deb
-Size: 6020404
-MD5sum: 4351dc2873bf787739f583baa4648e79
-SHA1: bd9c4ec3b32912054547a92b3e6230fc8199eb99
-SHA256: f114cbf41bdf979a7a9ebf136eebe3dab7050b32ca303f0722f9864b2e49b2b9
+Installed-Size: 18912
+Filename: pool/tur/surge-cli_0.10.0_x86_64.deb
+Size: 4713896
+MD5sum: 0a88ac32163866bdf183473233089883
+SHA1: 84fc32d34c2f4d1d283cd9fe2281af98e74b2734
+SHA256: 5db36d534609710153ec6a232d276487fe49fcc86087ff89a3f345b6e570fec6
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
