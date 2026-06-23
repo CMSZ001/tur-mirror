@@ -895,15 +895,15 @@ Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
 Package: filebrowser
-Version: 2.63.15
+Version: 2.63.16
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 35472
-Filename: pool/tur/filebrowser_2.63.15_i686.deb
-Size: 12666876
-MD5sum: d49c42852b437b8f25bccccf2dfe2cc2
-SHA1: 278bf33ba86672e2d7963621a7319a6058ef2337
-SHA256: f47f91abc2a538d1b3325bf31edef94a3ac08b36ae8f24e1ffed1ce37151238e
+Installed-Size: 35476
+Filename: pool/tur/filebrowser_2.63.16_i686.deb
+Size: 12667624
+MD5sum: 80c7b2ba72dc9bd86f631fc438051a74
+SHA1: 19efd80eb6592cc5c9c55852674ca8b68bb28de1
+SHA256: 5afb027ce724862f7e0de7f83995ed8e9eefe5f187b8923a88f7f652566b97c5
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
@@ -3166,18 +3166,18 @@ Homepage: https://github.com/stsp/nasm-segelf
 Description: nasm fork with segelf patches
 
 Package: ndk-sysroot-gcc-compact
-Version: 29-2
+Version: 29-3
 Architecture: i686
 Maintainer: @licy183
 Installed-Size: 31252
 Conflicts: libutil-dev, libandroid-support-dev, ndk-sysroot
 Replaces: libutil-dev, libandroid-support-dev, ndk-stl, ndk-sysroot
 Provides: ndk-sysroot
-Filename: pool/tur/ndk-sysroot-gcc-compact_29-2_i686.deb
-Size: 1952200
-MD5sum: 8edf7cf0782b4bf0058341de861cc6fb
-SHA1: e634d4ff24fcd9e2ff7785b090934afb91f593b9
-SHA256: 8befce7d6d2d61b832ce7e207c2c26ea4c1e96064303b648cd438a6de3504234
+Filename: pool/tur/ndk-sysroot-gcc-compact_29-3_i686.deb
+Size: 1952000
+MD5sum: 0780df201847386856d2711cdde9c317
+SHA1: c698341d90874f2a91c2f6705eeb32009779c7b3
+SHA256: 3cd95ceec92532fb120eb413be8a602f71c3947bf4a86eb0f5969e77cc73db14
 Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 Description: System header and library files from the Android NDK needed for compiling C programs, compact with GNU Compiler Collection
 
@@ -4964,15 +4964,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.20
+Version: 0.2.21
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 16616
-Filename: pool/tur/rumdl_0.2.20_i686.deb
-Size: 4546956
-MD5sum: a599d01bd0d9ae68eee15bd8bec46b0c
-SHA1: 15f62bbb6aa1e11d8f342df9ee1bad45f1648c61
-SHA256: a283a99a63e962a25415921157a345e495c4f738ad21b3f41cbad435906ff8fd
+Installed-Size: 16552
+Filename: pool/tur/rumdl_0.2.21_i686.deb
+Size: 4521368
+MD5sum: 8be29519629083e75a58246db523856d
+SHA1: c3d7bebe1b0e8836c8de67aba1c6f4a8e815dbe6
+SHA256: 9d85e58af0f9823291aa1581ce58034c436f049766be917467e54864ab3cba54
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
