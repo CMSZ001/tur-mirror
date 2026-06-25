@@ -841,16 +841,16 @@ Homepage: https://dillo-browser.github.io/
 Description: A small, fast graphical web browser built on FLTK
 
 Package: dj64dev
-Version: 0.4-2
+Version: 0.4-3
 Architecture: x86_64
 Maintainer: @stsp
 Installed-Size: 16172
 Depends: pkg-config, libelf
-Filename: pool/tur/dj64dev_0.4-2_x86_64.deb
-Size: 3327896
-MD5sum: b435027b1e11ad71224ce0f0c8c7d41e
-SHA1: 95abeaa6b106cd6ec37d7da053dc9895c7034c98
-SHA256: 9c65409fbafa3aa71edb5949e630c73548a9a7fcde7e690ebbe4c5246996b64e
+Filename: pool/tur/dj64dev_0.4-3_x86_64.deb
+Size: 3328564
+MD5sum: 96aa50e4d22ddd820f81ca4b5d0d1e28
+SHA1: 9811c36ce26176c5beb5df119dbaabf7806a3df8
+SHA256: a973a39b4001f2e12cc07e846286be0bca60c1ed347f09b38ea3909f667248f0
 Homepage: https://github.com/stsp/dj64dev
 Description: development suite that allows to cross-build 64-bit programs for DOS
 
@@ -5433,16 +5433,16 @@ Homepage: https://www.ruby-lang.org/
 Description: Symlinks ruby to ruby2
 
 Package: rucola
-Version: 0.9.0
+Version: 0.10.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 5696
+Installed-Size: 5716
 Depends: openssl
-Filename: pool/tur/rucola_0.9.0_x86_64.deb
-Size: 1764352
-MD5sum: 1bef339618eee4bf9c6744e7c304d12d
-SHA1: bb596e3be02e987571208cd57fbfb01ee4b5215a
-SHA256: 6c326fb912183dc3c00a5f0bea61f011581ebea3db4aedaab6bc17cc9bd85f82
+Filename: pool/tur/rucola_0.10.0_x86_64.deb
+Size: 1768424
+MD5sum: 7e40defb697e5c73d19414891c02a86f
+SHA1: 8d89570db760adb7639c938b00b7792a34e78933
+SHA256: 55242fd4f6fbe10712bfb3613b729e570fd6fe1baf4167f3523c311c03f7214a
 Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
