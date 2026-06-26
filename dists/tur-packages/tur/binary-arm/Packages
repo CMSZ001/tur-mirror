@@ -5126,15 +5126,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.22
+Version: 0.2.23
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 8816
-Filename: pool/tur/rumdl_0.2.22_arm.deb
-Size: 3536500
-MD5sum: 5ad66982aae6925c24b7f036079b8433
-SHA1: 9c3bc552a132cc2819a014bcf86962bdb7c834c4
-SHA256: f306fab3fdc00964278296bfa0cb3aa43c1a1bc6e9d56a5ce73566d19f2d17b0
+Installed-Size: 8844
+Filename: pool/tur/rumdl_0.2.23_arm.deb
+Size: 3552568
+MD5sum: 4684a86dd6febd9b0166b05b1e049501
+SHA1: bba3b630b3972fb3a3c197023af494fac2d3977b
+SHA256: 03ae0bf9b61a5503429dcb68fff06bf4d70c8aef6ba771503dfd6ddc3db5c07d
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -5453,30 +5453,30 @@ Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 Description: A Suite of Sparse matrix packages.
 
 Package: sundials-static
-Version: 1:7.7.0
+Version: 1:7.8.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 2396
-Depends: sundials (= 1:7.7.0)
-Filename: pool/tur/sundials-static_1:7.7.0_arm.deb
-Size: 487940
-MD5sum: ac11f5a2827714158c5e85ebed1e081d
-SHA1: 8a03be0e9df9598c15ced941db8b48acb54743f6
-SHA256: da87807f3035b1e630200272dd48a26c705dc3bd2721aee5189b73d2288fa110
+Installed-Size: 2456
+Depends: sundials (= 1:7.8.0)
+Filename: pool/tur/sundials-static_1:7.8.0_arm.deb
+Size: 496536
+MD5sum: f161d5e2c957bb3054fdd7a90ff2b73b
+SHA1: c5e3416fa69ed144d667f58d16520fb0683ae81c
+SHA256: 31c5c047d1d53ea2406bb4cf5139ffda98b2105926c10180e1eabeea5c7ed062
 Homepage: https://computing.llnl.gov/projects/sundials
 Description: Static libraries for sundials
 
 Package: sundials
-Version: 1:7.7.0
+Version: 1:7.8.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 3036
+Installed-Size: 3088
 Depends: libopenblas, suitesparse
-Filename: pool/tur/sundials_1:7.7.0_arm.deb
-Size: 651788
-MD5sum: f552dcdf5ed0c5838aff430d6698b3b1
-SHA1: 051316b7b099f34367a226f4d646382d7b2ca3b2
-SHA256: 4cb48f9d18200205ec257ae371e9fad8d28d3128d85cc183e5480dc733e3a84b
+Filename: pool/tur/sundials_1:7.8.0_arm.deb
+Size: 664296
+MD5sum: 7a64037b6933dbbab39d97e742e086f6
+SHA1: c764c0f23da19bbb5b196e52c29ebd96b36b66fd
+SHA256: 6bc311e49aacf59c9ccc40874dbe12b3e56c36d41b5904975e5f497e1fbe1c5b
 Homepage: https://computing.llnl.gov/projects/sundials
 Description: SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.
 
