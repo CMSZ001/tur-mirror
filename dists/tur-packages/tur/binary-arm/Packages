@@ -534,28 +534,28 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crush
-Version: 0.79.1
+Version: 0.80.0
 Architecture: arm
 Maintainer: @ancientcatz
-Installed-Size: 80588
-Filename: pool/tur/crush_0.79.1_arm.deb
-Size: 16210820
-MD5sum: 66ebdb2d988982e802cabcaa4e70b3b8
-SHA1: 3abec20c5a56b2bd00841cc2f18622a7e84e0cc9
-SHA256: 7ae28265d9e0b1ecafba70e5b5a94a4d88a3e683fd4a015f07856d8c69dfdb3e
+Installed-Size: 80620
+Filename: pool/tur/crush_0.80.0_arm.deb
+Size: 16322612
+MD5sum: 44aab3e26956e9e31063b9230b0c9b6d
+SHA1: a83b674e1dfb81ac8cac173b20ef6010083bf000
+SHA256: 0d17ec177a613f2500f85410075bc3e6685a87dac3184417916357dfed9dfcdb
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
 Package: ctags-cross
-Version: 2:6.1.0-1
+Version: 2:6.1.0-2
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 17780
-Filename: pool/tur/ctags-cross_2:6.1.0-1_arm.deb
-Size: 5134916
-MD5sum: 7a609212f14e942cc3df53252cb2abac
-SHA1: 02321a2ec1e975c37bfd8491398f7fb3af1ba8b9
-SHA256: 9307ad462ca756d26098ff4caf1add0dcc2d7cd58c5b4ea2524a363632f89a82
+Installed-Size: 16592
+Filename: pool/tur/ctags-cross_2:6.1.0-2_arm.deb
+Size: 3342548
+MD5sum: 16b493f334f24339d1bcab4a838a5d9a
+SHA1: 33ce1dc34e29d95f23dc039ac6bcb1fe6f451522
+SHA256: 2b412af6469686d028115ed4e9e6c3efa833d32327db332ef94c3489e53e4eb1
 Homepage: https://ctags.io/
 Description: Universal ctags: Source code index builder
 
