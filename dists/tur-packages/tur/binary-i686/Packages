@@ -4031,16 +4031,16 @@ Homepage: https://numpy.org/
 Description: The fundamental package for scientific computing with Python
 
 Package: python-pandas
-Version: 3.0.3
+Version: 3.0.4
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 54296
+Installed-Size: 54312
 Depends: libc++, python, python-numpy, python-pip
-Filename: pool/tur/python-pandas_3.0.3_i686.deb
-Size: 7031840
-MD5sum: 7517ed18f503f7908cf43a8ffd324d00
-SHA1: 3acd14b4f4bdcb5455f3ecc3e4e16b82513c6f6b
-SHA256: 0594f1be60dfe21685670638196fda370d5c317a338e950148a2a210edd8e5c7
+Filename: pool/tur/python-pandas_3.0.4_i686.deb
+Size: 7084968
+MD5sum: f44e9bfb84644f8559963469e4b6feac
+SHA1: f1269e55d55a46cf1e37b9f0e1ac3b1feeb82ec4
+SHA256: d6db073738de31293046efbec6a4fbfd6a6ab139d81e6291e7cc4c075abe8e73
 Homepage: https://pandas.pydata.org/
 Description: Powerful Python data analysis toolkit
 
@@ -4964,15 +4964,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.24
+Version: 0.2.25
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 16572
-Filename: pool/tur/rumdl_0.2.24_i686.deb
-Size: 4535636
-MD5sum: c41d0b91f7cdb4954c5969eea6faac52
-SHA1: 625b1a47e310f2769b514c189eec300afe316b5e
-SHA256: ca9dabe0818d130e07ca7b0924d51923133f0203b5651c544db935fc496f5a8a
+Filename: pool/tur/rumdl_0.2.25_i686.deb
+Size: 4525244
+MD5sum: e12bd68bfd10d940c42c9d72b8b3c9ac
+SHA1: a10729d00178c84fb9e5d85aee5d0a0a5c40d7b0
+SHA256: ecc44d9d51f36fcb0b69810a2d3597d5afeadc576de5d8ecf9c2c2bfe991ca70
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
