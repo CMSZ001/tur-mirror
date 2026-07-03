@@ -3065,6 +3065,20 @@ SHA256: c3c21528da2373f7d6de6e624e7b16f1b2fed36f98faa0aabc9722a2bb84ad04
 Homepage: https://gitlab.com/mdds/mdds
 Description: A collection of multi-dimensional data structures and indexing algorithms
 
+Package: memtest-vulkan
+Version: 0.5.0
+Architecture: i686
+Maintainer: わたあめえ <wataamee777@gmail.com>
+Installed-Size: 800
+Depends: vulkan-loader-generic
+Filename: pool/tur/memtest-vulkan_0.5.0_i686.deb
+Size: 303084
+MD5sum: 6bd859c2ce9de77c4a6df107de570f04
+SHA1: aef99a39a4cd2f966593ed825e97a329a441f7b2
+SHA256: 321eb2c59eb5e52ff1ad0d030fa8e6f0afd2b3ce95c010e7ab4fda420bd160ee
+Homepage: https://github.com/GpuZelenograd/memtest_vulkan
+Description: Vulkan compute tool for testing video memory stability
+
 Package: mesa-zink-vulkan-icd-freedreno
 Version: 22.0.5-5
 Architecture: i686
@@ -3126,16 +3140,16 @@ Homepage: https://llvm.org/
 Description: A Multi-Level Intermediate Representation for compilers from LLVM
 
 Package: moarvm
-Version: 2026.05
+Version: 2026.06
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 9904
 Depends: libc++, libffi, libuv, zstd
-Filename: pool/tur/moarvm_2026.05_i686.deb
+Filename: pool/tur/moarvm_2026.06_i686.deb
 Size: 1606664
-MD5sum: 490046b1bfc2d14f968809fc5bb4ac9f
-SHA1: 11dbfa01f8865f72ca83e025d38f0d9874af5fe6
-SHA256: aa450cfa0b9cea1128782e0b51ff32b4bce778619d18c2c3c1533b7cf0651621
+MD5sum: 229d633af0205ac1e5beea358b11d27b
+SHA1: b5ea5a51c9de640d2a1ebd3cd3558205432105e7
+SHA256: 0abc326805dbae1e72905f24e4a8f022e965814e4055b9a201aea3ecf5e92136
 Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
