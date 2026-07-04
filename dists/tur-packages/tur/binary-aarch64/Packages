@@ -1222,15 +1222,15 @@ Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
 Package: filebrowser
-Version: 2.63.17
+Version: 2.63.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 35640
-Filename: pool/tur/filebrowser_2.63.17_aarch64.deb
-Size: 11388104
-MD5sum: 872f6bc19ecf0b16995d10318f937b39
-SHA1: 28d68fbfa95556aff23f2e21a9512b63e1cd305d
-SHA256: 0ebedc45743744c6ba06292b1b8f8d30f0960f77ecda50bcfaf3adaab9c5657a
+Installed-Size: 35780
+Filename: pool/tur/filebrowser_2.63.18_aarch64.deb
+Size: 11434688
+MD5sum: 99ddb8efff757d66eb9223b7da1d5453
+SHA1: 192c4faeeb8ed5b9d83a394ea457e72e328c2765
+SHA256: 14d8c8ba1f82c808864703e5f4cb607ef6da34f6addabc1c8afc85f9dcbf685e
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
@@ -5546,15 +5546,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.27
+Version: 0.2.28
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 13472
-Filename: pool/tur/rumdl_0.2.27_aarch64.deb
-Size: 3532104
-MD5sum: 34dafc809a6dac9ec6964ebe031c0276
-SHA1: cc1a6e4690f77946d1901fc6a1825bb451a352f4
-SHA256: 5c7193ee912b3e776cf8a164e5688eab5c95900b121c8683ecea5038c4b580a8
+Installed-Size: 13448
+Filename: pool/tur/rumdl_0.2.28_aarch64.deb
+Size: 3528104
+MD5sum: f93474dd42bf294d4d9663dce5fa2df4
+SHA1: f69058373397efd63afddfa7cbb4c723557b1c63
+SHA256: 56b565cc8c6182e0cf39c07ec804640b581ab62dcf814bfbd8206d45c458aa8d
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
