@@ -5668,16 +5668,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.12
+Version: 11.13
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 684420
+Installed-Size: 684628
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.12_i686.deb
-Size: 108147756
-MD5sum: 35e7d425f5cd991dd7d0ef84b52fe14b
-SHA1: 58f1aa58588755ae5dc08cf8af164da99ece07ed
-SHA256: 639a4bda1be9a473d09b9d17bbf3295e6327713c99bf32d39d2d04434bfb98cc
+Filename: pool/tur/wine-devel_11.13_i686.deb
+Size: 108253692
+MD5sum: 5ad4bd2f382afef50b8c470ff95f941d
+SHA1: 28b4526eb83828d9606f965f0e9506fabbe97614
+SHA256: d1482a82920f493c4238faf298ab67375d1d6f20c16d0ced01a2cf41972758d9
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -5696,16 +5696,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.12
+Version: 11.13
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 692320
+Installed-Size: 692540
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.12_i686.deb
-Size: 110052428
-MD5sum: 8d559fc47992df0e1e36beab82b98f53
-SHA1: 0afc06f3067d4d98c6ebade0903f3c14fcbfab3c
-SHA256: 606a08be8c9cdc2da7263d4fb5a7941df63b3ea48b0f8d6fe8c1a15848c205e9
+Filename: pool/tur/wine-staging_11.13_i686.deb
+Size: 110054712
+MD5sum: ed656360e291e92fd4ce6aefba0a43e5
+SHA1: 04bb73ed80325bafb1bf5132cc351437abf1592f
+SHA256: 8f5a08ea8707d374f5acf2e998b0e59a7cf27d1fe2be99370d6686c253484826
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6280,6 +6280,19 @@ SHA1: 2278f23b0150a90b8efcd4a686a99734ba40d230
 SHA256: 34cc4591ddcd04852b97394c6f3c47f0f444784bf0d5dbc1c2b3a6ddc0331f83
 Homepage: https://itstool.org/
 Description: Translate XML with PO files using W3C Internationalization Tag Set rules
+
+Package: katifetch
+Version: 13.1
+Architecture: all
+Maintainer: ximimoments <valentinomartinezferreira456@gmail.com>
+Installed-Size: 488
+Filename: pool/tur/katifetch_13.1_all.deb
+Size: 92692
+MD5sum: ab0f9f1a787659db46c7aa699bcfc166
+SHA1: c0dde379b471d69e79a06ece96803d86d93518ca
+SHA256: 9c36170064ae4e589f8749a66842d13e05a4a7e973fe9ffb92c840c81a8e47b5
+Homepage: https://github.com/ximimoments/katifetch
+Description: A cross-platform system information tool written in Bash
 
 Package: mesa-zink-dev
 Version: 22.0.5-5
