@@ -235,31 +235,32 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 7)
 
 Package: bazel8
-Version: 8.7.0
+Version: 8.7.0-1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 73004
+Installed-Size: 73016
 Depends: libarchive, openjdk-21, patch, unzip, zip
-Filename: pool/tur/bazel8_8.7.0_aarch64.deb
-Size: 38175292
-MD5sum: 8b6598e150112a254e8c09b237592735
-SHA1: 63265b27f271d442e20b5c0a36530bb9bd7633f0
-SHA256: 40c2f225cd17636eadde0d21e2f528e323f2699609b2cce78dd1cc67b44b2293
+Breaks: openjdk-11, openjdk-17
+Filename: pool/tur/bazel8_8.7.0-1_aarch64.deb
+Size: 38188104
+MD5sum: feb95456a33528359c54b9e267359d26
+SHA1: 7ece4058d9ff8ecaaf92dcbaf64d94caa63cacba
+SHA256: f2a90344678a5d922eb5e674ce3ceabd7c825297276428054429eca912bf6d45
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 8)
 
 Package: bazel
-Version: 8.7.0
+Version: 8.7.0-1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 73028
+Installed-Size: 146012
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel_8.7.0_aarch64.deb
-Size: 38176088
-MD5sum: cf0630fdfe87a9a1d9277deda9b5294f
-SHA1: 55526b8820db37cae0897fea2b1776244daf532b
-SHA256: 78517dbbf7bb803db55e3f975acb11f3c537bfe05ee852a69ca88ae182dff2a7
+Filename: pool/tur/bazel_8.7.0-1_aarch64.deb
+Size: 76376944
+MD5sum: 39c342965b0cc807e998e69c2721c33d
+SHA1: e8be1bab477ff2eb0cfb8cfaba677059428753ba
+SHA256: 5408b989009531c5d9ff10085ee5be14b84b6f60ed7523c89402e67332fa02ca
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone
 
@@ -597,16 +598,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.128.0
+Version: 4.129.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 702196
+Installed-Size: 724868
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.128.0_aarch64.deb
-Size: 163406804
-MD5sum: 8ff618cb35e01c820f724d48d7dd4a39
-SHA1: fed491856af02887908015ca0dfd61de13f77463
-SHA256: 654c495cb9e317c00e2756b77b185be516952264c2b2004d932d60773a0f7bad
+Filename: pool/tur/code-server_4.129.0_aarch64.deb
+Size: 172481588
+MD5sum: e434a4305234e9ab1cefcc06d7dc3dcb
+SHA1: 825b6a5ab3570aaf3fa9569cad29c7287f1a0d77
+SHA256: accf329946d3b869ece6ac06072072fb8979f3eb0679981ba7990ed36e3275d5
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -3846,17 +3847,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
 Package: nodejs-24
-Version: 24.17.0-1
+Version: 24.18.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 147212
+Installed-Size: 148032
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-24_24.17.0-1_aarch64.deb
-Size: 24319840
-MD5sum: 4e5ec6634f63f9afaa94d004d345f5fe
-SHA1: 0d6264c7cffc58baab7663449b299a94b19c7fcd
-SHA256: f949450099da0b76415ff742242b0d5b5eedeaa541ee4d2ec8ded5b2fcb0f028
+Filename: pool/tur/nodejs-24_24.18.0_aarch64.deb
+Size: 24518244
+MD5sum: 3dfecad769e94cc87e6deb386d7d5a15
+SHA1: 3c976451c1292886c65c9ba918848c073f806f5c
+SHA256: f412bd475111cb1741f02487d95b392545349362db4b6bbfea57d9f527d17832
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 

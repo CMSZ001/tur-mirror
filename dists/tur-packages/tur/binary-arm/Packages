@@ -466,16 +466,16 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: code-server
-Version: 4.128.0
+Version: 4.129.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 698648
+Installed-Size: 721376
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.128.0_arm.deb
-Size: 163465176
-MD5sum: f9d40b6ea6f6e8ba5e4cbd2fbbc87823
-SHA1: 138d3bbc422f218cb9ec2f187eb94c174cf3b632
-SHA256: 31de4fe151c6adf98be566a11c354abec09ab64ec1fdb8ca3d61f7ce0e7e885f
+Filename: pool/tur/code-server_4.129.0_arm.deb
+Size: 171975744
+MD5sum: 9fec5266adce9144023e04eac3123738
+SHA1: b4a1094705a8a78c33dd2af7d1cd897da307b396
+SHA256: 44a08039d3da974244251a08677b139b73230a161f2341befd943f54184f8b38
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -3491,17 +3491,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
 Package: nodejs-24
-Version: 24.17.0-1
+Version: 24.18.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 121040
+Installed-Size: 121796
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-24_24.17.0-1_arm.deb
-Size: 22632892
-MD5sum: b687f2c238b46e0a6145d91a566f6975
-SHA1: cbedb14870cf18e918d518689e198fba3e08f417
-SHA256: 849cccd75f84d6a58463491e8ed68fe7f90e8b388c60c157a4ad494893673b2c
+Filename: pool/tur/nodejs-24_24.18.0_arm.deb
+Size: 22800424
+MD5sum: f48ea5483bbc3dfe257e5ba89991cf51
+SHA1: 3a40932fa1de7b2d87c6d3d0eb74015c62200201
+SHA256: acd3bfc2038fc88b4a8a97c9b2ee50107ebd07e62b0b3b03d942d11e0cc63081
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
