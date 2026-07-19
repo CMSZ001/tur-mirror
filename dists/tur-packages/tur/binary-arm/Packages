@@ -534,15 +534,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crenox
-Version: 2.1.2
+Version: 2.1.3
 Architecture: arm
 Maintainer: @KhaledHani
-Installed-Size: 9136
-Filename: pool/tur/crenox_2.1.2_arm.deb
-Size: 2674204
-MD5sum: ce9577421880e84e82c7783095906a92
-SHA1: 63b7057003049834250930e2fb176dd78f11397a
-SHA256: fc5e44f6aea51b045c7997dfcf49d7d1d2218d885ad701871476d7c45c8f4447
+Installed-Size: 9156
+Filename: pool/tur/crenox_2.1.3_arm.deb
+Size: 2678604
+MD5sum: c299fb1b06f4aead033400376cf37be9
+SHA1: 61893ac1aefe107736bbe8f109a9def5a57ad559
+SHA256: 8b7cc942f3290bb2ff5c7d5ca60af5cd46f29e8ab287c41fc355dd2baf5de596
 Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
@@ -5265,15 +5265,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.35
+Version: 0.2.36
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 8948
-Filename: pool/tur/rumdl_0.2.35_arm.deb
-Size: 3580364
-MD5sum: b5cfbeac5c476b80ba16a6fd92cb2cd4
-SHA1: f3a2c435ee217852a6e257c2c9b728bbe71086ce
-SHA256: 650531a3cfa4d4988f692403c6a8f6f42a168e4525fc813982ef95bc27b46a8d
+Installed-Size: 8952
+Filename: pool/tur/rumdl_0.2.36_arm.deb
+Size: 3580156
+MD5sum: b15d561602109b2d68135fdd3c5c9c86
+SHA1: 65643e3393cc8f7b30a9b34f06470427d70feb5b
+SHA256: db0f32e2c9aed4cb31c1a7ba60ff618d05f1856e99b74a3cab9822a875f5b9b5
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
