@@ -438,15 +438,15 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: coded
-Version: 0.1.1
+Version: 0.1.3
 Architecture: i686
 Maintainer: @HashShin
-Installed-Size: 7588
-Filename: pool/tur/coded_0.1.1_i686.deb
-Size: 2890220
-MD5sum: d29af13a5298c9ab2cdde54aac884526
-SHA1: 19de0cbfc223c4f8a09956095b54b1a2d165a95c
-SHA256: 7b8ce901dda39d84fc16fd8fb0de488f34067990d54897b99812937fdda837e8
+Installed-Size: 8128
+Filename: pool/tur/coded_0.1.3_i686.deb
+Size: 3079252
+MD5sum: f1a1ab72e57246c032755c4bb916b41e
+SHA1: 321b3e80c5bad3ef640e13d7c109e1b970e31777
+SHA256: 8d86790c205e8364dae6bb6fe58d971d675e399c7f4b207ceaa2257735970e69
 Homepage: https://github.com/HashShin/coded
 Description: A mobile-first code editor that runs in your browser
 
