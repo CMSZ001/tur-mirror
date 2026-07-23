@@ -480,15 +480,15 @@ Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
 Package: coded
-Version: 0.1.9
+Version: 0.2.0
 Architecture: arm
 Maintainer: @HashShin
-Installed-Size: 8140
-Filename: pool/tur/coded_0.1.9_arm.deb
-Size: 2772840
-MD5sum: 84ab378120bcbf664dcd549943474135
-SHA1: fd55f3cc39d367256db1c7dc44e774dfcd1a4479
-SHA256: 59221f9e5fbd6cab6fc9c2400cd8bfd5d1a27b0457a64e55c6813d11cbb3e6cc
+Installed-Size: 8144
+Filename: pool/tur/coded_0.2.0_arm.deb
+Size: 2774000
+MD5sum: a764c41f00ff13ecb6a926cbff128992
+SHA1: 42ccf5e2499ff679e79ec9e1b8200aecba0436b4
+SHA256: 9344b52dc9645901f044a5bbff5b3543a43bde36eb3de1f37ce7f9ede3340999
 Homepage: https://github.com/HashShin/coded
 Description: A mobile-first code editor that runs in your browser
 
@@ -4289,16 +4289,16 @@ Homepage: https://numpy.org/
 Description: The fundamental package for scientific computing with Python
 
 Package: python-pandas
-Version: 3.0.4-1
+Version: 3.0.5
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 51148
 Depends: libc++, python, python-numpy, python-pip
-Filename: pool/tur/python-pandas_3.0.4-1_arm.deb
-Size: 6936856
-MD5sum: 4d3436f83fd73121f67e81a35fe72ff8
-SHA1: eb07e51a7e2156179a9855ee67239d5a198125c9
-SHA256: 477a4897ee7e75cdfa59a7efc61ce104b3f24aa4a794a044601feaf4f52a3d31
+Filename: pool/tur/python-pandas_3.0.5_arm.deb
+Size: 6936652
+MD5sum: c3a08d598a86eaf22a489cc54773c230
+SHA1: d0f57f4b42e02fe956cd91b1c188837d3bbc9810
+SHA256: 1e54767974b780c0c4cc90974908f08f9050796acfd4f3f9f754d56c8651f8bf
 Homepage: https://pandas.pydata.org/
 Description: Powerful Python data analysis toolkit
 
