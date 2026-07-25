@@ -5600,15 +5600,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.42
+Version: 0.2.43
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 15544
-Filename: pool/tur/rumdl_0.2.42_x86_64.deb
-Size: 4143152
-MD5sum: 59fffb39f1650a17cb180f570833a7f7
-SHA1: f12618f5809c8413403b06d4502f963ac0ebf522
-SHA256: 8b34e067b82bdc455d53e2fd2c799fda1470b8595083e87e68534ad223aecf48
+Installed-Size: 15484
+Filename: pool/tur/rumdl_0.2.43_x86_64.deb
+Size: 4155184
+MD5sum: ca56c9dad83a5095c7554aa8fb3d3d65
+SHA1: 1e674274e6869cf4f40c6e07557a15e98e9dc3f4
+SHA256: da554c803e8235cff06164327613afa435e2876a8bd2eac3f539e13929d0629f
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -6407,16 +6407,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.13
+Version: 11.14
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1274720
+Installed-Size: 1275036
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.13_x86_64.deb
-Size: 200850656
-MD5sum: d097e8d4b658ac39cbce5cc552a081dd
-SHA1: c8f852ea1cad751a332d33d097856ade23577553
-SHA256: 78a502a0a85f9f4dc667a2dd86499afe37c37bb94e09116965bf4a0e1a9067d7
+Filename: pool/tur/wine-devel_11.14_x86_64.deb
+Size: 201096336
+MD5sum: daca9d24c179d58b94ac11918b6a4bd7
+SHA1: df5386272c60fea633aa380a277fc965d4b087cc
+SHA256: e3c816dc4782f3a65c091fa553358d84ec817093298d7333f1d54f0797a87c7e
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6435,16 +6435,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.13
+Version: 11.14
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1285360
+Installed-Size: 1285736
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.13_x86_64.deb
-Size: 204600688
-MD5sum: 5a1bca32371362b00bc60814c98b6c10
-SHA1: c439ad83ae60f354efb52b8a06bdc48139d9ea78
-SHA256: 9bd731a9e6616a604b04e1e601972ccf65236508172c1c2b3b816143661e9746
+Filename: pool/tur/wine-staging_11.14_x86_64.deb
+Size: 204780904
+MD5sum: 8a08fbf84cddc8551ea479c047ca1589
+SHA1: 363595529f43267ce2c3a3a9c06a48cc0208a0a1
+SHA256: 530bac2951ca75fb77852d0e2b6242980380a62dc431b964e522de8c55d7ba8f
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 

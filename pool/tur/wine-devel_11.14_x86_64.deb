@@ -1,14 +1,14 @@
-Package: wine-staging
-Version: 11.13
-Architecture: aarch64
+Package: wine-devel
+Version: 11.14
+Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1267292
+Installed-Size: 1275036
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.13_aarch64.deb
-Size: 112511268
-MD5sum: a2f795cbe22aada7743a1a3d6c81b5f5
-SHA1: e7c7e70b7d7fad97c8e85be9f5d5d7ce76a9884d
-SHA256: b6c69d1c7046c887184554b82c1dcce3b9e2090831dd779f3404ed1f9cd938bd
+Filename: pool/tur/wine-devel_11.14_x86_64.deb
+Size: 201096336
+MD5sum: daca9d24c179d58b94ac11918b6a4bd7
+SHA1: df5386272c60fea633aa380a277fc965d4b087cc
+SHA256: e3c816dc4782f3a65c091fa553358d84ec817093298d7333f1d54f0797a87c7e
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
