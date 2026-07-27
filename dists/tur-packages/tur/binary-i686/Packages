@@ -921,15 +921,15 @@ Homepage: https://ffplayout.github.io
 Description: Rust and ffmpeg based playout
 
 Package: filebrowser
-Version: 2.63.20
+Version: 2.63.21
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 35652
-Filename: pool/tur/filebrowser_2.63.20_i686.deb
-Size: 12779364
-MD5sum: 05663725d7b3a15bb9ee025964e7c949
-SHA1: f0516f482eaf6e6fc01e59f68f99ae8e4c79bcfb
-SHA256: 53ef361b19be3cbf352bd8451942ba19761ba3bea06301602198cb914e467b8b
+Installed-Size: 35828
+Filename: pool/tur/filebrowser_2.63.21_i686.deb
+Size: 12838532
+MD5sum: 24bae1b73b826ffbfa386d285efece18
+SHA1: 1c24b1c3d90e62762a7f85327392085de2a83b17
+SHA256: c822eb89785ad10689255b102e092720b80a5c6983ae23f4dc97b32feb681640
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
@@ -948,15 +948,15 @@ Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
 
 Package: flow
-Version: 2.0.0
+Version: 2.1.0
 Architecture: i686
-Maintainer: @termux
-Installed-Size: 23768
-Filename: pool/tur/flow_2.0.0_i686.deb
-Size: 6941216
-MD5sum: 74a6c5677d77bb9219e5d68cb68c381b
-SHA1: 27e392138745cb8334b22bfbd192512e203d59de
-SHA256: 8040ac5982aec853dfcfde43823838387c37da21da7ca4b41b1e0d8391dea2fc
+Maintainer: @termux-user-repository
+Installed-Size: 23984
+Filename: pool/tur/flow_2.1.0_i686.deb
+Size: 7011308
+MD5sum: 406b9f359af10063cf1d0f74c7738869
+SHA1: 0eb024076f22b6c8d059994b41dd815b3f4bd4a9
+SHA256: 0d5436a32f58383daf5b1f45c202f449f12998a24e5e8c61d1bc18a7db53fb41
 Homepage: https://github.com/flowexec/flow
 Description: Local developer automation platform that flows with you.
 
