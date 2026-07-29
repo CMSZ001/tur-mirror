@@ -147,16 +147,16 @@ Homepage: http://data.astrometry.net/
 Description: astrometry.net index data file 4115-4119, suitable for astro photos taken by phone main camera (AOV ~ 70 degrees)
 
 Package: beets
-Version: 2.13.0
+Version: 2.13.1
 Architecture: arm
 Maintainer: @mrtnvgr
 Installed-Size: 2552
 Depends: cmake, python, python-pip, python-numpy, rust
-Filename: pool/tur/beets_2.13.0_arm.deb
-Size: 441304
-MD5sum: fc5b2fcf7f50ec4b77b4539e03276ec8
-SHA1: 0a9cc3e7620c49ff9d53f670ef67daffac86ded2
-SHA256: 9aef84f0967b8ece65728ef49d99a41dc372f1eb3cac1b17cc9cd66bc747357d
+Filename: pool/tur/beets_2.13.1_arm.deb
+Size: 441328
+MD5sum: aaca85322b99e71e80940d1ee23aa776
+SHA1: e69e783775329662f7169dcaa3fd80f6cf6b5132
+SHA256: a6a620f00a34cb6918f985a0ed5f8920f0e7a1f09a2b46966e54225391a06ffa
 Homepage: https://beets.io
 Description: The music geek's media organizer
 
@@ -639,16 +639,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.17.2
+Version: 6.17.3
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 11540
+Installed-Size: 11560
 Depends: libc++
-Filename: pool/tur/ddns-go_6.17.2_arm.deb
-Size: 3313976
-MD5sum: 25a0f947c6c4af6ac3de5c73f55263b8
-SHA1: 8b2bf7b799ef93165532e397b6512d9d1d091d23
-SHA256: 2b9662c35c07fd331ac829b81e340f4c50ed2ba61eaddc0686b82ee51c416ec0
+Filename: pool/tur/ddns-go_6.17.3_arm.deb
+Size: 3319772
+MD5sum: 291ff321378e7244e1234fc7f3961834
+SHA1: 92400e074d2d88f3343421f851d6cbc0b55df2e7
+SHA256: f398381ecb5bf19e321f258fdf5ff63a4a071e223a0431f779f1ec26618d7a7c
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 

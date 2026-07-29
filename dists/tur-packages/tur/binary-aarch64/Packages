@@ -265,16 +265,16 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone
 
 Package: beets
-Version: 2.13.0
+Version: 2.13.1
 Architecture: aarch64
 Maintainer: @mrtnvgr
 Installed-Size: 2552
 Depends: cmake, python, python-pip, python-numpy, rust
-Filename: pool/tur/beets_2.13.0_aarch64.deb
-Size: 441320
-MD5sum: 6ecbc1594398dc59194a6449a63425a3
-SHA1: 5b3c3c4c20a74c29e94c044b16e9d51597d63e27
-SHA256: ad028e01802d2af019e1801747cef2cbaecb8788e3e7c89623b858104984ae45
+Filename: pool/tur/beets_2.13.1_aarch64.deb
+Size: 441344
+MD5sum: 3d91c153dbb997c4aae8acee5a4f74ba
+SHA1: 740ea774702b1d18a77b305d914ec167c82c0822
+SHA256: b00d114906ad443ac1b7ef0d7bd74094b5d0c162dd20f2da0ececc8884ae6aac
 Homepage: https://beets.io
 Description: The music geek's media organizer
 
@@ -813,16 +813,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.17.2
+Version: 6.17.3
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 11744
+Installed-Size: 11760
 Depends: libc++
-Filename: pool/tur/ddns-go_6.17.2_aarch64.deb
-Size: 3188072
-MD5sum: 9c8aa29aa28a5543f3fc66f5a30e5f49
-SHA1: 8ac61dd6e96cc85e6f171fd6fc73f74a6ac14f93
-SHA256: aa36c3baa3ca18b5f99282e9dcaba3ebd9e467811e353cfe71bae0546fffa585
+Filename: pool/tur/ddns-go_6.17.3_aarch64.deb
+Size: 3192284
+MD5sum: 093da69081807610e53dbb8c178dc9e2
+SHA1: ab9d801258d3e4e1a1e23e27705beb86b08ffe23
+SHA256: 71579aa1e120d29e2be07cac7f59bf404b1792273bc9d46ad49cd7dfdc1eb516
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
