@@ -466,16 +466,16 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: code-server
-Version: 4.130.0
+Version: 4.131.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 722500
+Installed-Size: 789500
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.130.0_arm.deb
-Size: 171981324
-MD5sum: 6eab314a0e37ba294a50e23bfe3d0d80
-SHA1: 5121aa26216c29e733a219bbd578dc8a4fd0d39b
-SHA256: 4845a27436dd7a4e8dba6b126bf07e4a0ab4306e4bd3f54c9b0d159a9e2cf4b0
+Filename: pool/tur/code-server_4.131.0_arm.deb
+Size: 200177748
+MD5sum: b426b5403d341ea66faf8f3d1f029686
+SHA1: 41ef6322a540eede51ef9afa6a7df3e7225098b2
+SHA256: fb0995d8baf4f8d639fe86ce2a925900ca4a07a8cc80286d48b2db84d2789cee
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -5278,15 +5278,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.46
+Version: 0.2.47
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 9152
-Filename: pool/tur/rumdl_0.2.46_arm.deb
-Size: 3691628
-MD5sum: d5e1f35dd53ad4d9226aef7fa5cebdf8
-SHA1: 71944a72854a2630addd4e37260e9e13658cb081
-SHA256: 789dc972e2a0a60f3b7e9ed38b7a98c48a0ee8be9b2188633dd4d6878f9c623b
+Installed-Size: 9164
+Filename: pool/tur/rumdl_0.2.47_arm.deb
+Size: 3682868
+MD5sum: a934fbfd587437bdf372dcd1ca1561a7
+SHA1: df26dce42011807dddfccf061813d624c701d0f9
+SHA256: 26ce872213737c5bf1d0b7194d3bc4e2b432cd52258d02c381c0f306964fa22d
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
