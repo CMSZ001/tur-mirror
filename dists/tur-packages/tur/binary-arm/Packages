@@ -1074,15 +1074,15 @@ Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
 
 Package: flow
-Version: 2.1.0
+Version: 2.1.1
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 23852
-Filename: pool/tur/flow_2.1.0_arm.deb
-Size: 6135376
-MD5sum: bf45fef3c1b37c381fb5942f364ea4b2
-SHA1: db87c887cae1f944576c835256fb2834c8962242
-SHA256: 154d044da62be01cbee271462b12dcb72596439bc02b2c0fa26cb2afa09d8e95
+Installed-Size: 24136
+Filename: pool/tur/flow_2.1.1_arm.deb
+Size: 6206144
+MD5sum: 92e2c7c8b30db493c60242526fe21c62
+SHA1: a0a497eac730e08633a67631d580ba0b47b480ec
+SHA256: 7eb4ad45ac2884118a973e626d7964ce19cfa344593b853420ed602e60bfd6da
 Homepage: https://github.com/flowexec/flow
 Description: Local developer automation platform that flows with you.
 
@@ -5292,15 +5292,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.48
+Version: 0.2.49
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 9224
-Filename: pool/tur/rumdl_0.2.48_arm.deb
-Size: 3709340
-MD5sum: 0a87293363d0f71f5a7e3a8838c6bef7
-SHA1: ce2e583927eef3978fc9ef888132af9a23200801
-SHA256: 2ff8ea9abf030c1cf72e6f31f0067e9070dc3671db870910cbd76e98dd042dc6
+Installed-Size: 9304
+Filename: pool/tur/rumdl_0.2.49_arm.deb
+Size: 3743640
+MD5sum: a1a570e02322e4ed6ce1d810744dcdeb
+SHA1: 1be25da805fa0bbe49463186fd9bac6d851b4340
+SHA256: e8720376d3a3db8daa599327e8cdcd030031f2390d9979828d8f38f0d8882559
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -5687,15 +5687,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.11.0
+Version: 0.11.2
 Architecture: arm
 Maintainer: @LukeGTH
-Installed-Size: 18208
-Filename: pool/tur/surge-cli_0.11.0_arm.deb
-Size: 4471268
-MD5sum: effb98a7d244d6de317029d30b105773
-SHA1: e822174e52cd097db0c5fa702ae08700a5d55cfc
-SHA256: 014e5d2c7c14d74e332e56a10fd2440eb8c7c54ee7e8efcf3b5d50de6cf8df59
+Installed-Size: 17968
+Filename: pool/tur/surge-cli_0.11.2_arm.deb
+Size: 4460620
+MD5sum: ec0fc4427952088ef1991fc71c0c2943
+SHA1: c43ef5c838b085dc1ec6f769770ba4bc05471141
+SHA256: e6d30f11dcc67d4616047d7105db6d3aad7f22d20ee5c0bbeee87b7308aa765b
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
