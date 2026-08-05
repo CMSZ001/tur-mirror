@@ -5306,15 +5306,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.50
+Version: 0.2.51
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 9312
-Filename: pool/tur/rumdl_0.2.50_arm.deb
-Size: 3749556
-MD5sum: 4f52231a71431904ba344859979c707e
-SHA1: 32a1100626459295a0564b2bb28461da11ab85df
-SHA256: a6fe841b57238a90163f0f04d205095a71af923cc5383af639b26f0b5b611c70
+Installed-Size: 9344
+Filename: pool/tur/rumdl_0.2.51_arm.deb
+Size: 3743664
+MD5sum: 92a64641765d2e8ce92d13b257704eef
+SHA1: e5f6948b40f5ac98fa7af95fc8a8c191fdf3c727
+SHA256: c26df07b6558d8e0eeb6bfc461da735b346953f5b5712018b8812eec618fbe9e
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -5536,16 +5536,16 @@ Homepage: https://github.com/alexfru/SmallerC
 Description: Simple and small C compiler for DOS, Windows, Linux and MacOS
 
 Package: smartdns
-Version: 48.3
+Version: 48.4
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 440
 Depends: libandroid-glob, libc++, openssl
-Filename: pool/tur/smartdns_48.3_arm.deb
-Size: 188516
-MD5sum: a738de1cb3ab4b64d8af75c2d3e31aac
-SHA1: 46cf1c23d8bf6997d75640e2d5a8027d4503786f
-SHA256: ad9bc0ac725da19c5317b3b6f363ae64b055727f0999804816976eca7a8082df
+Filename: pool/tur/smartdns_48.4_arm.deb
+Size: 188656
+MD5sum: faf3d45b32eeaa06bf66faffd29552d0
+SHA1: 04658060da07006a7fe0f0e2597880fce6706159
+SHA256: cf4262a29d64b6ef62b023a7827cc8891a1aa9a5e13e62290b0f0a3f00568956
 Homepage: https://github.com/pymumu/smartdns
 Description: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH
 
