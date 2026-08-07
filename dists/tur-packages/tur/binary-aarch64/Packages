@@ -721,15 +721,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crenox
-Version: 2.1.4
+Version: 2.1.5
 Architecture: aarch64
 Maintainer: @KhaledHani
-Installed-Size: 9284
-Filename: pool/tur/crenox_2.1.4_aarch64.deb
-Size: 2575868
-MD5sum: 891e4b5888a5dbc3646ff472431be38a
-SHA1: 48cca1e8de6f4fb276e346c19478f8d88e23c375
-SHA256: 983e80b96006867821e0895ac12ee3d5870ca52fbb0c48b8dc2db19304ce1183
+Installed-Size: 9292
+Filename: pool/tur/crenox_2.1.5_aarch64.deb
+Size: 2577828
+MD5sum: 8a2f04f7f96f74a468040a2b21f70a6f
+SHA1: b23da281a1c0a49f58b987464bb86fae2db0d97f
+SHA256: 3d9ac0a66ed255527a17111f6abb55c3b1b6e7db7e8f6496fdf5fd54849a7b5d
 Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
@@ -965,16 +965,16 @@ Homepage: https://github.com/doukutsu-rs/doukutsu-rs
 Description: A faithful and open-source remake of Cave Story's engine written in Rust
 
 Package: dpp
-Version: 10.1.5
+Version: 10.1.6-1
 Architecture: aarch64
 Maintainer: @OrdinaryEnder
-Installed-Size: 8696
+Installed-Size: 8792
 Depends: libc++, libopus, libsodium, openssl, zlib
-Filename: pool/tur/dpp_10.1.5_aarch64.deb
-Size: 1396356
-MD5sum: 22f1094c2610f9f1ae2632e0e50081e8
-SHA1: b0a86411481f827cb3dfebd7efa9dc36fe6b58c4
-SHA256: 58b45e98a2bd9c7336305381bdecde2865a3b5cd5997a1eb48061f0da5ee32d0
+Filename: pool/tur/dpp_10.1.6-1_aarch64.deb
+Size: 1410788
+MD5sum: aebc57e7d42b552b586c93b58ca99fbf
+SHA1: e9a9de4f284cccaffece2889ea9f9c2d6083abe4
+SHA256: 4dbd66c49becb0c7e315777ebd8606ba6cb3c77a6a6dc58ba45312b0f7270459
 Homepage: https://dpp.dev
 Description: D++ is a lightweight and simple library for Discord written in modern C++.
 
@@ -6371,15 +6371,15 @@ Homepage: https://github.com/bloznelis/typioca
 Description: Cozy typing speed tester
 
 Package: uutils-coreutils
-Version: 0.9.0-1
+Version: 0.10.0-1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1211396
-Filename: pool/tur/uutils-coreutils_0.9.0-1_aarch64.deb
-Size: 351964688
-MD5sum: 6084f12ffe06a0e373fdb154dc660af6
-SHA1: e4fff5e2a7f29c381dd34eb98a8f30cfad608fb8
-SHA256: d7f8f9093d1d042c4b749351d6212580ab4a32856390c7d131ef22e1098314cf
+Installed-Size: 1224580
+Filename: pool/tur/uutils-coreutils_0.10.0-1_aarch64.deb
+Size: 356233728
+MD5sum: 34b7ae039790884721c3b65b06859ec9
+SHA1: ca8fae7a010209d4489dd6f6b0f6f9199db6e54f
+SHA256: fefa1f418ca9c9a3d61793ee9a540299f22cadf817959a301044e24e70ede9fd
 Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
