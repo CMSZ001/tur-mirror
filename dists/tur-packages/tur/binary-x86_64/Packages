@@ -3729,6 +3729,20 @@ SHA256: 39c607601106a7233ada2094d6da92a93f4776f035fcd722c0c8dc759c5eb894
 Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
+Package: moviebox-tui
+Version: 0.1.10
+Architecture: x86_64
+Maintainer: @mesamirh
+Installed-Size: 6040
+Depends: openssl, pkg-config
+Filename: pool/tur/moviebox-tui_0.1.10_x86_64.deb
+Size: 1760272
+MD5sum: 815559ee3b9def7a535ef4eb9be199da
+SHA1: 6e4d6f3aba1f99291cc0e52837850d5bc9c48649
+SHA256: 313c651b0cccce3eaafae3542f58984465ea70cca3b4c65abb143cec95b03bce
+Homepage: https://github.com/mesamirh/MovieBox-Tui
+Description: Terminal client for streaming movies, series, and anime
+
 Package: nasm-segelf
 Version: 2.16.01-4-1
 Architecture: x86_64
@@ -6462,16 +6476,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.14
+Version: 11.15
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1275036
+Installed-Size: 1287184
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.14_x86_64.deb
-Size: 201096336
-MD5sum: daca9d24c179d58b94ac11918b6a4bd7
-SHA1: df5386272c60fea633aa380a277fc965d4b087cc
-SHA256: e3c816dc4782f3a65c091fa553358d84ec817093298d7333f1d54f0797a87c7e
+Filename: pool/tur/wine-devel_11.15_x86_64.deb
+Size: 204658112
+MD5sum: d826d9a010fde6825ba330aa392a51ad
+SHA1: a25311b653aeb9653627ca1d84b60e7fba95be88
+SHA256: 1a8c5f870e3524657a9ea2529c7f4cb604d788ccc38ee2e8c7de09b835f95f2c
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6490,16 +6504,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.14
+Version: 11.15
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1285736
+Installed-Size: 1298416
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.14_x86_64.deb
-Size: 204780904
-MD5sum: 8a08fbf84cddc8551ea479c047ca1589
-SHA1: 363595529f43267ce2c3a3a9c06a48cc0208a0a1
-SHA256: 530bac2951ca75fb77852d0e2b6242980380a62dc431b964e522de8c55d7ba8f
+Filename: pool/tur/wine-staging_11.15_x86_64.deb
+Size: 207040288
+MD5sum: 27f13c172bcc8b5ef6980582891d9216
+SHA1: 14b74f31227858cf7a5b59ea13f430ecaf278fd9
+SHA256: 4d5b2dd722967174eed68afed531c38ba6cd6968fbbe0e1c29d298d89233745a
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
