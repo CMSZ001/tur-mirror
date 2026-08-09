@@ -3877,15 +3877,15 @@ Homepage: https://www.mesa3d.org
 Description: Mesa Off-screen Rendering Library
 
 Package: oxipng
-Version: 10.1.1
+Version: 10.2.0
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 840
-Filename: pool/tur/oxipng_10.1.1_arm.deb
-Size: 445936
-MD5sum: 8a0b8ce93bbcf8788196d98481022f38
-SHA1: 1e898e6cd26d6f6243144c42ff0c44fb3c497c0e
-SHA256: 330a69523926bfe723c947220ea4442c0ade25899da2d436773b40ee3db183a1
+Filename: pool/tur/oxipng_10.2.0_arm.deb
+Size: 443748
+MD5sum: ee75fb458f3b0139a52d12310dbf351c
+SHA1: 3233419afce47090b55e2f46b3c4a77400f72763
+SHA256: 353fb7d444683e543450073dd3ff4e8286ca11d97a6cb5dd2ff1f7c21cd8934e
 Homepage: https://github.com/oxipng/oxipng
 Description: Multithreaded PNG optimizer written in Rust
 
@@ -5983,6 +5983,19 @@ SHA1: b8ad36748a0b3fcd60c85c4e4aa71b77671d48ef
 SHA256: b3f92807d77baabd714ba415cb0a4f6b3f6227c078efe85f6662148ccf92b892
 Homepage: https://termux.dev/
 Description: Basic system tools for Termux
+
+Package: tgstream
+Version: 0.2.0
+Architecture: arm
+Maintainer: @Soupboy006
+Installed-Size: 15912
+Filename: pool/tur/tgstream_0.2.0_arm.deb
+Size: 3657672
+MD5sum: e2a421987862f383aeb631afe5a36103
+SHA1: 2519bb268053629b1efb923d4161111584a40bbc
+SHA256: 108a23e1ade7e795a8e7dfcaf38958b0e47232a9417bd402775e7d6a5c9af852
+Homepage: https://github.com/Soupboy006/tgstream
+Description: Stream Telegram videos without downloading
 
 Package: thunk-gen-cross
 Version: 1.10-1
