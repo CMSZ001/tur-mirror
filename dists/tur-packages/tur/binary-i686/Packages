@@ -597,16 +597,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.17.5
+Version: 6.17.6
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 11660
+Installed-Size: 11672
 Depends: libc++
-Filename: pool/tur/ddns-go_6.17.5_i686.deb
-Size: 3825384
-MD5sum: 52c9ce8a56c424fe54056d9b7b92c758
-SHA1: 44162aec39ada8116ef5a70758dcf4978855b9bb
-SHA256: 9ac6f301bda5907b4e3b8b8ba1687a05265692d3ba27ec7b94043d2ffe2825ea
+Filename: pool/tur/ddns-go_6.17.6_i686.deb
+Size: 3826576
+MD5sum: eadcf0a3fccf994dd9bdfe0b2fdda722
+SHA1: 608d563c79654b7c976061f075d812a1d065fcd2
+SHA256: c5806b7240613c3bc1110ea0068a81adf4171ceb5b5717e01562633b9c65be9f
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
@@ -874,6 +874,20 @@ SHA1: 10d6a997a212b9e7493cea758a07c0ae55d1eeb1
 SHA256: eade5ca62ea2d39d363759baa7302322d4d21dd103e9804b1d47f90fa6d5758e
 Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
+
+Package: ffdec
+Version: 26.2.1
+Architecture: i686
+Maintainer: @termux-user-repository
+Installed-Size: 23452
+Depends: openjdk-21, openjdk-21-x
+Filename: pool/tur/ffdec_26.2.1_i686.deb
+Size: 18606856
+MD5sum: eff41467514b45d95e50e27d61e773d9
+SHA1: 88e17ae51d1ac6df609efa41f6695c5d100feb22
+SHA256: 2583614558c699db2bd06e8ee9d1a578fe91a4004e7b2b5ebc6167f51bdb5891
+Homepage: https://github.com/jindrapetrik/jpexs-decompiler
+Description: JPEXS Free Flash Decompiler
 
 Package: ffmpeg5.1
 Version: 5.1.10
