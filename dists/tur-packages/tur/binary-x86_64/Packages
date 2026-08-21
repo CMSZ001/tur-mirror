@@ -431,6 +431,19 @@ SHA256: 24fcb121fdb67dd2a68a751e50347e3e71c02a8c63625ff61c7ca15d79ef7df6
 Homepage: http://www.brow.sh/
 Description: A fully-modern text-based browser, rendering to TTY and browsers
 
+Package: bun
+Version: 1.3.14-1
+Architecture: x86_64
+Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
+Installed-Size: 89648
+Filename: pool/tur/bun_1.3.14-1_x86_64.deb
+Size: 25251128
+MD5sum: 8ecf262145f7d4090413e79014356c94
+SHA1: 5d3de5538ace1c7b498ff518902843415e9658ff
+SHA256: bad3272258ea7db93ec8078f96809d073fb065d18310f590c45cefbf0c09e4f1
+Homepage: https://bun.com
+Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
+
 Package: catspeak
 Version: 1.2.3
 Architecture: x86_64
@@ -734,15 +747,15 @@ Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
 Package: crush
-Version: 0.89.0
+Version: 0.90.0
 Architecture: x86_64
 Maintainer: @ancientcatz
-Installed-Size: 100800
-Filename: pool/tur/crush_0.89.0_x86_64.deb
-Size: 19831372
-MD5sum: 1249dc8857f5c02286d6aa2bbd059f1e
-SHA1: 3eccc101ff6ae0abdcb11fab0eb901535b31d674
-SHA256: 7a638c6dc3ba9d413ef73b008a3a397b45649d51372fb789e9c9ace6a1b261b2
+Installed-Size: 101132
+Filename: pool/tur/crush_0.90.0_x86_64.deb
+Size: 19860760
+MD5sum: 4b545e96f62eacd67b73654abf2aa43c
+SHA1: 2874821b483046fb16fc132195cdaa407b1e63fc
+SHA256: b321f14c3f98fdaee0b5fe37208c1e03995f8a83c8e72139ccad4350105c86b0
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
