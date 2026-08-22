@@ -3756,16 +3756,16 @@ Homepage: https://llvm.org/
 Description: A Multi-Level Intermediate Representation for compilers from LLVM
 
 Package: moarvm
-Version: 2026.07
+Version: 2026.08
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 11488
+Installed-Size: 11500
 Depends: libc++, libffi, libuv, zstd
-Filename: pool/tur/moarvm_2026.07_aarch64.deb
-Size: 1606752
-MD5sum: f7ab6479d1e22086abdefea479d4127d
-SHA1: 6e663ce9160e67f8e05e2000d5e216d7940dbb32
-SHA256: 91313edbaccf9f158bf251573db86257fb6084c3ccf0980c317f3543d838d434
+Filename: pool/tur/moarvm_2026.08_aarch64.deb
+Size: 1605212
+MD5sum: 5c89e036d551725aa94863ad0e1d4df5
+SHA1: 395a86ea363d6023fb1a28d00f0ef3daf6b90910
+SHA256: bdcb2d20497ae24801275af007fc6cb9a16f5200b4803e51b93ce4ebec3875b6
 Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
@@ -5768,15 +5768,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.58
+Version: 0.2.60
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 14360
-Filename: pool/tur/rumdl_0.2.58_aarch64.deb
-Size: 3770584
-MD5sum: a3a7cf20b367113275c08e02b5919536
-SHA1: 1986856525229d6476154599de918d296a69229b
-SHA256: cbaac444e0a6ac644dd34167d1de5cdc9ab77f782c2d577868b5addfcfb7b265
+Installed-Size: 14368
+Filename: pool/tur/rumdl_0.2.60_aarch64.deb
+Size: 3779392
+MD5sum: ad82b37755ebd7f418418bfdf827a2e5
+SHA1: 311399b64d143d2038674d14e85b04e02b48c1af
+SHA256: 248a0c267675ab6b753c110d5165b26fdb8c92efafcd996ae1034bb35995ee8c
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
