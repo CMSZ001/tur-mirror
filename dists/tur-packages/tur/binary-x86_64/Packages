@@ -6093,15 +6093,15 @@ Homepage: https://supertuxkart.net
 Description: Kart racing game featuring Tux and his friends
 
 Package: surge-cli
-Version: 0.12.0
+Version: 0.12.1
 Architecture: x86_64
 Maintainer: @LukeGTH
-Installed-Size: 19900
-Filename: pool/tur/surge-cli_0.12.0_x86_64.deb
-Size: 4964428
-MD5sum: 423de43e650eab069c3c63eb82635c35
-SHA1: a9712509e6e6051800e7d04a1519140d6d204b0b
-SHA256: bde99191eef659fe04cc6c7ba83ede04ed34125bf0bb5616a4931304b275e8c6
+Installed-Size: 20152
+Filename: pool/tur/surge-cli_0.12.1_x86_64.deb
+Size: 5187200
+MD5sum: 59b3ef306956a2702c2c455e3223a2ef
+SHA1: 184fe6d10cbe1a4748ceec74d102d27fba27c4f3
+SHA256: 857223d86ebcaed6c6f1ab7fbaa798b9419016bbd43b33b495876b8c696bda9b
 Homepage: https://github.com/SurgeDM/Surge
 Description: Blazing fast TUI download manager built in Go for power users
 
@@ -7230,16 +7230,16 @@ Homepage: http://pyopengl.sourceforge.net
 Description: A cross-platform open source Python binding to the standard OpenGL API providing 2D and 3D graphic drawing
 
 Package: python-ply
-Version: 3.11
+Version: 3.11-1
 Architecture: all
 Maintainer: @termux-user-repository
 Installed-Size: 320
 Depends: python
-Filename: pool/tur/python-ply_3.11_all.deb
-Size: 40436
-MD5sum: 38668f608ee9154ab8cced5539ff2588
-SHA1: e7bac5f288fddb721a5977dd3194413f4e8ec6ed
-SHA256: 30c1c478970723d5da85836807a576e75d17ab77b720b616dd21764d9ed49c54
+Filename: pool/tur/python-ply_3.11-1_all.deb
+Size: 40448
+MD5sum: 3a5669d990cc803fdb6d43d76f0f6a72
+SHA1: ee8dd55ec47d74925d3f57ad1f7354a341ef808c
+SHA256: d7bad0e4ea825288e36ee1989cb4527951091eebdf4f1b3f68c4d781208d3cf3
 Homepage: https://www.dabeaz.com/ply/
 Description: Implementation of lex and yacc in Python
 
