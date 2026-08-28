@@ -680,16 +680,16 @@ Homepage: http://dlib.net/
 Description: a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems
 
 Package: dosemu2
-Version: 2.0pre9-git-11
+Version: 2.0pre9-git-12
 Architecture: i686
 Maintainer: @stsp
 Installed-Size: 4548
 Depends: comcom64, instfd, libandroid-posix-semaphore, libandroid-glob, slang, libao, fluidsynth, ladspa-sdk, libslirp, readline, json-c, libseccomp, libsearpc, sdl3, sdl3-ttf, fontconfig, fdpp, dj64dev
-Filename: pool/tur/dosemu2_2.0pre9-git-11_i686.deb
-Size: 1025500
-MD5sum: 0ed69a0426de126c8a00cc0e7bcd6746
-SHA1: cdef12243ec303529c4848cfca0e3265d9117ad1
-SHA256: b42b3d7939a9ddf637ae6f4e21839ee3a3116030b3a79b4c0253539f15428651
+Filename: pool/tur/dosemu2_2.0pre9-git-12_i686.deb
+Size: 1025292
+MD5sum: 2b0d08b473d9527fb2ed9c1ffd4ff2b6
+SHA1: f65310acc852e30813108c5fc2b116daf16c9ff3
+SHA256: dfe52d4d0a4b77c75ffad373464d042a5119f9bcb1d05fb7b3dcb08e3f71448f
 Homepage: https://github.com/dosemu2/dosemu2
 Description: Run DOS programs under linux.
 
@@ -949,15 +949,15 @@ Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
 
 Package: flow
-Version: 2.1.1
+Version: 2.2.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 24268
-Filename: pool/tur/flow_2.1.1_i686.deb
-Size: 7092184
-MD5sum: 8d48f79b9a6492161b9d27126e81f3b0
-SHA1: ed6d80599a784ca808b59bc988bb24fd0adea69b
-SHA256: 834a23785ede5c1176e7073d6bd2ea80b78f751e8601694a40ad7a5fe36165ce
+Installed-Size: 24644
+Filename: pool/tur/flow_2.2.1_i686.deb
+Size: 7288224
+MD5sum: 59fefe0ccf3aaba46aab07bd2f9483c9
+SHA1: efd09aa9695d0e36246d8c8914857083c0673e62
+SHA256: 0dc03b65d847d92168f4c78b7648acc95749892d6332f691d82630872f22ac84
 Homepage: https://github.com/flowexec/flow
 Description: Local developer automation platform that flows with you.
 
@@ -5343,15 +5343,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.61
+Version: 0.2.62
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 17972
-Filename: pool/tur/rumdl_0.2.61_i686.deb
-Size: 4913844
-MD5sum: 38f076f672736553571fc034778e9d65
-SHA1: 483c03b8e6c6b1412e489cadb03f753588cc9e88
-SHA256: 646f57e8994073becf514cb9db062c75d9612009c4024f98b805659952738312
+Installed-Size: 18004
+Filename: pool/tur/rumdl_0.2.62_i686.deb
+Size: 4925180
+MD5sum: b433736627e1d4c8f41fe7c183afa096
+SHA1: 390c77e9810ceb73b07ce2d4bd6a0ff1f694b3ca
+SHA256: 3e90d7df6caf3d58b3077381dca00edfb715643ed73de2d7420568462568939f
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 

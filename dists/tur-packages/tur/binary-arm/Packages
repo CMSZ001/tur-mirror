@@ -466,16 +466,16 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: code-server
-Version: 4.134.0
+Version: 4.135.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 1194296
+Installed-Size: 1195152
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.134.0_arm.deb
-Size: 356797972
-MD5sum: ba256bd21146b48ab7580b24169be9df
-SHA1: c614278566cc34c4e56f4f520e5e10c3415baa31
-SHA256: 465d89ed3339a691b7fda2a7124a76e8e03561c4363f116415ed6d31efc76615
+Filename: pool/tur/code-server_4.135.0_arm.deb
+Size: 357341228
+MD5sum: 4a2760dbe3f156759908dcbc5e247af2
+SHA1: 4507599af035b6d241b2b8c9d340faf103e58926
+SHA256: ced7b859388ad8de6d82362a17bf07d053f98ca082418445d7b82fcbef9ab9ae
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -708,16 +708,16 @@ Homepage: http://dlib.net/
 Description: a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems
 
 Package: dosemu2
-Version: 2.0pre9-git-11
+Version: 2.0pre9-git-12
 Architecture: arm
 Maintainer: @stsp
 Installed-Size: 3996
 Depends: comcom64, instfd, libandroid-posix-semaphore, libandroid-glob, slang, libao, fluidsynth, ladspa-sdk, libslirp, readline, json-c, libseccomp, libsearpc, sdl3, sdl3-ttf, fontconfig, fdpp, dj64dev
-Filename: pool/tur/dosemu2_2.0pre9-git-11_arm.deb
-Size: 952296
-MD5sum: 69a32bb1d03789d8478d43f9f15b4bb3
-SHA1: e7d09abf28049500add9717950501baeb56b3e25
-SHA256: 25ccf7010f2ce884fab1522e1ec27949ffcdb95bcaeb243e8c03b83d49330bc6
+Filename: pool/tur/dosemu2_2.0pre9-git-12_arm.deb
+Size: 952476
+MD5sum: 733e5642f9f49ff2046eee7ff8dfa57c
+SHA1: 41d0eba8cfc9ebdc799499ce9c5b962fce3b69db
+SHA256: 5b979cb3b2afe7d95578832ee203ff1a149995f4224a28950b8852675f2d21e5
 Homepage: https://github.com/dosemu2/dosemu2
 Description: Run DOS programs under linux.
 
@@ -1075,15 +1075,15 @@ Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
 
 Package: flow
-Version: 2.1.1
+Version: 2.2.1
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 24136
-Filename: pool/tur/flow_2.1.1_arm.deb
-Size: 6206144
-MD5sum: 92e2c7c8b30db493c60242526fe21c62
-SHA1: a0a497eac730e08633a67631d580ba0b47b480ec
-SHA256: 7eb4ad45ac2884118a973e626d7964ce19cfa344593b853420ed602e60bfd6da
+Installed-Size: 24856
+Filename: pool/tur/flow_2.2.1_arm.deb
+Size: 6387404
+MD5sum: b8c08fd7243c1e0a10cbd057373e5208
+SHA1: c399ec8bfd51f0c0c2b0c734f0ea179b74fe61d5
+SHA256: 6b421251046cb221a93e51120e047b8d117c8871705c9efe984fbcd7c57d80ba
 Homepage: https://github.com/flowexec/flow
 Description: Local developer automation platform that flows with you.
 
@@ -5505,15 +5505,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.61
+Version: 0.2.62
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 9560
-Filename: pool/tur/rumdl_0.2.61_arm.deb
-Size: 3851716
-MD5sum: c7f429627a0d05e004c82a95015527d3
-SHA1: e2fc7dcb094135c8e9b7467b466a938df982f286
-SHA256: 8d6f634d007782dae13f800bb791e170e7bbb1573e7dcfc749fbf7775d1be07f
+Installed-Size: 9576
+Filename: pool/tur/rumdl_0.2.62_arm.deb
+Size: 3846032
+MD5sum: 239ab9507c0d22b2db244872c6b08bbd
+SHA1: 0bc30214e097fe568769b15e7e73a41d7edef2ba
+SHA256: b32723bb53f56de0af55654cb781754dc3a005c7506da23b33a7111e0980ae26
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 

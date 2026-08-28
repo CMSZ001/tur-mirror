@@ -625,16 +625,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.134.0
+Version: 4.135.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1197776
+Installed-Size: 1198644
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.134.0_aarch64.deb
-Size: 356637164
-MD5sum: 837e260e44a163a23e40137d7da69a15
-SHA1: 6b6b08094c9edeff955e155170fe4cbb3b151d57
-SHA256: 60f49a2feda5712e608a563655730dad847ea4201da84f88c79b9ebff0a118b5
+Filename: pool/tur/code-server_4.135.0_aarch64.deb
+Size: 357157988
+MD5sum: 67043015836ac422ab33ddd64addf30e
+SHA1: bbaeb5fd2a7e609ed207d152a9c79b0bdc7f35d6
+SHA256: aa94af49114f2dd0ec577dec2ac53b203cedb969a2b5b4137fc962de164b1950
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -923,16 +923,16 @@ Homepage: http://dlib.net/
 Description: a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems
 
 Package: dosemu2
-Version: 2.0pre9-git-11
+Version: 2.0pre9-git-12
 Architecture: aarch64
 Maintainer: @stsp
 Installed-Size: 4536
 Depends: comcom64, instfd, libandroid-posix-semaphore, libandroid-glob, slang, libao, fluidsynth, ladspa-sdk, libslirp, readline, json-c, libseccomp, libsearpc, sdl3, sdl3-ttf, fontconfig, fdpp, dj64dev
-Filename: pool/tur/dosemu2_2.0pre9-git-11_aarch64.deb
-Size: 1004492
-MD5sum: e34e6957a603d2bc6852628cca41e5d8
-SHA1: 9ae54836f7a04e1a49f2f7674e9debbf805d5577
-SHA256: 0d5b1f8908d3ba228fd66d218dd5b053ed9410b9ce7feb02db3f5d8dcd14fd07
+Filename: pool/tur/dosemu2_2.0pre9-git-12_aarch64.deb
+Size: 1004720
+MD5sum: 06085ff65ebf7db7c7273a7ed365ec22
+SHA1: d4e3ba637aec3e43580de1b0bc40af55b4476222
+SHA256: c1d9d3a580cddcef799936482469ffdfe4c4e7d0f900901dcc07b069ee64e5eb
 Homepage: https://github.com/dosemu2/dosemu2
 Description: Run DOS programs under linux.
 
@@ -1304,15 +1304,15 @@ Homepage: https://llvm.org/
 Description: Fortran language frontend for LLVM
 
 Package: flow
-Version: 2.1.1
+Version: 2.2.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 24932
-Filename: pool/tur/flow_2.1.1_aarch64.deb
-Size: 5947316
-MD5sum: dbe804bed8683b2c460f5eae0459406e
-SHA1: 42a6df7f7c11e22b0c9755dd78c64b4550b39402
-SHA256: 083954d72e05fad510ad1bfbe17b200f02ea02d2fb18ae6f58f9efa470e7c1cd
+Installed-Size: 25144
+Filename: pool/tur/flow_2.2.1_aarch64.deb
+Size: 6098776
+MD5sum: c1d05fb55ab29e9ed058fbdd2222c3b5
+SHA1: 6dba5f82839bdab00ecc1b462279c6e2f76efd42
+SHA256: 0af2b23db668e638c4b1324776e957bc8bd7e72b49bd5ee9855dc88dd83f9034
 Homepage: https://github.com/flowexec/flow
 Description: Local developer automation platform that flows with you.
 
@@ -5755,15 +5755,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.61
+Version: 0.2.62
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 14408
-Filename: pool/tur/rumdl_0.2.61_aarch64.deb
-Size: 3795760
-MD5sum: 91572f05391f4fd94467fc2bc3ce0f5a
-SHA1: df1bb06d7df072b0311edddcec0d6b1e6ca084aa
-SHA256: 31b77ea1b2fcd29120a5b631f503374d76c2087584be4c5f0e9c9e70696adefe
+Installed-Size: 14468
+Filename: pool/tur/rumdl_0.2.62_aarch64.deb
+Size: 3794400
+MD5sum: e3ba9eaa3fe637b3d4bdaa63ce36ec51
+SHA1: cb21ac9b94305a48c956db1b3c628794c70553eb
+SHA256: d75e3b472fdc95c36b285379c047b993f696881b367d8847b30003ae6aec713e
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
