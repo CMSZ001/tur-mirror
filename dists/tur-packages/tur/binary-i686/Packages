@@ -3220,16 +3220,16 @@ Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
 Package: moviebox-tui
-Version: 0.1.14
+Version: 0.1.15
 Architecture: i686
 Maintainer: @mesamirh
-Installed-Size: 8340
+Installed-Size: 9896
 Depends: openssl, pkg-config
-Filename: pool/tur/moviebox-tui_0.1.14_i686.deb
-Size: 2849912
-MD5sum: c75b4ff23e3e052975315695a54744ef
-SHA1: 8169997f912a1177d93e134c275a8ec669d3a030
-SHA256: 57794e058412ca67ea537ccd17a98042e38888a749335be50e647fa7f8d595a1
+Filename: pool/tur/moviebox-tui_0.1.15_i686.deb
+Size: 3309168
+MD5sum: 4aff537e3fbca7d78a39d63a162f95dc
+SHA1: 7f3e2a3cfc068ef62ec10d4ffe0f4ef2f04de3de
+SHA256: bbcea18cb69c84898b3855ea13ed0be81728ae33819e04ce352fc4396c6dbc6a
 Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
@@ -3786,15 +3786,15 @@ Homepage: https://www.mesa3d.org
 Description: Mesa Off-screen Rendering Library
 
 Package: oxipng
-Version: 10.2.0
+Version: 10.2.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 1340
-Filename: pool/tur/oxipng_10.2.0_i686.deb
-Size: 536244
-MD5sum: c62750f65242b2285ef24a9bb614626c
-SHA1: 5d4aeb8937d74e40196d9bd488198249bebf73de
-SHA256: 81abdd8059a0e99b231ed5fcd5c0fcebe0658850a2159f2df58759039c4eb9d4
+Installed-Size: 1344
+Filename: pool/tur/oxipng_10.2.1_i686.deb
+Size: 537684
+MD5sum: ba16a7fad8ca16a636db6422f1c45a17
+SHA1: d01d3bab4cf4cd2a3222e334053201134aa2aaf7
+SHA256: 109562c31f50402dead14be159677f91f2b6252f470f061fb1e966d91c43c099
 Homepage: https://github.com/oxipng/oxipng
 Description: Multithreaded PNG optimizer written in Rust
 
