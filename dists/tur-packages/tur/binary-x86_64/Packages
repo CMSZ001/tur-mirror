@@ -840,16 +840,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.17.6
+Version: 6.17.7
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 12648
+Installed-Size: 13376
 Depends: libc++
-Filename: pool/tur/ddns-go_6.17.6_x86_64.deb
-Size: 3688344
-MD5sum: 2161174e340b4a68fd285fb80c886f79
-SHA1: 5af23f7a4db5ddb8a44c81113e75a90428457aa8
-SHA256: 9fbe4a83c0e7d8bcc62c0ac678ffa476eccbb414d6da34fba5467824001ff5b3
+Filename: pool/tur/ddns-go_6.17.7_x86_64.deb
+Size: 3920144
+MD5sum: 2d7105e636dab3ca6f10d7f19e625ddd
+SHA1: 159feb4bb758ea529606fb22f07bf451d26a7a37
+SHA256: 79203aba24430f8fe10c731f77922c785cf0bb8a49549860b536896c382caba0
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
@@ -963,6 +963,19 @@ SHA1: 8cda07f9cf3541c204ea000aa9ba85ff6be005d6
 SHA256: 9c4549bdb560ede8e84e3a3fe504a229830a75ad8dc40657158a9424be2d8530
 Homepage: https://github.com/doukutsu-rs/doukutsu-rs
 Description: A faithful and open-source remake of Cave Story's engine written in Rust
+
+Package: dpic
+Version: 2025.08.01
+Architecture: x86_64
+Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
+Installed-Size: 272
+Filename: pool/tur/dpic_2025.08.01_x86_64.deb
+Size: 93748
+MD5sum: 16f1c66e3abf74631b5d5f1809e6bc6d
+SHA1: ce5f45dc269df2494c5bd0e1881e4a38206f1111
+SHA256: 68aff288180ed07931eb0f9439c2cc13e195e74b8abca5e4534ebf919b5ba117
+Homepage: https://ece.uwaterloo.ca/~aplevich/dpic/
+Description: Implementation of the pic little language for creating line drawings and illustrations
 
 Package: dpp
 Version: 10.1.6-1
