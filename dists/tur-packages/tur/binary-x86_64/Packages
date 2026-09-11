@@ -625,16 +625,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.136.2
+Version: 4.137.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1227216
+Installed-Size: 765808
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.136.2_x86_64.deb
-Size: 363879336
-MD5sum: 815bd162a448a54dcaa3e6da45c32956
-SHA1: 75f3f0a436b238a5b9ec1a60f8cf4de18844b269
-SHA256: 3057ba18881ea4ff5cc3d1b42a6be0d49e42ca8a5fdde3ba3ee5be07e0f82f07
+Filename: pool/tur/code-server_4.137.0_x86_64.deb
+Size: 191731428
+MD5sum: c62ab9ab6ef67a5524ec44a6ab16f214
+SHA1: 2091088ac05215d071cf0167e4f4fca01d406bd5
+SHA256: d8c25870c2bb10a442a90d710f53aeaae7891a857a6bfd3a54e8a5625e89389a
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -5710,15 +5710,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.70
+Version: 0.2.71
 Architecture: x86_64
 Maintainer: @termux-user-repository
 Installed-Size: 18056
-Filename: pool/tur/rumdl_0.2.70_x86_64.deb
-Size: 4805864
-MD5sum: 50c598c518d9ba5856f01df69e0c0ad3
-SHA1: cbb4799986bddff598dfac7ce0b5dea679be7ce6
-SHA256: b228aeeabae2522f6aef3f4094db44ce2e0d7e1d3b0ea457266b2483d73cf52f
+Filename: pool/tur/rumdl_0.2.71_x86_64.deb
+Size: 4806208
+MD5sum: 94c696f152078d168687bcb11e478c5f
+SHA1: c656c17ec34a4447bf5f42a78f1ebd37db9579c4
+SHA256: 18d71a5e314180991d5479b102f9eefb69c0703a5bd1efb99ec6fa3bf1e86965
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
