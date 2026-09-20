@@ -280,16 +280,16 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone
 
 Package: beets
-Version: 2.14.0
+Version: 2.14.1
 Architecture: aarch64
 Maintainer: @mrtnvgr
 Installed-Size: 2632
 Depends: cmake, python, python-pip, python-numpy, rust
-Filename: pool/tur/beets_2.14.0_aarch64.deb
-Size: 452592
-MD5sum: 35deca759c9b74074073ba64a2b51419
-SHA1: 463b9b6bae2432499d390c95382fd6cca8169eaa
-SHA256: 4468707df23479c9c4d22f38ac707e59a5ab1cae805c3d092ff63a98feaea40a
+Filename: pool/tur/beets_2.14.1_aarch64.deb
+Size: 452872
+MD5sum: 3334e8e4dc9cd514c55b414aa1e65c69
+SHA1: 93f064b0f31705b1e3a9e36c5364351e275aa5cc
+SHA256: af24bb16135f55c245b1f8340eaaa6dd1cf77ad173ccb57e9a38a128232c568c
 Homepage: https://beets.io
 Description: The music geek's media organizer
 
@@ -626,16 +626,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.137.0
+Version: 4.138.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 766312
+Installed-Size: 881316
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.137.0_aarch64.deb
-Size: 191631948
-MD5sum: 0d21fe53bb8630c9aec3b802ce5d35cf
-SHA1: fb43348b090f88eae8d26205cd0e14476e595677
-SHA256: 46fc10e581bd99361aea59aa50f54126f12c420ca8afc18e96320edc24f7a505
+Filename: pool/tur/code-server_4.138.0_aarch64.deb
+Size: 224421080
+MD5sum: ec7d7b1dfd5f14618440f26e55072072
+SHA1: 9c91b0b7c539d31d14eb5308ab591c68685dcb96
+SHA256: a141bf4b0cd0ab2a2136fb5db45e1385fc7a443f25cbb65765d9e3b591cabf48
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -1962,15 +1962,15 @@ Homepage: https://github.com/HurricanGame/Hurrican
 Description: Freeware jump and shoot game created by Poke53280, based on the Turrican game series by Manfred Trenz
 
 Package: iamb
-Version: 0.0.11
+Version: 0.0.12
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 60272
-Filename: pool/tur/iamb_0.0.11_aarch64.deb
-Size: 14171064
-MD5sum: 43fcc3b33c909c30a09300bdca25c1b2
-SHA1: cad56441c4cf8ec55bacf040a3fa55437316feca
-SHA256: 0206c9f0e7d3e9aaf543ef957c2d75bfbf26057eac96ed60b852dfe6e5804dec
+Installed-Size: 73160
+Filename: pool/tur/iamb_0.0.12_aarch64.deb
+Size: 16930820
+MD5sum: 2cdb69dbdca46023c9d42c298e466aa0
+SHA1: d48fd21e430e5805d384c8af8d89ca24eeac6568
+SHA256: bdd34443592677e89b62432e8fc9f8586bebbb1084dc72e0b933073a2c193add
 Homepage: https://iamb.chat/
 Description: A terminal-based client for Matrix for the Vim addict
 
@@ -3824,16 +3824,16 @@ Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
 Package: moviebox-tui
-Version: 0.1.20
+Version: 0.1.21
 Architecture: aarch64
 Maintainer: @mesamirh
-Installed-Size: 9668
+Installed-Size: 9664
 Depends: openssl, pkg-config
-Filename: pool/tur/moviebox-tui_0.1.20_aarch64.deb
-Size: 3034736
-MD5sum: ef23fed1071024a72c5573efff3cfb9c
-SHA1: 9a2957ae9dd03e611122efc3f50c674092ecb36b
-SHA256: 94c7429c839424c79bc2460219b5ac0655ea8f3caeb5882beeb1de60ce811216
+Filename: pool/tur/moviebox-tui_0.1.21_aarch64.deb
+Size: 3031852
+MD5sum: a3844c5e602e24009c5a4306d8ee6a33
+SHA1: 2408a2e0d0de4ca54054e232e423f5be5ae36b1f
+SHA256: 3d5afc2ef38646811bd3ac5bcde459727abfbc8137bd0e83029655db4e857182
 Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
@@ -4057,16 +4057,16 @@ Homepage: https://git.average.name/AverageHelper/ograph-rs
 Description: A simple command-line utility to extract and print OpenGraph metadata from a given URL.
 
 Package: oils
-Version: 0.37.0
+Version: 0.38.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1632
+Installed-Size: 1644
 Depends: libandroid-glob, readline, libc++
-Filename: pool/tur/oils_0.37.0_aarch64.deb
-Size: 428288
-MD5sum: 2e321d393e92bb59d2d36f20c73c634b
-SHA1: 1dc7a449c3928ec22089a57dd2442769ff8679b5
-SHA256: 3ce4568ba3449500dbd7ced1f73ef226dce28e06fbad90a815f588dc018e19a1
+Filename: pool/tur/oils_0.38.0_aarch64.deb
+Size: 431952
+MD5sum: 4d5c8adb7eddc1268d8b277aa1bb3232
+SHA1: 5f46e911bfe78a3f8687a476654e4587dbeab5ab
+SHA256: 72add362c81a8a3e64c8312ed07b565d12ba012805673aa1212f4939e374d7ba
 Homepage: https://oils.pub/
 Description: Oils for Unix: OSH and YSH shells
 
@@ -4873,16 +4873,16 @@ Homepage: https://numpy.org/
 Description: The fundamental package for scientific computing with Python
 
 Package: python-pandas
-Version: 3.0.5
+Version: 3.0.6
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 52868
+Installed-Size: 52900
 Depends: libc++, python, python-numpy, python-pip
-Filename: pool/tur/python-pandas_3.0.5_aarch64.deb
-Size: 7252416
-MD5sum: b0ee86ff9b5ceaa03f128165b2f8f505
-SHA1: 635f322a8ce861d6da69adad5d4eed4e7d6feeb7
-SHA256: 32311bb757a942bd782c630b26bf464cb2b5bcff0e661921af51d711cd8e495c
+Filename: pool/tur/python-pandas_3.0.6_aarch64.deb
+Size: 7261324
+MD5sum: 37ede188865b5c09ff3f6fa70588b79a
+SHA1: b63674c7e232831ca6fc630b0321affc74ea3cf7
+SHA256: 826863699d56ef47ac252c37baba5eaf2a8833ec776df09879ce05d65bdf840b
 Homepage: https://pandas.pydata.org/
 Description: Powerful Python data analysis toolkit
 
@@ -5822,15 +5822,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.73
+Version: 0.2.74
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 15940
-Filename: pool/tur/rumdl_0.2.73_aarch64.deb
-Size: 4147520
-MD5sum: 9b3defd7856c914c77a73e257bcdc352
-SHA1: 6bb48f66a57930a2f9ea6ee8d1e32dc491d1e1ce
-SHA256: ab3303f812dede26c220767a246c0fc7390adcb587bde887db0c71f76b0db0d3
+Installed-Size: 16420
+Filename: pool/tur/rumdl_0.2.74_aarch64.deb
+Size: 4281596
+MD5sum: d30cb904a1ea234ed63b8807f0b99165
+SHA1: 5e5d44663d70f6b0435b703481f91f738026eedd
+SHA256: afbe9edc05f0d5cb927db645d8cd20554d299f84ff7b5f52e5eae5d36f6ac83e
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -6326,15 +6326,15 @@ Homepage: https://tabby.tabbyml.com/
 Description: Self-hosted AI coding assistant
 
 Package: tailcat
-Version: 0.6.0
+Version: 0.7.0
 Architecture: aarch64
 Maintainer: @ancientcatz
-Installed-Size: 18144
-Filename: pool/tur/tailcat_0.6.0_aarch64.deb
-Size: 4672720
-MD5sum: fb173fc2cd8e5ead938a07a8d74563d5
-SHA1: 4ea166e3b1df75b79f600fbe527256d5ac756801
-SHA256: a33147a2b2394e72b6d5fd939c3468314ab0de5e7494bbf2061d863702031c9d
+Installed-Size: 18316
+Filename: pool/tur/tailcat_0.7.0_aarch64.deb
+Size: 4714796
+MD5sum: dba826dff1acc07bf167c24912337658
+SHA1: c443bc0089f79bd0112a49f518551db4990373af
+SHA256: 8dcd395c0c23042b177d918282a7543d60587439d45f37b79ec530920118bfc8
 Homepage: https://github.com/tailscale/tailcat
 Description: like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
@@ -6649,16 +6649,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.17
+Version: 11.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1263988
+Installed-Size: 1222008
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.17_aarch64.deb
-Size: 111988608
-MD5sum: 489b75c6e1dca5cd22b9b4c037d07b5a
-SHA1: f274963be10e2a595a8d702eda1549ffb3c3f112
-SHA256: 4bd2876fd765366e4e31ee5825c37321643f0266323b5565a2fe0b61f3402388
+Filename: pool/tur/wine-devel_11.18_aarch64.deb
+Size: 108747324
+MD5sum: c59ea39ffbc9d4297be4e14224b4b3b5
+SHA1: 5f548afbe919a72da7661a5b60d5c3580b7da16b
+SHA256: b2fef3d2e7dab77395d98d5232ff2baf7716621cce0f8416b91a8a6f4740302b
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6677,16 +6677,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.17
+Version: 11.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1274104
+Installed-Size: 1232124
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.17_aarch64.deb
-Size: 113864432
-MD5sum: d2309a587c6e452681d3125ba4194a2f
-SHA1: e3883893c5e6d81869af4f04d77226340ae7600e
-SHA256: bbffdf47cd2104540ec6a4f2302418873b051629a3a537385281d4f471bb50e6
+Filename: pool/tur/wine-staging_11.18_aarch64.deb
+Size: 110624232
+MD5sum: a0ac5fd81fa1bb8717e8d034b9d40a46
+SHA1: ab6d583e9c9ca58c86ebbf5b203058e630a1d01f
+SHA256: a09f02e4fb7e71995623c42aa606c7aa38f801599181494405b35369c4e266c2
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 

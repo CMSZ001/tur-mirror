@@ -1,0 +1,14 @@
+Package: wine-devel
+Version: 11.18
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 1260420
+Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
+Filename: pool/tur/wine-devel_11.18_x86_64.deb
+Size: 201091344
+MD5sum: 8962622eebf61b8cd1690b08a5bc51b0
+SHA1: aa4404c0000ed186c13ff901c6873ae6ca703a82
+SHA256: e9b26bcaf5534a20d5f0936770868abc351f1b1a1a0d539c3fb764408b545784
+Homepage: https://www.winehq.org/
+Description: A compatibility layer for running Windows programs
+
