@@ -248,17 +248,17 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 7)
 
 Package: bazel8
-Version: 8.8.0
+Version: 8.8.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 71440
+Installed-Size: 71436
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel8_8.8.0_x86_64.deb
-Size: 39572428
-MD5sum: e2ef7fc437783e255852574ebc5f9741
-SHA1: 5c02f940257b4c201c5f41286867dd1fe34b94dc
-SHA256: 4e281ed7b12e3908cf154c96f4e98ba7bcc46f81f43487586fd9c96a2074e537
+Filename: pool/tur/bazel8_8.8.1_x86_64.deb
+Size: 39568748
+MD5sum: e1f91d29b0c136d1bf6fc48d8f11fa70
+SHA1: 39c2c05eee5a3edc9f007cf7e8290a5453f8c414
+SHA256: eb27204eb8dd8650dcc614b23cb6b60d34b684b7c8ae6aa1330e372888136057
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 8)
 
@@ -748,15 +748,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crenox
-Version: 2.1.5
+Version: 2.1.10
 Architecture: x86_64
 Maintainer: @KhaledHani
-Installed-Size: 10024
-Filename: pool/tur/crenox_2.1.5_x86_64.deb
-Size: 2974756
-MD5sum: f2953970973101766e60991c177121a2
-SHA1: c311da0c4e98686be0bc2dc697adde6af22b6717
-SHA256: 56ed2a40ef8fb0d660e0a830674febd10d002c5c4242eb39d5b8a1a163d5047e
+Installed-Size: 10668
+Filename: pool/tur/crenox_2.1.10_x86_64.deb
+Size: 3199368
+MD5sum: 131591b841497e529bfa4116785383b2
+SHA1: c5e3b16ea51383a935e3898cbb1cc93357ef9147
+SHA256: c56d9ccc109919326a0a055ba14b8b9bec90e5dd43e4e9b22354d309d47d75c7
 Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
@@ -4317,15 +4317,15 @@ Homepage: https://github.com/dreamworksanimation/openvdb
 Description: A large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
 
 Package: optivorbis
-Version: 0.3.0-1
+Version: 0.3.2
 Architecture: x86_64
 Maintainer: @flosnvjx
-Installed-Size: 652
-Filename: pool/tur/optivorbis_0.3.0-1_x86_64.deb
-Size: 250612
-MD5sum: 912d56705e9bce0566154547dd6ad5bd
-SHA1: a37af4698a24c21917868195f0afdf5fad2189b6
-SHA256: 10287b6ad62546c4a60489d985dd8404c5f54268fe3dfb16c203caa952158ce2
+Installed-Size: 688
+Filename: pool/tur/optivorbis_0.3.2_x86_64.deb
+Size: 259948
+MD5sum: 63ca1d803a9c06875160f8cb1b2f88b9
+SHA1: 8345b91cd543adf302a4c181ee8de76c4948ef9a
+SHA256: b8d5f948e2e5058475074c215766de43c2fb399987c7405f4f4dbe76f862c97b
 Homepage: https://github.com/OptiVorbis/OptiVorbis
 Description: Vorbis optimizer that reconstruct ogg files to a smaller size, without losing any audio quality
 

@@ -560,15 +560,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crenox
-Version: 2.1.5
+Version: 2.1.10
 Architecture: arm
 Maintainer: @KhaledHani
-Installed-Size: 9164
-Filename: pool/tur/crenox_2.1.5_arm.deb
-Size: 2680732
-MD5sum: 523375fb6486ec23fee5c9b411952a73
-SHA1: e163bc6a8f5f412ecb4da7c15b656633daf3197d
-SHA256: 0d142844803994c0f77144bf8ad6ebb6c181c05a960e00a70c29719599ad5aa5
+Installed-Size: 9920
+Filename: pool/tur/crenox_2.1.10_arm.deb
+Size: 2896000
+MD5sum: c8794640004a4889573011e23a90560e
+SHA1: b4914d4f6b9f356f76081d0b88efc31065e449b5
+SHA256: 9fae2473e0dcde52614ec89cfb2b4f080a8580d1aac1e44181638c4a3631b448
 Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
@@ -3913,15 +3913,15 @@ Homepage: https://github.com/dreamworksanimation/openvdb
 Description: A large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
 
 Package: optivorbis
-Version: 0.3.0-1
+Version: 0.3.2
 Architecture: arm
 Maintainer: @flosnvjx
-Installed-Size: 456
-Filename: pool/tur/optivorbis_0.3.0-1_arm.deb
-Size: 225612
-MD5sum: aa57b68d292036f364c46056b0c98849
-SHA1: 434570f2b87bdcdc50d43b580df8bf50ac479bec
-SHA256: 28122b04b651eea501502ea3c0a790b31fe65710aba70c4c87feed29840c31cb
+Installed-Size: 492
+Filename: pool/tur/optivorbis_0.3.2_arm.deb
+Size: 237620
+MD5sum: 013698a3f858f9d9dc6a4d96ec3c763d
+SHA1: e8ce5ae428c7ee26b0f39045d5705efba12e4e05
+SHA256: b3622ea99b1241b74125aadf654f2b7b698392710195f6e35a7f29a71f0b32b1
 Homepage: https://github.com/OptiVorbis/OptiVorbis
 Description: Vorbis optimizer that reconstruct ogg files to a smaller size, without losing any audio quality
 
