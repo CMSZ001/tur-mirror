@@ -513,30 +513,30 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 152.0.7977.82
+Version: 153.0.8010.52
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 423264
+Installed-Size: 426304
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_152.0.7977.82_x86_64.deb
-Size: 50498624
-MD5sum: c40e660dba33fd922ee24d7e2d25703d
-SHA1: b2ef3e4facf538a23fcb8256fcf89bc048b22730
-SHA256: 7f118d5fea1df71c1d7f06e667fb5d806ca9bd91527f00e37fe215192067d730
+Filename: pool/tur/chromium-beta-host-tools_153.0.8010.52_x86_64.deb
+Size: 51069984
+MD5sum: 9452f813448153a404b80fc5457d33bb
+SHA1: cd6fa82e6543216708e174424f6c1b6a62f27663
+SHA256: e61181bab44a6f530d0e2040c8774e0ad0431386e20b8825c68cdf09659a69ff
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 151.0.7922.173
+Version: 152.0.7977.82
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 1220736
+Installed-Size: 1216948
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_151.0.7922.173_x86_64.deb
-Size: 213165628
-MD5sum: 515acecc4911e6e1f93e4e3a92908b40
-SHA1: 41bee4b9f785e3fa959ba18805a9ab844b669e6f
-SHA256: 4727cdc1c856a84bd5c723f20c7c962d622940519d5b5df1526a194f7792dc01
+Filename: pool/tur/chromium-beta_152.0.7977.82_x86_64.deb
+Size: 212381692
+MD5sum: 1a42a7314c735246c68dfe5bbb57e22a
+SHA1: 7640034976d1d098809f8480b1758353d39120de
+SHA256: c131b86021e6470071028b777b95c2a42df1230907a48e1e88534721ed6f889a
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
