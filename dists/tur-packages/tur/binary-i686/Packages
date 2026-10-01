@@ -120,16 +120,16 @@ Homepage: https://wiki.debian.org/Aptitude
 Description: terminal-based package manager
 
 Package: archisteamfarm
-Version: 6.3.9.6
+Version: 6.3.10.3
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 21768
+Installed-Size: 22224
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/archisteamfarm_6.3.9.6_i686.deb
-Size: 5558836
-MD5sum: cc0e1dfae3bbef54df0b206263a27bcd
-SHA1: 4254b1cf33cf6b99bca50f3548c71bbaf698f8b6
-SHA256: da6974cc65b92409f936d1b2d6512fef9c13ac78b3c4b56ed5032375f4e91386
+Filename: pool/tur/archisteamfarm_6.3.10.3_i686.deb
+Size: 5887784
+MD5sum: fa75a32bc1ba6b50d0ce8e4fc8e08183
+SHA1: c234291e6530f5b01288edfd3e721d90bbaa7b8a
+SHA256: b0496b31dcf9ed7246e563a312489b2d14332ef0384a539c0c3e398fa457dfb0
 Homepage: https://github.com/JustArchiNET/ArchiSteamFarm
 Description: C# application that allows you to farm steam cards using multiple steam accounts simultaneously
 
@@ -3259,16 +3259,16 @@ Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
 Package: moviebox-tui
-Version: 0.1.25
+Version: 0.1.26
 Architecture: i686
 Maintainer: @mesamirh
-Installed-Size: 10512
+Installed-Size: 10560
 Depends: openssl, pkg-config
-Filename: pool/tur/moviebox-tui_0.1.25_i686.deb
-Size: 3513248
-MD5sum: 90a3e268e1d8cd372ee96c28d1488eca
-SHA1: 7c5708c0449b0bed7c57493911877f3c2244892a
-SHA256: 8468cccf11ca1cc07c07d15820d5c1011b11203f429090fd24372a9068b94bfe
+Filename: pool/tur/moviebox-tui_0.1.26_i686.deb
+Size: 3539296
+MD5sum: 9bfa1263ec2fc6863b44adb22f13e900
+SHA1: 01d9deaff463a9a079b3137402a8b4c0f3d96a9b
+SHA256: 6dd31d8b2053cc7f4e2c0bdb44a03d18bef4e77fc030e9a74e8333885635e256
 Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
