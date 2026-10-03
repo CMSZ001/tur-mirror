@@ -761,15 +761,15 @@ Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
 Package: crush
-Version: 0.96.1
+Version: 0.97.1
 Architecture: aarch64
 Maintainer: @ancientcatz
-Installed-Size: 90340
-Filename: pool/tur/crush_0.96.1_aarch64.deb
-Size: 16767352
-MD5sum: f916fb82d2ddd09824fa3d5710691992
-SHA1: e01a04278f42b10a96c7247d161a922823af0970
-SHA256: 8e87ead1e5bcb005a39c2eec602f5cd73131da1481d9d48585836103c8919645
+Installed-Size: 94640
+Filename: pool/tur/crush_0.97.1_aarch64.deb
+Size: 17180568
+MD5sum: 51944dbe6da15edbe41d649f86aec912
+SHA1: 673d195f60de746d8c5c1c9004c5fcd9aac565a3
+SHA256: afc35ba9c5a28b90b00425f4d8f493967b4ea306dc32faa19781bff37e00e183
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
@@ -2082,6 +2082,19 @@ SHA1: 43d5b489c4ca2163a28c16f1d2efdb1e9b9e7cf7
 SHA256: 3ba3ba7ca3e7b2e4882b2b88702083c132175c3927339e9dbdfd61e89e88f015
 Homepage: https://github.com/russellbanks/Komac
 Description: The Community Manifest Creator for WinGet
+
+Package: kondo
+Version: 0.9
+Architecture: aarch64
+Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
+Installed-Size: 1980
+Filename: pool/tur/kondo_0.9_aarch64.deb
+Size: 652108
+MD5sum: ecd05e5a9ab83207dca4dedc203efc41
+SHA1: 458ba5b613b793866cbbf23870770cd5c16952c3
+SHA256: a8eb9d5037dfb009d3b7517ee0b7cf5564f8d010e8292f23b9fed1b046fc0431
+Homepage: https://github.com/tbillington/kondo
+Description: Cleans node_modules, target, build, and friends from your projects
 
 Package: krabby
 Version: 0.3.0
@@ -6662,16 +6675,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.18
+Version: 11.19
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1222008
+Installed-Size: 1222256
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.18_aarch64.deb
-Size: 108747324
-MD5sum: c59ea39ffbc9d4297be4e14224b4b3b5
-SHA1: 5f548afbe919a72da7661a5b60d5c3580b7da16b
-SHA256: b2fef3d2e7dab77395d98d5232ff2baf7716621cce0f8416b91a8a6f4740302b
+Filename: pool/tur/wine-devel_11.19_aarch64.deb
+Size: 108695112
+MD5sum: f375fad22c9b59352e85c0ace6340054
+SHA1: 99dcb73f66e7f75d5c39ff47dfaea479afdec168
+SHA256: 1e60bc261518be1d26a0905683a1347c5da459a26670764815d24a33bc825264
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6690,16 +6703,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.18
+Version: 11.19
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 1232124
+Installed-Size: 1232440
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.18_aarch64.deb
-Size: 110624232
-MD5sum: a0ac5fd81fa1bb8717e8d034b9d40a46
-SHA1: ab6d583e9c9ca58c86ebbf5b203058e630a1d01f
-SHA256: a09f02e4fb7e71995623c42aa606c7aa38f801599181494405b35369c4e266c2
+Filename: pool/tur/wine-staging_11.19_aarch64.deb
+Size: 110746028
+MD5sum: 4160e935c13fda26362ff20fdb256e24
+SHA1: 2a48a94098baf7dabc4def684e55feb962fc48c2
+SHA256: f4ac3d565d9ffa2e822bdccbd821e644118de9922040fa469256f2d1dfd2a8f1
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
