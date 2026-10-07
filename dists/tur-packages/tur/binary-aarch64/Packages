@@ -513,30 +513,30 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 153.0.8010.52
+Version: 154.0.8037.92
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 490740
+Installed-Size: 492024
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_153.0.8010.52_aarch64.deb
-Size: 54487252
-MD5sum: e2ed7b06651e13f8bf10979f4e684a43
-SHA1: 9174b626ee7e4803ef9629da5db38cf31febb8f5
-SHA256: 4c384febc3044fa368d9c353232b809581acb18621e1eeaaade892f1ec06d519
+Filename: pool/tur/chromium-beta-host-tools_154.0.8037.92_aarch64.deb
+Size: 54720940
+MD5sum: 987e83efca786a55bccb00b9738cc9c0
+SHA1: 34a6549f4fb096d4933cd0507d2d4ea4ce0e1ca1
+SHA256: 43ecf97cdc079ed10e6b587cb4587c61fa59111411f004d828dadfe7e0cda1ea
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 152.0.7977.82
+Version: 153.0.8010.52
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 1359124
+Installed-Size: 1333920
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_152.0.7977.82_aarch64.deb
-Size: 211535548
-MD5sum: 80799d590617755fddd4b9e2b1c15ebb
-SHA1: 75a1c9f644ae5add44a0af1bf7fbe4e6eab4ff7a
-SHA256: 64ff61ade360cd7fc42fd779f2dc97c051950352edccab34850be7744d75a1bf
+Filename: pool/tur/chromium-beta_153.0.8010.52_aarch64.deb
+Size: 210185672
+MD5sum: d8dcc208ede0f51121f10078f53abb8a
+SHA1: 426f6cd45f60d94e6bc42b77b17cbd269be8a028
+SHA256: 36fcef9e1014c6204fdcf32be4346a2f9d8b20255829eebaedb55b4d5bc5d012
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -3877,18 +3877,18 @@ Homepage: https://github.com/stsp/nasm-segelf
 Description: nasm fork with segelf patches
 
 Package: ndk-sysroot-gcc-compact
-Version: 29-3
+Version: 30
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 31292
+Installed-Size: 28460
 Conflicts: libutil-dev, libandroid-support-dev, ndk-sysroot
 Replaces: libutil-dev, libandroid-support-dev, ndk-stl, ndk-sysroot
 Provides: ndk-sysroot
-Filename: pool/tur/ndk-sysroot-gcc-compact_29-3_aarch64.deb
-Size: 1955796
-MD5sum: b642a5875ebf7cea11277bee36b8683a
-SHA1: 5bd74f7698762b563e754f62d0c1618f57a013db
-SHA256: 5c5dcadd5f4c7d8c3442f7ef790bce032bbb4b417ba8da256b946b93db138aee
+Filename: pool/tur/ndk-sysroot-gcc-compact_30_aarch64.deb
+Size: 2000848
+MD5sum: 391fc630e4a6dbf1f50a3ec871ee70d6
+SHA1: d308dc8294694ceb4e51695372d7666dce157ab2
+SHA256: eb4220e65571292a7cc247ca758a989eee5c42ec3f0c6ef2536351c80e868463
 Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 Description: System header and library files from the Android NDK needed for compiling C programs, compact with GNU Compiler Collection
 
@@ -6048,6 +6048,19 @@ SHA1: 311abf3c92999089d504e6a769ba1bba2f74fb3c
 SHA256: 5e3a8be0028fdc210d2e2024cf3b8044a53ae9b0e36ce9de1deb2b17912fe27b
 Homepage: https://github.com/sentinel-cli/sentinel
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
+
+Package: shadowenv
+Version: 3.5.2
+Architecture: aarch64
+Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
+Installed-Size: 3772
+Filename: pool/tur/shadowenv_3.5.2_aarch64.deb
+Size: 1072836
+MD5sum: 69ef1d47a6c20cb12d07d9fd5990c1e8
+SHA1: 6348e4b98b5dec97f3466ca975cab9a87f040d27
+SHA256: d129bd75091aae7765a83a0397124e676056390b142e028e1c54be7647e4a0d4
+Homepage: https://shopify.github.io/shadowenv/
+Description: Reversible directory-local environment variable manipulations
 
 Package: shared-mime-info
 Version: 2.4-1
