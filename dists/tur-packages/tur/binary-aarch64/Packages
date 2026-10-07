@@ -190,15 +190,15 @@ Homepage: https://astrometry.net/
 Description: automatic recognition of astronomical images
 
 Package: autobrr
-Version: 1.87.0
+Version: 1.88.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 59436
-Filename: pool/tur/autobrr_1.87.0_aarch64.deb
-Size: 15052216
-MD5sum: f8ba47e76645a3720e94132acd5e6ad2
-SHA1: 3da67ba106fcc5eaced078195a11348d6e12a068
-SHA256: 3ee51e6be331870af00bd87dbffecc0fa1866788febd2968eb1c3af1dc6e651a
+Installed-Size: 62036
+Filename: pool/tur/autobrr_1.88.0_aarch64.deb
+Size: 15729964
+MD5sum: 100b315474e07dd56986f83f497fd3da
+SHA1: 4362c4feccdf0023da96cc01249c99a8ad6d419d
+SHA256: f0d27bad303a4659d6a164c41f64415630d6bff34c17bee8eb1524c379240244
 Homepage: https://autobrr.com
 Description: The modern download automation tool for torrents and usenet
 
@@ -4732,16 +4732,16 @@ Homepage: https://github.com/esheldon/fitsio
 Description: A python package for FITS input/output wrapping cfitsio
 
 Package: python-hf-xet
-Version: 1.6.0
+Version: 1.7.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 8444
+Installed-Size: 8020
 Depends: libc++, python
-Filename: pool/tur/python-hf-xet_1.6.0_aarch64.deb
-Size: 2615612
-MD5sum: 5d5ef6a13e725eb931cc4a500c7bbce5
-SHA1: 4be7e0fe194732bdf23b33b1d4ff0e5b390adf76
-SHA256: f5f84e43c4a1f1f43b8ee7d58ce3b10a60790a44098c8a49b0ebc6f12c6deee8
+Filename: pool/tur/python-hf-xet_1.7.0_aarch64.deb
+Size: 2420956
+MD5sum: 4c8b86a2220a7ed3c8192dedfd42385d
+SHA1: 7576a60645342f4f3b1e80a74206a4171665518d
+SHA256: 377aa9b751d65cdd8b9467e814e863e7c428575d1145e0510833da9ad8d701d7
 Homepage: https://github.com/huggingface/xet-core
 Description: Fast transfer of large files with the Hugging Face Hub
 
