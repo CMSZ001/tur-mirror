@@ -263,17 +263,17 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 8)
 
 Package: bazel9
-Version: 9.2.0-2
+Version: 9.3.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 85584
+Installed-Size: 96396
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel9_9.2.0-2_aarch64.deb
-Size: 37019860
-MD5sum: 575d692e578ad8bdbc44d51802f59337
-SHA1: 37a31efad3c2c3187e2c68f92b088784dd33df69
-SHA256: f98684f61a3670f328f1e81f77fd47e0436cdb4918253d9919f06c7b906db4e5
+Filename: pool/tur/bazel9_9.3.0_aarch64.deb
+Size: 48149636
+MD5sum: 792cadd83ad456c7585804940a24b7e1
+SHA1: 27f2539ee15ddef7765534f2628c0de42a87ef46
+SHA256: 14a0710e0c6203ac8390f7ff0f54cb22098293f8389aa54a0134b022930f8c12
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 9)
 
@@ -666,15 +666,15 @@ Homepage: https://github.com/HashShin/coded
 Description: A mobile-first code editor that runs in your browser
 
 Package: codesnap
-Version: 0.13.4
+Version: 0.14.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 31848
-Filename: pool/tur/codesnap_0.13.4_aarch64.deb
-Size: 7737108
-MD5sum: 57eae6ee886a1b8c6e0a6376bd0567cc
-SHA1: d114502054db405f88f945a5b244503cbc8a517a
-SHA256: 4c146dcfb6c824fbf06aa0b065c47f4b07e68cc4c47612c6e623695c97ae81a6
+Installed-Size: 31880
+Filename: pool/tur/codesnap_0.14.0_aarch64.deb
+Size: 7779676
+MD5sum: b0b8567bfccd75e81fa923f1fa2fff4f
+SHA1: f665a6c8e7db8297b5f7aeda6115b8a626fc9ada
+SHA256: 5e498a1d4c67cc3ddfbd9fb00d07a66d2122bd7203cd47cb89d2f04dc3c142b3
 Homepage: https://github.com/mistricky/CodeSnap
 Description: Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
 
