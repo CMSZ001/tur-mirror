@@ -1577,16 +1577,16 @@ Homepage: https://github.com/bestouff/genext2fs
 Description: Build ext2 filesystem image without mounting for copying files (like mkfs.fat + mcopy in one go)
 
 Package: gh-dash
-Version: 4.26.0
+Version: 4.26.1
 Architecture: aarch64
 Maintainer: @everywhereless
 Installed-Size: 25012
 Depends: gh
-Filename: pool/tur/gh-dash_4.26.0_aarch64.deb
-Size: 5700644
-MD5sum: f9242db4ed0215eec922e7b9575a7bcf
-SHA1: 599a406cb3d17df9385409bcb1f349285e1894db
-SHA256: f335d012e7ba4559b167c5de89b8dfecd3bde5a89d94b4b33f9ed75d6aa77050
+Filename: pool/tur/gh-dash_4.26.1_aarch64.deb
+Size: 5705420
+MD5sum: 062588fba9ed63cea1d11b5a73854db4
+SHA1: 3f4bf9ce2ee6b33462cfba99d373fbe39bf877da
+SHA256: 4b6921f393085e3e98557e4785a7d95633e983209816975e08b1b2e15d4826ef
 Homepage: https://github.com/dlvhdr/gh-dash
 Description: A rich terminal UI for GitHub that doesn't break your flow
 
@@ -5848,15 +5848,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.78
+Version: 0.2.79
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 13996
-Filename: pool/tur/rumdl_0.2.78_aarch64.deb
-Size: 4159316
-MD5sum: 44264736edceeaa92d45b91f64a81c45
-SHA1: b1c3c93ed78b71a9defc260cac5197f54d432431
-SHA256: 89d671c4d12e23f39f9f359716420b7ff9b28b3053f74576b856270731d8394c
+Installed-Size: 14256
+Filename: pool/tur/rumdl_0.2.79_aarch64.deb
+Size: 4231108
+MD5sum: 6ce47d04e1e74125a4da98f05917dbde
+SHA1: 7b5a90a6a85fa6a17966bf64e86d3713367e2f59
+SHA256: 1c9b116e93a25fa23083a469187d0d419cc2b477c2d4220cf59edb9ecff6c743
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
