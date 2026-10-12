@@ -120,16 +120,16 @@ Homepage: https://wiki.debian.org/Aptitude
 Description: terminal-based package manager
 
 Package: archisteamfarm
-Version: 6.3.10.3
+Version: 6.3.10.4
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 22224
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/archisteamfarm_6.3.10.3_aarch64.deb
-Size: 5882200
-MD5sum: 142a6698106dee494ea4070c028b09c0
-SHA1: 3a51951ac7cd77d0942b2b156a5e03a0ee0230c4
-SHA256: bed08f40100fc9d6cbd04bec8be1ae6a6d99fc28f6a7470f67d89103a5f88e76
+Filename: pool/tur/archisteamfarm_6.3.10.4_aarch64.deb
+Size: 5882860
+MD5sum: 92ffa31dcbd3044105e2449669320a97
+SHA1: 7bc683c2e417fb9576e4896d08707f9451b89840
+SHA256: 92c374f73301befe399a905fadc9b91bfac21b2063dab6400db9174a74988989
 Homepage: https://github.com/JustArchiNET/ArchiSteamFarm
 Description: C# application that allows you to farm steam cards using multiple steam accounts simultaneously
 
@@ -881,6 +881,20 @@ SHA256: 76440dced2e5d7dd361e15272040ee1995ec1358a1052599f424d46c94ce5fc8
 Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
+Package: designcraft
+Version: 0.6.0
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 51772
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/designcraft_0.6.0_aarch64.deb
+Size: 13936436
+MD5sum: c406e2f65ec88310e200ac5833ceb0dc
+SHA1: 28c0f0374bb07a3eab8013f469ce7f1c07382234
+SHA256: d20f95b6a0aba943ac1c4aaf1b69f8e4221b047bdf1ecd11eb7ded1203994559
+Homepage: https://getartcraft.com/apps/designcraft
+Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
+
 Package: detchar
 Version: 0.1.0
 Architecture: aarch64
@@ -1032,6 +1046,20 @@ SHA1: ccb15fb9fffc39a59a8a35520a08c56dfad83369
 SHA256: 16864803113db8503ced2382d75b8822f77569caa7959b4b6ca6b0a1a55de650
 Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
+
+Package: effectcraft
+Version: 0.8.0
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 64568
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
+Filename: pool/tur/effectcraft_0.8.0_aarch64.deb
+Size: 18227620
+MD5sum: 29ce84f3ebd058ed8bdc812c9d8f5efa
+SHA1: 404b80ac87a44eba39a3a4d3645af3e15244f6a2
+SHA256: 6ab64d1907dfa707b1c662a1b00a3d111048b3e130f57484b1ec36679b53b4dd
+Homepage: https://github.com/storytold/effectcraft
+Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
 Package: efte
 Version: 1.1
@@ -1315,6 +1343,20 @@ SHA1: 362fc59e3c96f4d1ea987c27b46d86a85d161e46
 SHA256: 0598c3a278a571330491e792eee80dfc22a5d72c0aa9fd675280802d4223cadd
 Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
+
+Package: filmcraft
+Version: 0.6.0
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 43524
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
+Filename: pool/tur/filmcraft_0.6.0_aarch64.deb
+Size: 13492316
+MD5sum: 5a6dd6fd99f376f7faed49ad8f4451d1
+SHA1: f4cda52bf9a7640e6cf9a2c820d79ae3912149e4
+SHA256: 51e47a6f6ece5703af315f2cba02302c4da026c4c668bb32b2ca28d2dafba954
+Homepage: https://github.com/storytold/filmcraft
+Description: Native open-source video editor in pure Rust (eframe/wgpu)
 
 Package: flang-16
 Version: 20220907-1
@@ -3618,6 +3660,20 @@ SHA256: 971e602cef61325aa1c4ed0054315cbe0eb94e773ba1031d908f78bf4b0cc221
 Homepage: https://launchpad.net/lierolibre
 Description: Old-school earthworm action game
 
+Package: lightcraft
+Version: 0.6.0
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 45688
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/lightcraft_0.6.0_aarch64.deb
+Size: 12117668
+MD5sum: 4044d3405c45722592058b9e32a806f4
+SHA1: 884f9810fc8059613fc77b9ea7612238d9fdf5e6
+SHA256: ba4df651b44caa446597edebc2ef62038a5d9cf0ab37d418080e726ca42d9121
+Homepage: https://getartcraft.com/apps/lightcraft
+Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
+
 Package: lld-16
 Version: 1:16.0.6-1
 Architecture: aarch64
@@ -3732,6 +3788,20 @@ SHA1: c26219085c4100da5522c2c04579d3f693f8eaec
 SHA256: 2a929e312aaae170566d4131ad48c7f7b0f7aa1c9cdbadc8d08387887de35377
 Homepage: https://gitlab.com/mdds/mdds
 Description: A collection of multi-dimensional data structures and indexing algorithms
+
+Package: megaglest
+Version: 3.13.0-1
+Architecture: aarch64
+Maintainer: @IntinteDAO
+Installed-Size: 7436
+Depends: curl, freetype, fribidi, glew, glib, libandroid-glob, libftgl2, libjpeg-turbo, libpng, libvorbis, libxml2, lua52, megaglest-data, openal-soft, sdl2
+Filename: pool/tur/megaglest_3.13.0-1_aarch64.deb
+Size: 2148456
+MD5sum: 1fe0213980e496263b1c6a5037a27f5c
+SHA1: 9427e3241163ab860ce097e272326de0d2c92014
+SHA256: 129a213ec86e85d29d3822f1fb741aef7042a951f1b6628a522d1f52306585fb
+Homepage: https://megaglest.org/
+Description: A free and open source 3D real-time strategy game
 
 Package: meli
 Version: 0.8.13
@@ -4585,6 +4655,34 @@ SHA1: 1f7b51f84c5d3d6404a8dbeb711b98d78001ebd2
 SHA256: 008aa296fbf88cc09dfdc26e8bd12f1e8ddeef30cd68688ff82d88c6845bc083
 Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
+
+Package: pdfcraft
+Version: 0.6.0
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 49692
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/pdfcraft_0.6.0_aarch64.deb
+Size: 14765856
+MD5sum: 5f58adad26568620d5e861df10c2181c
+SHA1: 93404ec28e7bbd6d662dd1261043e942953fe971
+SHA256: 36acfc490c5cc5e9e9de8feddd6ee85354724b2e007f06c2909636d335d08b27
+Homepage: https://getartcraft.com/apps/pdfcraft
+Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
+
+Package: photocraft
+Version: 0.7.0
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 51004
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android
+Filename: pool/tur/photocraft_0.7.0_aarch64.deb
+Size: 18269020
+MD5sum: 474706938d1887990b0aff39d9ee9016
+SHA1: 8bbd29b5ec7f66c6de75a6773303ba9f0a159d13
+SHA256: d14fd1f73a4da1df64fbf9ba6af4f5e603100987418c69073293ef6e089e5051
+Homepage: https://getartcraft.com/apps/photocraft
+Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
 Package: php7-apache
 Version: 7.4.33-5
@@ -6502,16 +6600,16 @@ Homepage: https://topiary.tweag.io/
 Description: The universal code formatter
 
 Package: trigger-rally
-Version: 0.6.6.1-10
+Version: 0.6.6.1-11
 Architecture: aarch64
 Maintainer: @fervi
-Installed-Size: 121704
-Depends: make, libphysfs, glew, libtinyxml2, openal-soft, openalut, sdl2, ndk-multilib, sdl2-image, pulseaudio, libxi
-Filename: pool/tur/trigger-rally_0.6.6.1-10_aarch64.deb
-Size: 118607388
-MD5sum: f27493d32df6cca720964b40940b1a12
-SHA1: eb9c69b9dbae5d5d3770e35fde745c30c832fa51
-SHA256: 78dbdcef19b9c5ae1c30f2ed0c32e0b02068cbcb650e33be8568e382d956a810
+Installed-Size: 1240
+Depends: glew, libphysfs, libtinyxml2, libxi, libxinerama, libxxf86vm, openal-soft, openalut, pulseaudio, sdl2, sdl2-image, trigger-rally-data
+Filename: pool/tur/trigger-rally_0.6.6.1-11_aarch64.deb
+Size: 322964
+MD5sum: a8406942899a5c7596822c069cda181f
+SHA1: fb6439695ef5c98da8ac171a71c9d28e3133a181
+SHA256: 1fc5de8311984b73c1534048004bc5546b6b3345cf856da610cd44a6dfd7f43f
 Homepage: https://trigger-rally.sourceforge.io
 Description: A free 3D rally car racing game
 
@@ -6568,6 +6666,20 @@ SHA1: ca8fae7a010209d4489dd6f6b0f6f9199db6e54f
 SHA256: fefa1f418ca9c9a3d61793ee9a540299f22cadf817959a301044e24e70ede9fd
 Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
+
+Package: vectorcraft
+Version: 0.9.0
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 63700
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/vectorcraft_0.9.0_aarch64.deb
+Size: 17905040
+MD5sum: 08d3fc4ab9ebb3b313f0a208485600fd
+SHA1: 8696dabd4c73cda19d58551023605a2ec143261f
+SHA256: d31f8907fd6daab1ce60951526861a5f54400b47ae278fdeb3ebc3b1378e62ee
+Homepage: https://github.com/storytold/vectorcraft
+Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
 
 Package: vhs
 Version: 0.11.0
@@ -7356,6 +7468,19 @@ SHA256: 9c36170064ae4e589f8749a66842d13e05a4a7e973fe9ffb92c840c81a8e47b5
 Homepage: https://github.com/ximimoments/katifetch
 Description: A cross-platform system information tool written in Bash
 
+Package: megaglest-data
+Version: 3.13.0-1
+Architecture: all
+Maintainer: @IntinteDAO
+Installed-Size: 515912
+Filename: pool/tur/megaglest-data_3.13.0-1_all.deb
+Size: 296986580
+MD5sum: 239ca77dd9ae41bd4ac54bf17a2c6bcb
+SHA1: 9ef52319463c542e35c4020b5d6a4fc260afed63
+SHA256: 04da66a1ef3a88cfc92fc41cfc406897b3418848fd6320bff3212da9d5e7a4eb
+Homepage: https://megaglest.org/
+Description: MegaGlest game data files (maps, tilesets, scenarios, sounds, textures)
+
 Package: mesa-zink-dev
 Version: 22.0.5-5
 Architecture: all
@@ -7778,6 +7903,19 @@ SHA1: c377a7bb8931c6d60da05ebc5831f896a001b6cd
 SHA256: af2c01fbd7cdb168d954c2ebcf54d34dd6c2f342c930fac621f86fee31efa4b2
 Homepage: https://github.com/KrutosVIP/TermuxInstall
 Description: Install Termux to chroot from Termux
+
+Package: trigger-rally-data
+Version: 0.6.6.1-11
+Architecture: all
+Maintainer: @fervi
+Installed-Size: 121096
+Filename: pool/tur/trigger-rally-data_0.6.6.1-11_all.deb
+Size: 118515528
+MD5sum: e0275033d831a71cccdb3c3a9f81f648
+SHA1: 7c51386a37a86e7b988777dd7bddea92898944b4
+SHA256: 4a4a0daad5d444da07023e9cc793f99c422584c21b602144024c82e24232f958
+Homepage: https://trigger-rally.sourceforge.io
+Description: Data files for Trigger Rally
 
 Package: ttf-cascadia-code-nerd
 Version: 3.5.1-2
