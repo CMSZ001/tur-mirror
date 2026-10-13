@@ -1418,15 +1418,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.5
+Version: 0.2.6
 Architecture: i686
 Maintainer: @ancientcatz
-Installed-Size: 20124
-Filename: pool/tur/goat_0.2.5_i686.deb
-Size: 6356960
-MD5sum: 903c0283e6046a0c8b8587b94fceafdd
-SHA1: ef84f1b21fbc96f9b179c209e5c6dc0f476076e3
-SHA256: 4e9f331e1d13f6366c5943e4d87fc0b29f0daf83445958330bf7102311e0d158
+Installed-Size: 20580
+Filename: pool/tur/goat_0.2.6_i686.deb
+Size: 6479064
+MD5sum: abc9e0e762dfd280a98f60735cd4925d
+SHA1: 6d07db8179eaf89a5403c18eed5154f74610de6b
+SHA256: 48490bf5c8acec2c2aa2695e6d63f8e874f7499f0a793c1212e45cfd2f71aac9
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -3123,6 +3123,20 @@ SHA1: aa0331826f1f4c6ef8ebad52a11e6c327d21f248
 SHA256: 5555c6e3e12cc08a2dc2bdec5aeb8b5710a79954b747e7044850d7ab93d3a899
 Homepage: https://getartcraft.com/apps/lightcraft
 Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
+
+Package: lincity
+Version: 1.13.1
+Architecture: i686
+Maintainer: @IntinteDAO
+Installed-Size: 2688
+Depends: libx11, libxext, libxt, libxpm, gettext
+Filename: pool/tur/lincity_1.13.1_i686.deb
+Size: 394512
+MD5sum: 09f37853f60020073d11cc8fb440f1d6
+SHA1: f303fdfd35f0416b58ef3f699e84724ee3b6c022
+SHA256: ec292c0fc1a23c05fdbe3807ab90482fdc11e67707e1a2dd27115c7d673d582b
+Homepage: https://sourceforge.net/projects/lincity/
+Description: A city/country simulation game for X11
 
 Package: lld-16
 Version: 1:16.0.6-1
