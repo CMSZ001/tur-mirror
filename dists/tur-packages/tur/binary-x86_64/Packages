@@ -1048,16 +1048,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.8.0
+Version: 0.9.2
 Architecture: x86_64
 Maintainer: @termux
-Installed-Size: 74436
+Installed-Size: 76552
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.8.0_x86_64.deb
-Size: 21256920
-MD5sum: 6e5e5b6efc57eff3a7dd2683df3f4d11
-SHA1: 4550dc37af00e0eb161cc67d9b7d92aef2ab53b9
-SHA256: 6ccbc2fe4b991f860ed4eb46bc7dab82fe7a91bf7bd3dda894ef9fa204375d40
+Filename: pool/tur/effectcraft_0.9.2_x86_64.deb
+Size: 21767604
+MD5sum: 58e928f2c4bb85220a9674094736324a
+SHA1: 9ae3991470ff35be433646500e06d99f2466faa1
+SHA256: 1ea853d80c2944d4297163c4068d2a6cdc4bfa38f4a54e267d3f56d3a109eb6b
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -4064,6 +4064,20 @@ SHA256: 3f44ab47218bacbf8789054974a872585951790139586858ab7665724386c159
 Homepage: https://github.com/jakcron/nstool
 Description: General purpose read/extract tool for Switch dumps
 
+Package: nub
+Version: 0.9.6
+Architecture: x86_64
+Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
+Installed-Size: 46492
+Depends: nodejs | nodejs-lts
+Filename: pool/tur/nub_0.9.6_x86_64.deb
+Size: 11507396
+MD5sum: 44744ab06d788c9ddda1e34ed87ad85a
+SHA1: 446bf5da02bec4f11ce703e821f197214441757a
+SHA256: 03957c7d6852f0a473c9212a7d18713ba579811d3a04797568ff9deca14e78e5
+Homepage: https://nubjs.com
+Description: The fast all-in-one Node.js toolkit: TypeScript runner, script runner and package manager on top of stock node
+
 Package: octave-static
 Version: 1:9.2.0
 Architecture: x86_64
@@ -4123,6 +4137,20 @@ SHA1: bbd56a0978888ac2d76f9566897eaee0c3d807e8
 SHA256: 00e3b3db53ff210a0651a9f7a0688ddae6ce528f31a3328e6d1b8cf5d28c74de
 Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
+
+Package: officecli
+Version: 1.0.157
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 18104
+Depends: dotnet-host, dotnet-runtime-10.0
+Filename: pool/tur/officecli_1.0.157_x86_64.deb
+Size: 3751232
+MD5sum: 1b57d682075efafe4f54cd11ca9a9a99
+SHA1: 39d27e74b0c9aed25f9a2bd4af513d13ab5931cc
+SHA256: 4f0b7a8d39ed07ce444ea825b06ad7a71ab2c00d0a84ebe8e06eca71abff4aca
+Homepage: https://officecli.ai
+Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
 
 Package: ograph-rs
 Version: 0.5.0
@@ -4585,16 +4613,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.6.0
+Version: 0.7.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 57852
+Installed-Size: 61236
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.6.0_x86_64.deb
-Size: 17223864
-MD5sum: d0324a915410f6e51b056758e45849bf
-SHA1: 6792f69f20801da1a3fdaf3bead71e94589a3bd5
-SHA256: b358b4c0eb7f6a3cf01d1c07006d697f681703e7d50cc443737734bcf3926e16
+Filename: pool/tur/pdfcraft_0.7.1_x86_64.deb
+Size: 18172016
+MD5sum: d87b3cb076382d72711785205afe4e74
+SHA1: e6634dfca576b2ab14916406a11be9769d7c5eab
+SHA256: 2ac1f7a0a52ecffeb0a0181317bac80a044b3ca858ce3ebe58d5a1a1261664eb
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 

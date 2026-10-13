@@ -804,16 +804,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.8.0
+Version: 0.9.2
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 78196
+Installed-Size: 80108
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.8.0_i686.deb
-Size: 23450344
-MD5sum: fc163d537f6a3856ddedbbf60b94444e
-SHA1: fc1069fc9b1f0d7fa6e812bbc8ba9499d3bf7ce9
-SHA256: 55616a615a7d0a9acd2b6ba33a7a9656420bc278865791f8c574b34bb517f36c
+Filename: pool/tur/effectcraft_0.9.2_i686.deb
+Size: 24094296
+MD5sum: 6781946f784c392ed09602fe0b21ec1c
+SHA1: 4ea236a99991c7237a39a0a70195205b776aa5ab
+SHA256: e88152261560480cee48bc4d0ca51d44a8e09c93122778c17280d426536bf1ca
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -3586,6 +3586,20 @@ SHA256: 81a6bd67f168a9a2f67e1af28622324b35b4a05b8eca745fcd2e1cdeb786ba2e
 Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
 
+Package: officecli
+Version: 1.0.157
+Architecture: i686
+Maintainer: @termux-user-repository
+Installed-Size: 18076
+Depends: dotnet-host, dotnet-runtime-10.0
+Filename: pool/tur/officecli_1.0.157_i686.deb
+Size: 3749772
+MD5sum: 69222d60c32b78be3fe28a66181e1bad
+SHA1: 340c9fa26d29d15b6c5c8e6c7d845a56ae36678f
+SHA256: 9d892c9147c7807bdfa5ff6ac39aa7b93865e67b81b47322a5383c3c5d562cd7
+Homepage: https://officecli.ai
+Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
+
 Package: ograph-rs
 Version: 0.5.0
 Architecture: i686
@@ -4019,16 +4033,16 @@ Homepage: https://github.com/ssut/payload-dumper-go
 Description: An android OTA payload dumper written in Go
 
 Package: pdfcraft
-Version: 0.6.0
+Version: 0.7.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 56760
+Installed-Size: 60292
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.6.0_i686.deb
-Size: 18019944
-MD5sum: 16a9fa4d4bf7feebaddbcb4efd90562a
-SHA1: af5491e591abdcf8fa1a729ef6fcdbbcc909e43e
-SHA256: 7521e9c5b5d7e400ec0fe56ec9302df434fe6c6c9b6fc7da41f7e72449173a6a
+Filename: pool/tur/pdfcraft_0.7.1_i686.deb
+Size: 19076876
+MD5sum: fa8ce88f1879f8eabd607c98efe70381
+SHA1: 34557b85a023b9ee3ce8cefb5f1d1d3aaa9f428d
+SHA256: f765ffab27263eae33126042ffd98925fd1e058eebb0ce6930612538eaea66d2
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
