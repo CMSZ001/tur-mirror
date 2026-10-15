@@ -882,16 +882,16 @@ Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
 Package: designcraft
-Version: 0.7.1
+Version: 0.8.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 52284
+Installed-Size: 53156
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.7.1_aarch64.deb
-Size: 14109604
-MD5sum: cdb90e6aa28ff74ad573c3d2293f60fb
-SHA1: 62eb8b82fc43c6f3835b067494c4f0746001324a
-SHA256: d75d7d8b08c8326f5ada5140c5013e900225d9b0cd7ed87eb25411ed670f6c8c
+Filename: pool/tur/designcraft_0.8.0_aarch64.deb
+Size: 14351276
+MD5sum: d57fe9736db9a99ae669c50dc71c015e
+SHA1: 49a3ba48ec71b176f915f7776b1f9ccd38606fa0
+SHA256: 8e0d093ae906a26759e0d554814e92080c179490224b5d0a7b0bf8d83764c801
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -3987,6 +3987,19 @@ SHA256: cfd0f51b006b63cd57189f2a8cf3af719e5fdbec8ee1f3cdbf53738c6be06570
 Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
+Package: murex
+Version: 7.3.1232
+Architecture: aarch64
+Maintainer: @everywhereless
+Installed-Size: 17132
+Filename: pool/tur/murex_7.3.1232_aarch64.deb
+Size: 4828056
+MD5sum: 25b4cd76e76e7eb15569a070ce6614ff
+SHA1: ae56fd31feb7e86f85386dac85d45eeda0747501
+SHA256: 06f314e783c3752bf0b610af96bcc5eb16ae4bd084104b3ffb4735984375e10f
+Homepage: https://github.com/lmorg/murex
+Description: Murex: A Smarter Shell
+
 Package: nasm-segelf
 Version: 2.16.01-4-1
 Architecture: aarch64
@@ -4726,16 +4739,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.7.1
+Version: 0.8.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 52692
+Installed-Size: 52940
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.7.1_aarch64.deb
-Size: 15611584
-MD5sum: 35cefac585843e8015a9727619e5ca7b
-SHA1: 05664b54c76538b3fea0b301759a52a46cf42ce7
-SHA256: 8ec3c275f470284a6da8563e999a7d3c5a2cd4b6e315a4502d20c6dd5bd7a524
+Filename: pool/tur/pdfcraft_0.8.0_aarch64.deb
+Size: 15694652
+MD5sum: 5937720710558a846266ab10755d2984
+SHA1: 085ce933ac90ff50f56b1240afaf2bfd18a9b905
+SHA256: c658158e251ddab46eab729cf5fd0d133df0473c5723c0901bb41d7bc93244f9
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
