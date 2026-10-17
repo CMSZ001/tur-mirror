@@ -381,16 +381,16 @@ Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
-Version: 156.0.8078.12
+Version: 157.0.8103.6
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 413264
+Installed-Size: 415856
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_156.0.8078.12_arm.deb
-Size: 56441472
-MD5sum: 87efd2e518320322c1e3a8d3beda1143
-SHA1: 5d69f80d94faa96ef3094029d5d04d8f363a4e8d
-SHA256: 671f5b8af97e15aac76fa0b4426276f42dc05d0612b6cd30e34c31eaaf7d25a1
+Filename: pool/tur/chromium-beta-host-tools_157.0.8103.6_arm.deb
+Size: 56856280
+MD5sum: 80d796c8a3d2691629c837538f67307b
+SHA1: f00ef15079a6acd6f467030885eb9ae3b09a1a06
+SHA256: 0062049fadef881157576db361d2432279908ffed23c9e839d4dda35d851ef65
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -1761,15 +1761,15 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: iris
-Version: 0.7.3
+Version: 0.7.4
 Architecture: arm
 Maintainer: @everywhereless
-Installed-Size: 23860
-Filename: pool/tur/iris_0.7.3_arm.deb
-Size: 6321340
-MD5sum: daf83670df403335a5c2157ea2179bb0
-SHA1: c182c610fbac910c16ca642f53aae968f4ca3580
-SHA256: f01e7d2f8581782eea418bde818d9b37d2fd699a442613ecfb043e8fbc7e2f41
+Installed-Size: 23876
+Filename: pool/tur/iris_0.7.4_arm.deb
+Size: 6325596
+MD5sum: 3d059344e095df726e6846190938a940
+SHA1: 088772ad7aadf58c9b013b0e9b979e9c1e4a4f42
+SHA256: a42963d65162e7f5c7650892635ff07c7e76069122b1989740cb426f4e316ec4
 Homepage: https://github.com/versenilvis/IRIS
 Description: A shell auto-completion tool for your terminal
 
@@ -5848,15 +5848,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.2.79
+Version: 0.3.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 9868
-Filename: pool/tur/rumdl_0.2.79_arm.deb
-Size: 4398720
-MD5sum: 2aa8a6c6b5dd892e91272f28e89e4852
-SHA1: 6770e8ea4c546b2e33709038513bfb39fd068a4e
-SHA256: 7beee9f1e0073f03dc5c3aed9fad7ab5ff7909ea2c5a6fff33ce23cc1f223aeb
+Installed-Size: 10664
+Filename: pool/tur/rumdl_0.3.0_arm.deb
+Size: 4756380
+MD5sum: d76c549a70138490b4daaac8be828267
+SHA1: 0c9bdc7cda2fd445c783eff71c1ed388d393019e
+SHA256: a5568cf6f996f55df5b157fcdde48d5453b6228bac41a63a141f850da8a37c43
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
@@ -6520,16 +6520,16 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vectorcraft
-Version: 0.11.0
+Version: 0.12.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 57544
+Installed-Size: 61572
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/vectorcraft_0.11.0_arm.deb
-Size: 21614852
-MD5sum: fd5013f69db77be155e8fbbbf050afda
-SHA1: 26bd47e034b1cfa4882cf1ae152cc145838e2d23
-SHA256: 414496c38d1b4c8d68f678718cf0bd2a6f1367d336d78303064c5a8c099be2dd
+Filename: pool/tur/vectorcraft_0.12.0_arm.deb
+Size: 22791196
+MD5sum: 0517fe6bbf92b5b22735ebc5be8190c6
+SHA1: ed597cd2ada73b2fb22f8b261c6222aa8e269f80
+SHA256: 5629292979e02ce2a3b12ac7a74e1481e3f57acc82abe6247de3c4083a3e34ed
 Homepage: https://github.com/storytold/vectorcraft
 Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
 
@@ -6665,16 +6665,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.19
+Version: 11.20
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 619480
+Installed-Size: 626452
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.19_arm.deb
-Size: 102402872
-MD5sum: 4474603dfaea10a17aed9ac98deb7849
-SHA1: fec73531fff6d014fa2d07555ccd107a3dac0a5e
-SHA256: aca0d38c0300fb12695581ad7e2f109f839b315c6e81fc2e2077ab15cf3beff9
+Filename: pool/tur/wine-devel_11.20_arm.deb
+Size: 103551468
+MD5sum: fdb011d8c682385bdb9ee1f5827f557e
+SHA1: 54a4645f0bc14f6518f110e82551eaef5982c1e0
+SHA256: 7c2624b882dbee0b24ba5d3685b54cd351397dfa575dd4d0ad145594eda6cd45
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6693,16 +6693,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.19
+Version: 11.20
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 627340
+Installed-Size: 634324
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.19_arm.deb
-Size: 104486456
-MD5sum: 6e666835a5e1047d39f80054b119d4e4
-SHA1: f132119bde30f0e697d3cdd01562b22719735eeb
-SHA256: 87feb0f9d990560fa3561aa0c80f49e31798cd00cd654443411f09e55927b0c8
+Filename: pool/tur/wine-staging_11.20_arm.deb
+Size: 105113440
+MD5sum: 0dde1957756fffe56cd5a7d20be48457
+SHA1: f1fadd23679c9e0e9a323957cb6c6069dc431d40
+SHA256: a8f6af0ef834ac89507e3a67cd56ea5c741dcde5c1e7d9d9b908db036b24a289
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
