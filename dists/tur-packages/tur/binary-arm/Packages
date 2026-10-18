@@ -395,16 +395,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 156.0.8078.12
+Version: 157.0.8103.6
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 1136372
+Installed-Size: 1140796
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_156.0.8078.12_arm.deb
-Size: 211788852
-MD5sum: e63db835691c797a7bd204ee01aa5b5c
-SHA1: 4fbbe5863bab5d4a7ad04dbf6f680437ef848b25
-SHA256: 0d223f9b1d11b09a1e2285b2913552dc34a44cb4fcfbfafe64286ba1552932f5
+Filename: pool/tur/chromium-beta_157.0.8103.6_arm.deb
+Size: 212976356
+MD5sum: 0dadf0c410f3bad6874b3806eef7efec
+SHA1: b39a3e90ce6d6ff0ae6873cd990d643e0f90d455
+SHA256: 668ac076034e6434de33fdd228fefef2b1e26fce65b9f8a609e7e77b60178d62
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -4179,16 +4179,16 @@ Homepage: https://github.com/marcograss/partialzip
 Description: A CLI utility to download file within ZIP archive, without the need to download entire ZIP archive
 
 Package: patchsplit
-Version: 1.3.1
+Version: 1.4.0
 Architecture: arm
 Maintainer: Oliver Lin <oliver@liuxiaozhen.dev>
-Installed-Size: 352
+Installed-Size: 356
 Depends: curl, git
-Filename: pool/tur/patchsplit_1.3.1_arm.deb
-Size: 169752
-MD5sum: 3d7d5cb0c3fbe30f5bbad910f2085733
-SHA1: d1ec1fe0a727b4bd45cbd56fcf39b8531fbe7907
-SHA256: 9fb27517263bb2ef243cb51fe21e4edb142457137122e77e8b7fb4c0ec5f0ae0
+Filename: pool/tur/patchsplit_1.4.0_arm.deb
+Size: 172616
+MD5sum: 5928fcd39a8053fb504ebb175e50bedf
+SHA1: feb73e8ca3ac16ef8d63717eb13f304e561bbfbd
+SHA256: c57c4fb0a8626a329c48efa580cd9eb09395cb5c7f435161f1327958b870d5b2
 Homepage: https://patchsplit.zitzhen.cn
 Description: A CLI tool for splitting patch files into per-commit patches
 
