@@ -190,15 +190,15 @@ Homepage: https://astrometry.net/
 Description: automatic recognition of astronomical images
 
 Package: autobrr
-Version: 1.88.0
+Version: 1.88.0-1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 61236
-Filename: pool/tur/autobrr_1.88.0_i686.deb
-Size: 18059016
-MD5sum: 3cc91e37509eeb8e528e97aeab6f9110
-SHA1: 051f7d535ab35bdccd9d904e8da0de22d546913b
-SHA256: 6aaffeaea97795b37f587f7ae2b1dcae80bb7ffb58a9c175986a4a716420003d
+Installed-Size: 61284
+Filename: pool/tur/autobrr_1.88.0-1_i686.deb
+Size: 18065636
+MD5sum: c3ce00e0a229bfcb30aec3e7167f2ad4
+SHA1: 8f649295d26c20c191dce5cd0a4081fb893e5d60
+SHA256: 4a51469cb66f63e07ef18a3994644e08255ac6a4067cff9ccbb072492230405c
 Homepage: https://autobrr.com
 Description: The modern download automation tool for torrents and usenet
 
@@ -638,16 +638,16 @@ Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
 Package: designcraft
-Version: 0.8.0
+Version: 0.9.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 61732
+Installed-Size: 74684
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.8.0_i686.deb
-Size: 17789264
-MD5sum: 8e3331f21609e4ef7f511d15e1817c1f
-SHA1: 0ab81e259db3e7a18057421a40c2031e889b6606
-SHA256: e74f65283400cbccf80345f2858513bd923d7e127440e2e899a1b87e3bc733a8
+Filename: pool/tur/designcraft_0.9.0_i686.deb
+Size: 21451720
+MD5sum: 181e845e8a45fcea19d8462e60258716
+SHA1: 5577f3e6010a232a4c039113eaa00ea1afd786e9
+SHA256: 08bac30cf460bb97ad40246a600567dd37efd494ae00cdfeb262f48532add52e
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -3614,16 +3614,16 @@ Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
 
 Package: officecli
-Version: 1.0.157
+Version: 1.0.158
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 18076
+Installed-Size: 17932
 Depends: dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/officecli_1.0.157_i686.deb
-Size: 3749772
-MD5sum: 69222d60c32b78be3fe28a66181e1bad
-SHA1: 340c9fa26d29d15b6c5c8e6c7d845a56ae36678f
-SHA256: 9d892c9147c7807bdfa5ff6ac39aa7b93865e67b81b47322a5383c3c5d562cd7
+Filename: pool/tur/officecli_1.0.158_i686.deb
+Size: 3724628
+MD5sum: 0abfa7c810d98fb549c96095d59ab1ec
+SHA1: 92987d24ce0723ba848655a81106eab03848ac63
+SHA256: e368994bb636fb6aa5d9a3d67c5194a360b9583198123caf13d400615aa6cfdf
 Homepage: https://officecli.ai
 Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
 
@@ -4074,16 +4074,16 @@ Homepage: https://github.com/ssut/payload-dumper-go
 Description: An android OTA payload dumper written in Go
 
 Package: pdfcraft
-Version: 0.8.0
+Version: 0.9.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 60588
+Installed-Size: 61868
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.8.0_i686.deb
-Size: 19166580
-MD5sum: cdef61a7944c3d05260ab80c59eee81c
-SHA1: f0af58c2bb0e506c5bbe8b185ac9b635ccb949d3
-SHA256: ab5dc2e9d1b6634f16fcdd5e1a4c00ab4b50d255616ffa18f8dd237150a47d93
+Filename: pool/tur/pdfcraft_0.9.0_i686.deb
+Size: 19592040
+MD5sum: 467c28fd3f6b1003e405d21d443649e6
+SHA1: 1b0711bacccbc2a98b6d1d52b609e669f2cef77f
+SHA256: f7969d38699a5c5d750e8652dcadbabc9fb38ddfb9f0deb011f80d960775147f
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
@@ -7305,6 +7305,19 @@ SHA1: c0b8f35b63173b26180215fff306433308628a8d
 SHA256: e2682c8a26513d740334cb2234fd981853f2e5f0bd0adf22be4cbe15b85b7cb2
 Homepage: https://github.com/nihui/rife-ncnn-vulkan
 Description: A metapackage that provides rife-ncnn-vulkan
+
+Package: rish-shizuku
+Version: 13.6.0
+Architecture: all
+Maintainer: @termux
+Installed-Size: 116
+Filename: pool/tur/rish-shizuku_13.6.0_all.deb
+Size: 28724
+MD5sum: ef5216110a8c48677ae5aa911c0d20c5
+SHA1: 8701859257dcbea07aee26f10251317069ff9fde
+SHA256: 993b802137c887b9393c44ef9df8fa274972287f5cb2b084175b83769e50a96f
+Homepage: https://shizuku.rikka.app
+Description: Run commands with elevated privileges using Shizuku
 
 Package: ruby-ri-2
 Version: 2.7.6-1
