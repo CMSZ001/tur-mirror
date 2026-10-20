@@ -1287,16 +1287,16 @@ Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
 
 Package: ffdec
-Version: 26.3.0
+Version: 26.4.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 23508
+Installed-Size: 25544
 Depends: openjdk-21, openjdk-21-x
-Filename: pool/tur/ffdec_26.3.0_aarch64.deb
-Size: 18652712
-MD5sum: 750c5ba18834f1bf5a6f4d67f8487747
-SHA1: c5bb68abb3be8a7a5d1ace651da422c2b383b341
-SHA256: a3194b4a690cd012262be15a0daa33ecae2c87fb6175d8b779d065dac1212cf6
+Filename: pool/tur/ffdec_26.4.0_aarch64.deb
+Size: 20590772
+MD5sum: d21b1a70f28c7a4e4dafcee72d7825bf
+SHA1: 3d44e6be1f9a43895b45349ac7ab09e00236521b
+SHA256: 17a37c844849064f71fe77d76c24f0fef3c8947b75f29de3493f9048410d956c
 Homepage: https://github.com/jindrapetrik/jpexs-decompiler
 Description: JPEXS Free Flash Decompiler
 
@@ -4160,16 +4160,16 @@ Homepage: https://github.com/jakcron/nstool
 Description: General purpose read/extract tool for Switch dumps
 
 Package: nub
-Version: 0.9.6
+Version: 0.9.7
 Architecture: aarch64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 40072
+Installed-Size: 40132
 Depends: nodejs | nodejs-lts
-Filename: pool/tur/nub_0.9.6_aarch64.deb
-Size: 9849724
-MD5sum: e0023220caeaffb30440f4beccb2320f
-SHA1: 9da26044d4da939123096a5845cd8a7a970c4465
-SHA256: f45851d320b63dbc0fba3f3a885b39157557fb3cdd3aae88972bd7a67c6885e7
+Filename: pool/tur/nub_0.9.7_aarch64.deb
+Size: 9862712
+MD5sum: 5387460386bff7d7bf1851eda2ade84e
+SHA1: de365e09a04f65d61774aa7ad0e048f416d474da
+SHA256: f29e72b607f08362ec5b8d3ac942586e858de81ed6e32c8e69e7b7b12b196394
 Homepage: https://nubjs.com
 Description: The fast all-in-one Node.js toolkit: TypeScript runner, script runner and package manager on top of stock node
 
