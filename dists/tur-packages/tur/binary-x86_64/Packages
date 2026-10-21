@@ -1788,15 +1788,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.6
+Version: 0.2.7
 Architecture: x86_64
 Maintainer: @ancientcatz
-Installed-Size: 22312
-Filename: pool/tur/goat_0.2.6_x86_64.deb
-Size: 6170252
-MD5sum: adad9c97371bf76135148f6f811cc698
-SHA1: 0ea8ce315dcc2aa4f1b95cfd005dbec347eb22cf
-SHA256: 7d4c231b81e70e72afc84cd6e8d4bd0cfe684ca78bd56dd2d60847fbfa14d931
+Installed-Size: 22380
+Filename: pool/tur/goat_0.2.7_x86_64.deb
+Size: 6173452
+MD5sum: e2358cf823c94b4c530e3d263ae36157
+SHA1: a4dca2f59f91d364cafd18e5cb8e4b815eb01063
+SHA256: 581c44da16a585256968824082297bc0465c87f6945e05aafe5b17c48d8650d2
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -4696,16 +4696,16 @@ Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
 Package: photocraft
-Version: 0.10.0
+Version: 0.11.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 68336
+Installed-Size: 69308
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android
-Filename: pool/tur/photocraft_0.10.0_x86_64.deb
-Size: 24016000
-MD5sum: 03c9c5b0d6bd4dcc2d457f35413ee2cc
-SHA1: 37967b52a1a3b17757d47f7857b9ef01adcc5686
-SHA256: 87e05c6949ea7049d358b9d0a2bb107e0fc8fca9aec48f0454353f5cedbf4ff3
+Filename: pool/tur/photocraft_0.11.1_x86_64.deb
+Size: 24317592
+MD5sum: c9d9ead65dfd2f50f95a91ff55e3c77a
+SHA1: f51e788eda8b896149beded91bc0a2d1f9c5a222
+SHA256: 7db7c3b1267fb52383d7040f61abf18ec006a564b592447f901a4bf9659edea2
 Homepage: https://getartcraft.com/apps/photocraft
 Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
