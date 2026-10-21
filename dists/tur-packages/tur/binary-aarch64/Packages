@@ -1062,16 +1062,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.11.1
+Version: 0.13.0
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 67996
+Installed-Size: 68152
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.11.1_aarch64.deb
-Size: 19204644
-MD5sum: 1d878e54ab3be4d3b7973387fff53f61
-SHA1: 8d111aeacd08de2c861e30ea1552e3ef8f5482d0
-SHA256: 64d746827ce34df4f808e7b4e1e35a7edb9f14ca3bd66886ab80911444840d8f
+Filename: pool/tur/effectcraft_0.13.0_aarch64.deb
+Size: 19262680
+MD5sum: 425230a709e39b86e496845efc7fb63b
+SHA1: 25e215f9b87b6428084cf062ee84dc79afa43331
+SHA256: 4e36cbe779b89951c398ad793876e62d780e5276b9ab3ea4ceaabc7d99522e79
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -1359,16 +1359,16 @@ Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
 Package: filmcraft
-Version: 0.9.0
+Version: 0.10.0
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 45948
+Installed-Size: 46180
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/filmcraft_0.9.0_aarch64.deb
-Size: 14227012
-MD5sum: 6ee193374722de2d8c1036308d0e8353
-SHA1: cc80a34cdad20bb6cbce6c183345ab80daf9c37f
-SHA256: 12589ee6c05805cede00bea37874ac91ab9323f0d34d86ac7ff0623304929c8a
+Filename: pool/tur/filmcraft_0.10.0_aarch64.deb
+Size: 14283904
+MD5sum: f80521a3879a7507649ae308323ed400
+SHA1: e48c3105114a04c3a668c2bff893122daa692fb4
+SHA256: 69ee7b8201780ef681fad5123be69b570cdeda8e4379f8d29d578b2219c00b06
 Homepage: https://github.com/storytold/filmcraft
 Description: Native open-source video editor in pure Rust (eframe/wgpu)
 
@@ -3675,16 +3675,16 @@ Homepage: https://launchpad.net/lierolibre
 Description: Old-school earthworm action game
 
 Package: lightcraft
-Version: 0.9.1
+Version: 0.10.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 56932
+Installed-Size: 56844
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/lightcraft_0.9.1_aarch64.deb
-Size: 15127176
-MD5sum: ee3a1cbcbdb02b4ba58d2063312fd9bf
-SHA1: cac89023c008914adc8cff748589d9f9312b0a7c
-SHA256: 83586c063deb1b6dcae03d58b502fa9c7e3e989152d4bc3a6d5813df10ee08a5
+Filename: pool/tur/lightcraft_0.10.0_aarch64.deb
+Size: 15085868
+MD5sum: fd7942d826ef42e57a5895dc26ee4b0e
+SHA1: 24b53ebe4e3e94eff2f1a21b601ddf162cfa208c
+SHA256: 2e3e2014fd2b6dcf5cce2e3c7d3a1b6a1386d581083eef859f8d931a98cbb7d7
 Homepage: https://getartcraft.com/apps/lightcraft
 Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
 
@@ -4767,16 +4767,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.9.0
+Version: 0.10.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 54064
+Installed-Size: 54240
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.9.0_aarch64.deb
-Size: 16059668
-MD5sum: b5669fc4776a5f309e35ea8c18b8f4d5
-SHA1: 83f51f2d3789a079b2883fd6e1fa8bcaeeece0b6
-SHA256: e33457c8dad1699294e757b970b2032a917bd28a6f591367d843b1f0a94b7b98
+Filename: pool/tur/pdfcraft_0.10.1_aarch64.deb
+Size: 16121888
+MD5sum: a5350e5f5fa584bf1fbb22c130b18cbb
+SHA1: 317276d033ab3f9e39743b22b91f0ae6c5566175
+SHA256: 037f0ead48a873721620f1dc4338dd9df1acc309bb056872f5a626e5e1dbee60
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
@@ -6864,16 +6864,16 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vectorcraft
-Version: 0.13.1
+Version: 0.14.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 81832
+Installed-Size: 83532
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/vectorcraft_0.13.1_aarch64.deb
-Size: 22584312
-MD5sum: 2c44962156a5b083e87e64892bc1e512
-SHA1: 1ce4afa3734c689457a8112578fe0770c80bd862
-SHA256: 55b211f736ef664beb075ea3e64eb7ca49e6ae56757670a535384d7291b75ee6
+Filename: pool/tur/vectorcraft_0.14.0_aarch64.deb
+Size: 23263656
+MD5sum: 11c8c8248b0344f525872cef8f4b6890
+SHA1: d7d91ce66f6b1fea109086cb516735bb54b2eeb3
+SHA256: ea1d43e53cdf1827ddafba3393febd2d424a53aea3cbacc58f2fb9ef3c385f61
 Homepage: https://github.com/storytold/vectorcraft
 Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
 
