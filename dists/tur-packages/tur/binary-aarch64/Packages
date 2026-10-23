@@ -3975,16 +3975,16 @@ Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
 Package: moviebox-tui
-Version: 0.1.26
+Version: 0.1.27
 Architecture: aarch64
 Maintainer: @mesamirh
-Installed-Size: 9964
+Installed-Size: 10044
 Depends: openssl, pkg-config
-Filename: pool/tur/moviebox-tui_0.1.26_aarch64.deb
-Size: 3136384
-MD5sum: 7b3d4f4f0cf5b87a65e59cf77cfee67e
-SHA1: dc7106ee0d5c74a9b80563fd61834a20779c3786
-SHA256: 93383f37deac017e7b5a15f99534412b3dc9af1409e6000152b928d80ce920c5
+Filename: pool/tur/moviebox-tui_0.1.27_aarch64.deb
+Size: 3167812
+MD5sum: 963c3388a25283f0905e82dd4b44d110
+SHA1: b8770f8e71b9655affb3873d33c9b0a9a359ae38
+SHA256: f238efc6f5c29bfc75703307459d9ad074ecaab0b0070c095e3e77c3d28c9fbe
 Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
@@ -4767,16 +4767,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.11.0
+Version: 0.12.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 54248
+Installed-Size: 57580
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.11.0_aarch64.deb
-Size: 16129372
-MD5sum: 3e2d10816d69aec89f7cbfced222745f
-SHA1: 7ced3d9b0d6de86fbe278dd54631a191e9e6dd4b
-SHA256: 067e6ed7263d408ac9c338d117c7562a1122c5280036eba75b7fd767892c64b4
+Filename: pool/tur/pdfcraft_0.12.0_aarch64.deb
+Size: 16788944
+MD5sum: 5e8b290615940233cd2f3d2f2e51a30d
+SHA1: e567c2148abb7d2a0382a3b9510b7375baacfe07
+SHA256: a328535920fde5528b2c2f8514999acf84f3fa3473ff57bdadfc36882c34ca91
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
