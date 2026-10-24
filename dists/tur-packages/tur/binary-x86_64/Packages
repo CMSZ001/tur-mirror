@@ -541,16 +541,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 157.0.8103.6
+Version: 157.0.8103.15
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 1228120
+Installed-Size: 1228384
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_157.0.8103.6_x86_64.deb
-Size: 219366056
-MD5sum: 69d7afb1b64c90f43800d81599869e38
-SHA1: 27a207a9a1b197e1457952c299a434d11586b091
-SHA256: c9ca5e219d0f1aeb61290c30c8943bf9bf918b91fdf07b2ac8155018221dd4dd
+Filename: pool/tur/chromium-beta_157.0.8103.15_x86_64.deb
+Size: 219497644
+MD5sum: 04cc207a8bef0d3ad5c1f4afbfff6293
+SHA1: d6d49aa77d05245c8dac5562ae6e6a1e3a02aa22
+SHA256: f8ef3ebc02906fa27c46d29fc2a9840b9ae1a7ede997d3a6bf0003bf1a966ef3
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -623,6 +623,20 @@ SHA1: 94ac7f39f7f882ffe876fa36dfd53100f15bcb79
 SHA256: d86c7edfd3fa15f6eba4acb4e2beec5a38976dee58424bfdaec124724181ac9c
 Homepage: https://llvm.org/
 Description: C language frontend for LLVM
+
+Package: cleanuparr
+Version: 2.10.12
+Architecture: x86_64
+Maintainer: @termux
+Installed-Size: 29592
+Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0, libesqlite3
+Filename: pool/tur/cleanuparr_2.10.12_x86_64.deb
+Size: 8525860
+MD5sum: 9eacf03624bb143ccb56ce99afac0b25
+SHA1: eed35be264a6aab8c4246ec31346eb239c43b8db
+SHA256: 66f3f6118460d264a61f904fbc0875e1db42c9fecf59eed66e4aa317dd98f445
+Homepage: https://cleanuparr.com
+Description: Queue cleaner and management companion for the *arr suite
 
 Package: clucene
 Version: 2.3.3.4-7
