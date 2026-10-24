@@ -526,6 +526,20 @@ SHA256: 0b1ac6995cbcf4532e067a27bf78bea2923c813555e62b1294daac8901d8f026
 Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
 Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
+Package: chromium-beta-host-tools
+Version: 157.0.8103.15
+Architecture: x86_64
+Maintainer: @licy183
+Installed-Size: 431776
+Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
+Filename: pool/tur/chromium-beta-host-tools_157.0.8103.15_x86_64.deb
+Size: 51901724
+MD5sum: 1bce30a28092962f9af1ff83fc604d47
+SHA1: dceac735f19a2253cbb356beb2d9a95faef3293e
+SHA256: fd08bf5fc00f2b42775aa52dde5908adbe5a7ee7c4d6cffb6bd1e351acff6507
+Homepage: https://www.chromium.org/Home
+Description: Chromium web browser (Host tools)
+
 Package: chromium-beta
 Version: 157.0.8103.6
 Architecture: x86_64
@@ -639,16 +653,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.141.1
+Version: 4.143.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 609220
+Installed-Size: 540164
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.141.1_x86_64.deb
-Size: 117272432
-MD5sum: 5ecefe910321890dcfc1aed4fbb4f2f5
-SHA1: c81ca17e77e2f35e131517ec01e0b629485257bd
-SHA256: aa1edb3f35837686ee0edc097fcfcd50c6eb5a116ddaeff54f6773c2e5b3173b
+Filename: pool/tur/code-server_4.143.1_x86_64.deb
+Size: 102576712
+MD5sum: a90532640807554c296f69ad7d614e24
+SHA1: 63a270d3c9e828c1cd11e304f1585b92610f1c69
+SHA256: 04eee080ab5c113ac5c8c9be745f553a3245b10a941a15ba3ca0c48008aeceec
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -761,15 +775,15 @@ Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
 Package: crush
-Version: 0.97.1
+Version: 0.98.2
 Architecture: x86_64
 Maintainer: @ancientcatz
-Installed-Size: 98784
-Filename: pool/tur/crush_0.97.1_x86_64.deb
-Size: 19153088
-MD5sum: bb886cfd33a6f17782c3476f357587b4
-SHA1: 8fde03fcb1d8055d809f89c66e4898119fea33b9
-SHA256: 0e07290af47721f3afbcfca6156cfc009029b431a522bceab78f2a8520a7f35b
+Installed-Size: 99168
+Filename: pool/tur/crush_0.98.2_x86_64.deb
+Size: 19250004
+MD5sum: 58c6a86f56cea9eab41a92fc7ec0b394
+SHA1: efbcba5ea0af8d3c6bd7eb75fda1c6223207090c
+SHA256: d4452fddb71087d099a6b6f62da9327ae12fca5ca5e468b6c6a5ee2dfb220cae
 Homepage: https://github.com/charmbracelet/crush
 Description: The glamourous AI coding agent for your favourite terminal
 
@@ -3935,15 +3949,15 @@ Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
 Package: mp3rgain
-Version: 3.12.0
+Version: 3.12.1
 Architecture: x86_64
 Maintainer: @M-Igashi
 Installed-Size: 2804
-Filename: pool/tur/mp3rgain_3.12.0_x86_64.deb
-Size: 971684
-MD5sum: 7d4c30c1c10efb068c6c3ba5b3aed4b8
-SHA1: 681b4ea52dc58baa4df089f21a417dc6830e9ea4
-SHA256: 0a3ac5e9f88509d7a2724f0a9713c8a5ba8281e2f7079229de7219baba0ee358
+Filename: pool/tur/mp3rgain_3.12.1_x86_64.deb
+Size: 970308
+MD5sum: 49583bb348a48611b6b9be3d3c0063f0
+SHA1: 877271e3e1106d3669f51321697766ec0f37a4ef
+SHA256: eff97b1a3f7fc59017bc2b118e1a6849411fe90fbddd523aae609aafab206025
 Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
@@ -4682,16 +4696,16 @@ Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
 Package: photocraft
-Version: 0.14.0
+Version: 0.15.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 71972
+Installed-Size: 72256
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android
-Filename: pool/tur/photocraft_0.14.0_x86_64.deb
-Size: 25183636
-MD5sum: 0775f0b6ec48917044a22cbda0e4ab01
-SHA1: 566ff982d9656ad0fdde97899cbee24aecc0ed0a
-SHA256: edd6015edd6c864926b6c72b316fc1d4ac9f028b33cb8e9f3f910df1c3127c5e
+Filename: pool/tur/photocraft_0.15.1_x86_64.deb
+Size: 25259200
+MD5sum: 481b2d292ea63a948cd3478757573199
+SHA1: 792f54577cb547770c9afdd346fe8a8341a4ff9c
+SHA256: 1b19a2c8fec850f4cda62d2179996bf37914853a7e5e705da83b6bf1fc68059e
 Homepage: https://getartcraft.com/apps/photocraft
 Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
