@@ -1057,16 +1057,16 @@ Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
 
 Package: ffdec
-Version: 26.4.0-1
+Version: 26.4.0-2
 Architecture: arm
-Maintainer: @TheMightyArie
+Maintainer: @CosmyBeyondStars
 Installed-Size: 25544
 Depends: openjdk-21, openjdk-21-x
-Filename: pool/tur/ffdec_26.4.0-1_arm.deb
-Size: 20592168
-MD5sum: 972db2dc4c1e561126fd564226c04847
-SHA1: b370e98728a4e3c5f4215252314010bf313c51b3
-SHA256: 3a7e5a91291902067a52ca80bc7069f2db15d7a697ea8c3b5d69ebe6ee35def8
+Filename: pool/tur/ffdec_26.4.0-2_arm.deb
+Size: 20591808
+MD5sum: 6639cb3f4d9f60813ee988d3016e6266
+SHA1: 0d52ff193c931793dd2f5fb851b3a50207a7dd18
+SHA256: bb991a474665b678f9165651e6680ad8b364854bba1a7fe9ed9451c07b9ef96c
 Homepage: https://github.com/jindrapetrik/jpexs-decompiler
 Description: JPEXS Free Flash Decompiler
 
@@ -1599,15 +1599,15 @@ Homepage: https://github.com/nametake/golangci-lint-langserver
 Description: Language server for golangci-lint
 
 Package: gomi
-Version: 1.9.0
+Version: 1.9.1
 Architecture: arm
 Maintainer: Zeldris <80939130+zeldrisho@users.noreply.github.com>
-Installed-Size: 15024
-Filename: pool/tur/gomi_1.9.0_arm.deb
-Size: 4076972
-MD5sum: 89f2e6cef68624fa1f84434e55e435eb
-SHA1: 1ef9edc11ea43a2b6c2a73187993cdb4ba4ba6a6
-SHA256: 2545c228ff47e7c63161104d6a84d3d2a95554b42bcce1cac16d21b92db5064b
+Installed-Size: 15080
+Filename: pool/tur/gomi_1.9.1_arm.deb
+Size: 4088304
+MD5sum: 2e0ed8ea032d6bbc2ebf6b8982349247
+SHA1: 2f90cf12c468efeba2ebab84e9cde067c8578e2c
+SHA256: 15efc3632edf0b75d6eedeb886b00bf9ff9cc4066c59482fe77a853f274f7f7d
 Homepage: https://gomi.dev
 Description: Safer alternative to the rm command, with a trash can you can restore from
 
