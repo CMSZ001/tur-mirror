@@ -1843,15 +1843,15 @@ Homepage: https://github.com/nametake/golangci-lint-langserver
 Description: Language server for golangci-lint
 
 Package: gomi
-Version: 1.9.1
+Version: 1.10.0
 Architecture: x86_64
 Maintainer: Zeldris <80939130+zeldrisho@users.noreply.github.com>
-Installed-Size: 16764
-Filename: pool/tur/gomi_1.9.1_x86_64.deb
-Size: 4404412
-MD5sum: 7c8a1ae588fff4ec55fc2c0c395ae135
-SHA1: a170417ea74ad743bf57b49adfbf3bdb6daf5ade
-SHA256: 6a7eb532c4e4942afab9d75a8fca960ae50d1b39372a78ccebadd7a4dde38531
+Installed-Size: 16768
+Filename: pool/tur/gomi_1.10.0_x86_64.deb
+Size: 4405336
+MD5sum: 6fae20561ebae8c46553a67edb985d06
+SHA1: 75fe1e361fedafa3709d68bdca2821c8562985b6
+SHA256: 98d7936904a5669ef85034f4616ce02bffe8fb67b6c33b8116309cb8707c7b37
 Homepage: https://gomi.dev
 Description: Safer alternative to the rm command, with a trash can you can restore from
 
@@ -6785,16 +6785,16 @@ Homepage: https://github.com/bloznelis/typioca
 Description: Cozy typing speed tester
 
 Package: upbrr
-Version: 0.4.0
+Version: 0.4.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 42112
+Installed-Size: 50996
 Depends: ffmpeg
-Filename: pool/tur/upbrr_0.4.0_x86_64.deb
-Size: 11536136
-MD5sum: 06e1822bc0ac2e3c0bc418ff7c39808c
-SHA1: f253e718012fa726c736320e7aef4c381fa40b4e
-SHA256: f8f758700cd161511e08a3524f1f15f11a0e27b6bb25a2e2d322b474dce0b593
+Filename: pool/tur/upbrr_0.4.1_x86_64.deb
+Size: 13584436
+MD5sum: 475e8b6107cdb6e59c70b4120f14258b
+SHA1: b325ee80b949b61e4bf36cfcc0972d785a12247b
+SHA256: 9714c9d703aaeb37b37039cd2ba517af44cbfa0360a81e22727d26b9fd4fc58c
 Homepage: https://upbrr.com
 Description: Guided upload preparation app for private-tracker workflows
 
