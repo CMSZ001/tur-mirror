@@ -1843,15 +1843,15 @@ Homepage: https://github.com/nametake/golangci-lint-langserver
 Description: Language server for golangci-lint
 
 Package: gomi
-Version: 1.10.0
+Version: 1.10.1
 Architecture: aarch64
 Maintainer: Zeldris <80939130+zeldrisho@users.noreply.github.com>
-Installed-Size: 15664
-Filename: pool/tur/gomi_1.10.0_aarch64.deb
-Size: 3872560
-MD5sum: 99a51c34d81b55d8d0f641d132c99c08
-SHA1: 1c61cfe2025f1f2895f39167f9d0b2ca31911a27
-SHA256: 61e303f1f3f14f6ecac9daab29f773e0b6c481d69ebb6810a210e461d3707220
+Installed-Size: 15732
+Filename: pool/tur/gomi_1.10.1_aarch64.deb
+Size: 3882664
+MD5sum: fbeed0b5a9bf57484290157d096b50e6
+SHA1: aa5f8d9f06418f448252e6bd9124816600a4c3ac
+SHA256: 6ec31a6937176325174b4d9404a20fda3411eb3ef30f76c7c828ce88612dbc36
 Homepage: https://gomi.dev
 Description: Safer alternative to the rm command, with a trash can you can restore from
 
@@ -6453,16 +6453,16 @@ Homepage: https://github.com/anza-xyz/agave
 Description: Solana CLI binaries package provides the essential tools to interact with the Solana blockchain, including solana-cli, spl-token, agave-validator etc.
 
 Package: solidity-language-server
-Version: 0.1.36
+Version: 0.1.37
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 11768
+Installed-Size: 11744
 Depends: solidity
-Filename: pool/tur/solidity-language-server_0.1.36_aarch64.deb
-Size: 3216068
-MD5sum: f121f426d419d207d5937b7fd0800ac7
-SHA1: 12fc34e37ea30301cc0ffab5fa21f81b653cd273
-SHA256: 5c2b86a09d6f73e0dc7197aa2860dfdb5aef473d0470f9f5a668d1f97677975a
+Filename: pool/tur/solidity-language-server_0.1.37_aarch64.deb
+Size: 3214280
+MD5sum: e2f055d9b63dc1c655834c6a0b7ed6d3
+SHA1: 3451e6c5cbaab0edfaf7319bdff289599b0f09d3
+SHA256: 375e377d2d1cd7e3cf013c1d2e9d5fc7c2227346eae670dad5f88fe97b4982e9
 Homepage: https://github.com/asyncswap/solidity-language-server
 Description: A fast Solidity language server powered by solc and foundry, written in Rust.
 

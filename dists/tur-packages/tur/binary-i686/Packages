@@ -1473,15 +1473,15 @@ Homepage: https://github.com/nametake/golangci-lint-langserver
 Description: Language server for golangci-lint
 
 Package: gomi
-Version: 1.10.0
+Version: 1.10.1
 Architecture: i686
 Maintainer: Zeldris <80939130+zeldrisho@users.noreply.github.com>
-Installed-Size: 14884
-Filename: pool/tur/gomi_1.10.0_i686.deb
-Size: 4613452
-MD5sum: f8ee8bb71a9344e173ca3044a9572502
-SHA1: b26c49dff96448dad525cc951d5dbfaf3a851265
-SHA256: 08efd849f51526a84b0144885a4fef27bbaf65ce1960a10ada241966312a6e56
+Installed-Size: 14948
+Filename: pool/tur/gomi_1.10.1_i686.deb
+Size: 4619368
+MD5sum: 6ad740ab65f5cc23dde27d04f223b861
+SHA1: d624171d1f65ac4473a3c59e874819037000de3e
+SHA256: f38163a41a7ea00cc971621cda26bd46baf6fe46571cee48ae104ce373adffe8
 Homepage: https://gomi.dev
 Description: Safer alternative to the rm command, with a trash can you can restore from
 
@@ -5956,16 +5956,16 @@ Homepage: https://github.com/pymumu/smartdns
 Description: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH
 
 Package: solidity-language-server
-Version: 0.1.36
+Version: 0.1.37
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 14076
+Installed-Size: 14092
 Depends: solidity
-Filename: pool/tur/solidity-language-server_0.1.36_i686.deb
-Size: 3924192
-MD5sum: 342783e165d2d20d286422ac4c751ead
-SHA1: dc4de74d4d215e8f9ef02f8dd97b4b7d939f328b
-SHA256: c029a5eeafa3f6b4de16e0b35fd714b2cc12eafbbf4148bda333280b1d0d54fc
+Filename: pool/tur/solidity-language-server_0.1.37_i686.deb
+Size: 3934828
+MD5sum: 2a8e6e68bab165bac9c27a1fa09b6341
+SHA1: 5c8d4faf4d02eac1988719103b62bde609142409
+SHA256: eac46abba80b9d79102183d13bbd1be24c9e05ac201f3da93252df13f1d1a631
 Homepage: https://github.com/asyncswap/solidity-language-server
 Description: A fast Solidity language server powered by solc and foundry, written in Rust.
 
