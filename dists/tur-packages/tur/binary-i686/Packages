@@ -1432,15 +1432,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.7
+Version: 0.2.8
 Architecture: i686
 Maintainer: @ancientcatz
-Installed-Size: 20644
-Filename: pool/tur/goat_0.2.7_i686.deb
-Size: 6483984
-MD5sum: d026b08b972c56ed338ccec88d2956d7
-SHA1: ea44f5d35b71b30635049022fad803bd38fe885f
-SHA256: b6a2e16b7c5a582a530075f087fbd5e611be678e89a4e99e76679bfdb1deae2c
+Installed-Size: 20596
+Filename: pool/tur/goat_0.2.8_i686.deb
+Size: 6482040
+MD5sum: 69dec677f219298db06db4e2369f5bb4
+SHA1: ec1abdabbd92599a81c9f2908092acffffcd0193
+SHA256: 318907419c1a7a7ae3424acbaf5de30ca15d503a80b6543e31da290adaf696a8
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -3397,15 +3397,15 @@ Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
 Package: mp3rgain
-Version: 3.13.0
+Version: 3.14.0
 Architecture: i686
 Maintainer: @M-Igashi
-Installed-Size: 2992
-Filename: pool/tur/mp3rgain_3.13.0_i686.deb
-Size: 1088988
-MD5sum: b74f827a84ab1e168c128b71d38612a6
-SHA1: 88c3693e8b816cabf033663caee3d98ca297552c
-SHA256: f9631a8c2dd12e062c864fbc95bacee4ff9270f3ae880de1e20d2b803cd0e6f4
+Installed-Size: 3012
+Filename: pool/tur/mp3rgain_3.14.0_i686.deb
+Size: 1095188
+MD5sum: 72a44087e3b56da5fab64da8d1fcadfc
+SHA1: 18bee073b25ec086789eb8e0159a861c3cee451d
+SHA256: 4587255c99ca30cbb6f98669b70568e7eab80020ad0ee8c0e5c57e7dd6d31353
 Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
