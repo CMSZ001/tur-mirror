@@ -2059,15 +2059,15 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: iris
-Version: 0.7.4
+Version: 0.7.5
 Architecture: x86_64
 Maintainer: @everywhereless
-Installed-Size: 26384
-Filename: pool/tur/iris_0.7.4_x86_64.deb
-Size: 6975888
-MD5sum: 5562d9b2f9dbdc85fd82ebae76871580
-SHA1: 7aaa28a79fcf5aa7ee201785ce67a87a1f83dd20
-SHA256: 003e61a00488d6eb4c6768de7583a830b14f123f20e983483d45c114449540f9
+Installed-Size: 26388
+Filename: pool/tur/iris_0.7.5_x86_64.deb
+Size: 6979420
+MD5sum: 947887086702c070fcdc2921d76d6e09
+SHA1: 239cbcc72a01825d0982e0c42d09f8a27f8a1d2a
+SHA256: bca94a7701aa298423cf7e3be71596d9ff7426b5db555272ea7e1b50b72c0ae4
 Homepage: https://github.com/versenilvis/IRIS
 Description: A shell auto-completion tool for your terminal
 
@@ -3908,16 +3908,16 @@ Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
 Package: mongodb-compass
-Version: 1.53.1
+Version: 1.53.2
 Architecture: x86_64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 74112
+Installed-Size: 74376
 Depends: electron42, krb5, libx11
-Filename: pool/tur/mongodb-compass_1.53.1_x86_64.deb
-Size: 15455456
-MD5sum: 55191cd3bb7cf354a082e32ddb277528
-SHA1: 3af4b4c83a97f23c96f2ebeee550713542fb14ea
-SHA256: aa7709c5844028d906533d1435f4ecc249697eb049cd094abacfe56509346549
+Filename: pool/tur/mongodb-compass_1.53.2_x86_64.deb
+Size: 15469496
+MD5sum: ee8e15d5165c31988fbb22c40dd1c17b
+SHA1: 007967081e80f0abfc040848cc87edd497181b54
+SHA256: 9d2cb09f39e181f58404437aaf527692dc59482f2ae00aabd160f485c399e395
 Homepage: https://www.mongodb.com/products/tools/compass
 Description: The GUI for MongoDB
 
