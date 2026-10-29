@@ -532,15 +532,15 @@ Homepage: https://www.freedesktop.org/wiki/Software/cppunit
 Description: A C++ unit testing framework
 
 Package: crenox
-Version: 2.1.10
+Version: 2.1.11
 Architecture: i686
 Maintainer: @KhaledHani
-Installed-Size: 9936
-Filename: pool/tur/crenox_2.1.10_i686.deb
-Size: 3345520
-MD5sum: 192ef63a5c27f4567c2201836e85cabf
-SHA1: ade39badd0bf86b036a46a93a7a1b731677c02b8
-SHA256: 7318c55d1e80e2f3d599ebea0226a55a30ca7551ccdd8a70147c7807da05ff85
+Installed-Size: 9956
+Filename: pool/tur/crenox_2.1.11_i686.deb
+Size: 3352896
+MD5sum: 4df82a009fd1c49b26a1440dfbcebd57
+SHA1: 00b01b9ce3638b71811ec579470b256c3f7a021f
+SHA256: 21d0adfc1642135e8e39deb4765ae6a5ea77ee7663b5219f14289cc929da7494
 Homepage: https://github.com/crenoxhq/crenox
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
@@ -1218,32 +1218,32 @@ Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-15
-Version: 15.2.0-1
+Version: 15.3.0
 Architecture: i686
 Maintainer: @licy183
-Installed-Size: 289752
+Installed-Size: 289868
 Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 27b-3)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-15_15.2.0-1_i686.deb
-Size: 81133384
-MD5sum: 244f5ed6c7ec95bc581d63ec20baba88
-SHA1: fefaca67ccd3a3481249b60ecd762834c8471d81
-SHA256: 4b9933617154f1ec8cc7fdbda479e1d1bf466a18ae6b16fa24a923f874aca150
+Filename: pool/tur/gcc-15_15.3.0_i686.deb
+Size: 81560200
+MD5sum: 597c0cb2f10b555b05d9bf6e7a136c43
+SHA1: 1c12c9dfded86194682bd21300f09334d4226136
+SHA256: e29d8719761699cb25064dfe10e837cbb69a60cd157de675d7664cb77d609771
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
 Package: gcc-16
-Version: 16.1.0
+Version: 16.2.0
 Architecture: i686
 Maintainer: @licy183
-Installed-Size: 302864
+Installed-Size: 305092
 Depends: binutils, libc++, libgmp, libmpfr, libmpc, libisl, zlib, ndk-sysroot-gcc-compact (>= 27b-3)
 Breaks: binutils-is-llvm
-Filename: pool/tur/gcc-16_16.1.0_i686.deb
-Size: 85993996
-MD5sum: 51c5325de982e78a30f3a0f109c04afb
-SHA1: 3ed0c62fc4e9241ff1e2d0025a81dbbefa869003
-SHA256: 8af4e7f0c0c917644f8a917b154ed956d0d551a5b80dc7998e477e27303a2862
+Filename: pool/tur/gcc-16_16.2.0_i686.deb
+Size: 87226656
+MD5sum: e9fd72c85f3f95626c301684d834fe24
+SHA1: 3117308fc4c6206f27bc86288594701fbbfc6826
+SHA256: 1bae966ef85a34eff68d3f5090a04320f5460add5e52104887a05108fc1cbdb9
 Homepage: http://gcc.gnu.org/
 Description: GNU C compiler
 
@@ -4274,16 +4274,16 @@ Homepage: https://github.com/esheldon/fitsio
 Description: A python package for FITS input/output wrapping cfitsio
 
 Package: python-hf-xet
-Version: 1.7.0
+Version: 1.7.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 8368
+Installed-Size: 8376
 Depends: libc++, python
-Filename: pool/tur/python-hf-xet_1.7.0_i686.deb
-Size: 2920396
-MD5sum: 970984328056a45de7f0b4d3f5a2b6a0
-SHA1: 769d19fdf1de83680a561b16e1c12f730f6e53df
-SHA256: 0e2a1bf3837485cbb96cc40ebf85bd0dd82d3f32f47254ad1282e17bee941129
+Filename: pool/tur/python-hf-xet_1.7.1_i686.deb
+Size: 2928572
+MD5sum: dc851bf0a15a7b8aea24726af7fcd9a4
+SHA1: c52dc340c97b2ff37bae232baf774f25d2fcb8d6
+SHA256: 36d1b9d7d72ba6544ef6ae511423403c552f0889cdba39bf3298231d56e30479
 Homepage: https://github.com/huggingface/xet-core
 Description: Fast transfer of large files with the Hugging Face Hub
 
@@ -5700,15 +5700,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.3.1
+Version: 0.3.2
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 19680
-Filename: pool/tur/rumdl_0.3.1_i686.deb
-Size: 6181564
-MD5sum: dfc6e604505ea5ea7c030b64097ec32f
-SHA1: 4649d90691808ca448ba58ef9b0b8f7b6c1f50b0
-SHA256: d2ce3a1471258aadc0d8f42ba59f777612d6e224984adeed288e27eeda161961
+Installed-Size: 19712
+Filename: pool/tur/rumdl_0.3.2_i686.deb
+Size: 6193500
+MD5sum: af6bedf9ebc1f4162ec90487ec81ec9a
+SHA1: e515cd1d0125777ad3c09357ade621ba4b78ab66
+SHA256: 83147c59f57a2ce6a9288963df8f809f76e4b2c425970b8fc83920b698fab647
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
