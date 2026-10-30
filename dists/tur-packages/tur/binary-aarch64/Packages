@@ -667,16 +667,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.143.1
+Version: 4.144.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 540676
+Installed-Size: 548824
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.143.1_aarch64.deb
-Size: 102502792
-MD5sum: 9cc3afe647b7e52329b66eb45ebed383
-SHA1: ca6dc53a2a26208fac633e8caa9f57765998f498
-SHA256: 04e97dbba98634dc70385a5e7ef387abbe2d2f6b6bed94ed0a3cf5373d1cefcc
+Filename: pool/tur/code-server_4.144.0_aarch64.deb
+Size: 103957472
+MD5sum: 14901e4986cbf1d170774cf9e0fc4b0d
+SHA1: c35720417fcdff045589130b8302c97c9d904236
+SHA256: e430714d373450fd51db8bda901189927cd426771cac0bb5897a8abc8110004c
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -4981,18 +4981,18 @@ Homepage: https://github.com/huggingface/xet-core
 Description: Fast transfer of large files with the Hugging Face Hub
 
 Package: python-is-python3.10
-Version: 3.10.15
+Version: 3.10.22
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 36
-Depends: python3.10 (= 3.10.15)
+Installed-Size: 40
+Depends: python3.10 (= 3.10.22)
 Conflicts: python
 Breaks: python
-Filename: pool/tur/python-is-python3.10_3.10.15_aarch64.deb
-Size: 2144
-MD5sum: 7ac02c4fbb1a687dcc1ec2503760743c
-SHA1: 2dd8536c9890d6a0fdfe4df36f54bb2c3817d9f6
-SHA256: 7ea906e1f154e30d7e7fcc1bb64d45f1fe2160b8a2ae4115ec0a60a24a7948ad
+Filename: pool/tur/python-is-python3.10_3.10.22_aarch64.deb
+Size: 2224
+MD5sum: 7dd18bd7708d9c8173af060338e1c315
+SHA1: 1de140c3f94d0e2deca7bbefa5cac8c1c4c01271
+SHA256: 3dcca30400b20022fa2daec535af14fb97af45e4485529d0d29d2e743a297457
 Homepage: https://python.org/
 Description: Symlinks python(3) to python3.10
 
@@ -5013,34 +5013,34 @@ Homepage: https://python.org/
 Description: Symlinks python(3) to python3.11
 
 Package: python-is-python3.12
-Version: 3.12.15
+Version: 3.12.16
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 32
-Depends: python3.12 (= 3.12.15)
+Depends: python3.12 (= 3.12.16)
 Conflicts: python
 Breaks: python
-Filename: pool/tur/python-is-python3.12_3.12.15_aarch64.deb
-Size: 1052
-MD5sum: 48803e410aaa37ff54351da05718b5e8
-SHA1: dd70185f7c3c36d46398fe68c70e8ecc5bec52eb
-SHA256: 5dc0fe97f95759139ac9a58d063f3ac29ec5c79baa9731ceccd6eb46ee4103bc
+Filename: pool/tur/python-is-python3.12_3.12.16_aarch64.deb
+Size: 1056
+MD5sum: 1b620af36b393dfb9b08796c4c6d954e
+SHA1: f4c61faebacf8998a851ec8f92d91613b9a77041
+SHA256: 8219cc8e4004add61f25fbf0e6b7179782b6bf1ef33d73e0bc89bae168d51147
 Homepage: https://python.org/
 Description: Symlinks python(3) to python3.12
 
 Package: python-is-python3.13
-Version: 3.13.17
+Version: 3.13.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 40
-Depends: python3.13 (= 3.13.17)
+Depends: python3.13 (= 3.13.18)
 Conflicts: python
 Breaks: python
-Filename: pool/tur/python-is-python3.13_3.13.17_aarch64.deb
-Size: 2232
-MD5sum: 7cd5e37667152a9b82d4a46691cc43fe
-SHA1: 3bcfa69dbe97415a7b4f68ddca5008e196e1e2f1
-SHA256: 37f79630ad19652c46ffb94ee40dd679838bc0472628295732bcd069835703c8
+Filename: pool/tur/python-is-python3.13_3.13.18_aarch64.deb
+Size: 2228
+MD5sum: ac1c6c8c38e7106821979ea8fa5c4ffc
+SHA1: ef7a3120690ed8247868a902e47130daf3b2b342
+SHA256: 3e9f04c1bf52ca6f9ebb8922d018c5b0c6f155a1173779e2ed8f68bca4407130
 Homepage: https://python.org/
 Description: Symlinks python(3) to python3.13
 
@@ -5450,60 +5450,60 @@ Homepage: https://github.com/yt-dlp/yt-dlp
 Description: A youtube-dl fork with additional features and fixes
 
 Package: python3.10-cross
-Version: 3.10.15
+Version: 3.10.22
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 247620
-Filename: pool/tur/python3.10-cross_3.10.15_aarch64.deb
-Size: 41015572
-MD5sum: f3fae269e492d1347813289ffb2691b6
-SHA1: c0dcbccd795e1e070248d3fe473f034ee1ff21c8
-SHA256: 21ed53a3fe8a4f1a812ccbc25050817899212dd2de76feda47936f2bf0724f85
+Installed-Size: 157964
+Filename: pool/tur/python3.10-cross_3.10.22_aarch64.deb
+Size: 33447588
+MD5sum: 6e31a5062641c1fbfb8f2acd94116222
+SHA1: bbf5516e0aa845e38cbd25702a9804e84de06ad4
+SHA256: 7a3591240c379d568b242160fe89064b058593a7cc1b9a323779fae522327037
 Homepage: https://python.org/
 Description: Python 3.10 for cross build on the host (NOT for Termux)
 
 Package: python3.10-static
-Version: 3.10.15
+Version: 3.10.22
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 24380
-Depends: python3.10 (= 3.10.15)
-Filename: pool/tur/python3.10-static_3.10.15_aarch64.deb
-Size: 4155580
-MD5sum: cf6c401d576b5ed76e4274c6a05b45e9
-SHA1: f3ee8ed551d3a0d03db2813ea1492a8d8edf888f
-SHA256: 1543612b228a5fec8f028f955e332eaf36f7c1bc1eb4a5704771d4202e2bbce5
+Installed-Size: 24628
+Depends: python3.10 (= 3.10.22)
+Filename: pool/tur/python3.10-static_3.10.22_aarch64.deb
+Size: 4195852
+MD5sum: 072b03887cd89d2ddc5e2b25cb683ab6
+SHA1: cd9174b79b10a0e7e3339dea305c97bc49a4eba5
+SHA256: 36246f2de60bb7238d003a2e555566b43690a93a1e05e2659afccf5301a71cf7
 Homepage: https://python.org/
 Description: Static libraries for python3.10
 
 Package: python3.10-tkinter
-Version: 3.10.15
+Version: 3.10.22
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 8164
-Depends: tk, python3.10 (= 3.10.15)
-Filename: pool/tur/python3.10-tkinter_3.10.15_aarch64.deb
-Size: 986044
-MD5sum: e11d84befb06b74fe2db9d22062f61ca
-SHA1: 3a6b9fbcaa9c65021b9d9a6c5e7f07ddf8449aec
-SHA256: 83bd70e6712b713e7106b8df26ae3128e81f8d939d774b27ee6e48cc00b84914
+Installed-Size: 2692
+Depends: tk, python3.10 (= 3.10.22)
+Filename: pool/tur/python3.10-tkinter_3.10.22_aarch64.deb
+Size: 514696
+MD5sum: b3eeeb7936c37b02e2e44c68e30adf68
+SHA1: 152e355a00700e0e42c99a5a5a5d01da15279913
+SHA256: c1aa76a9fe7ee2f3fbc58ce7e612865a44f1bf5d7ba20cb20f4a5d85dedc60ba
 Homepage: https://python.org/
 Description: Tkinter support for Python 3.10
 
 Package: python3.10
-Version: 3.10.15
+Version: 3.10.22
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 49556
+Installed-Size: 25240
 Depends: gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
 Recommends: clang, make, pkg-config
 Suggests: python3.10-tkinter
 Breaks: python2 (<= 2.7.15)
-Filename: pool/tur/python3.10_3.10.15_aarch64.deb
-Size: 9321260
-MD5sum: 91195b954bb9a3b51b5ec4dd70a33aa0
-SHA1: 5b20e66c3f14c4710113929b6155f77218023073
-SHA256: 95556d2b108ebd73693ba599c95cbd46c3bab3059b245d6e18cc28594a1389bf
+Filename: pool/tur/python3.10_3.10.22_aarch64.deb
+Size: 7323596
+MD5sum: 0dbdcfe8128c04f386f57fd5993692ab
+SHA1: 5db87c71dfff7ef0962aa43e39dafba6815d5f22
+SHA256: ac74448f0fae62b5bab285a41bc1e666d48726fc326d22075379c060a665b337
 Homepage: https://python.org/
 Description: Python programming language intended to enable clear programs (version 3.10)
 
@@ -5564,114 +5564,114 @@ Homepage: https://python.org/
 Description: Python programming language intended to enable clear programs (version 3.11)
 
 Package: python3.12-cross
-Version: 3.12.15
+Version: 3.12.16
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 236220
-Filename: pool/tur/python3.12-cross_3.12.15_aarch64.deb
-Size: 44866772
-MD5sum: dd7c1cd1ae4c73cedd789bb7be56f907
-SHA1: 180f3ebdf812f77ca5273d6cb16ef88cc54b2c65
-SHA256: 2c6aa0f129a940eeb193bca79e4457e5e9df709f543b28d98cc50e78550a655d
+Installed-Size: 236260
+Filename: pool/tur/python3.12-cross_3.12.16_aarch64.deb
+Size: 44864020
+MD5sum: e69020aa8f90c6ccdbadd961dbf41f12
+SHA1: f4cf02f9d8e77e7886c8a29f8d0b8d4f09c654c8
+SHA256: 760614f5cbdbe81f8233d0971433dd824da5e7290ed47d341806a9c98c48d4e5
 Homepage: https://python.org/
 Description: Python 3.12 for cross build on the host (NOT for Termux)
 
 Package: python3.12-static
-Version: 3.12.15
+Version: 3.12.16
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 47156
-Depends: python3.12 (= 3.12.15)
-Filename: pool/tur/python3.12-static_3.12.15_aarch64.deb
-Size: 6778816
-MD5sum: 673e7e512b96f57814272e5cf7e9b53f
-SHA1: 3ff7bc853754dac2f1195938e3f9e27e814142fd
-SHA256: 5d7e9609069cfcf652c39ce5218a5dbd9c1eae30e1e4a7ba1f4ae35af5426d14
+Depends: python3.12 (= 3.12.16)
+Filename: pool/tur/python3.12-static_3.12.16_aarch64.deb
+Size: 6772412
+MD5sum: 5a7d6d00369169bda3587c12a7874daa
+SHA1: 9ea52aa018d725577a27df76193cd62109912446
+SHA256: 3f57ae4461b0f59dc4f3bc99d3636af1a7aeab129d7320d50e0772e6e9de5f8d
 Homepage: https://python.org/
 Description: Static libraries for python3.12
 
 Package: python3.12-tkinter
-Version: 3.12.15
+Version: 3.12.16
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 2692
-Depends: tcl, tk, python3.12 (= 3.12.15)
-Filename: pool/tur/python3.12-tkinter_3.12.15_aarch64.deb
-Size: 518168
-MD5sum: c3c02ca28338f73a4f330c7200f45290
-SHA1: d20b15fc6aa2740d4aa9acb6bb7dc3dc1d98251a
-SHA256: b69c5b5dfd40a191bb982977e9116226622e5c60443a8aca717009ff886a4a43
+Depends: tcl, tk, python3.12 (= 3.12.16)
+Filename: pool/tur/python3.12-tkinter_3.12.16_aarch64.deb
+Size: 518112
+MD5sum: 536452c1f43a84f36a1b872e06a9cf58
+SHA1: a4b60269fdbabbea263089aff02cd2712d871e9c
+SHA256: 930a0c335610e4581109945747c128f147dca3d1df492bb97bf922f1a0485e76
 Homepage: https://python.org/
 Description: Tkinter support for Python 3.12
 
 Package: python3.12
-Version: 3.12.15
+Version: 3.12.16
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 27320
+Installed-Size: 27328
 Depends: gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
 Suggests: python3.12-tkinter
-Filename: pool/tur/python3.12_3.12.15_aarch64.deb
-Size: 6287496
-MD5sum: 086b96fed74d947b7950dd68e12ff3dd
-SHA1: 981ad162449b01c6428706f33ba8bc76342e3a30
-SHA256: 7adc7979354861d480e9844d2a96cf3e95a02f06e067aff77564c7f10b3ad0ad
+Filename: pool/tur/python3.12_3.12.16_aarch64.deb
+Size: 6289252
+MD5sum: 5ee13d765a98e28f55ce9d6d33910a46
+SHA1: dfa72eb49e0130ea634e55331c07f5b4e25f5f0e
+SHA256: 668652ccc0927ea9c39367dd905d4b28236ac011cac8763558772e30b28c6a06
 Homepage: https://python.org/
 Description: Python programming language intended to enable clear programs (version 3.12)
 
 Package: python3.13-cross
-Version: 3.13.17
+Version: 3.13.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 255136
-Filename: pool/tur/python3.13-cross_3.13.17_aarch64.deb
-Size: 48989756
-MD5sum: cbae653ae873127ae2c8805325f31ff5
-SHA1: 28da99fbb1574deab1862ba3c6a059cb02be19e1
-SHA256: 9f131488a18875357c4c567ba528b9cd8bec3d53e7ad48d97e9702a523e2be66
+Installed-Size: 255180
+Filename: pool/tur/python3.13-cross_3.13.18_aarch64.deb
+Size: 49003428
+MD5sum: 6af5ea30c9def3c40670b41099c3de62
+SHA1: 7550978ff89bb200bedb2308b255b476b5f0eea6
+SHA256: aa890caf1dc911c2cc11ca0727aba43e3e7e24f47c56f7e85e3d6c175a6ec403
 Homepage: https://python.org/
 Description: Python 3.13 for cross build on the host (NOT for Termux)
 
 Package: python3.13-static
-Version: 3.13.17
+Version: 3.13.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 49888
-Depends: python3.13 (= 3.13.17)
-Filename: pool/tur/python3.13-static_3.13.17_aarch64.deb
-Size: 7379088
-MD5sum: c66f46268bce4344d095aef88025cf92
-SHA1: 022d6e50101cdbda775fa1392688be99b5070bcd
-SHA256: 26df6199db1981f7dfa53bd67d5588c24d6258e563e5fa06260adf9e056d4861
+Depends: python3.13 (= 3.13.18)
+Filename: pool/tur/python3.13-static_3.13.18_aarch64.deb
+Size: 7375436
+MD5sum: d628899c1d48cdf26b64379a91b0ac95
+SHA1: 355f3c6a79d1d5113baadc9dc2e09660f294b8c0
+SHA256: 181e633ed2479d6b2296fc62ba665bc388adade6c19bd21663aa7a65f40474e1
 Homepage: https://python.org/
 Description: Static libraries for python3.13
 
 Package: python3.13-tkinter
-Version: 3.13.17
+Version: 3.13.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 2700
-Depends: tcl, tk, python3.13 (= 3.13.17)
-Filename: pool/tur/python3.13-tkinter_3.13.17_aarch64.deb
-Size: 520348
-MD5sum: 4d6b5b4cd8e5b2cf7474bec5c071d9b1
-SHA1: e96e417b91369ce9926b6a0238f1fee383dfa15d
-SHA256: da2659449dabc20e1fca51bec305ac82121c1d023b82680cb10c50db2256eda6
+Depends: tcl, tk, python3.13 (= 3.13.18)
+Filename: pool/tur/python3.13-tkinter_3.13.18_aarch64.deb
+Size: 520268
+MD5sum: 68ce4871f33b429e88efce4e8d75a1e8
+SHA1: 638b7ffddcf58e456402803f281fc7fc84c18aa5
+SHA256: a215a7ae567f618d4e950df1c9ee4ae374f77cbdd97af04acb0b8fd99201922e
 Homepage: https://python.org/
 Description: Tkinter support for Python 3.13
 
 Package: python3.13
-Version: 3.13.17
+Version: 3.13.18
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 26488
+Installed-Size: 26500
 Depends: gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
 Suggests: python3.13-tkinter
-Filename: pool/tur/python3.13_3.13.17_aarch64.deb
-Size: 6334548
-MD5sum: 943df0607b4de00f6b83a85dea891ec9
-SHA1: f4d1d87eddb35665f644f97ff1a7ea9b2ab1abc4
-SHA256: de984381fbcf32a83e8cfd5b7a443f574c98c045d597b7db80d1c3e65f4244af
+Filename: pool/tur/python3.13_3.13.18_aarch64.deb
+Size: 6333764
+MD5sum: 9eadb2b4e959ea3c96aabf7cc449af5b
+SHA1: 70fe27e21e1a639adfb96216c31a627fdb380399
+SHA256: a78e8ec7be1d642e6c56feb6127468ebe924525f4e1aefbda1272f32541da8ee
 Homepage: https://python.org/
 Description: Python 3 programming language intended to enable clear programs
 
