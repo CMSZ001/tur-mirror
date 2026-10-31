@@ -652,16 +652,16 @@ Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
 Package: designcraft
-Version: 0.14.0
+Version: 0.15.2
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 90908
+Installed-Size: 92672
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.14.0_i686.deb
-Size: 25214372
-MD5sum: fe0e6b95b3ccbabe311943d863072caa
-SHA1: b92447277d7bb11df40b3c57cb08e375af314375
-SHA256: bff77a37fbc3dd0c509df19f83a16b44f636bb8ee4728c137a53919f2dc8fdf7
+Filename: pool/tur/designcraft_0.15.2_i686.deb
+Size: 25669588
+MD5sum: a93bafee9a4294c2d1f07141a134826d
+SHA1: 7336afb814530b5d5a011e4a1b6ce0b0227bd79e
+SHA256: 47297115f4b558c25275b94b7a36d89a8bd4d4e18982d9e46b7814b064b70d6d
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -818,16 +818,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.18.0
+Version: 0.19.0
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 92104
+Installed-Size: 99792
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.18.0_i686.deb
-Size: 27577096
-MD5sum: f985d247f429c1f3728b920d5c4bdfdd
-SHA1: d9e272de27f439508ced665ec722edee820a182c
-SHA256: 8651bb748bd76634a4fc523573e29d3d88171a442dbd3825b24c52b2a1cd7fc9
+Filename: pool/tur/effectcraft_0.19.0_i686.deb
+Size: 29534992
+MD5sum: 586ef45f43b6487697e08d0bbefb5495
+SHA1: 8ddf0715384dfb6b8ffeac5b4759ea7e12a2ff7b
+SHA256: 7ccbe017c004e4b78c38aa98841fab877f01960ceafa2a7fe5b693c9dc2ec5bf
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -1003,16 +1003,16 @@ Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
 Package: filmcraft
-Version: 0.14.0
+Version: 0.15.0
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 66332
+Installed-Size: 67096
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/filmcraft_0.14.0_i686.deb
-Size: 20514976
-MD5sum: 788c471c054c40dff6ca914dec686ba6
-SHA1: 26898ea2faa4c2162fbacc30502de66966f1003a
-SHA256: 41d379ff540c08b877f872e7932012d71a51595d0ecd8778be5e7be24d0fa86a
+Filename: pool/tur/filmcraft_0.15.0_i686.deb
+Size: 20638056
+MD5sum: c89bf1359469125a92525fbdefac71ae
+SHA1: ebb995989643314fc9f91be56de829d8d903c7af
+SHA256: b2eea29002a840bdf441996ec8ee8990cfeb9683da54302dcb3d05360736e66a
 Homepage: https://github.com/storytold/filmcraft
 Description: Native open-source video editor in pure Rust (eframe/wgpu)
 
@@ -3125,16 +3125,16 @@ Homepage: https://launchpad.net/lierolibre
 Description: Old-school earthworm action game
 
 Package: lightcraft
-Version: 0.15.0
+Version: 0.16.0
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 82324
+Installed-Size: 82428
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/lightcraft_0.15.0_i686.deb
-Size: 21960628
-MD5sum: edbc6b975a6f5077373f2ce66d1b2f4c
-SHA1: 86e91460e717c9ad0215e3c2da358f523dcd5b55
-SHA256: 350ed3bd9f3f0ce4383273138f78372d5499b833ee1d3dfa5f768e591afa3c89
+Filename: pool/tur/lightcraft_0.16.0_i686.deb
+Size: 22017100
+MD5sum: d6bccb391235a6e9e9a0f923f5c53f13
+SHA1: 6241cb3292c060533c26d3986e376ebf91595e98
+SHA256: ef8f2f93ae4c55b6f24cfdc208339c3b30ac1e85997ee2a090ee00a09707d7ef
 Homepage: https://getartcraft.com/apps/lightcraft
 Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
 
@@ -3397,15 +3397,15 @@ Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
 Package: mp3rgain
-Version: 3.14.0
+Version: 3.15.0
 Architecture: i686
 Maintainer: @M-Igashi
-Installed-Size: 3012
-Filename: pool/tur/mp3rgain_3.14.0_i686.deb
-Size: 1095188
-MD5sum: 72a44087e3b56da5fab64da8d1fcadfc
-SHA1: 18bee073b25ec086789eb8e0159a861c3cee451d
-SHA256: 4587255c99ca30cbb6f98669b70568e7eab80020ad0ee8c0e5c57e7dd6d31353
+Installed-Size: 2988
+Filename: pool/tur/mp3rgain_3.15.0_i686.deb
+Size: 1090696
+MD5sum: 87d7aaf27926e456b90201e670a9cc8c
+SHA1: 906506d6cdcb659081f6254e21e48bd39bdbe115
+SHA256: a9cbfcb43bccdbc3269b50547f67f0e85ecd279ccc84b0d20e35d326239ac0be
 Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
