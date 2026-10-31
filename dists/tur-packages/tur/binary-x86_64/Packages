@@ -4091,32 +4091,32 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
 Package: nodejs-22
-Version: 22.22.1
+Version: 22.23.4
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 141312
+Installed-Size: 139188
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-22_22.22.1_x86_64.deb
-Size: 24526112
-MD5sum: e5471d9f600ef7d263e25b714e5dab6f
-SHA1: 0e75193d1fc64ab549e51bc06c31134a8f5aa816
-SHA256: 285a64678945c87d80618eeb16d109b6023488fe233d0c265bcd5999e41218d0
+Filename: pool/tur/nodejs-22_22.23.4_x86_64.deb
+Size: 24653324
+MD5sum: 82072b44281bf97d5faee15b3d2934be
+SHA1: f3598e02e23f8949323681c7844c02474f7aaf8f
+SHA256: 1fba165984ccaffaebfb7e18c5e34fa835dbe6298d1c0e22d3dd62624f659ce0
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 22)
 
 Package: nodejs-24
-Version: 24.18.0
+Version: 24.22.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 132032
+Installed-Size: 133504
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-24_24.18.0_x86_64.deb
-Size: 24093024
-MD5sum: da32df0f2a8a16e6a64ada2d32a71121
-SHA1: 7a720d014371fdaea8541c33f1326f37cf53d9e0
-SHA256: 79f92e082dda484cbd7842e4e415c95869806cbd8bca01e17ef6764fe7c5d16e
+Filename: pool/tur/nodejs-24_24.22.2_x86_64.deb
+Size: 24415768
+MD5sum: e59c4c0a9047b7abc624b37ba5afc2a2
+SHA1: 8b52126e762977601e73cc12766a4f6242172ea9
+SHA256: 20573609477079c4f134e30b96d2c50020e3ea64cb263b4a772939e66df9f288
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
@@ -4696,30 +4696,30 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.15.0
+Version: 0.16.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 72276
+Installed-Size: 73436
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.15.0_x86_64.deb
-Size: 20626724
-MD5sum: 08e12c7c8980182997974360d9e8727a
-SHA1: 5d438822b5e42a03b361e8398276dd6686ebb10b
-SHA256: db5a3376b9f139e1ac70a5f8c9d8d493444c0026c1a89d23a9a3d231563e639a
+Filename: pool/tur/pdfcraft_0.16.1_x86_64.deb
+Size: 20973556
+MD5sum: ccb007e9dcaadbc3ae9faa72d678af7a
+SHA1: d557fd800f86093bc6d78be5550fdbd6398cfb88
+SHA256: 20e05a2734baa2b57978dd4646b8108e9a8871f4993e7a747159b0ef6cf27eae
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
 Package: photocraft
-Version: 0.17.0
+Version: 0.18.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 83284
+Installed-Size: 84952
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/photocraft_0.17.0_x86_64.deb
-Size: 28249292
-MD5sum: 06f3c86df1930bb535ed15f908007cbb
-SHA1: 72cad7259bafb1c23f44418953d38d2e39cceb83
-SHA256: b7351a01aba12375f17dfe7dd04b00583fbba733ed81873d45e2cd833e7b857c
+Filename: pool/tur/photocraft_0.18.0_x86_64.deb
+Size: 28804452
+MD5sum: 2a5fffa57dde640c044c1c2de9c985a4
+SHA1: fcbbe6938230d8a5754a172cf9b1374fd7fa84bc
+SHA256: c1fb48e5db470eca56201f6878f01f7a5a5e48da25920a3eab5b02b8412ef55d
 Homepage: https://getartcraft.com/apps/photocraft
 Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
@@ -6812,16 +6812,16 @@ Homepage: https://uutils.github.io/
 Description: Cross-platform Rust rewrite of the GNU coreutils
 
 Package: vectorcraft
-Version: 0.18.0
+Version: 0.19.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 106088
+Installed-Size: 110756
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/vectorcraft_0.18.0_x86_64.deb
-Size: 30697560
-MD5sum: b5949e079c7eb044bef68fa0ca0b7a08
-SHA1: 9980dbd6fb7ee8ac720670cbdd608fb61326f9ae
-SHA256: 6f126b7af146b503c91105623b0ef659588940332c3e066fa6c0a832a61785bd
+Filename: pool/tur/vectorcraft_0.19.0_x86_64.deb
+Size: 31749644
+MD5sum: aacf25a8b100683e4edc3adea72c39d5
+SHA1: 30be24313ed7da0ec16fd6102df1052a27bdf731
+SHA256: c43e5a73cffde3854d9396f4fb7766738585e296d2bc5b88f2196bd4a18b315d
 Homepage: https://github.com/storytold/vectorcraft
 Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
 
@@ -6957,16 +6957,16 @@ Homepage: https://github.com/neilbrown/wiggle
 Description: A program for applying patches that patch cannot apply because of conflicting changes
 
 Package: wine-devel
-Version: 11.20
+Version: 11.21
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1279004
+Installed-Size: 1281136
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-devel_11.20_x86_64.deb
-Size: 204505920
-MD5sum: 6ee74a8937edaf56d226f5acb4ba1002
-SHA1: c1b7d55b34ffc4496485ecc91dd3464d81547d60
-SHA256: 79e851fc9d56dbce1ec26dff61ce2ff273842c8f5b3d6b441dad4e1993749205
+Filename: pool/tur/wine-devel_11.21_x86_64.deb
+Size: 204487076
+MD5sum: a57898b854f7f356b2f185e1e0d28635
+SHA1: 0de226a090d12b735565ff641bf4b957d4491738
+SHA256: 94b5e9ef84613da8284ed52ea77e90fdd49b1b4014e9347111a3631d8f3b9137
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
@@ -6985,16 +6985,16 @@ Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
 Package: wine-staging
-Version: 11.20
+Version: 11.21
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 1289872
+Installed-Size: 1292136
 Depends: fontconfig, freetype, krb5, libandroid-spawn, libc++, libgmp, libgnutls, libxcb, libxcomposite, libxcursor, libxfixes, libxrender, opengl, pulseaudio, sdl2 | sdl2-compat, vulkan-loader, xorg-xrandr
-Filename: pool/tur/wine-staging_11.20_x86_64.deb
-Size: 206769552
-MD5sum: 62681c7e893bbf9cbf443c372732a691
-SHA1: 573beac6759041b5f97fe6c5be02bdb06ae97cd5
-SHA256: c70fbfda1a47f0f48f7ef64f24d93f199516e42c49dfa6c4aff99a2ea5da846b
+Filename: pool/tur/wine-staging_11.21_x86_64.deb
+Size: 207139072
+MD5sum: 1e5db87d58e8be27dc6cdeb1486213df
+SHA1: 20d53ab1a9de59c3cda18803eeafd2fd75ffac98
+SHA256: f9ce9596249bc65e3e42b3c14a30ee1a271271ae8bee0a2f5124740b592f4a53
 Homepage: https://www.winehq.org/
 Description: A compatibility layer for running Windows programs
 
