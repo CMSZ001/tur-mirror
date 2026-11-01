@@ -3673,17 +3673,17 @@ Homepage: https://github.com/nl2sh/nl2sh
 Description: Android-first natural-language shell agent with a local safety boundary
 
 Package: nodejs-12
-Version: 12.18.3-2
+Version: 12.22.12
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 105512
+Installed-Size: 104764
 Depends: libc++, openssl-1.1, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-12_12.18.3-2_arm.deb
-Size: 18568004
-MD5sum: 46535e97623b5c7eec976586f82eca5e
-SHA1: d98deffbad4e272f38b9c34466cb5ea18f6d32ce
-SHA256: 956fbf1a5ca471f1c67c934c0f5f3ba0657dd2f56085383455efdbb604d0d636
+Filename: pool/tur/nodejs-12_12.22.12_arm.deb
+Size: 18555432
+MD5sum: 16a1f30f169810612f61f0b4e2209f31
+SHA1: 50b9e348b73268bf472fef93a691a27e50b04d30
+SHA256: 5024291149da8cfad545eadda9b1e71931b47f1558e20f68400796678ec93dfb
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 12, EOL at Apr 05, 2022)
 
@@ -3718,17 +3718,17 @@ Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment (Version 18, EOL at Mar 27, 2025)
 
 Package: nodejs-20
-Version: 20.18.1-2
+Version: 20.20.2
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 97360
+Installed-Size: 99616
 Depends: libc++, openssl, c-ares, zlib
 Suggests: clang, make, pkg-config, python
-Filename: pool/tur/nodejs-20_20.18.1-2_arm.deb
-Size: 19310904
-MD5sum: 06d2f8b145dfdeb1bb011029b7127d71
-SHA1: aafb09458c1b4b125e60fcfc7004354cb441dce2
-SHA256: d8229ea1b1e2ef493a23f6428f7cde363866cb4abf711d4ddb67ab0e49cd125e
+Filename: pool/tur/nodejs-20_20.20.2_arm.deb
+Size: 19825884
+MD5sum: e6f64f1a37934b7e176136e12a2ff50e
+SHA1: b61d166d036e4298bcd493564ee499587007f45e
+SHA256: 1779912fed9e8bfe024156508ec412b6dfa56add7bd2a54efd89e3764efe556c
 Homepage: https://nodejs.org/
 Description: Open Source, cross-platform JavaScript runtime environment
 
