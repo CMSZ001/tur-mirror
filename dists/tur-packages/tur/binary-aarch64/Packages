@@ -277,21 +277,6 @@ SHA256: cbbcba563b5627ac9a2953a6732aaf991153fb646f420bb399bb7e9a1b84d652
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 9)
 
-Package: bazel
-Version: 9.2.0-1
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 85596
-Depends: libarchive, openjdk-21, patch, unzip, zip
-Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel_9.2.0-1_aarch64.deb
-Size: 37020500
-MD5sum: 80c29f4a8b09898f662eb1f57c23bcc0
-SHA1: 38294b9e209d29b010e40744ca1e7fe69defae16
-SHA256: aa440ce8bfa605d4b9032094c995f978420bf80feae7675d3bb815976aba9c54
-Homepage: https://bazel.build/
-Description: Correct, reproducible, and fast builds for everyone
-
 Package: beekeeper-studio
 Version: 6.2.0-1
 Architecture: aarch64
@@ -347,21 +332,6 @@ SHA1: a46064332ce37e6d0a4811e883a368300719fa29
 SHA256: 1173ebbad1da551173fd5d08fc28ef6394348ba50f4b3bbc8909e2e69221f6bb
 Homepage: https://github.com/hr3lxphr6j/bililive-go
 Description: A live streaming recording tool
-
-Package: biome2
-Version: 2.4.9
-Architecture: aarch64
-Maintainer: @AhmadNaruto
-Installed-Size: 49752
-Conflicts: biome
-Replaces: biome
-Filename: pool/tur/biome2_2.4.9_aarch64.deb
-Size: 10571036
-MD5sum: 6ca31825e06b0f7ceb8d2c79ff7d7af5
-SHA1: a47ce2a4bb3177e9c2a3ed25c4c1097b34b361f4
-SHA256: ea489bed0d404ba39919281a75b07f3e2c51ac4d50ac7c4cab6007c166410d1e
-Homepage: https://github.com/biomejs/biome
-Description: A toolchain for web projects with a formatter and linter, usable via CLI and LSP
 
 Package: biome
 Version: 1.9.4-2
@@ -459,19 +429,6 @@ SHA256: dd15e9a18a82183302895064d091d7102110c080a0f37cee19001a4abb2ef9c3
 Homepage: http://www.brow.sh/
 Description: A fully-modern text-based browser, rendering to TTY and browsers
 
-Package: bun
-Version: 1.4.0-3
-Architecture: aarch64
-Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 85652
-Filename: pool/tur/bun_1.4.0-3_aarch64.deb
-Size: 23702036
-MD5sum: e14d23d8e6d264c9b2fc9c4f3767a7d9
-SHA1: 91a42744669d5f613c7550c55742562e01fdae39
-SHA256: 0408c760444e73a021678491600d87e5d230cf619b80e9dc60d6e3e397d7d3ed
-Homepage: https://bun.com
-Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
-
 Package: catspeak
 Version: 1.2.3
 Architecture: aarch64
@@ -511,20 +468,6 @@ SHA1: 390f375947d59bdbf5aa540fa650b87d8cf5170a
 SHA256: 4ad022c5464c4b739f9428cd9ef3533b86069b4f26ac266bd89727bed9e0a836
 Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
-
-Package: cfitsio
-Version: 4.6.4
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 1852
-Depends: curl, zlib
-Filename: pool/tur/cfitsio_4.6.4_aarch64.deb
-Size: 464268
-MD5sum: 5109b3b252ce58692d76f41e6227d114
-SHA1: a7536c8fecdfcbec0b4027b3509e991de0c79436
-SHA256: 3f2fa79479c9262d18e67423b12dfe822e571b64e27592fa5f1757ab7c47edb0
-Homepage: https://heasarc.gsfc.nasa.gov/fitsio/
-Description: a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format
 
 Package: chromium-beta-host-tools
 Version: 157.0.8103.15
@@ -827,20 +770,6 @@ SHA256: 4edfbab7485366731e29a9093fec6a9973bf04887967e2cac14230dfde1204c0
 Homepage: https://www.jwz.org/dadadodo
 Description: A program that analyses texts for word probabilities, and then generates random sentences based on that
 
-Package: darktable
-Version: 5.6.1
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 25428
-Depends: exiv2, gdk-pixbuf, glib, graphicsmagick, gtk3, imath, json-glib, lensfun, libandroid-glob, libavif, libc++, libcairo, libcurl, libheif, libicu, libjpeg-turbo, libjxl, libllvm, libpng, libpugixml, librsvg, libsqlite, libtiff, libwebp, libxml2, littlecms, ltrace, lua54, openexr, openjpeg, pango, portmidi, potrace, zlib
-Filename: pool/tur/darktable_5.6.1_aarch64.deb
-Size: 4658252
-MD5sum: a7c1022af3b884b7b154249053d7dd21
-SHA1: ea85551517ff3296b47e668b6bb2006aae37be62
-SHA256: 71cb47bf7a892558734d6584d45328591b08e108c10028d08521ed9f1c9b1323
-Homepage: https://www.darktable.org/
-Description: Virtual lighttable and darkroom for photographers
-
 Package: davegnukem
 Version: 1.0.3
 Architecture: aarch64
@@ -1102,21 +1031,6 @@ SHA1: 9262edaaaf455673f86ed32b76689d75aa7d57d1
 SHA256: fe543164bc9621c6b0d52746ea53cae11b3b14b922613b0c26835693aad75805
 Homepage: http://sourceforge.net/projects/efte
 Description: Advanced lightweight configurable editor
-
-Package: eigen5
-Version: 5.0.1
-Architecture: aarch64
-Maintainer: @termux
-Installed-Size: 20996
-Breaks: eigen-dev
-Replaces: eigen-dev
-Filename: pool/tur/eigen5_5.0.1_aarch64.deb
-Size: 1977728
-MD5sum: 1de0dc55e38adc1d801075cb35fb79e2
-SHA1: e4b32ac5346e30998698c6c24509b35b79c2fe1f
-SHA256: db35edde88ad18972a885e8aa628d04d130c96222e995225c0bc00758d9e00bc
-Homepage: http://eigen.tuxfamily.org
-Description: Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms (Version 5)
 
 Package: electron-jumbo-host-tools
 Version: 34.5.1
@@ -2017,19 +1931,6 @@ SHA256: 6abbd9d78911c3bae58ade53156f1364df4536d4957f5ad37e71e02cd8c29fe6
 Homepage: https://github.com/termux-user-repository/tur
 Description: Dummy test for TUR
 
-Package: hurl
-Version: 8.0.1
-Architecture: aarch64
-Maintainer: @SunPodder
-Installed-Size: 7020
-Filename: pool/tur/hurl_8.0.1_aarch64.deb
-Size: 1803532
-MD5sum: 392fbcc55029f6925f4f262a78fbeddf
-SHA1: b139c0b83359518f9cc42423da3a5a0902258dab
-SHA256: 7e514a4b3e6c190c0d4a38e7406efd9f2f67eb6945f4f813b3d0fc258a1b5dd3
-Homepage: https://github.com/Orange-OpenSource/hurl
-Description: Hurl, run and test HTTP requests with plain text
-
 Package: hurrican
 Version: 1.0.9.3-r780.3f4bfd3-0
 Architecture: aarch64
@@ -2125,20 +2026,6 @@ SHA256: f4108dc49158a0e3c8bf106386080635fc2751520362d4dad935af887d7bf444
 Homepage: https://owasp.org/www-project-juice-shop/
 Description: A modern and sophisticated insecure web application
 
-Package: jujutsu
-Version: 0.35.0
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 18400
-Suggests: openssl
-Filename: pool/tur/jujutsu_0.35.0_aarch64.deb
-Size: 5264780
-MD5sum: 63e5895c1ce7f74fb06a738d7ee97f59
-SHA1: 27ef99c39db2e0d0009bf368485f49e80dbd3af3
-SHA256: ceaa241bd1b767736201978fc29ef4b9b88ce02c900cf24f26b00d4dcaf36ae6
-Homepage: https://jj-vcs.github.io/jj/
-Description: A Git-compatible VCS that is both simple and powerful
-
 Package: keyfinder-cli
 Version: 1.1.5
 Architecture: aarch64
@@ -2232,20 +2119,6 @@ SHA1: 5868060868ca5d1d54485f12d3c4749bb87f7885
 SHA256: 9dd759dde9a320c487691ed759198d334b0ae73a8a0935f2afabb35381824247
 Homepage: https://gitlab.com/protesilaos/lemonbar-xft
 Description: Lightweight status bar with Xft support (Protesilaos fork)
-
-Package: lensfun
-Version: 0.3.4-1
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 4604
-Depends: glib, libpng, libxml2
-Filename: pool/tur/lensfun_0.3.4-1_aarch64.deb
-Size: 395656
-MD5sum: 83b919b59cd560562f8396306f154832
-SHA1: 706db5d7d845e775a115af2da47c3d7e8835a270
-SHA256: cb217323ba7aee0ca2ef8686e6ee87c69e4f3d072db2cf415db1d6f0350e3d45
-Homepage: https://lensfun.github.io/
-Description: Lensfun
 
 Package: lfortran-llvm
 Version: 0.15.0
@@ -4275,20 +4148,6 @@ SHA256: ce383665d821dd7ebdb07328a5449ed80dc8cfddc4b107d9d0c1a7da2c79ae4d
 Homepage: https://git.average.name/AverageHelper/ograph-rs
 Description: A simple command-line utility to extract and print OpenGraph metadata from a given URL.
 
-Package: oils
-Version: 0.38.0
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 1644
-Depends: libandroid-glob, readline, libc++
-Filename: pool/tur/oils_0.38.0_aarch64.deb
-Size: 431952
-MD5sum: 4d5c8adb7eddc1268d8b277aa1bb3232
-SHA1: 5f46e911bfe78a3f8687a476654e4587dbeab5ab
-SHA256: 72add362c81a8a3e64c8312ed07b565d12ba012805673aa1212f4939e374d7ba
-Homepage: https://oils.pub/
-Description: Oils for Unix: OSH and YSH shells
-
 Package: open-vcdiff-static
 Version: 0.8.4.git20190311
 Architecture: aarch64
@@ -4923,20 +4782,6 @@ SHA1: 9876dd76c715dc340fe1b8c6aead44cf6f0e6a96
 SHA256: 441371170d8e69ac521d0f84032ff76b6001375cf4d63b0431029a55ffe3e1cd
 Homepage: https://github.com/google/brotli
 Description: lossless compression algorithm and format (Python bindings)
-
-Package: python-cairo
-Version: 1.26.1-3
-Architecture: aarch64
-Maintainer: @fervi
-Installed-Size: 596
-Depends: python, libcairo
-Filename: pool/tur/python-cairo_1.26.1-3_aarch64.deb
-Size: 104960
-MD5sum: 246132398f9a644314a73ced658afeb2
-SHA1: 0d62d2278fd286ca75209e1eb7da15f4b39f5cc2
-SHA256: 15460c6816992571b03f05846d3e1372f5b1d4dc01fb59586a576c5f70d04cf7
-Homepage: https://cairographics.org/pycairo
-Description: This package contains modules that allow you to use the Cairo vector graphics library in Python3 programs.
 
 Package: python-cryptography
 Version: 38.0.1
@@ -6699,19 +6544,6 @@ SHA256: 2457abf49cb96ffb5bd4acd3f98aacbf7f50f70fc06b6239f41ec4aef9852fc1
 Homepage: https://github.com/fastcat/tarix
 Description: A helper utility for indexing tar archive to ease random access
 
-Package: television
-Version: 0.15.9
-Architecture: aarch64
-Maintainer: @everywhereless
-Installed-Size: 7368
-Filename: pool/tur/television_0.15.9_aarch64.deb
-Size: 2367480
-MD5sum: 962d3bbc4254bf414f4915d3fc553f8d
-SHA1: a915821323aa6bfd2bda20977b7b85a3923ecefd
-SHA256: e0fbae6a8bf50b6665fdbaa4a550943d5556b65d0df9470419465bce1fef77e7
-Homepage: https://github.com/alexpasmantier/television
-Description: A very fast, portable and hackable fuzzy finder
-
 Package: termbot
 Version: 20220902
 Architecture: aarch64
@@ -6864,19 +6696,6 @@ SHA256: 9374bb9376cdfdf6e60209597ce1ea907403a6391dfaacdae5241d7f6cc9b59d
 Homepage: https://upbrr.com
 Description: Guided upload preparation app for private-tracker workflows
 
-Package: uutils-coreutils
-Version: 0.10.0-1
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 1224580
-Filename: pool/tur/uutils-coreutils_0.10.0-1_aarch64.deb
-Size: 356233728
-MD5sum: 34b7ae039790884721c3b65b06859ec9
-SHA1: ca8fae7a010209d4489dd6f6b0f6f9199db6e54f
-SHA256: fefa1f418ca9c9a3d61793ee9a540299f22cadf817959a301044e24e70ede9fd
-Homepage: https://uutils.github.io/
-Description: Cross-platform Rust rewrite of the GNU coreutils
-
 Package: vectorcraft
 Version: 0.19.0
 Architecture: aarch64
@@ -6993,20 +6812,6 @@ SHA1: d3859b1e387cd7319154b8bc6d0c1a87497be621
 SHA256: b07b93a8ecf06895927e09e1b5076c9dd5474cff0344052c39624fb4c7753b5b
 Homepage: https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/
 Description: Static libraries for wcslib
-
-Package: wcslib
-Version: 8.2.2
-Architecture: aarch64
-Maintainer: @termux-user-repository
-Installed-Size: 12236
-Depends: cfitsio
-Filename: pool/tur/wcslib_8.2.2_aarch64.deb
-Size: 2407612
-MD5sum: b3c3921ec7704b51c6c26f5014c9cd4a
-SHA1: 5df3abce024d7b659286a5ae30b301e1f058b12a
-SHA256: 36ee7260d7cfed5ec4401be05e3f9f8a049d5a84cbb0d11e769b95b9c2e097a9
-Homepage: https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/
-Description: a C library that implements the 'World Coordinate System' (WCS) standard in FITS
 
 Package: wiggle
 Version: 1.3
@@ -7358,32 +7163,6 @@ SHA1: 17226912faf8f7d02b9a8d0c81544e161f77ac53
 SHA256: bd82850e47a58b351f8d476b9135547987c0f72b5e20a4f96e477d8aa6d52eb5
 Homepage: https://github.com/ddclient/ddclient
 Description: Update dynamic DNS entries for accounts on many dynamic DNS services
-
-Package: dgbaodev-repo
-Version: 1.0.3
-Architecture: all
-Maintainer: @Dichvucoder
-Installed-Size: 132
-Filename: pool/tur/dgbaodev-repo_1.0.3_all.deb
-Size: 3168
-MD5sum: fe51bc629dc4d4c1c2954461280fac4a
-SHA1: 66fd379cd0cf58e3abede9626b56af1fbd8f29ec
-SHA256: 2dcf6948f4e850957836caebc946d86455871c1f1f486adb13a8d107ecfbee2e
-Homepage: https://repo.dgbaodev.com
-Description: Community repository maintained by Dichvucoder
-
-Package: dichvucoder-repo
-Version: 1.0.3-1
-Architecture: all
-Maintainer: @Dichvucoder
-Installed-Size: 132
-Filename: pool/tur/dichvucoder-repo_1.0.3-1_all.deb
-Size: 3188
-MD5sum: 5685b7c1d3341f5f477031bc24ac168a
-SHA1: 57e9c0f205e2d9802d5107cecaec700607283ac8
-SHA256: 7446f2f99f946b43e8eddedccb8458e1ef44e40d3160859e54911740eb157c05
-Homepage: https://repo.dgbaodev.com
-Description: Community repository maintained by Dichvucoder
 
 Package: djstub-cross
 Version: 0.9-2-1
