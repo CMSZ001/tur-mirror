@@ -1,0 +1,14 @@
+Package: designcraft
+Version: 0.16.0
+Architecture: i686
+Maintainer: @termux-user-repository
+Installed-Size: 93144
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/designcraft_0.16.0_i686.deb
+Size: 25742932
+MD5sum: dd0b2d04047c598120501bece125f13e
+SHA1: a703bb122b1341dc31a601a0a9487d66c9434516
+SHA256: 2da181bf2a00a425654abf57641d56422733410300b9096ceb1833a20a8874f1
+Homepage: https://getartcraft.com/apps/designcraft
+Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
+

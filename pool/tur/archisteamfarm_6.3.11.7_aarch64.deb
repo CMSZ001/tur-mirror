@@ -1,0 +1,14 @@
+Package: archisteamfarm
+Version: 6.3.11.7
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 23468
+Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0
+Filename: pool/tur/archisteamfarm_6.3.11.7_aarch64.deb
+Size: 6199988
+MD5sum: 3616799e35c7af7fea652d546ac8e99e
+SHA1: fc79f9dc7c36f6f6e05f7199d0d69025971c2486
+SHA256: 168563b06dc44e2f3a3759e24bd3e7d14e819acd94c30606c461ae9ace88bda3
+Homepage: https://github.com/JustArchiNET/ArchiSteamFarm
+Description: C# application that allows you to farm steam cards using multiple steam accounts simultaneously
+
