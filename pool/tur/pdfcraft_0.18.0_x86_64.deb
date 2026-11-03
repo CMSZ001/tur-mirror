@@ -1,0 +1,14 @@
+Package: pdfcraft
+Version: 0.18.0
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 74116
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/pdfcraft_0.18.0_x86_64.deb
+Size: 21187120
+MD5sum: 108746c9a71912056020d571b305a852
+SHA1: 1392803097ded5d4034782f1097dee1cd2022893
+SHA256: 0cbefffef08388883b39a991a999948bd4a4d48adf012f98a93c59585f1c1960
+Homepage: https://getartcraft.com/apps/pdfcraft
+Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
+

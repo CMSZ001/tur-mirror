@@ -1,0 +1,14 @@
+Package: filmcraft
+Version: 0.17.0
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 45356
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
+Filename: pool/tur/filmcraft_0.17.0_arm.deb
+Size: 18282976
+MD5sum: e6fefafe7f618555d24958d18e91dc90
+SHA1: a515e0911b9bfda933cd052672a48e8fc7c8ae7c
+SHA256: bc434e8ff7dae43a87403463557ffaf52e8416923c354b3bcf9545899aca921f
+Homepage: https://github.com/storytold/filmcraft
+Description: Native open-source video editor in pure Rust (eframe/wgpu)
+

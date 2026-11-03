@@ -1,0 +1,14 @@
+Package: photocraft
+Version: 0.20.1
+Architecture: i686
+Maintainer: @termux-user-repository
+Installed-Size: 89880
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/photocraft_0.20.1_i686.deb
+Size: 30956024
+MD5sum: 87db7c7c69be8b2915e058740aa96260
+SHA1: 2b4be88f6ac293a90b3b4c55d57afa67ef4bd785
+SHA256: fd8524ec547a4e2ce77e29780f132ad8d594c144d8b8eb86e73a6a1add0db306
+Homepage: https://getartcraft.com/apps/photocraft
+Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
