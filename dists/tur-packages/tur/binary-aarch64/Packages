@@ -3876,16 +3876,16 @@ Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
 Package: moviebox-tui
-Version: 0.1.28
+Version: 0.1.29
 Architecture: aarch64
 Maintainer: @mesamirh
-Installed-Size: 10080
+Installed-Size: 10088
 Depends: openssl, pkg-config
-Filename: pool/tur/moviebox-tui_0.1.28_aarch64.deb
-Size: 3179500
-MD5sum: 80865977cffb1fa88d3196c9d8f0022e
-SHA1: c9b5592a8047b7a21cd37cffb8e0c896e33ead33
-SHA256: 991c4565205f4b9059d1ff00d8282d6cfed7147722444eb6a98699a716b766f2
+Filename: pool/tur/moviebox-tui_0.1.29_aarch64.deb
+Size: 3184100
+MD5sum: 47e06c84cab07310a638a14af9953f58
+SHA1: 1ea6bc1759fc1f5bffa7fe0ca0babccfc1f23890
+SHA256: 42956d0d335a60666c1366d3ce7a4c94bea8babdbf76e4d5f7dadbedff56d756
 Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
@@ -6216,15 +6216,15 @@ Homepage: https://github.com/sentinel-cli/sentinel
 Description: Statically compiled, zero-dependency Git pre-commit secret detector
 
 Package: shadowenv
-Version: 3.5.2
+Version: 3.6.0
 Architecture: aarch64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 3772
-Filename: pool/tur/shadowenv_3.5.2_aarch64.deb
-Size: 1072836
-MD5sum: 69ef1d47a6c20cb12d07d9fd5990c1e8
-SHA1: 6348e4b98b5dec97f3466ca975cab9a87f040d27
-SHA256: d129bd75091aae7765a83a0397124e676056390b142e028e1c54be7647e4a0d4
+Installed-Size: 3088
+Filename: pool/tur/shadowenv_3.6.0_aarch64.deb
+Size: 860604
+MD5sum: bfd3aa685f173d52d1fd27c3c2cc56d1
+SHA1: 3643102260c587f67fbf2f2609ca302249b5c23c
+SHA256: 29083c3ac0a9d50fdcadb7844bdac0c92a8f0fa2e30ed37bbfee6e4b03bb9378
 Homepage: https://shopify.github.io/shadowenv/
 Description: Reversible directory-local environment variable manipulations
 
