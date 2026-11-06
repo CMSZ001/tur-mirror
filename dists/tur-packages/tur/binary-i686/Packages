@@ -1402,15 +1402,15 @@ Homepage: https://github.com/sweetbbak/go-moreutils
 Description: coreutils with some more modern features, written in go
 
 Package: goat
-Version: 0.2.8
+Version: 0.2.9
 Architecture: i686
 Maintainer: @ancientcatz
-Installed-Size: 20596
-Filename: pool/tur/goat_0.2.8_i686.deb
-Size: 6482040
-MD5sum: 69dec677f219298db06db4e2369f5bb4
-SHA1: ec1abdabbd92599a81c9f2908092acffffcd0193
-SHA256: 318907419c1a7a7ae3424acbaf5de30ca15d503a80b6543e31da290adaf696a8
+Installed-Size: 20920
+Filename: pool/tur/goat_0.2.9_i686.deb
+Size: 6602860
+MD5sum: c8854fd6decaf657512f9a6d97b24ae1
+SHA1: a2c9c024bbdfded4aa1dda60aa2281bbf8dea38d
+SHA256: da89dd2e6290144e1e57e356d332eac91b366f0756a776536e62da7af22d7bdc
 Homepage: https://github.com/bluesky-social/goat
 Description: Go AT protocol CLI tool
 
@@ -6127,6 +6127,21 @@ SHA1: b324c3ce8da6b91d74bd21c7890ece5488797ca6
 SHA256: f411250cdd246c26c651f1d472c0a51ac8ee50af04a05a20716951c46d3da839
 Homepage: https://github.com/stsp/thunk_gen
 Description: thunk generator for C and assembler
+
+Package: tlrc
+Version: 1.13.1
+Architecture: i686
+Maintainer: @everywhereless
+Installed-Size: 2772
+Conflicts: tealdeer
+Replaces: tealdeer
+Filename: pool/tur/tlrc_1.13.1_i686.deb
+Size: 1029488
+MD5sum: 33d3b72e02d814961b895dc855627917
+SHA1: 4033660be0f64bb1da9d592eb427fa91d159c4a3
+SHA256: 6199e78b16dde8e2ecd000bd34fcb7f24d77d6951da317815d7401fbe6f04628
+Homepage: https://github.com/tldr-pages/tlrc
+Description: Official tldr client written in Rust
 
 Package: tmux-sixel
 Version: 3.4
