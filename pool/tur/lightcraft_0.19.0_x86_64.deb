@@ -1,0 +1,14 @@
+Package: lightcraft
+Version: 0.19.0
+Architecture: x86_64
+Maintainer: @termux-user-repository
+Installed-Size: 78452
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/lightcraft_0.19.0_x86_64.deb
+Size: 20961304
+MD5sum: 5151b2efb494a60a9b34492ada8d8bd0
+SHA1: 0106e2d1cf58530c431ca7d1ecddbf4e4f251822
+SHA256: 978ffa90b0aadcb5c614e9979a7bc265a8b2c6a8047bcaf53a6737f011534b6a
+Homepage: https://getartcraft.com/apps/lightcraft
+Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
+

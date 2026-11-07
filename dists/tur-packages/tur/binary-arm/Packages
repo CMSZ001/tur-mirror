@@ -160,16 +160,16 @@ Homepage: https://autobrr.com
 Description: The modern download automation tool for torrents and usenet
 
 Package: beekeeper-studio
-Version: 6.2.1
+Version: 6.2.2
 Architecture: arm
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 739380
+Installed-Size: 739384
 Depends: electron42, libx11
-Filename: pool/tur/beekeeper-studio_6.2.1_arm.deb
-Size: 127372656
-MD5sum: e74a2fdf4addd08536e8fb9d67a4e743
-SHA1: dba3155cf254ba7118469c64bd2d6fac6a34b1ae
-SHA256: 69e1a1cc20f3ad3fe6d33cf0be4fef8058da482d637cbf839af667fbc65e8ec3
+Filename: pool/tur/beekeeper-studio_6.2.2_arm.deb
+Size: 127374528
+MD5sum: d9c4a70f0176add9ef03a78c1a8e5ad0
+SHA1: a99ced853c9ac499dd9f23cc0d38e55dd49bc884
+SHA256: 1e8c163a2ff1b535cb092ae6a84afc35dea2095de03f133363aee224261104e0
 Homepage: https://www.beekeeperstudio.io
 Description: Modern and easy to use SQL client and database manager
 
@@ -651,16 +651,16 @@ Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
 Package: designcraft
-Version: 0.17.2
+Version: 0.18.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 60716
+Installed-Size: 61220
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.17.2_arm.deb
-Size: 21625392
-MD5sum: 846b9f37d4328f4b065bf0120d9dfdce
-SHA1: 1da5c64cd946b5e14e1d7fedaaf07e446d410ddd
-SHA256: c44dc86c39d062ddb81c84bc9b9d4050fd25f94114ec18b96d309eb81bbab68c
+Filename: pool/tur/designcraft_0.18.0_arm.deb
+Size: 21810924
+MD5sum: 40e410898f9196bb603a259c80b3b7b0
+SHA1: 180b854fad922ecefcdd706b33686d1efdd7c1c0
+SHA256: f383bbc276f7879e66f3c15e18b4573fa8f05b283bc0100d677b4f8320d126af
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -803,16 +803,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.21.1
+Version: 0.22.0
 Architecture: arm
 Maintainer: @termux
-Installed-Size: 64008
+Installed-Size: 65460
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.21.1_arm.deb
-Size: 24853732
-MD5sum: d18d21bb1b2e4690554619afc0f844a0
-SHA1: 90f558beaa78197a6d369ed136389f15aa27d647
-SHA256: 8e3ba1f8f6575acd5d4f86b0810193357ca8e42de43fe88e0a39b1d48258261f
+Filename: pool/tur/effectcraft_0.22.0_arm.deb
+Size: 25489208
+MD5sum: d4a2543897d4cf12170fc61bfc603c2b
+SHA1: 2704cf4ef384c28ef2cdcde819f9273631fe86fc
+SHA256: 6eb5717d73b1b704475dd437dee84c8031785055a3bb9e5a32f86ac680b2e90d
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -1099,16 +1099,16 @@ Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
 Package: filmcraft
-Version: 0.17.1
+Version: 0.18.0
 Architecture: arm
 Maintainer: @termux
-Installed-Size: 45508
+Installed-Size: 45996
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/filmcraft_0.17.1_arm.deb
-Size: 18346772
-MD5sum: 360c80ddf2d669a20504412f8b9e55a3
-SHA1: 72112accc98648b9f9e469d3e1569bed6eb64824
-SHA256: 380dbd0883b7af56c221857d5931aaca11199cc8addc046b4887fd70ad393b55
+Filename: pool/tur/filmcraft_0.18.0_arm.deb
+Size: 18554068
+MD5sum: 6e47d135df21bdf2dabe8163781a2401
+SHA1: 897b316645e01e0d51e7f747281f5c539d646818
+SHA256: 4dc24fa5673b93746ecf3f37b3688f2de65053cb6796c587886ba08f104cd2bc
 Homepage: https://github.com/storytold/filmcraft
 Description: Native open-source video editor in pure Rust (eframe/wgpu)
 
@@ -3248,16 +3248,16 @@ Homepage: https://launchpad.net/lierolibre
 Description: Old-school earthworm action game
 
 Package: lightcraft
-Version: 0.18.1
+Version: 0.19.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 48168
+Installed-Size: 49432
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/lightcraft_0.18.1_arm.deb
-Size: 17552508
-MD5sum: d9d6d24c678acd1311173193c2ec1774
-SHA1: 713a5a80f607442f24411db75a63fa2e376504bc
-SHA256: 9cf19c736298907016041d6a8b3ca9e0634c431e22d0650547a369a302d01172
+Filename: pool/tur/lightcraft_0.19.0_arm.deb
+Size: 18023364
+MD5sum: c9f222152dd57b4e0b9c2ec1f119952e
+SHA1: 6d6d842f825763edbc6e39812b9ce257a56ce6bd
+SHA256: 73e65258834cf20c9d2b2c8e902598473158e6d6aaa7fc5957422ee2482dcd22
 Homepage: https://getartcraft.com/apps/lightcraft
 Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
 
@@ -4165,30 +4165,30 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.18.2
+Version: 0.19.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 43320
+Installed-Size: 44148
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.18.2_arm.deb
-Size: 17897832
-MD5sum: 1c0e604f94c369df2947ad50805499f4
-SHA1: ad3fbdb8ee39be9aeb2c691eb70b48e7b16061d4
-SHA256: c287bf2b28ea55d8b9ec8ec7b5c40f1d1d4e96fc5f8d68cc2cb8cf199c68d80a
+Filename: pool/tur/pdfcraft_0.19.0_arm.deb
+Size: 18244424
+MD5sum: 9c57da14c1062438f401ba098c506311
+SHA1: 22acc222edabe0406d445ff607e86bea20818c47
+SHA256: 39c21f7d831d1e67dd5a2cc64c81bde26250b139cd8a2710a6e5bee11f059fb8
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
 Package: photocraft
-Version: 0.20.2
+Version: 0.21.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 57508
+Installed-Size: 58748
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/photocraft_0.20.2_arm.deb
-Size: 26834376
-MD5sum: 190b13fa94e58eca95636dcda9c09b6f
-SHA1: e633dd9f2d189fa40e6d76cef3053765267609d2
-SHA256: c2dca618b87b94174d9cdaff1dff1d5944eaa99e0a9276cddc108d66f501b0f3
+Filename: pool/tur/photocraft_0.21.0_arm.deb
+Size: 27475848
+MD5sum: 6c3099ce44d880bc723cfd742d088add
+SHA1: f66afd11a2946d9ac6cf2b1f76298f627d349a4e
+SHA256: bb7a4d6b142a7ac7cd3a043638499be940c3a21d3f948c3dac632d1fc2ac531f
 Homepage: https://getartcraft.com/apps/photocraft
 Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
@@ -6438,16 +6438,16 @@ Homepage: https://upbrr.com
 Description: Guided upload preparation app for private-tracker workflows
 
 Package: vectorcraft
-Version: 0.21.1
+Version: 0.22.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 80588
+Installed-Size: 82252
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/vectorcraft_0.21.1_arm.deb
-Size: 30371692
-MD5sum: ccb42c7723a344ef42f5e7a26f04fe82
-SHA1: d7e0bc0d0c7e0cb6ce1068b7dde46479671f4bf3
-SHA256: c03560a11d1df3a7c60dd14b8ad66af0154df236648d033fb542b33f51595ce5
+Filename: pool/tur/vectorcraft_0.22.0_arm.deb
+Size: 30766628
+MD5sum: 1c47295b75791d234b86b5c69f7e4370
+SHA1: ba864f24dbc5507d5cb3c44910123363cddc4f13
+SHA256: b5c618da9ce278f496c20cbc4b84ff758c63f8daa50bbddfe0ecfc18e8958768
 Homepage: https://github.com/storytold/vectorcraft
 Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
 
