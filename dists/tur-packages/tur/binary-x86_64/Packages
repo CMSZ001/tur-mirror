@@ -39,6 +39,19 @@ SHA256: f29ae23e146e8cc9ff7c5bea5a9c27e64192c20ab0502c341326af5d4b3b016f
 Homepage: https://tass64.sourceforge.net/
 Description: Cross (turbo) assembler targeting the MOS 65xx series of micro processors
 
+Package: a4
+Version: 2.0
+Architecture: x86_64
+Maintainer: Jules Amonith <examosa@fastmail.com>
+Installed-Size: 816
+Filename: pool/tur/a4_2.0_x86_64.deb
+Size: 153224
+MD5sum: 96595011b22baa0005c4b65b72907ae8
+SHA1: 7a944b4637ac21462c565e0446f09fff3e691ada
+SHA256: ee2737c4b28fa3ba8e01aab1bfd9320e4bb4939d385bca08e48f8540d11964e8
+Homepage: https://a4term.com/
+Description: Dynamic terminal window manager and multiplexer
+
 Package: abuse
 Version: 0.9.1-1
 Architecture: x86_64
@@ -610,16 +623,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.145.0
+Version: 4.145.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
 Installed-Size: 564264
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.145.0_x86_64.deb
-Size: 108540796
-MD5sum: a626052cace54c3a3a03e9a74fd6c345
-SHA1: 5359b7a7424b52b979942d976b01f098a2b7b059
-SHA256: 298bb7e86663361c066f3f3860b57a1181d59318b069d05b0b457debe001ce0f
+Filename: pool/tur/code-server_4.145.2_x86_64.deb
+Size: 108537460
+MD5sum: 7f8dacfa95ab87668b07d76b9b08460e
+SHA1: a52fbf54eb496e5a8fd10711d4a4e50dd28d65ff
+SHA256: bd6bcf6f275e69ad2c2ab1197b7e6dcd7903070292a39ab3591d0a97ae477880
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 

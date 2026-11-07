@@ -39,6 +39,19 @@ SHA256: dcfd635383bd793487d8f98a9241f7722e414bc755bab461af4a5f94fb3b202f
 Homepage: https://tass64.sourceforge.net/
 Description: Cross (turbo) assembler targeting the MOS 65xx series of micro processors
 
+Package: a4
+Version: 2.0
+Architecture: arm
+Maintainer: Jules Amonith <examosa@fastmail.com>
+Installed-Size: 736
+Filename: pool/tur/a4_2.0_arm.deb
+Size: 122532
+MD5sum: 08fc484f578eace7a42bc30b4f66ed07
+SHA1: f6ba5dd41a9138d8ba749e06bcfef6a8263edfe8
+SHA256: 2527076a793d8e854c16fbad8b74e81bba1c300c8a7095f84276cba020861ccc
+Homepage: https://a4term.com/
+Description: Dynamic terminal window manager and multiplexer
+
 Package: abuse
 Version: 0.9.1-1
 Architecture: arm
@@ -464,16 +477,16 @@ Homepage: http://clucene.sourceforge.net/
 Description: C++ port of the high-performance text search engine Lucene
 
 Package: code-server
-Version: 4.145.0
+Version: 4.145.2
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 561312
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.145.0_arm.deb
-Size: 108063584
-MD5sum: cf628dc7a9ce174dab57e2aaefb8218e
-SHA1: be2619805d6c95599c365ab5cc12e28822732492
-SHA256: 3f7c380205a9d3e6b73b524f12a252756ad3e128acacf638321ded5ca8771d90
+Filename: pool/tur/code-server_4.145.2_arm.deb
+Size: 108062952
+MD5sum: 5f009d327dc95fb1b9609b7e2d208a14
+SHA1: 5aff66ef5524910d5778b2c7315b7788e378799c
+SHA256: dafd1f2ceaf51add1c65c270676e063142aad509206ec5af3468923cbe742a86
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
