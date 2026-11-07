@@ -365,16 +365,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: chromium-beta-host-tools
-Version: 157.0.8103.15
+Version: 158.0.8127.18
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 415844
+Installed-Size: 423364
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_157.0.8103.15_arm.deb
-Size: 56843988
-MD5sum: 3f39d4df24fa792b103a2969eec45f63
-SHA1: 6639bd06f00d1375b8c5c95b26d46dc049ffcebb
-SHA256: 65993e3f2c5cc55f19915a592086be9d55e09fe16b4decf2596bce445454f4ae
+Filename: pool/tur/chromium-beta-host-tools_158.0.8127.18_arm.deb
+Size: 59336620
+MD5sum: bcc77dfeaea79560686b9c987916f702
+SHA1: 3314f012a8c886e33e8461a5cb6bee68de08cb35
+SHA256: e4745e53f2881a3de9eb929b1b55614f7ad90adf8ebf220d64602fb00539ed0e
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -1809,6 +1809,20 @@ SHA1: 249479b033c7061717a0d0ee79672ea82e904013
 SHA256: 4554bb2dc8be8ff1f591fdb3c9b99f4a487634d571605480b4fd53c8b64183b0
 Homepage: https://github.com/Cretezy/lazyjj
 Description: TUI for Jujutsu/jj
+
+Package: lbreakouthd
+Version: 1.2.4
+Architecture: arm
+Maintainer: @IntinteDAO
+Installed-Size: 8160
+Depends: sdl2, sdl2-image, sdl2-mixer, sdl2-ttf
+Filename: pool/tur/lbreakouthd_1.2.4_arm.deb
+Size: 4337304
+MD5sum: 782526929a2a32be8cf99f41b1a750eb
+SHA1: e1fed828bb7687c8a6d14e7d8be74ed2b443c45f
+SHA256: 98897cb2e8d4a9000b20bd888170c1807ddf752605dc44a7302dda12380b8c05
+Homepage: http://lgames.sourceforge.net/LBreakoutHD/
+Description: A classic ball-and-paddle arcade game (remake of LBreakout2)
 
 Package: leanify
 Version: 0.4.3+20250520
