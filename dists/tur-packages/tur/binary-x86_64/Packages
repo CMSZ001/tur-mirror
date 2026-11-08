@@ -497,16 +497,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 157.0.8103.15
+Version: 158.0.8127.18
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 1228384
+Installed-Size: 1247520
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_157.0.8103.15_x86_64.deb
-Size: 219497644
-MD5sum: 04cc207a8bef0d3ad5c1f4afbfff6293
-SHA1: d6d49aa77d05245c8dac5562ae6e6a1e3a02aa22
-SHA256: f8ef3ebc02906fa27c46d29fc2a9840b9ae1a7ede997d3a6bf0003bf1a966ef3
+Filename: pool/tur/chromium-beta_158.0.8127.18_x86_64.deb
+Size: 224204228
+MD5sum: 7417188e5584b52036e5452d09c048b4
+SHA1: cbe6df33d2ffd1b2213dbab74a2cdec4cf71d29a
+SHA256: 1e1076a7df9f3a11059034c9fe0a34814729706c1fd5723b2af89124ce5024a7
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -1184,6 +1184,20 @@ SHA1: 462e3b665b765dd7bfda003f71465a3ab7d319da
 SHA256: 22e05b39941fb0e9929969d5fda76349cd745c7133857d46040fe281672b52da
 Homepage: https://github.com/falconindy/expac
 Description: libalpm(3) database reporting utility
+
+Package: extremetuxracer
+Version: 0.8.4
+Architecture: x86_64
+Maintainer: @IntinteDAO
+Installed-Size: 556
+Depends: glu, opengl, sfml, extremetuxracer-data
+Filename: pool/tur/extremetuxracer_0.8.4_x86_64.deb
+Size: 182304
+MD5sum: 9413c8d54a2010dcb4e084cc2310e008
+SHA1: d4326007f0d52ed0e85fd2770f6dfc751914a240
+SHA256: e554d7d5b093dc7350bc4513ddbedb8ab4e6f0f2568ac3d75cf499041913df9c
+Homepage: https://sourceforge.net/projects/extremetuxracer/
+Description: A 3D downhill racing game starring Tux, the Linux penguin
 
 Package: fastcompmgr
 Version: 0.6.1
@@ -7194,6 +7208,19 @@ SHA1: ccfa0e955c62e61097899df9c553084ce3f103a3
 SHA256: 503e559b19ee5b0126252b1810451d2454a828788c7a055057bb9defa2901428
 Homepage: https://github.com/mrowa44/emojify
 Description: Emoji on the command line
+
+Package: extremetuxracer-data
+Version: 0.8.4
+Architecture: all
+Maintainer: @IntinteDAO
+Installed-Size: 43884
+Filename: pool/tur/extremetuxracer-data_0.8.4_all.deb
+Size: 40579852
+MD5sum: 28c9edab1ad06f0a8f68cb3d305f092e
+SHA1: 1a91b5848cb9f648552fb445a67893ea5b1af160
+SHA256: 6f36134cde1617815607bc1503f18143dabdf243c27b9dfd538cda9003cb3336
+Homepage: https://sourceforge.net/projects/extremetuxracer/
+Description: Data files for Extreme Tux Racer
 
 Package: fakepkg
 Version: 1.42.2
