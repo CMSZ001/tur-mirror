@@ -816,16 +816,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.23.0
+Version: 0.23.1
 Architecture: arm
 Maintainer: @termux
-Installed-Size: 65704
+Installed-Size: 66072
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.23.0_arm.deb
-Size: 25613208
-MD5sum: 8ab69998e49a951c8d50c6cd48f8d89c
-SHA1: 15de75205a4ab47b9f5c706f957d10b2e883bb26
-SHA256: 5296ee3e912f2f04d073e9b4a7529687e66afb8549bcccf3acb7555805d0de23
+Filename: pool/tur/effectcraft_0.23.1_arm.deb
+Size: 25715308
+MD5sum: dd36f5b1a9aeca13ec4f329c65262cc1
+SHA1: 4e070faa8c6eb7015c73d8f22f0014ebe1cd1882
+SHA256: 8fb86ee3bf5989547eef31b8d8fc5df87122c16716b422135bbc562120b5a13c
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -4234,16 +4234,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.19.0
+Version: 0.20.0
 Architecture: arm
 Maintainer: @termux-user-repository
-Installed-Size: 44148
+Installed-Size: 47592
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.19.0_arm.deb
-Size: 18244424
-MD5sum: 9c57da14c1062438f401ba098c506311
-SHA1: 22acc222edabe0406d445ff607e86bea20818c47
-SHA256: 39c21f7d831d1e67dd5a2cc64c81bde26250b139cd8a2710a6e5bee11f059fb8
+Filename: pool/tur/pdfcraft_0.20.0_arm.deb
+Size: 19775868
+MD5sum: e6e4545b1785273ac8d9c3dbb10161b9
+SHA1: 745c073c6253150f5846a892508f9ff7a3994185
+SHA256: 8f6f1b94aa23331e1afde55d204643253f2f47131b2e57105b5664cee947da16
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
@@ -4335,6 +4335,20 @@ SHA1: 6267e55954eb0ec409e94bfb158ac5bcad0a8042
 SHA256: 398f4922a64c6f3cfa16630ba1b88cae69b44b3cfce34648c1a5ea2cb97f4614
 Homepage: https://php.net
 Description: Server-side, HTML-embedded scripting language
+
+Package: pingus
+Version: 0.8.0-2026.10.29-0
+Architecture: arm
+Maintainer: @IntinteDAO
+Installed-Size: 1436
+Depends: libmodplug, libsigc++-2.0, openal-soft, opengl, pingus-data, sdl2 | sdl2-compat, sdl2-image
+Filename: pool/tur/pingus_0.8.0-2026.10.29-0_arm.deb
+Size: 525696
+MD5sum: 2e32390fa4abe34496c4474ba4cf771a
+SHA1: 0464890e255634713f78ab87c64cd1484c4c3897
+SHA256: df0013dc42bb89cd9ffc7c9621717919961135195193d7dd13676a16351e07eb
+Homepage: https://pingus.seul.org/
+Description: A free Lemmings-like puzzle game
 
 Package: playit
 Version: 1.0.6
@@ -7360,6 +7374,19 @@ SHA1: 7b4e0a647be984d1350a8667aa1c30a632e65f8c
 SHA256: 3bcb5e947d95128f0c3002401e67da7e12b69ca8ce98383743d31b0e254a9e6b
 Homepage: https://openjdk.java.net
 Description: Source files for openjdk-26
+
+Package: pingus-data
+Version: 0.8.0-2026.10.29-0
+Architecture: all
+Maintainer: @IntinteDAO
+Installed-Size: 38148
+Filename: pool/tur/pingus-data_0.8.0-2026.10.29-0_all.deb
+Size: 14380096
+MD5sum: 691e7c07d2324e3be3d5c056a8437728
+SHA1: 8aa49a32c1772d9eae7fdb6b807fe771986a4a0f
+SHA256: 80d98f94ffb0fab10a878ddccbc54fea666d947837a13dfcb07f51507a303625
+Homepage: https://pingus.seul.org/
+Description: Data files for Pingus
 
 Package: python-ensurepip-wheels
 Version: 3.13.12-3
