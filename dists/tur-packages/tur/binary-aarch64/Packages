@@ -581,16 +581,16 @@ Homepage: https://llvm.org/
 Description: C language frontend for LLVM
 
 Package: cleanuparr
-Version: 2.10.12
+Version: 2.11.0
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 29572
+Installed-Size: 31668
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0, libesqlite3
-Filename: pool/tur/cleanuparr_2.10.12_aarch64.deb
-Size: 8519544
-MD5sum: 08164dbfa7f8e0dc3a95ee6636812ec9
-SHA1: f7f36ee76a6fea0c1017596e80eefc9871cf665b
-SHA256: ab962ec006681e77124f6a49c8c0fe553cbd21ea2a4bf16aad104cf1dd2636e8
+Filename: pool/tur/cleanuparr_2.11.0_aarch64.deb
+Size: 9157088
+MD5sum: 761edb0ebd85904758746092846168cb
+SHA1: eeb3d9104311f1c7842d7e7a8b240859dc943598
+SHA256: 76fb709eafef22fb4b7c6887bf4ddf606a637140f3960d41b329ba0d2491cad3
 Homepage: https://cleanuparr.com
 Description: Queue cleaner and management companion for the *arr suite
 
@@ -824,16 +824,16 @@ Homepage: http://www.garloff.de/kurt/linux/ddrescue/
 Description: A dd(1) alternative without POSIX-correctness burden to ease daily shell scripting and data recovery
 
 Package: ddns-go
-Version: 6.17.7
+Version: 6.17.8
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 12444
+Installed-Size: 12476
 Depends: libc++
-Filename: pool/tur/ddns-go_6.17.7_aarch64.deb
-Size: 3393716
-MD5sum: 9aa8ba4b33c6530e0587745120d32ffa
-SHA1: 86989f4d208c6321e9857ac743bcf5e3f65f4f49
-SHA256: 98e997f80bea8e24de0a89528dbfdc55725ecfe1a821f947cf04759ab4f8f026
+Filename: pool/tur/ddns-go_6.17.8_aarch64.deb
+Size: 3402432
+MD5sum: a6532ddc340f67077a553327cb4e1a95
+SHA1: d9d4784849e9ed050fe41d2812bc58c63ea9ee2d
+SHA256: 917662526bbd635f41ceb0a291ae0c0faef819f34ccbfaf2bc369870a4919b45
 Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
@@ -852,16 +852,16 @@ Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
 Package: designcraft
-Version: 0.18.0
+Version: 0.19.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 81044
+Installed-Size: 81136
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.18.0_aarch64.deb
-Size: 21151988
-MD5sum: 089ccc4bc1f362ba9f492472c75cb085
-SHA1: 037a8de9922279deb0050b15f4d6b29d0600b247
-SHA256: f7663d9ed7382102414cdf4c712ea59ce0a769e8403a1871825d5faf63de48fd
+Filename: pool/tur/designcraft_0.19.0_aarch64.deb
+Size: 21175372
+MD5sum: 9bef574cce910f89b08e0b40d44c3454
+SHA1: 38572693f2a4e0291d4e18b54a38014b788be47a
+SHA256: ea31a9b852376d6253f534026c740d0425a5bd9192be6a3390f070e9a4651aa2
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -1018,16 +1018,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.22.0
+Version: 0.23.0
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 85536
+Installed-Size: 85876
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.22.0_aarch64.deb
-Size: 24301936
-MD5sum: 2489426a1d084d5b94bff61e1aeb203b
-SHA1: e054e4fcb37c58386bb87692c3ea2c6a45515796
-SHA256: fb232da32c9f5ae5d4324857f22fdd8f8ff9971ddde5dafcc9b5065c0be8dedc
+Filename: pool/tur/effectcraft_0.23.0_aarch64.deb
+Size: 24419832
+MD5sum: ea7f6547faa42a2d1fb380f17acdc3f2
+SHA1: b5198d69076ac9059071953d3a3cf97fabe38c4e
+SHA256: 432c22cb4aa596c3e24e4f10b006d84c62c4eb9e7aec8ee0a796294de6d7b5a8
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -1328,16 +1328,16 @@ Homepage: https://filebrowser.org/
 Description: Web file browser based on Go
 
 Package: filmcraft
-Version: 0.18.0
+Version: 0.19.0
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 56988
+Installed-Size: 57508
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/filmcraft_0.18.0_aarch64.deb
-Size: 17187572
-MD5sum: 4dc4dd945bac946d8d47ba0684da28ac
-SHA1: c03e207a591c0e935b75feb5e2aaadaceb32078b
-SHA256: fddc7dd93ab1cc0149b0ef00731acace9f378fdf1958d510dd944e2810fa4f66
+Filename: pool/tur/filmcraft_0.19.0_aarch64.deb
+Size: 17315848
+MD5sum: 278ab8c6597fe2664e19268ac882f791
+SHA1: 48edbd7881d7f0503b2e9e130666ef219c53eead
+SHA256: 404fc32f433be3049f203aedbfff69cac4c7567a79b03ddceed50428d317e3cd
 Homepage: https://github.com/storytold/filmcraft
 Description: Native open-source video editor in pure Rust (eframe/wgpu)
 
@@ -3617,16 +3617,16 @@ Homepage: https://launchpad.net/lierolibre
 Description: Old-school earthworm action game
 
 Package: lightcraft
-Version: 0.19.0
+Version: 0.20.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 68012
+Installed-Size: 68140
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/lightcraft_0.19.0_aarch64.deb
-Size: 18061884
-MD5sum: 5cb96a597ce16f99e5887bb84f22e377
-SHA1: 9a37483c697dcc1e36f6cd19a17725e7372201e9
-SHA256: f343fcdc31560b0300897a1418b5563a7b2ac025ac023637642c21894b5245d1
+Filename: pool/tur/lightcraft_0.20.0_aarch64.deb
+Size: 18096340
+MD5sum: 9b0b84c65379d7c86abf30d2630ef2a8
+SHA1: a79aa31c15e09bb5b421acc8035ddc7b9ac38e9e
+SHA256: 3f594c1151c298ec2668a6674cfbc0c916e3258b4aab4dee202782bf64bf32f6
 Homepage: https://getartcraft.com/apps/lightcraft
 Description: Photo library and raw developer; an open-source clean-room reimplementation of Adobe Lightroom in pure Rust
 
@@ -3931,15 +3931,15 @@ Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
 Package: mp3rgain
-Version: 3.15.0
+Version: 3.16.1
 Architecture: aarch64
 Maintainer: @M-Igashi
-Installed-Size: 2484
-Filename: pool/tur/mp3rgain_3.15.0_aarch64.deb
-Size: 842876
-MD5sum: 5502a813cbf67a933df402b21e7ee1e9
-SHA1: 2e812826583e451fad5cc96c328975b836d0d297
-SHA256: ec150fa48fe510a40dc6436407e638752b8ed450ba73c4b08f14418758ba178b
+Installed-Size: 2488
+Filename: pool/tur/mp3rgain_3.16.1_aarch64.deb
+Size: 845640
+MD5sum: 7f133aab0fa08563632671a12968ce7f
+SHA1: a99ac60b8afe894a02de7ed9a1ca43a48acb2295
+SHA256: d96c3d29db14ba286ad396fcf126ae7f242219aace97f8d9cab8a06d4b870615
 Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
@@ -3984,6 +3984,34 @@ SHA1: d308dc8294694ceb4e51695372d7666dce157ab2
 SHA256: eb4220e65571292a7cc247ca758a989eee5c42ec3f0c6ef2536351c80e868463
 Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 Description: System header and library files from the Android NDK needed for compiling C programs, compact with GNU Compiler Collection
+
+Package: neverball
+Version: 1.6.0
+Architecture: aarch64
+Maintainer: @IntinteDAO
+Installed-Size: 552
+Depends: libjpeg-turbo, libphysfs, libpng, libvorbis, neverball-data, opengl, sdl2 | sdl2-compat, sdl2-ttf
+Filename: pool/tur/neverball_1.6.0_aarch64.deb
+Size: 185180
+MD5sum: ace4dfc3f6e9f0ce3a6aa07f5567115a
+SHA1: 1e2bb8956610a9279a12e418ceeeb5aa119fe90b
+SHA256: 0c4865a8683ce92287f47bf3384c39092f9865035027ef1cb403afa6d52d8445
+Homepage: https://neverball.org/
+Description: A 3D arcade game with a ball
+
+Package: neverputt
+Version: 1.6.0
+Architecture: aarch64
+Maintainer: @IntinteDAO
+Installed-Size: 488
+Depends: libjpeg-turbo, libphysfs, libpng, libvorbis, neverball-data, opengl, sdl2 | sdl2-compat, sdl2-ttf
+Filename: pool/tur/neverputt_1.6.0_aarch64.deb
+Size: 215628
+MD5sum: 4f6ed260690aeb5974009bc6ddd1dd87
+SHA1: 0ba66037a54031c29a2a900ce5758104c6e4e4dc
+SHA256: fa6b534ab5bedee62f4579d33f9a7cce78a17173da20640249b05741a5a8eeea
+Homepage: https://neverball.org/
+Description: A 3D mini golf game
 
 Package: nl2sh
 Version: 1.0.1
@@ -4709,16 +4737,16 @@ Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
 Package: photocraft
-Version: 0.21.0
+Version: 0.22.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 76256
+Installed-Size: 82484
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/photocraft_0.21.0_aarch64.deb
-Size: 26727788
-MD5sum: 774954f637b60c14ffd376620080c614
-SHA1: bc71f01396a2b67c837da8906391948c31932680
-SHA256: 3b489ed5028ecc48c69a98a82bf5aaa3ab777995fddca7df392572055aec1c23
+Filename: pool/tur/photocraft_0.22.0_aarch64.deb
+Size: 28977216
+MD5sum: ca7a6d189d37eccc75e8e95ded3157c9
+SHA1: 9e301e69d6a5d9fe07c2882f1c11e63a89f9c076
+SHA256: 9666096dbbdb3a98f8185c132a2be90a436a67ebda49416a476cc40686674d1c
 Homepage: https://getartcraft.com/apps/photocraft
 Description: An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
@@ -6767,16 +6795,16 @@ Homepage: https://upbrr.com
 Description: Guided upload preparation app for private-tracker workflows
 
 Package: vectorcraft
-Version: 0.22.0
+Version: 0.23.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 104536
+Installed-Size: 113820
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/vectorcraft_0.22.0_aarch64.deb
-Size: 29628336
-MD5sum: 120b7629a05f6514513933acef7479de
-SHA1: d42e96c1461bfcdcf16ec7359dde4e51aa6e90fb
-SHA256: 90ad346be74e31b56466f9aeab2c44a1b1746085c342027812eeb5174ded0cdb
+Filename: pool/tur/vectorcraft_0.23.0_aarch64.deb
+Size: 32476012
+MD5sum: eae3ab1ddce909ca559324265a28b2b2
+SHA1: 1ddda30cc6ed688e136dfcd55b4df81834b44f02
+SHA256: 3fe550bed883e8383f6fe6489f941d375a44c42625d4b7682b76d0e3523f62db
 Homepage: https://github.com/storytold/vectorcraft
 Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
 
@@ -7597,6 +7625,19 @@ SHA1: de32344b7dcaad9693578700229bf90ce88383f8
 SHA256: 8a7b33f0cbfa97765722c13eb21bee459b1b207f2268e67993883ab6c7724ecd
 Homepage: https://www.nerdfonts.com/
 Description: Meta package that installs all Nerd Fonts patched font packages provided by TUR
+
+Package: neverball-data
+Version: 1.6.0
+Architecture: all
+Maintainer: @IntinteDAO
+Installed-Size: 146356
+Filename: pool/tur/neverball-data_1.6.0_all.deb
+Size: 41977668
+MD5sum: 675d0050401bfd887cda3cc8af29c18f
+SHA1: bdf3e24de3e00207840fdf118204718dd0bb4a2b
+SHA256: 2df2331dba77227619e480569ce229e2689dc0c628282f31f05ab928a835ca28
+Homepage: https://neverball.org/
+Description: Data files for Neverball and Neverputt
 
 Package: openarena-data
 Version: 0.8.8.20260412
