@@ -3958,15 +3958,15 @@ Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
 Package: murex
-Version: 7.4.1116
+Version: 7.4.2002
 Architecture: aarch64
 Maintainer: @everywhereless
-Installed-Size: 17208
-Filename: pool/tur/murex_7.4.1116_aarch64.deb
-Size: 4851032
-MD5sum: 04df59cfc758edc02d84cb50eae5cd46
-SHA1: 1523efbd430eb56988d296bd31d3f3f4028c5a7e
-SHA256: 5666aa9961b36856dbe1ef991bdc2379e6ab1315b32623e179b096eec1ee3281
+Installed-Size: 17052
+Filename: pool/tur/murex_7.4.2002_aarch64.deb
+Size: 4810692
+MD5sum: 92ec4f2df08a34608ee070bce0aae6c3
+SHA1: a1feef95bcdef1b1f8561728ddd97386f1d98f2e
+SHA256: 3f8899864109449e402cd0d1c6aa13e1cf82b28bc10bb3bea980e1be61af4b29
 Homepage: https://github.com/lmorg/murex
 Description: Murex: A Smarter Shell
 
@@ -6111,15 +6111,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.3.2
+Version: 0.3.3
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 16084
-Filename: pool/tur/rumdl_0.3.2_aarch64.deb
-Size: 4816804
-MD5sum: 7ec1609b456d8d4fd3afdceab8de5a57
-SHA1: 6265fe42b21fef2d37ebaed4451778e004dbdac8
-SHA256: 065b49160fa12cffcf3cf3b54d98be69127b6de575fd6ca368592ac55a606eb7
+Installed-Size: 16328
+Filename: pool/tur/rumdl_0.3.3_aarch64.deb
+Size: 4892064
+MD5sum: 0232346fe08cc11fba4d5e4cd3a65eb5
+SHA1: c87ec2b6fe7d40c7008941b8825a5f95d035aae9
+SHA256: 46f09ce8d6139d5a5701072f777bb22da8f71a7d5c72de3099eaf9036bf0e9ae
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
