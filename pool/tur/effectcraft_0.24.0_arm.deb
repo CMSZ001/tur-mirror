@@ -1,0 +1,14 @@
+Package: effectcraft
+Version: 0.24.0
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 66320
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
+Filename: pool/tur/effectcraft_0.24.0_arm.deb
+Size: 25825196
+MD5sum: 99ec02eab63aa2bb106688fca058f8f7
+SHA1: cf58ce20fa4213fdb0c792902abf8fd851b68a1f
+SHA256: 2d65812b85415f94265c1eb0c3c53136db0adfcd377d7ae18e3bd18d3114ef81
+Homepage: https://github.com/storytold/effectcraft
+Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
+

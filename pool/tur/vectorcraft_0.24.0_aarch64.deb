@@ -1,0 +1,14 @@
+Package: vectorcraft
+Version: 0.24.0
+Architecture: aarch64
+Maintainer: @termux-user-repository
+Installed-Size: 117112
+Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
+Filename: pool/tur/vectorcraft_0.24.0_aarch64.deb
+Size: 33506244
+MD5sum: c8eddb5c01f1125c30ad504ee04685a1
+SHA1: b58ca47265052f0b88ea79c59eed338d0627345e
+SHA256: fd3947f9c66c1dcb06a7aeeaa86fbc68e430025997082432224650dd6a43fa3c
+Homepage: https://github.com/storytold/vectorcraft
+Description: An open-source, clean-room reimplementation of Adobe Illustrator in pure Rust
+
