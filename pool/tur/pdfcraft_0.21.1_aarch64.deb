@@ -1,14 +1,14 @@
 Package: pdfcraft
-Version: 0.20.0
-Architecture: x86_64
+Version: 0.21.1
+Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 73964
+Installed-Size: 65468
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.20.0_x86_64.deb
-Size: 22138260
-MD5sum: 665831390302c616c6bec709124b6265
-SHA1: 6a9e795408a667910003363b453cac25adee2e43
-SHA256: 491138b622258f8c6a2ea81553bf8ff63553805e5448285eb73d75e4d935051c
+Filename: pool/tur/pdfcraft_0.21.1_aarch64.deb
+Size: 19703856
+MD5sum: a8a57995a41722a3586d5d6e352b2ae8
+SHA1: 73199c6a69aa9b59cbf3a41da1a250ff6139eca5
+SHA256: 68cb28f2e65120c69805a9c617aadceafd5720c0128477e195e44bd6cf1bd478
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 

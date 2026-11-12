@@ -4178,16 +4178,16 @@ Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
 
 Package: officecli
-Version: 1.0.160-1
+Version: 1.0.161
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 17964
+Installed-Size: 17972
 Depends: dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/officecli_1.0.160-1_x86_64.deb
-Size: 3736864
-MD5sum: 86150bbfe933d2e71e3ccaaa1d30c59b
-SHA1: e51602fb2ba7f4c6ff1e8a1caadd47f695d2d609
-SHA256: fc4521155513556788d9f40148a09b3308a9df8ec1c009f883c58872e425098f
+Filename: pool/tur/officecli_1.0.161_x86_64.deb
+Size: 3731764
+MD5sum: 7c9af569cf32eb1fe467044858003dd8
+SHA1: 0e795612c5a6b3214a44e043cff69ae68977a45c
+SHA256: 4155f1e1fc85c0d604e134326d5ac28b5520fa06d760e9e7c219449f76b833ee
 Homepage: https://officecli.ai
 Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
 
@@ -4652,16 +4652,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.20.0
+Version: 0.21.1
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 73964
+Installed-Size: 76268
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.20.0_x86_64.deb
-Size: 22138260
-MD5sum: 665831390302c616c6bec709124b6265
-SHA1: 6a9e795408a667910003363b453cac25adee2e43
-SHA256: 491138b622258f8c6a2ea81553bf8ff63553805e5448285eb73d75e4d935051c
+Filename: pool/tur/pdfcraft_0.21.1_x86_64.deb
+Size: 22881928
+MD5sum: b7b4fc052988a0e499c01decd2c93692
+SHA1: 4f68452074ac953026adf05c080a3f64e208dd21
+SHA256: 4ece35867ea5dfb59b0bef2d3a15618ec3973e0bfda713536c30ce351a57ecbc
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
