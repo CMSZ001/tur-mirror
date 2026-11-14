@@ -497,16 +497,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: chromium-beta-host-tools
-Version: 158.0.8127.18
+Version: 159.0.8154.6
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 439280
+Installed-Size: 434944
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_158.0.8127.18_x86_64.deb
-Size: 53898668
-MD5sum: a1764cb92ab86180712d5ec66f662faa
-SHA1: 660ee1fe30d64e00aa15ffdc6eaff4a691110825
-SHA256: 5e5f7c5172eb8242176d8cdda415edacdcd6b0b700e3662a761f7f6709c8339f
+Filename: pool/tur/chromium-beta-host-tools_159.0.8154.6_x86_64.deb
+Size: 53015220
+MD5sum: c106efc4eb6e184dee93fa6c147419f5
+SHA1: b67a055dfb5d9276e5f15e3e5021707a27f55313
+SHA256: 4a476561737fe0da9ab3b5370d75c82af923dbe8905758ec27e7d15c4da2978a
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -6813,16 +6813,16 @@ Homepage: https://github.com/bloznelis/typioca
 Description: Cozy typing speed tester
 
 Package: upbrr
-Version: 0.4.1-1
+Version: 0.4.2
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 51000
+Installed-Size: 54108
 Depends: ffmpeg
-Filename: pool/tur/upbrr_0.4.1-1_x86_64.deb
-Size: 13586328
-MD5sum: f69cf530c614a55650a641c6b1f5e0e9
-SHA1: 35a1bbe8b7e406ee6dae9072570ff8ae88f25b14
-SHA256: 0529d9145ae80e1713640fb82fe99b83a6781969c0c08d1e4b0e08112eeb10a3
+Filename: pool/tur/upbrr_0.4.2_x86_64.deb
+Size: 14129152
+MD5sum: 9f6c698e7cac294c7de2a106421ae3fd
+SHA1: 44c7d884329eea2b1b58f5ad25432aa6f5ace666
+SHA256: 01273cd22f09d8ef454e8576a469ecfc4bdd3475d23b629cbe4eca05b41c3208
 Homepage: https://upbrr.com
 Description: Guided upload preparation app for private-tracker workflows
 
