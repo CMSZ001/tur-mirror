@@ -258,16 +258,16 @@ Homepage: https://github.com/codedsprit/bfm
 Description: 🌼 ez file manager slokes in bash
 
 Package: bililive-go
-Version: 0.8.3
+Version: 0.8.4
 Architecture: i686
 Maintainer: 2096779623 <admin@utermux.dev>
-Installed-Size: 44424
+Installed-Size: 44572
 Depends: ffmpeg
-Filename: pool/tur/bililive-go_0.8.3_i686.deb
-Size: 12103076
-MD5sum: 267b649bcc53877b55a52177fe1c1ef0
-SHA1: 19bf3a3ee7c00e05d499c9a4fd0a36329a643fd9
-SHA256: 354a52a1baefa80d56e6dae791f5fb84a5d0545e91b8faebe11e2882f06f55ce
+Filename: pool/tur/bililive-go_0.8.4_i686.deb
+Size: 12153308
+MD5sum: 76742c57a2e9e0b2b76df768dc4f6716
+SHA1: 5bbdafbdfb37e4f421fccccdfca0f7df978a152e
+SHA256: 480463328a345bbca7362741aeb36b0ce44ab1674731c1f25d30f34888f1584e
 Homepage: https://github.com/hr3lxphr6j/bililive-go
 Description: A live streaming recording tool
 
@@ -3682,16 +3682,16 @@ Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
 
 Package: officecli
-Version: 1.0.161
+Version: 1.0.162
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 17968
+Installed-Size: 17984
 Depends: dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/officecli_1.0.161_i686.deb
-Size: 3731232
-MD5sum: 476384d129a62bb02384a170ea08fbac
-SHA1: a6e50bd3671221022242e0d96c7790054d20db64
-SHA256: b347e16e6b2cb9b7048437a543391968da261cac55957ca19a486e6807333316
+Filename: pool/tur/officecli_1.0.162_i686.deb
+Size: 3715892
+MD5sum: cf11712c5900dd66831a1c855d30a998
+SHA1: 57c630d22ca576fed4725639642f0a53dd57f619
+SHA256: ffc233513997f31bf7b94372903f064eab549c8cae99f2427b3e6e1b61fbb638
 Homepage: https://officecli.ai
 Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
 
@@ -6065,15 +6065,15 @@ Homepage: https://sortix.org/rw/
 Description: A lightweight dd(1) alternative that doesn't resemble IBM JCL
 
 Package: stash
-Version: 0.31.1
+Version: 0.32.0
 Architecture: i686
-Maintainer: @termux
-Installed-Size: 54844
-Filename: pool/tur/stash_0.31.1_i686.deb
-Size: 20058896
-MD5sum: 4d6af2afafa887b744951d92b96ab621
-SHA1: ab424678b96cb2a2613df1dcb9d752cf1ad8bdb6
-SHA256: c23df7b320e08829d34092c76fd72366b97690304ffb73d39c35655d4dbb18f1
+Maintainer: @termux-user-repository
+Installed-Size: 73256
+Filename: pool/tur/stash_0.32.0_i686.deb
+Size: 21022116
+MD5sum: a346ed8927a61ae991917ad5993adcbb
+SHA1: 2e2c4d48253a81048030ae11ed4c9b16cbdfd08e
+SHA256: 8819da6bb7f0c3c3c8ad4a54135b61b7d0b13b7a4145850a2e594c0cf38e2981
 Homepage: https://stashapp.cc
 Description: Locally hosted web-based app written in Go which organizes and serves your Adult Video
 
