@@ -305,16 +305,16 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 9)
 
 Package: beekeeper-studio
-Version: 6.3.0
+Version: 6.3.2
 Architecture: aarch64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
 Installed-Size: 781076
 Depends: electron43, libx11
-Filename: pool/tur/beekeeper-studio_6.3.0_aarch64.deb
-Size: 128047544
-MD5sum: 55cd921229fdb2c0a4ab26e72df1e29f
-SHA1: 6791192038f558e283e683522a4a6a7d3c240248
-SHA256: cd0588eab8bd40632cf34a3afdce56156424f63a3c2f314b1950716c0e23400f
+Filename: pool/tur/beekeeper-studio_6.3.2_aarch64.deb
+Size: 128053168
+MD5sum: e157e46f8298ffca34a7dd3a47b6260e
+SHA1: 85f413b391c38a9b4bcff1c82200c256202afca5
+SHA256: 1006ff1bb2e30428f02fde2a7e566b6eab2cf7a393fbb13790fad6858926f8e6
 Homepage: https://www.beekeeperstudio.io
 Description: Modern and easy to use SQL client and database manager
 
@@ -497,16 +497,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: chromium-beta-host-tools
-Version: 159.0.8154.6
+Version: 159.0.8154.13
 Architecture: aarch64
 Maintainer: @licy183
-Installed-Size: 499652
+Installed-Size: 499668
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_159.0.8154.6_aarch64.deb
-Size: 56497272
-MD5sum: f231fa03a5d49d6250c9a471e897cac4
-SHA1: 010260e525021f368f08c9b367abd03702d825aa
-SHA256: 656fcd78dda6651b2a09c7fa27a1ed0acd06b4555c9743442aeaffb6b6d77f4c
+Filename: pool/tur/chromium-beta-host-tools_159.0.8154.13_aarch64.deb
+Size: 56503784
+MD5sum: 9e270a6a0b47e26af14544ed42ca6d32
+SHA1: ee04e156ab57f8cfdd18dfb876f1f90f91d652d9
+SHA256: a7e6e46d497f845a0068b33ee560d9d221515f2b82cc4828bfccae1db08f89c1
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -3973,16 +3973,16 @@ Homepage: http://aluigi.org/mytoolz.htm#morsegen
 Description: Convert text file to ASCII morse code
 
 Package: moviebox-tui
-Version: 0.1.29
+Version: 0.1.30
 Architecture: aarch64
 Maintainer: @mesamirh
-Installed-Size: 10088
+Installed-Size: 10108
 Depends: openssl, pkg-config
-Filename: pool/tur/moviebox-tui_0.1.29_aarch64.deb
-Size: 3184100
-MD5sum: 47e06c84cab07310a638a14af9953f58
-SHA1: 1ea6bc1759fc1f5bffa7fe0ca0babccfc1f23890
-SHA256: 42956d0d335a60666c1366d3ce7a4c94bea8babdbf76e4d5f7dadbedff56d756
+Filename: pool/tur/moviebox-tui_0.1.30_aarch64.deb
+Size: 3192048
+MD5sum: a7f868045389398d0f975a7dcc9b0274
+SHA1: a659b2e4856f010bfb9a30c6f0237b26fba1c3cf
+SHA256: 88b62c29841055f5d8fd06ea19f8bcac8d9e03d04315f9de9d8ca674f1d6abca
 Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
@@ -6180,15 +6180,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.3.4
+Version: 0.3.5
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 16388
-Filename: pool/tur/rumdl_0.3.4_aarch64.deb
-Size: 4912212
-MD5sum: 184c7ad1c4852b33e64d61adbcc80d4e
-SHA1: 89114a20a4a0b37f4134fa8ef027345c3b76183a
-SHA256: ee512cfb0b45903a09826f417e9ea45a4df3b00691a8a1f2ae9af01d1e2260d5
+Installed-Size: 17700
+Filename: pool/tur/rumdl_0.3.5_aarch64.deb
+Size: 5298304
+MD5sum: a17039adebbaf75bc223fdf7535fa8c8
+SHA1: f561a90f8315555edbb31591f477ee52b12135f5
+SHA256: 2ae319dcef1a8c4c1550b5e3d9a526723d2c8ad693a2b0903432a21e0c1e47b6
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
