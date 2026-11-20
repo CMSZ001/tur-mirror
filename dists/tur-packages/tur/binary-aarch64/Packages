@@ -260,61 +260,61 @@ Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone
 
 Package: bazel7
-Version: 7.7.2
+Version: 7.7.3
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 51104
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel7_7.7.2_aarch64.deb
-Size: 32383632
-MD5sum: 64b026318a34be170f2cc0264e680b12
-SHA1: c0a5b48cb0945a8df1b4de1ae3b4671df5d6f695
-SHA256: d52bd5a74884b21c93dfe41a90e83539232770527f9419fd1aa1950cdc71332e
+Filename: pool/tur/bazel7_7.7.3_aarch64.deb
+Size: 32382112
+MD5sum: 113dd7163501ef2bc508384adfbfd440
+SHA1: 9393d6de01121d7db36689a932a40e022be66e6d
+SHA256: 0933aced39654c26ebc54145e8c52b81a2a25fb17cdb15d9b8a9247b95c5f923
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 7)
 
 Package: bazel8
-Version: 8.8.2
+Version: 8.9.0
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 73052
+Installed-Size: 73076
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel8_8.8.2_aarch64.deb
-Size: 38279956
-MD5sum: e01afb26e11e8ec67fe329c6ea069655
-SHA1: f604838e39ed68b36210f29186403043d98ebf0a
-SHA256: f87ad0ad7bb71eb93bf37d0c2ed7135649f212699bc0ba4248c81805b433f1f6
+Filename: pool/tur/bazel8_8.9.0_aarch64.deb
+Size: 38306896
+MD5sum: 24f6f2bea78a558aa6e2a01ab0b446bf
+SHA1: 03a78cafa927aa32bd229985e9fed6b2b8dbe62a
+SHA256: d933c907ada0aec40028eeacce0e5845a945a9ce5edbb5ee5c1f80164036f3e6
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 8)
 
 Package: bazel9
-Version: 9.3.2
+Version: 9.3.3
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 85520
+Installed-Size: 85516
 Depends: libarchive, openjdk-21, patch, unzip, zip
 Breaks: openjdk-11, openjdk-17
-Filename: pool/tur/bazel9_9.3.2_aarch64.deb
-Size: 36907576
-MD5sum: 75d46f7dde1f6d09f94233e09209d7a5
-SHA1: 81e8e0af292666865107d8cc2c3fc61d446c5074
-SHA256: 4658bb1a8b35c9eed8c0b1453ef7108b5c75b01e108f8093ee058c153e002178
+Filename: pool/tur/bazel9_9.3.3_aarch64.deb
+Size: 36903316
+MD5sum: 428a7630adf91623c1b6d5d823c3c87a
+SHA1: 7f7b441a57e71a9628f964a63add871daef34d28
+SHA256: 590bc60fc19d7cfda66bec56bd1ad627f659289ec4023b170a8e4a67b86a69ee
 Homepage: https://bazel.build/
 Description: Correct, reproducible, and fast builds for everyone (Version 9)
 
 Package: beekeeper-studio
-Version: 6.3.2
+Version: 6.3.3
 Architecture: aarch64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 781076
+Installed-Size: 780640
 Depends: electron43, libx11
-Filename: pool/tur/beekeeper-studio_6.3.2_aarch64.deb
-Size: 128053168
-MD5sum: e157e46f8298ffca34a7dd3a47b6260e
-SHA1: 85f413b391c38a9b4bcff1c82200c256202afca5
-SHA256: 1006ff1bb2e30428f02fde2a7e566b6eab2cf7a393fbb13790fad6858926f8e6
+Filename: pool/tur/beekeeper-studio_6.3.3_aarch64.deb
+Size: 127333832
+MD5sum: 848310b1ae2b80b7a8c49214e97c8c6f
+SHA1: 962e23622d5ed8b2c83b3931e39abad85d6b1759
+SHA256: 70a47ef59471a886453228bea990e42a10f0a3b6fbf3eee9219620dd1d5c36d6
 Homepage: https://www.beekeeperstudio.io
 Description: Modern and easy to use SQL client and database manager
 
