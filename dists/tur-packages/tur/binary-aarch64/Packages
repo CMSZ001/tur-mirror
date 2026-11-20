@@ -2097,15 +2097,15 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: iris
-Version: 0.8.0
+Version: 0.8.1
 Architecture: aarch64
 Maintainer: @everywhereless
-Installed-Size: 25264
-Filename: pool/tur/iris_0.8.0_aarch64.deb
-Size: 6287828
-MD5sum: 885a31cc74723c589a5f4ead37a091bf
-SHA1: 0600f1129221a3167aa2686f6ba03b3a8d33f060
-SHA256: 550478e2894eb18840026f5ec75cca90ec1db2e4191f9a1642ff9ef0c4a26bb1
+Installed-Size: 25268
+Filename: pool/tur/iris_0.8.1_aarch64.deb
+Size: 6290256
+MD5sum: a9acd4f4433d858ce9133bd8d91a9824
+SHA1: 80cedff073cc2a3ecfc09515b4475a5252f74da4
+SHA256: a43fbb732b5e367b689027f57ad0459641296fdecde72a7577bbc4cd2e101e96
 Homepage: https://github.com/versenilvis/IRIS
 Description: A shell auto-completion tool for your terminal
 
@@ -3932,16 +3932,16 @@ Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
 Package: mongodb-compass
-Version: 1.53.2-1
+Version: 1.53.3
 Architecture: aarch64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 74448
+Installed-Size: 92008
 Depends: electron43, krb5, libx11
-Filename: pool/tur/mongodb-compass_1.53.2-1_aarch64.deb
-Size: 15500960
-MD5sum: bed0297f16609eb0b6d5cebb97bcc50b
-SHA1: 2f540d0d72b41a279c62625e08be06da4790b4fc
-SHA256: cbcae1fbbc2eca86184830f9c8e2370cff736e1a41697b9e14f1574b6e4a62cf
+Filename: pool/tur/mongodb-compass_1.53.3_aarch64.deb
+Size: 18864612
+MD5sum: e23b931cf1568b710639724e164d435d
+SHA1: 5951747bb6e33d2003e7476ee5e2341ae2537de9
+SHA256: 33d1adae22d3d116dba25222b7f7b56c366981f4d6e46fc22883ac42a27802fe
 Homepage: https://www.mongodb.com/products/tools/compass
 Description: The GUI for MongoDB
 
@@ -4260,16 +4260,16 @@ Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
 
 Package: officecli
-Version: 1.0.162
+Version: 1.0.163
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 17992
+Installed-Size: 18004
 Depends: dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/officecli_1.0.162_aarch64.deb
-Size: 3713920
-MD5sum: 7690939484a45b935f5e6c4dd3954f01
-SHA1: c6bd0f711bc27ffe413535216334d8c3c5673ec1
-SHA256: 8650b5350c752e39181e5dadce67789b8b11ebff268e8ce22c2d39141b35b904
+Filename: pool/tur/officecli_1.0.163_aarch64.deb
+Size: 3726772
+MD5sum: adc1397583403d39334088949fd281f9
+SHA1: 449ae3034ead537a775cb39c5a28130e65e35c57
+SHA256: 8ab7b447daef4d91b718eda523cb621b9a35119dea2dbe26837cbed127d407a7
 Homepage: https://officecli.ai
 Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
 
@@ -6464,16 +6464,16 @@ Homepage: https://github.com/alexfru/SmallerC
 Description: Simple and small C compiler for DOS, Windows, Linux and MacOS
 
 Package: smartdns
-Version: 48.5~RC1
+Version: 48.5
 Architecture: aarch64
 Maintainer: @termux-user-repository
 Installed-Size: 624
 Depends: libandroid-glob, libc++, openssl
-Filename: pool/tur/smartdns_48.5.RC1_aarch64.deb
-Size: 208352
-MD5sum: 28e6e32d0a10c826013967e2ba1e35d5
-SHA1: c631e59d1ff979cf2c3849ed2cc9536a9f7ca026
-SHA256: dca5b03d6440bbbf392c5beb5f8e137b623c1de3ce214b4de05dda575c07922c
+Filename: pool/tur/smartdns_48.5_aarch64.deb
+Size: 207704
+MD5sum: 1cdd4217b175ec4ef26e659d5829866c
+SHA1: 10ce23451628f47da0ef2f8b5bac3d5ba00d124c
+SHA256: 50eac0f954bb01792dd62b8b474903c61929defc5ff78400615d020638887090
 Homepage: https://github.com/pymumu/smartdns
 Description: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH
 

@@ -1801,15 +1801,15 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: iris
-Version: 0.8.0
+Version: 0.8.1
 Architecture: arm
 Maintainer: @everywhereless
-Installed-Size: 24060
-Filename: pool/tur/iris_0.8.0_arm.deb
-Size: 6368108
-MD5sum: a37261cf4d32cf7edce41b12c4e779bc
-SHA1: 3a4fb4f07375389f8b967a8087c07765e571cddd
-SHA256: 97fce0577ef69e07e73661f909f1b9d4a3dac999391316924d23cda63a65395f
+Installed-Size: 24064
+Filename: pool/tur/iris_0.8.1_arm.deb
+Size: 6368448
+MD5sum: cd850ea4f5645a313ba4c00e82fdb455
+SHA1: e39a2c9603b72a3adb4374f15be3703ac7f47c13
+SHA256: 5e7973bba378f127312f895c3d316f71c3c7063b044d6cb6340c7a75a02107d8
 Homepage: https://github.com/versenilvis/IRIS
 Description: A shell auto-completion tool for your terminal
 
@@ -3590,16 +3590,16 @@ Homepage: https://moarvm.org/
 Description: Virtual machine for Rakudo Perl 6 and NQP
 
 Package: mongodb-compass
-Version: 1.53.2-1
+Version: 1.53.3
 Architecture: arm
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 74316
+Installed-Size: 91876
 Depends: electron43, krb5, libx11
-Filename: pool/tur/mongodb-compass_1.53.2-1_arm.deb
-Size: 15471664
-MD5sum: fc68340bd8f58ae957b9e441744b9f97
-SHA1: 276da651e5d98329531dd34f5b74b48fc32bf8d5
-SHA256: dae11ad37c5f0466f1bb8c961097ed53fa1933441361744bbf3011613072f1b1
+Filename: pool/tur/mongodb-compass_1.53.3_arm.deb
+Size: 18836888
+MD5sum: 05305ad16752c7fcaccbc08f3f2458bf
+SHA1: 7bedae6ab758397829d42c90b2d703842063173d
+SHA256: 2bb3ab4c2aec7a99601f68311baa4bb0f5186ef9bde4e5fe6aa5ee0fcd542f9d
 Homepage: https://www.mongodb.com/products/tools/compass
 Description: The GUI for MongoDB
 
@@ -6199,16 +6199,16 @@ Homepage: https://github.com/alexfru/SmallerC
 Description: Simple and small C compiler for DOS, Windows, Linux and MacOS
 
 Package: smartdns
-Version: 48.5~RC1
+Version: 48.5
 Architecture: arm
 Maintainer: @termux-user-repository
 Installed-Size: 444
 Depends: libandroid-glob, libc++, openssl
-Filename: pool/tur/smartdns_48.5.RC1_arm.deb
-Size: 191104
-MD5sum: a429ac13f37aea602541a90cbeedebd4
-SHA1: d62d36fc3a137206806ddb6c14b6071e2fb23dd0
-SHA256: ff4349e4f12eea82c4ed048eecd29a6a33b422969342769876e1cca41c1a6a76
+Filename: pool/tur/smartdns_48.5_arm.deb
+Size: 191012
+MD5sum: 26773c83e9084d840f1365d37ccd7dbc
+SHA1: 572f43221a42e55763bcf81d9b88fd444dd590b8
+SHA256: 37cd5a5fa5a2fb61a3b2d01688a6fb5f085362c393858a7199cd0bfdd4dda739
 Homepage: https://github.com/pymumu/smartdns
 Description: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH
 

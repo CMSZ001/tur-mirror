@@ -1675,15 +1675,15 @@ Homepage: https://github.com/casey/intermodal
 Description: A command-line utility for BitTorrent torrent file creation, verification, and more
 
 Package: iris
-Version: 0.8.0
+Version: 0.8.1
 Architecture: i686
 Maintainer: @everywhereless
-Installed-Size: 23768
-Filename: pool/tur/iris_0.8.0_i686.deb
-Size: 7195124
-MD5sum: 9a36c672f595355b0b40505ccdce78f2
-SHA1: 10e5b1818abb42fa6b8bef67d65b57b7a128c705
-SHA256: c60e6dcbfba79969f7bb47d0f7ad414d94c00363336c0bec3797ec0f68e9742f
+Installed-Size: 23772
+Filename: pool/tur/iris_0.8.1_i686.deb
+Size: 7205312
+MD5sum: d8f3382e7dfa293052a2040062d8e5f6
+SHA1: 551397eb2373399ff5127ea54cbe91bc7e38b701
+SHA256: 1e4f0318a0bc046fcbf0d56146c9f1e76e20582f3e66647770923933a369d2bb
 Homepage: https://github.com/versenilvis/IRIS
 Description: A shell auto-completion tool for your terminal
 
@@ -3682,16 +3682,16 @@ Homepage: https://octave.org
 Description: GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI)
 
 Package: officecli
-Version: 1.0.162
+Version: 1.0.163
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 17984
+Installed-Size: 17996
 Depends: dotnet-host, dotnet-runtime-10.0
-Filename: pool/tur/officecli_1.0.162_i686.deb
-Size: 3715892
-MD5sum: cf11712c5900dd66831a1c855d30a998
-SHA1: 57c630d22ca576fed4725639642f0a53dd57f619
-SHA256: ffc233513997f31bf7b94372903f064eab549c8cae99f2427b3e6e1b61fbb638
+Filename: pool/tur/officecli_1.0.163_i686.deb
+Size: 3727984
+MD5sum: 2a452ad579864ea0ecaac0fdcd9b9ca1
+SHA1: 23052812f0fb8e3de731ff8ad208828f66f1cc96
+SHA256: 9b92fdd959ebcf65d27ce100c67bd20813d4ca07b48e634e0425e5b9b9d95aa8
 Homepage: https://officecli.ai
 Description: CLI for reading and writing Office documents (.docx, .xlsx, .pptx) via a document DOM API
 
@@ -6023,16 +6023,16 @@ Homepage: https://github.com/alexfru/SmallerC
 Description: Simple and small C compiler for DOS, Windows, Linux and MacOS
 
 Package: smartdns
-Version: 48.5~RC1
+Version: 48.5
 Architecture: i686
 Maintainer: @termux-user-repository
 Installed-Size: 616
 Depends: libandroid-glob, libc++, openssl
-Filename: pool/tur/smartdns_48.5.RC1_i686.deb
-Size: 222556
-MD5sum: 216ab7815297e06f9e3c4199d0360b83
-SHA1: bb3733ae9bf0f4b839d7f96345bfb07fe8125658
-SHA256: 14c556201c97f7ad4b9beb110aab3524a694020e1a24892483d1961408d1fe48
+Filename: pool/tur/smartdns_48.5_i686.deb
+Size: 222552
+MD5sum: 663d5ed4a00c073568ee6f56ea30901e
+SHA1: 39eb0ac37fd0c692a835cb66a3c6dd55ec1c80e7
+SHA256: 9b2d6024734ebb78215de74c866f8a40a20344380c8c72202687e2e435319097
 Homepage: https://github.com/pymumu/smartdns
 Description: A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH
 
