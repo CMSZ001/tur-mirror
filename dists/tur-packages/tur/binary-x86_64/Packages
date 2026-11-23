@@ -118,6 +118,20 @@ SHA256: 887fc5b1d097e7b2d39aa1ea3e2b0611e2820c0cfc2e658b2657e3406a19efd1
 Homepage: https://github.com/asciinema/agg
 Description: asciinema gif generator
 
+Package: akg
+Version: 0.5.7
+Architecture: x86_64
+Maintainer: @lev73748
+Installed-Size: 3476
+Depends: gpgv, termux-keyring
+Filename: pool/tur/akg_0.5.7_x86_64.deb
+Size: 1392368
+MD5sum: 52555554ce6b53b53bad734231d9c835
+SHA1: 95805267b7c95ba054e87fe58e64a8936077f313
+SHA256: 51685907a42c82d3c0ef0f147b6d8bb16b660f3a6c50a982f717cf246f98778f
+Homepage: https://github.com/lev73748/akg
+Description: Fast package manager for Termux written in Rust
+
 Package: aptitude
 Version: 0.8.13-5
 Architecture: x86_64
@@ -637,16 +651,16 @@ Homepage: https://github.com/vadimcn/codelldb
 Description: A native debugger extension for code-server based on LLDB
 
 Package: code-server
-Version: 4.145.2
+Version: 4.146.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 564264
+Installed-Size: 263436
 Depends: libandroid-spawn, libsecret, krb5, nodejs-24, ripgrep
-Filename: pool/tur/code-server_4.145.2_x86_64.deb
-Size: 108537460
-MD5sum: 7f8dacfa95ab87668b07d76b9b08460e
-SHA1: a52fbf54eb496e5a8fd10711d4a4e50dd28d65ff
-SHA256: bd6bcf6f275e69ad2c2ab1197b7e6dcd7903070292a39ab3591d0a97ae477880
+Filename: pool/tur/code-server_4.146.0_x86_64.deb
+Size: 65283648
+MD5sum: a673cb76fcfc4db27ecaede098d0e55f
+SHA1: 62aa467ad2d6fbc47ecd7a9f1c870700cc1ce587
+SHA256: 28c36bfb8821e28d02ec1b6e0b6e36aa96119754690471da0820988e16edee74
 Homepage: https://github.com/coder/code-server
 Description: Run VS Code on any machine anywhere and access it in the browser
 
@@ -1240,6 +1254,20 @@ SHA1: 11265feda769d4ee6520ef7600d191e341b10177
 SHA256: 99cb336172c87ce37bfd7d4bce890c3d0f9830e4997e2ed99a2e14cc279b0d07
 Homepage: https://github.com/tycho-kirchner/fastcompmgr
 Description: A fast compositor for X11
+
+Package: fastloadai
+Version: 1.1.0
+Architecture: x86_64
+Maintainer: @ciao22king
+Installed-Size: 8160
+Depends: llama-cpp
+Filename: pool/tur/fastloadai_1.1.0_x86_64.deb
+Size: 2551824
+MD5sum: 883e0322afd3fbddb5d854cc0d27266c
+SHA1: d43fcaf785b4d06d39600f19ff4e9ae46c745fdf
+SHA256: 9b0b5c737d8dc06a434785f778a4b9281ac9d960bac5f02aa8bc58a54f8068b2
+Homepage: https://github.com/ciao22king/FastLoadAI
+Description: Hardware-aware local GGUF model runner and chat UI
 
 Package: fdpp
 Version: 1.11
