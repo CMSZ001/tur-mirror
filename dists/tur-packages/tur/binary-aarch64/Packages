@@ -894,16 +894,16 @@ Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
 Package: designcraft
-Version: 0.20.1
+Version: 0.21.1
 Architecture: aarch64
 Maintainer: @termux-user-repository
-Installed-Size: 81644
+Installed-Size: 96640
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.20.1_aarch64.deb
-Size: 21250068
-MD5sum: 016912c5ff303cb8fd9ec030d5d091d8
-SHA1: 439452f6aa6d193238fefe2041f0e44215165206
-SHA256: bdfbbed17c97ab3595913caf7e2fdf9ed50f8c8251beebf20a92bee92b0ecd4a
+Filename: pool/tur/designcraft_0.21.1_aarch64.deb
+Size: 24601224
+MD5sum: 3687c5a5ced25b450116eaf67e4642a3
+SHA1: 814d2d3dde629840633566b81c0765d49103ae5a
+SHA256: 4d2100e51655a3d99e9306c95f38f23566a2f9beb6479005a6ad9ff2171d6343
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -1018,16 +1018,16 @@ Homepage: https://ece.uwaterloo.ca/~aplevich/dpic/
 Description: Implementation of the pic little language for creating line drawings and illustrations
 
 Package: dpp
-Version: 10.1.6-1
+Version: 10.1.7
 Architecture: aarch64
 Maintainer: @OrdinaryEnder
-Installed-Size: 8792
+Installed-Size: 8616
 Depends: libc++, libopus, libsodium, openssl, zlib
-Filename: pool/tur/dpp_10.1.6-1_aarch64.deb
-Size: 1410788
-MD5sum: aebc57e7d42b552b586c93b58ca99fbf
-SHA1: e9a9de4f284cccaffece2889ea9f9c2d6083abe4
-SHA256: 4dbd66c49becb0c7e315777ebd8606ba6cb3c77a6a6dc58ba45312b0f7270459
+Filename: pool/tur/dpp_10.1.7_aarch64.deb
+Size: 1425800
+MD5sum: 7007996e0b3bada2dea6d76d2935f71d
+SHA1: 33aff9b84cb6578a7f79d4f0fbee228142e00327
+SHA256: c3fc097cfb2375b7ff00210a5e9295245a3d65f7cbad1b44d29f2ea514e13663
 Homepage: https://dpp.dev
 Description: D++ is a lightweight and simple library for Discord written in modern C++.
 
@@ -1060,16 +1060,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.24.1
+Version: 0.25.1
 Architecture: aarch64
 Maintainer: @termux
-Installed-Size: 86756
+Installed-Size: 94216
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.24.1_aarch64.deb
-Size: 24633992
-MD5sum: fc06649ab0f5faea1a017d39ea996634
-SHA1: 151b2c2c1a2beb16bb40726db4282a3c230061f7
-SHA256: 6d93cf7d3d30a6b2639c129b6c21e836d638b5b0a7643cc7da2adb9ac4dc750d
+Filename: pool/tur/effectcraft_0.25.1_aarch64.deb
+Size: 26831680
+MD5sum: 83ccc3d7057a9b8a934b7c74cd33c2c2
+SHA1: 711ffa1a4fd88bf06ace560c61b8bc73d3bc7a0f
+SHA256: 2de21f76196419db07f6c955cc72a83b0e4248bf62889ec1f486c91fc70aac0a
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -1312,16 +1312,16 @@ Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
 
 Package: ffdec
-Version: 26.4.0-2
+Version: 26.5.0
 Architecture: aarch64
 Maintainer: @CosmyBeyondStars
-Installed-Size: 25544
+Installed-Size: 27012
 Depends: openjdk-21, openjdk-21-x
-Filename: pool/tur/ffdec_26.4.0-2_aarch64.deb
-Size: 20591696
-MD5sum: ea9382c3d522eff8b9e897ee6f23948d
-SHA1: 68e86982045173936d6421b59f8d88d4560985a3
-SHA256: cbe2886005d070e21364f363145fa35ee8ce04c63736d4c284b8bc934e4be5c5
+Filename: pool/tur/ffdec_26.5.0_aarch64.deb
+Size: 22001100
+MD5sum: ace59ed3d722d2e014e024841e3922a7
+SHA1: 84e6c37b3d3bb8b989e9155b583055978124c9f3
+SHA256: 3ddd3655c3b07483c6bce29bb40f49488dbe67e50f769f5ffafde014c2203406
 Homepage: https://github.com/jindrapetrik/jpexs-decompiler
 Description: JPEXS Free Flash Decompiler
 
@@ -1920,6 +1920,19 @@ SHA1: 6244f73420cdb8ba837e72c51a7ae3a9d48e6ff6
 SHA256: a86c9668c07d4135b94371fc39dbc4b1990eb5da98d32c685a9e6f576a546657
 Homepage: https://getartcraft.com/apps/gridcraft
 Description: An open-source, clean-room spreadsheet in pure Rust
+
+Package: gshell
+Version: 2.0.0
+Architecture: aarch64
+Maintainer: @Spectra010s
+Installed-Size: 8508
+Filename: pool/tur/gshell_2.0.0_aarch64.deb
+Size: 2412508
+MD5sum: b86571a8626cc403a7e4009f1497556d
+SHA1: 1b6f6d0519dd4102882f54ff430b90b8ea354076
+SHA256: 43848426d89603d11f5726957554570ed82fd3332e39dd43fbd13d347a8e4bcf
+Homepage: https://github.com/Spectra010s/gshell
+Description: Terminal client for Google Cloud Shell
 
 Package: gtkcord4
 Version: 0.0.4
@@ -4242,16 +4255,16 @@ Homepage: https://github.com/jakcron/nstool
 Description: General purpose read/extract tool for Switch dumps
 
 Package: nub
-Version: 0.11.1
+Version: 0.11.2
 Architecture: aarch64
 Maintainer: Gouranga Das Samrat <gouranga.das.khulna@gmail.com>
-Installed-Size: 40076
+Installed-Size: 40152
 Depends: nodejs | nodejs-lts
-Filename: pool/tur/nub_0.11.1_aarch64.deb
-Size: 9863876
-MD5sum: 18f6d6ec78989b4c91c3f8b1b417b6f4
-SHA1: 7bf80f54b1fb7ba22aaf6ede44717e93dbf7bfe2
-SHA256: 21b3ec8fd2b6515bfa6c5581d9c8b01a660c99815362059862a36004f7715b11
+Filename: pool/tur/nub_0.11.2_aarch64.deb
+Size: 9891356
+MD5sum: fa287ec062ff1ec0aac11d2c9b4881b7
+SHA1: 915c2c0d92f59b16224b9baceea5785d4a3369b6
+SHA256: e33e729f34c2159c126adcc64cbb94bc3a9b566d661a79e0b778a738baf2f26f
 Homepage: https://nubjs.com
 Description: The fast all-in-one Node.js toolkit: TypeScript runner, script runner and package manager on top of stock node
 
@@ -4646,6 +4659,19 @@ SHA1: bf01bb52c313520b324239fa62dadec023b7abe6
 SHA256: 93bbe960a2f9e8330c54529d90088081dfc44680bce5d3dfc6290c07428ffda7
 Homepage: https://www.openssl.org/
 Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+
+Package: opentui
+Version: 0.4.3
+Architecture: aarch64
+Maintainer: ULTRAXAS <contact@ultraxas.com>
+Installed-Size: 3504
+Filename: pool/tur/opentui_0.4.3_aarch64.deb
+Size: 567044
+MD5sum: 5490de320a257ddb2a72c67ec01545c7
+SHA1: e189e8df363332fbf82ac9d2c35c4bf4de57559e
+SHA256: 65444635d016cb6b5c160f607d628f427d01a0867874daf0234b216601751140
+Homepage: https://github.com/anomalyco/opentui
+Description: High-performance terminal user interface library
 
 Package: openvdb-static
 Version: 10.0.1-3
@@ -7216,6 +7242,20 @@ SHA1: ef45bc1a746c82b89bd59cdad68767d7e86f6443
 SHA256: 155c123309b2790f51af78d3e17110d22b33e8688c0277d1b80dc04c88c538ec
 Homepage: https://www.ratrabbit.nl/ratrabbit/software/xpenguins/index.html
 Description: Xpenguins is a vintage application for Unix systems, showing penguins running, flying, falling etc. on the desktop, using windows as run paths.
+
+Package: xro
+Version: 3.0.1
+Architecture: aarch64
+Maintainer: ULTRAXAS <contact@ultraxas.com>
+Installed-Size: 27728
+Depends: bun, opentui
+Filename: pool/tur/xro_3.0.1_aarch64.deb
+Size: 4453296
+MD5sum: 6953da11536bb0fa58179ecb1e863840
+SHA1: 7ebe90834208065ffe0c0dcc9dcdf67d771907ad
+SHA256: f114436dac6f97039f65aa987d4644ad62f88190607d220c4bd46dee4247729a
+Homepage: https://github.com/ULTRAXAS/xro
+Description: Xro 8.6 autonomous AI coding agent CLI by ULTRAXAS
 
 Package: xsv-rs
 Version: 0.13.0

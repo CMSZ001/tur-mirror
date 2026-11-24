@@ -678,16 +678,16 @@ Homepage: https://github.com/SteamRE/DepotDownloader
 Description: Steam depot downloader utilizing the SteamKit2 library
 
 Package: designcraft
-Version: 0.20.1
+Version: 0.21.1
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 94756
+Installed-Size: 114700
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/designcraft_0.20.1_i686.deb
-Size: 26221272
-MD5sum: 32bf89e9b72ba93411775c45c94d41f4
-SHA1: f950a0ae1736c1537468f4392089ea366c67121f
-SHA256: 12e5eae5c6b55da7748696115259b043abc6791def0a26b3d1d94ba12ac0a6d2
+Filename: pool/tur/designcraft_0.21.1_i686.deb
+Size: 30336152
+MD5sum: e3c36f8d8f2f1591a1df2eb363bc290d
+SHA1: 6d8a49265fa7246d012aea6e78a4255556486232
+SHA256: e7f02b627911e3961b13332ad90582fc32c181b5f84fbc38feaee67cab9d3bad
 Homepage: https://getartcraft.com/apps/designcraft
 Description: An open-source, clean-room reimplementation of Adobe InDesign in pure Rust
 
@@ -802,16 +802,16 @@ Homepage: https://ece.uwaterloo.ca/~aplevich/dpic/
 Description: Implementation of the pic little language for creating line drawings and illustrations
 
 Package: dpp
-Version: 10.1.6-1
+Version: 10.1.7
 Architecture: i686
 Maintainer: @OrdinaryEnder
-Installed-Size: 9000
+Installed-Size: 8804
 Depends: libc++, libopus, libsodium, openssl, zlib
-Filename: pool/tur/dpp_10.1.6-1_i686.deb
-Size: 1573596
-MD5sum: 1c3d3e648bc13dc9bc609f8e7b700b40
-SHA1: 05128f580cd108f8d572a44efba8b6f15d744759
-SHA256: 29ad65d96a3a2cdce9ab9479a409b1d7e9baecda91f31774befea4f91636901a
+Filename: pool/tur/dpp_10.1.7_i686.deb
+Size: 1605200
+MD5sum: 650d1a321f6ee263ff15bdd917a61843
+SHA1: 22f21f0d688ffa348674adc156a091128d7e209c
+SHA256: b7aa89cbca852efaea221bd8564998518013b46b816299eff62c2a6dd51453bc
 Homepage: https://dpp.dev
 Description: D++ is a lightweight and simple library for Discord written in modern C++.
 
@@ -844,16 +844,16 @@ Homepage: https://github.com/GitSquared/edex-ui
 Description: A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support
 
 Package: effectcraft
-Version: 0.24.1
+Version: 0.25.1
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 105076
+Installed-Size: 114532
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/effectcraft_0.24.1_i686.deb
-Size: 31287320
-MD5sum: 89158399c6919adbaf8d3034f488784c
-SHA1: 7fc9cc3ecccf9b0865921182aa6340d44a78377c
-SHA256: caa3369cda9f793c9e2ca0ff6faaf2928719405c928380e6a27fb76925093277
+Filename: pool/tur/effectcraft_0.25.1_i686.deb
+Size: 34288328
+MD5sum: d0446c7ced4d9a04890b51a90bc9c18f
+SHA1: 93c717da69383b1130bd00625ff8b428e95117e8
+SHA256: ba595066f15b24c2e80f03ec604730927c8f5ddae8c5cac8fda32339a378d2a2
 Homepage: https://github.com/storytold/effectcraft
 Description: Native open-source motion-graphics and effects editor in pure Rust (eframe/wgpu)
 
@@ -970,16 +970,16 @@ Homepage: https://github.com/bahdotsh/feedr
 Description: A feature-rich terminal-based RSS/Atom feed reader written in Rust
 
 Package: ffdec
-Version: 26.4.0-2
+Version: 26.5.0
 Architecture: i686
 Maintainer: @CosmyBeyondStars
-Installed-Size: 25544
+Installed-Size: 27012
 Depends: openjdk-21, openjdk-21-x
-Filename: pool/tur/ffdec_26.4.0-2_i686.deb
-Size: 20590592
-MD5sum: 66b3577ef3221adac9e6d29482364be4
-SHA1: d9ba70509f117d90b83df37abe0fb2a8b4b361c6
-SHA256: dc4cbbf85524a3bc0730aabad9e039cfa90547ca1c360c00ac4c689e1028e259
+Filename: pool/tur/ffdec_26.5.0_i686.deb
+Size: 22001712
+MD5sum: 0ccd880975a3c7341086912796bfecec
+SHA1: d9e42ccf3fc523b24c4511cc7d490c6341fe8361
+SHA256: bcff1ad0ab4b3625bd1747288a96ff1f315622a7c1ad05ca316a469440709361
 Homepage: https://github.com/jindrapetrik/jpexs-decompiler
 Description: JPEXS Free Flash Decompiler
 
@@ -1578,6 +1578,19 @@ SHA1: f4f9769b3df8f13291d4549f0536b417b34db364
 SHA256: 301a44e19524b9ba8ef8b07e98accb8e28b94ff758af4da4fc683b9e3ece97dc
 Homepage: https://getartcraft.com/apps/gridcraft
 Description: An open-source, clean-room spreadsheet in pure Rust
+
+Package: gshell
+Version: 2.0.0
+Architecture: i686
+Maintainer: @Spectra010s
+Installed-Size: 8604
+Filename: pool/tur/gshell_2.0.0_i686.deb
+Size: 2916596
+MD5sum: fa621bbf164edb5ec29440f047108bb7
+SHA1: 4a75e7cc9a11a600d2885a2518761a4f6cfc54df
+SHA256: 83ac3727731a1f2a7121133cf04e3a2bcd44f5ccf891ac1b36670540ea1389d6
+Homepage: https://github.com/Spectra010s/gshell
+Description: Terminal client for Google Cloud Shell
 
 Package: gtkcord4
 Version: 0.0.4
