@@ -4764,16 +4764,16 @@ Homepage: https://www.pcre.org
 Description: A grep with Perl-compatible regular expressions
 
 Package: pdfcraft
-Version: 0.21.1
+Version: 0.22.0
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 76268
+Installed-Size: 88848
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/pdfcraft_0.21.1_x86_64.deb
-Size: 22881928
-MD5sum: b7b4fc052988a0e499c01decd2c93692
-SHA1: 4f68452074ac953026adf05c080a3f64e208dd21
-SHA256: 4ece35867ea5dfb59b0bef2d3a15618ec3973e0bfda713536c30ce351a57ecbc
+Filename: pool/tur/pdfcraft_0.22.0_x86_64.deb
+Size: 26214900
+MD5sum: b37e9a13e30c2ed688f2bdf3bab83e79
+SHA1: de68018b55f6af7a5b86df4e3398eeff6cf908ef
+SHA256: a3bc63fda90f8ce262e6601896878017a429636ed7552d271042e3cc6118ac0f
 Homepage: https://getartcraft.com/apps/pdfcraft
 Description: PDF reader, editor and toolkit; an open-source clean-room PDF application in pure Rust
 
@@ -6682,15 +6682,15 @@ Homepage: https://tabby.tabbyml.com/
 Description: Self-hosted AI coding assistant
 
 Package: tailcat
-Version: 0.7.0
+Version: 0.8.0
 Architecture: x86_64
 Maintainer: @ancientcatz
-Installed-Size: 19612
-Filename: pool/tur/tailcat_0.7.0_x86_64.deb
-Size: 5360544
-MD5sum: 06184dac6a069934576eaad2df9c11e5
-SHA1: c80725aa573a3da9c2370eb70163ca8df85476e4
-SHA256: bbca24e4418e5fc568702dccbda5150a0ff951f0fa33df90d05fa050e6fb0ec4
+Installed-Size: 20984
+Filename: pool/tur/tailcat_0.8.0_x86_64.deb
+Size: 5693128
+MD5sum: 6e2bc73a5fa2b0f0e47bf66a7e9e892c
+SHA1: 71938b66e5435f2aeea1ee592d63c5128bbba688
+SHA256: 0dc760f6643ef1f560a08a7d8e83116e7c4450991ac628c17b26a5dd384fe14e
 Homepage: https://github.com/tailscale/tailcat
 Description: like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
