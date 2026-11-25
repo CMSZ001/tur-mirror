@@ -4016,15 +4016,15 @@ Homepage: https://github.com/mesamirh/MovieBox-Tui
 Description: Terminal client for streaming movies, series, and anime
 
 Package: mp3rgain
-Version: 3.16.2
+Version: 3.17.0
 Architecture: x86_64
 Maintainer: @M-Igashi
-Installed-Size: 2804
-Filename: pool/tur/mp3rgain_3.16.2_x86_64.deb
-Size: 974324
-MD5sum: 320aa58acf487c6f5ca0543f52b3db6a
-SHA1: 995c2ffbc2297f317fbd3b3d6ffe9201985cdd17
-SHA256: 038d6ae999f80adbfd52450961b43320da91e65d383d7d53adb01731d9dfc23a
+Installed-Size: 2856
+Filename: pool/tur/mp3rgain_3.17.0_x86_64.deb
+Size: 991888
+MD5sum: 5ae843f96c4a5a92f441de1c1b3a07f0
+SHA1: 567061ff3d2b345b2547f14b4952769de8542ff9
+SHA256: f4e0d3c163f1750cd9c0efc77dac362f7dba38178ebebd57464e072e6307c67d
 Homepage: https://github.com/M-Igashi/mp3rgain
 Description: Lossless MP3 and AAC volume normalizer using ReplayGain, compatible with mp3gain
 
@@ -6177,15 +6177,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.3.5
+Version: 0.3.6
 Architecture: x86_64
 Maintainer: @termux-user-repository
-Installed-Size: 21048
-Filename: pool/tur/rumdl_0.3.5_x86_64.deb
-Size: 6280168
-MD5sum: 5ffd5c01c84eb32fdd4d58f19a3d56cd
-SHA1: 633a829ba27ce5a9191fe43bdde330e01ac9eeab
-SHA256: afaca3b0362dfa136159c42ec7b485c0108d94653a6e7ae3401eb64596191a13
+Installed-Size: 21480
+Filename: pool/tur/rumdl_0.3.6_x86_64.deb
+Size: 6413272
+MD5sum: b34cf129456a0145e1cc88e70baf152f
+SHA1: 685af8bbba402beae1b626f55b18c8915b694efb
+SHA256: f48657e8f22b5ff9510720527537327595d4b4b95be6ed6cb8e173c716e8e62b
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
