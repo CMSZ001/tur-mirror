@@ -119,16 +119,16 @@ Homepage: https://github.com/asciinema/agg
 Description: asciinema gif generator
 
 Package: akg
-Version: 0.5.7
+Version: 0.5.9
 Architecture: x86_64
 Maintainer: @lev73748
-Installed-Size: 3476
+Installed-Size: 3520
 Depends: gpgv, termux-keyring
-Filename: pool/tur/akg_0.5.7_x86_64.deb
-Size: 1392368
-MD5sum: 52555554ce6b53b53bad734231d9c835
-SHA1: 95805267b7c95ba054e87fe58e64a8936077f313
-SHA256: 51685907a42c82d3c0ef0f147b6d8bb16b660f3a6c50a982f717cf246f98778f
+Filename: pool/tur/akg_0.5.9_x86_64.deb
+Size: 1401388
+MD5sum: c96fc66fcca9f7b0c0a66cf2dd59c29c
+SHA1: 43814024c65c811fce58e2ee3efb78ca5887a68f
+SHA256: 0ec468beb105a612e8506af2d62299b81b7fd46d64b2e4653d07973496da0e34
 Homepage: https://github.com/lev73748/akg
 Description: Fast package manager for Termux written in Rust
 
@@ -511,16 +511,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: chromium-beta-host-tools
-Version: 159.0.8154.13
+Version: 159.0.8154.33
 Architecture: x86_64
 Maintainer: @licy183
-Installed-Size: 434944
+Installed-Size: 434948
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_159.0.8154.13_x86_64.deb
-Size: 53013132
-MD5sum: 564a9581bd527b4825f4d5c2e1339409
-SHA1: fe35e8d1b77c62b38a3815dac885581cf68cb53a
-SHA256: b6f9f82a31523698cb9bddaab2138f56348e2993594bc5153d9e8f37ab3ce09f
+Filename: pool/tur/chromium-beta-host-tools_159.0.8154.33_x86_64.deb
+Size: 53008836
+MD5sum: 208b2749bc1628eab4db9df4f007fbba
+SHA1: ab07436e146b212262073bb022e71a44b243e97c
+SHA256: e82debc1fe9702bb3db5bfac65d9ef0c67ca6a5c6df460c6aed8e0e66976f733
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
@@ -609,16 +609,16 @@ Homepage: https://llvm.org/
 Description: C language frontend for LLVM
 
 Package: cleanuparr
-Version: 2.11.1
+Version: 2.11.2
 Architecture: x86_64
 Maintainer: @termux
-Installed-Size: 31740
+Installed-Size: 31820
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0, libesqlite3
-Filename: pool/tur/cleanuparr_2.11.1_x86_64.deb
-Size: 9179288
-MD5sum: 75ebf93cc62bafee5a8b6fac61e66f0b
-SHA1: 88012dffcf0487cc5383c5cd3dd25b0054e7f429
-SHA256: 5f9b33be63b41dafff0fe637baf3ead6c7ba7d86692d8d8dccfd96175ea71572
+Filename: pool/tur/cleanuparr_2.11.2_x86_64.deb
+Size: 9181016
+MD5sum: c358efa6abe21127860b93c77e786e9e
+SHA1: 2e292992e1f9850beb329fdadc2bc15c7e247c08
+SHA256: f2c3216b05c890f081505af255791776d45269c8f37e287553ba4b17843a1f23
 Homepage: https://cleanuparr.com
 Description: Queue cleaner and management companion for the *arr suite
 

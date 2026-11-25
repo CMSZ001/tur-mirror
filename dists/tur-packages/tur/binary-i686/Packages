@@ -119,16 +119,16 @@ Homepage: https://github.com/asciinema/agg
 Description: asciinema gif generator
 
 Package: akg
-Version: 0.5.7
+Version: 0.5.9
 Architecture: i686
 Maintainer: @lev73748
-Installed-Size: 3260
+Installed-Size: 3312
 Depends: gpgv, termux-keyring
-Filename: pool/tur/akg_0.5.7_i686.deb
-Size: 1295868
-MD5sum: cade8acda5dd46bd887a5642b7a34e72
-SHA1: 9a7fe435aa198887ae0ee06618fd338a5ba03e45
-SHA256: 21d5361815470d5af06296f8e1ba8c461c1c3c0ef977923ea8a4cccc3d9b5d1d
+Filename: pool/tur/akg_0.5.9_i686.deb
+Size: 1308288
+MD5sum: 4435ca258c5dfadf0be9143bbce84fe3
+SHA1: 8413fe501554cc3c8e00252bb539d0005ead0a98
+SHA256: c10bc046ed632ac0913340c033e867abec71cf0ff3b4f4eecaa09269f3e9c22f
 Homepage: https://github.com/lev73748/akg
 Description: Fast package manager for Termux written in Rust
 
@@ -449,16 +449,16 @@ Homepage: https://llvm.org/
 Description: C language frontend for LLVM
 
 Package: cleanuparr
-Version: 2.11.1
+Version: 2.11.2
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 31616
+Installed-Size: 31692
 Depends: aspnetcore-runtime-10.0, dotnet-host, dotnet-runtime-10.0, libesqlite3
-Filename: pool/tur/cleanuparr_2.11.1_i686.deb
-Size: 9144160
-MD5sum: a82c2cf618f56680947f98dd2e1c9da6
-SHA1: a9c03ff1d4508eabb271ec7f249a5dd63b387a7a
-SHA256: a8bec2335e522b55c430f32ab0cc91c75d2d6a809485e623fa634b0762078b87
+Filename: pool/tur/cleanuparr_2.11.2_i686.deb
+Size: 9153692
+MD5sum: 0eec6e07eed22b35e0ead915074b1ded
+SHA1: 1c6106e23b1dc47385b88c4fd497ecca88a81551
+SHA256: 000fe6f02c2da86ae4374116a4f54d8ddbecf8b3ea56221b4dccd22221693b1e
 Homepage: https://cleanuparr.com
 Description: Queue cleaner and management companion for the *arr suite
 

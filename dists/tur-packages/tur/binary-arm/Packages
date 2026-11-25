@@ -119,16 +119,16 @@ Homepage: https://github.com/asciinema/agg
 Description: asciinema gif generator
 
 Package: akg
-Version: 0.5.7
+Version: 0.5.9
 Architecture: arm
 Maintainer: @lev73748
-Installed-Size: 2064
+Installed-Size: 2092
 Depends: gpgv, termux-keyring
-Filename: pool/tur/akg_0.5.7_arm.deb
-Size: 1073436
-MD5sum: ef98b09aec5751db992b4c1857372a9a
-SHA1: 66cbe2f4d4c88a17c827eb7922c3a76adcfe3e92
-SHA256: a81f04b98ff669f08db524610a4129122c66c4e81513ad1f9b2573d8da04e921
+Filename: pool/tur/akg_0.5.9_arm.deb
+Size: 1081684
+MD5sum: 5ac4fd6886382d0abd0ee3a7dfb6dfee
+SHA1: c315c7601aaebcdd7c52462f74c11e301ad26280
+SHA256: 41e73df77bd3f57a167af39e2cffc6f402494c08d44749b21d37905a96e1ac9f
 Homepage: https://github.com/lev73748/akg
 Description: Fast package manager for Termux written in Rust
 
@@ -393,16 +393,16 @@ Homepage: https://wiki.teamssix.com/cf
 Description: Cloud Exploitation Framework
 
 Package: chromium-beta-host-tools
-Version: 159.0.8154.13
+Version: 159.0.8154.33
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 419052
+Installed-Size: 419048
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta-host-tools_159.0.8154.13_arm.deb
-Size: 57547444
-MD5sum: bce03c98faa0997256fdb7744c145a9a
-SHA1: 9f4e87d941be49a66b9ce7804ddc3333c38782f9
-SHA256: 88d3939a8a009b446ca65cef74fe3b2b523c5566d9546a196b33fd9679d26538
+Filename: pool/tur/chromium-beta-host-tools_159.0.8154.33_arm.deb
+Size: 57556624
+MD5sum: a5ff3439f655d635b2b2082112b596c9
+SHA1: 41a674c42c1df33dc720d8a38b3d6924fbfc7a03
+SHA256: e9bd5d90b2b114e88bc2444b9e976750b449242bd5f4cc2468394d1c332c58b3
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
