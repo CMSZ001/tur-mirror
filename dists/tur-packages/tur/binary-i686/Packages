@@ -650,16 +650,16 @@ Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
 Package: deckcraft
-Version: 0.18.1
+Version: 0.19.1
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 58992
+Installed-Size: 61628
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/deckcraft_0.18.1_i686.deb
-Size: 16512692
-MD5sum: acdba5cd4caeb408beb486476df89a59
-SHA1: 9cc2a49665a3fa1d842405fb4f3364763db9aa76
-SHA256: a0a47296f151132c59ddb429c0ef8517261af34c0948623bb3a9698a395698c7
+Filename: pool/tur/deckcraft_0.19.1_i686.deb
+Size: 17040308
+MD5sum: 5e006df2454c38cc13a19544de9978f0
+SHA1: fe65667e4f5632d618d179203849de49dd9adfb4
+SHA256: fe2b3b136d622a0e8e9d923d6f00d457ff9f10330ae85118607c5d2879f34f51
 Homepage: https://getartcraft.com/apps/deckcraft
 Description: An open-source, clean-room presentation app in pure Rust
 
@@ -5576,6 +5576,19 @@ SHA256: 97ab09a25586065198cad280bd25f714ef2f563d36f5d0eae88fefce2c5d6dd8
 Homepage: https://qqwing.com/
 Description: QQwing is software for generating and solving Sudoku puzzles
 
+Package: qrcode-barcode-scanner
+Version: 0.12.0
+Architecture: i686
+Maintainer: @ThibautMelen
+Installed-Size: 4232
+Filename: pool/tur/qrcode-barcode-scanner_0.12.0_i686.deb
+Size: 1614672
+MD5sum: 8a8e63414be628be33df079a9c9ed00c
+SHA1: 3253c3fb2383642f9277b1518884f11f98c10b4c
+SHA256: f80566c33247f85b517c1d53cd2094d4fc570459b71ee7b696c16018c75d9760
+Homepage: https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust
+Description: Offline QR code and barcode scanner for the command line (qrscan)
+
 Package: qrupdate-ng
 Version: 1:1.1.5-1
 Architecture: i686
@@ -6663,16 +6676,16 @@ Homepage: https://github.com/Winetricks/winetricks
 Description: Work around problems and install applications under Wine
 
 Package: wordcraft
-Version: 0.18.1
+Version: 0.19.1
 Architecture: i686
 Maintainer: @termux
-Installed-Size: 85380
+Installed-Size: 104200
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/wordcraft_0.18.1_i686.deb
-Size: 22645108
-MD5sum: efa992f903aea84d65b7805f019321e0
-SHA1: 296ed157aa3e63dc0bca04413135c0e94895701a
-SHA256: bc95c0f76e09833f735fc8df946c43066cc476a32f725927f9684813e7be6025
+Filename: pool/tur/wordcraft_0.19.1_i686.deb
+Size: 26115008
+MD5sum: 937d96298a0394695d9fa9885eccb3d4
+SHA1: 257381b6b8d5451189c61a062c7f0ea11921f29d
+SHA256: cf5ff9a3af1f8a1babb10328c791840f8a5859adf1321e92799f21a313be1e1f
 Homepage: https://getartcraft.com/apps/wordcraft
 Description: An open-source, clean-room word processor in pure Rust
 

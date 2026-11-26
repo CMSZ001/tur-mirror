@@ -407,16 +407,16 @@ Homepage: https://www.chromium.org/Home
 Description: Chromium web browser (Host tools)
 
 Package: chromium-beta
-Version: 159.0.8154.13
+Version: 159.0.8154.33
 Architecture: arm
 Maintainer: @licy183
-Installed-Size: 1139384
+Installed-Size: 1139404
 Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libevdev, libxkbcommon, libminizip, libnss, libx11, mesa, openssl, pango, pipewire, pulseaudio, zlib
-Filename: pool/tur/chromium-beta_159.0.8154.13_arm.deb
-Size: 216661508
-MD5sum: a0775592df1287aaba2c12e0a0c3f88c
-SHA1: 760bc2fde685733e886eaf6d5d5440aa55204702
-SHA256: 4971b7484d06d37c191f4802b6529e00b36d16a3e711296a7228e311e0a12d1d
+Filename: pool/tur/chromium-beta_159.0.8154.33_arm.deb
+Size: 216643428
+MD5sum: ffb1af316f3f18f08c881b2ed20cc589
+SHA1: a8bb2f3bcbe6070bf72ca77b6ff13586a54042ac
+SHA256: 6d5e017420aa41237303d8a53e98d9e2ef54efd570d071e29bbb2c9016816f25
 Homepage: https://www.chromium.org/Home
 Description: Chromium web browser
 
@@ -692,16 +692,16 @@ Homepage: https://github.com/jeessy2/ddns-go
 Description: A simple, easy-to-use ddns service
 
 Package: deckcraft
-Version: 0.18.1
+Version: 0.19.1
 Architecture: arm
 Maintainer: @termux
-Installed-Size: 35716
+Installed-Size: 37120
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme, alsa-lib, alsa-plugins
-Filename: pool/tur/deckcraft_0.18.1_arm.deb
-Size: 13150408
-MD5sum: 340bab17796f1e0acb483615cdd065e9
-SHA1: aa49c0267010acabab991c16b410e523e9c6a4c9
-SHA256: cda093a021bac615f7b35c73029b0c7bcfce47e9dc6e72a261f9e785f1288c91
+Filename: pool/tur/deckcraft_0.19.1_arm.deb
+Size: 13732368
+MD5sum: bf24ffe3664956e6aa15b3f864c5cbd1
+SHA1: e2fb6a6546a361120fa9ce77ecc91c3a4a49cfe4
+SHA256: 4f345c47ddb91facb7501518e45376c6d1fa3775c21573292739e04c26a851cd
 Homepage: https://getartcraft.com/apps/deckcraft
 Description: An open-source, clean-room presentation app in pure Rust
 
@@ -5738,6 +5738,19 @@ SHA256: 40529be3b53e1641ff07a5ebaa600eab601c606bcce8e9edacf5e8177f156cee
 Homepage: https://qqwing.com/
 Description: QQwing is software for generating and solving Sudoku puzzles
 
+Package: qrcode-barcode-scanner
+Version: 0.12.0
+Architecture: arm
+Maintainer: @ThibautMelen
+Installed-Size: 2708
+Filename: pool/tur/qrcode-barcode-scanner_0.12.0_arm.deb
+Size: 1309972
+MD5sum: ba766f9132332d376b0e0bec8719dc33
+SHA1: 17fb90b98c20d872387a31914c0f3e092129d48a
+SHA256: 6b2ace8ca2388fad0a8cdbda0eab0d2c8bf9f2890bf867ac45802856e109ab66
+Homepage: https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust
+Description: Offline QR code and barcode scanner for the command line (qrscan)
+
 Package: qrupdate-ng
 Version: 1:1.1.5-1
 Architecture: arm
@@ -6873,16 +6886,16 @@ Homepage: https://github.com/Winetricks/winetricks
 Description: Work around problems and install applications under Wine
 
 Package: wordcraft
-Version: 0.18.1
+Version: 0.19.1
 Architecture: arm
 Maintainer: @termux
-Installed-Size: 53004
+Installed-Size: 63660
 Depends: libx11, libxcb, libxcursor, libxi, libxrandr, libxkbcommon, vulkan-loader-android, hicolor-icon-theme
-Filename: pool/tur/wordcraft_0.18.1_arm.deb
-Size: 18527144
-MD5sum: a624d1e12a1bb553d70e6cee165a30b4
-SHA1: 724aaa47bd0008b6009188f7a6f09bf9784d9ffd
-SHA256: b0b6bdb82338b5fa671ee20921ba416a6f6e6d08540a1f2dbb3ff7af70212c2f
+Filename: pool/tur/wordcraft_0.19.1_arm.deb
+Size: 21087772
+MD5sum: a0827d91b374de1644cd8ae823656e63
+SHA1: fa93c588f32f1f1e7c73e8535b42400ca88e9e0e
+SHA256: df57faa9e82c38e33a51cb24a9c63ebfb4b47943f550f11db9831a758266bb35
 Homepage: https://getartcraft.com/apps/wordcraft
 Description: An open-source, clean-room word processor in pure Rust
 
