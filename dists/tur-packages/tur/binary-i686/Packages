@@ -5577,15 +5577,15 @@ Homepage: https://qqwing.com/
 Description: QQwing is software for generating and solving Sudoku puzzles
 
 Package: qrcode-barcode-scanner
-Version: 0.12.0
+Version: 0.12.1
 Architecture: i686
 Maintainer: @ThibautMelen
-Installed-Size: 4232
-Filename: pool/tur/qrcode-barcode-scanner_0.12.0_i686.deb
-Size: 1614672
-MD5sum: 8a8e63414be628be33df079a9c9ed00c
-SHA1: 3253c3fb2383642f9277b1518884f11f98c10b4c
-SHA256: f80566c33247f85b517c1d53cd2094d4fc570459b71ee7b696c16018c75d9760
+Installed-Size: 4316
+Filename: pool/tur/qrcode-barcode-scanner_0.12.1_i686.deb
+Size: 1643448
+MD5sum: 24c3c31f1ce84dfe3110a317a33aaf15
+SHA1: fec04b4ee528af4cc3369e1693c56f565e924afd
+SHA256: 37d30e234f788f17b93c3ff2db4c575fe3299934bfc6d29cedaa03885c6fd084
 Homepage: https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust
 Description: Offline QR code and barcode scanner for the command line (qrscan)
 
@@ -5835,15 +5835,15 @@ Homepage: https://github.com/Linus-Mussmaecher/rucola
 Description: Terminal-based markdown note manager
 
 Package: rumdl
-Version: 0.3.6
+Version: 0.3.7
 Architecture: i686
 Maintainer: @termux-user-repository
-Installed-Size: 22328
-Filename: pool/tur/rumdl_0.3.6_i686.deb
-Size: 7025076
-MD5sum: 4fbaca3efd75b6c39286da4871626237
-SHA1: 3b884f3b1c2c137b8e69fc9baa7f4261f597b223
-SHA256: 07e9df22e97bca5f615b3131954d8939db3740719520d561d7d09c4a6fa6a562
+Installed-Size: 22360
+Filename: pool/tur/rumdl_0.3.7_i686.deb
+Size: 7032240
+MD5sum: 38d64e9557fe98e6cfd4fada12b44ee6
+SHA1: 5d3f7c8a6a45e37611b82c7e9b8ab28af617a898
+SHA256: ccabb6a245ca3dbc1f389035306e643b24ea5f18c2547f3ced025aa26d052f8a
 Homepage: https://github.com/rvben/rumdl
 Description: Markdown Linter and Formatter written in Rust
 
